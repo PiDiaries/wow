@@ -8,7 +8,8 @@
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/players.xml</link>
   <thumbnail></thumbnail>
-  <summary></summary>
+  <summary>The Boston Uprising are the team representing Boston, Massachusetts, USA, in the Overwatch League. The league spot is owned by Robert Kraft, Chairman and CEO of the Kraft Group, owners of the American Football team the New England Patriots and various other American sports teams.
+  </summary>
 </dir>
 
 <plugin>
@@ -16,7 +17,8 @@
   <link>plugin://plugin.video.twitch/?channel_id=178503767&amp;channel_name=bostonuprising&amp;display_name=BostonUprising&amp;mode=channel_videos</link>
   <thumbnail>https://pbs.twimg.com/profile_images/923334241106116608/Kre_M2HB_400x400.jpg</thumbnail>
   <fanart></fanart>
-  <summary></summary>
+  <summary>The Boston Uprising are the team representing Boston, Massachusetts, USA, in the Overwatch League. The league spot is owned by Robert Kraft, Chairman and CEO of the Kraft Group, owners of the American Football team the New England Patriots and various other American sports teams.
+  </summary>
 </plugin>
 
 <plugin>
@@ -24,5 +26,6 @@
   <link>plugin://plugin.video.youtube/channel/UCgLEC0fd5tH0ENrmoMHUINA/</link>
   <thumbnail>https://yt3.ggpht.com/-D3Jxx_TVjwo/AAAAAAAAAAI/AAAAAAAAAAA/l1TJUlt1mqM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <fanart></fanart>
-  <summary></summary>
+  <summary>The Boston Uprising are the team representing Boston, Massachusetts, USA, in the Overwatch League. The league spot is owned by Robert Kraft, Chairman and CEO of the Kraft Group, owners of the American Football team the New England Patriots and various other American sports teams.
+  </summary>
 </plugin>
