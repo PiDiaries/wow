@@ -1,92 +1,28 @@
-################################################################################
-<fanart>https://i.imgur.com/bW3gPXw.png</fanart>
-################################################################################
+##################################################################################
+  <fanart>https://i.imgur.com/OOFnjt1.png</fanart>
+
+##################################################################################
 
 
 <dir>
-  <title>DreamKazper</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/DreamKazper.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QBAODIONXUU31512769819622.png</thumbnail>
-  <fanart></fanart>
-  <summary>Jonathan Sanchez</summary>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/players.xml</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
 </dir>
 
-<dir>
-  <title>Gamsu</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Gamsu.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
+<plugin>
+  <title>Boston Uprising Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=178503767&amp;channel_name=bostonuprising&amp;display_name=BostonUprising&amp;mode=channel_videos</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/923334241106116608/Kre_M2HB_400x400.jpg</thumbnail>
   <fanart></fanart>
-  <summary>YoungJin Noh</summary>
-</dir>
+  <summary></summary>
+</plugin>
 
-
-<dir>
-  <title>Neko</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Neko.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TZ8DWCLINMZS1512769820004.png</thumbnail>
+<plugin>
+  <title>Boston Uprising Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCgLEC0fd5tH0ENrmoMHUINA/</link>
+  <thumbnail>https://yt3.ggpht.com/-D3Jxx_TVjwo/AAAAAAAAAAI/AAAAAAAAAAA/l1TJUlt1mqM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <fanart></fanart>
-  <summary>SeHyun Park</summary>
-</dir>
-
-
-<dir>
-  <title>STRIKER</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/STRIKER.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/F930WFVYVE601512769820260.png</thumbnail>
-  <fanart></fanart>
-  <summary>Namju Gwon</summary>
-</dir>
-
-
-<dir>
-  <title>Mistakes</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Mistakes.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LN1C7SYE7GX81512769819823.png</thumbnail>
-  <fanart></fanart>
-  <summary>Stanislav Danilov</summary>
-</dir>
-
-
-<dir>
-  <title>Snow</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Snow.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D8ZAQFT98UTD1512769820007.png</thumbnail>
-  <fanart></fanart>
-  <summary>Mikias Yohannes</summary>
-</dir>
-
-
-<dir>
-  <title>NotE</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/NotE.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
-  <fanart></fanart>
-  <summary>Lucas Meissner</summary>
-</dir>
-
-
-<dir>
-  <title>Avast</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Avast.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QXCMYNUTGPRL1512769819625.png</thumbnail>
-  <fanart></fanart>
-  <summary>Connor Prince</summary>
-</dir>
-
-
-<dir>
-  <title>Kalios</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Kalios.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DPNHA5GMIH3J1512769819813.png</thumbnail>
-  <fanart></fanart>
-  <summary>WooYul Shin</summary>
-</dir>
-
-
-<dir>
-  <title>Kellex</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising/Kellex.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PS2G0TUUT9Z81512769819827.png</thumbnail>
-  <fanart></fanart>
-  <summary>Kristian Keller</summary>
-</dir>
+  <summary></summary>
+</plugin>
