@@ -1,0 +1,22 @@
+################################################################################
+<fanart>https://i.imgur.com/16beLrm.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PS2G0TUUT9Z81512769819827.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>Kellex Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=76581890&amp;channel_name=keliex&amp;display_name=KelIex&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Kristian "Kellex" Keller is a Danish player currently playing for the Boston Uprising.</summary>
+</plugin>
+
+<!--
+<plugin>
+  <title>Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary>Kristian "Kellex" Keller is a Danish player currently playing for the Boston Uprising.</summary>
+</plugin>
+-->

@@ -1,0 +1,21 @@
+################################################################################
+<fanart>https://i.imgur.com/NtSxEQH.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LN1C7SYE7GX81512769819823.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>Mistakes Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=132369509&amp;channel_name=mistakesow&amp;display_name=MistakesOW&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Stanislav "Mistakes" Danilov a Russian player that plays for the Boston Uprising in the Overwatch League.</summary>
+</plugin>
+
+
+<plugin>
+  <title>Mistakes Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UClbXuPO269VNg8mejUOyoxg/</link>
+  <thumbnail></thumbnail>
+  <summary>Stanislav "Mistakes" Danilov a Russian player that plays for the Boston Uprising in the Overwatch League.</summary>
+</plugin>

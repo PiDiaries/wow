@@ -1,0 +1,21 @@
+################################################################################
+<fanart>https://i.imgur.com/2paxgdw.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D8ZAQFT98UTD1512769820007.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>Snow Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=125494549&amp;channel_name=snow_iwnl&amp;display_name=snow_iwnl&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Mikias "Snow" Yohannes is an Ethiopian player residing in America, currently playing for the Boston Uprising.</summary>
+</plugin>
+
+
+<plugin>
+  <title>Snow Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC1LaU57Jix3lcFzqEpvOvKQ/</link>
+  <thumbnail></thumbnail>
+  <summary>Mikias "Snow" Yohannes is an Ethiopian player residing in America, currently playing for the Boston Uprising.</summary>
+</plugin>

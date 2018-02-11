@@ -1,0 +1,22 @@
+################################################################################
+<fanart>https://i.imgur.com/0uiKZyw.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>NotE Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=63034034&amp;channel_name=notevenbleu&amp;display_name=NotEvenBleu&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Lucas "NotE" Meissner is a Canadian player currently playing for the Boston Uprising.</summary>
+</plugin>
+
+<!--
+<plugin>
+  <title>NotE Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary>Lucas "NotE" Meissner is a Canadian player currently playing for the Boston Uprising.</summary>
+</plugin>
+-->

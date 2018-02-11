@@ -1,0 +1,21 @@
+################################################################################
+<fanart>https://i.imgur.com/WTIehly.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TZ8DWCLINMZS1512769820004.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>Neko Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=144486954&amp;channel_name=nek0_0w&amp;display_name=%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%bc%eb%b3%b8%ec%96%b4%eb%84%a4%ec%bd%94&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Se-hyeon "Neko" Park is a South Korean player currently playing for the Boston Uprising.</summary>
+</plugin>
+
+<!--
+<plugin>
+  <title>Neko Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary>Se-hyeon "Neko" Park is a South Korean player currently playing for the Boston Uprising.</summary>
+</plugin> -->

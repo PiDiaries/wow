@@ -1,0 +1,21 @@
+################################################################################
+<fanart>https://i.imgur.com/OYf25Qq.png</fanart>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
+<summary></summary>
+
+################################################################################
+
+<plugin>
+  <title>Gamsu Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=129958872&amp;channel_name=gamsu8898&amp;display_name=%ea%b0%9c%ea%b0%90%ec%88%98&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Young-jin "Gamsu" Noh is a South Korean player that plays for the Boston Uprising in the Overwatch League.</summary>
+</plugin>
+
+
+<plugin>
+  <title>Gamsu Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCm-hJjIPNkuj9fRbShrP2JA/</link>
+  <thumbnail></thumbnail>
+  <summary>Young-jin "Gamsu" Noh is a South Korean player that plays for the Boston Uprising in the Overwatch League.</summary>
+</plugin>
