@@ -1,0 +1,17 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0XYLZKYB8LO21512770127871.png</thumbnail>
+<fanart>https://i.imgur.com/1Epw17S.png</fanart>
+#################################################################################
+
+<plugin>
+  <title>FLETA Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=146057990&amp;channel_name=fleta92&amp;display_name=fleta92&amp;mode=channel_videos</link>
+    <summary>Byung-sun "Fleta" Kim is a South Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>FLETA Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCDAsL2omMivGL-oTKEJcKxA/</link>
+  <thumbnail>https://yt3.ggpht.com/-d4AB8xtK1KQ/AAAAAAAAAAI/AAAAAAAAAAA/yK3xZJFk7L4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Byung-sun "Fleta" Kim is a South Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+</plugin>

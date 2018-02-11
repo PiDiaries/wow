@@ -1,0 +1,17 @@
+###############################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/IBAIGQXWJM9X1512770128067.png</thumbnail>
+<fanart>https://i.imgur.com/HLYJzaA.png</fanart>
+##################################################################################
+
+<plugin>
+  <title>KuKi Twitch<title>
+    <link>plugin://plugin.video.twitch/?channel_id=136235844&amp;channel_name=ow_kuki&amp;display_name=ow_kuki&amp;mode=channel_videos</link>
+    <summary>Dae-kuk "KuKi" Kim is a South Korean player currently playing for the Seoul Dynasty.</summary>
+</plugin>
+
+<plugin>
+  <title>KuKi Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC2W40OSGoqIVxoaySJ6EHkw/</link>
+  <thumbnail>https://yt3.ggpht.com/-czWOA9GtZdg/AAAAAAAAAAI/AAAAAAAAAAA/7aNzTh9B_SI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Dae-kuk "KuKi" Kim is a South Korean player currently playing for the Seoul Dynasty.</summary>
+</plugin>
