@@ -1,0 +1,23 @@
+################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/925680184082169857/Tp3WCzXd_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/YrYk3Ql.png</fanart>
+
+##################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fusion/players.xml</link>
+  <summary></summary>
+</dir>
+
+<plugin>
+  <title>Philidelphia Fusion Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=177317208&amp;channel_name=phl_fusion&amp;display_name=PHL_Fusion&amp;mode=channel_videos</link>
+  <summary></summary>
+</plugin>
+
+<plugin>
+  <title>Philidelphia Fusion Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCdThq5VFIm4HVZe5WnrIqvQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-eEcPDCPA4dM/AAAAAAAAAAI/AAAAAAAAAAA/ZzhL81No8I8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+</plugin>

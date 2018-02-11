@@ -1,0 +1,18 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/FIEF1OGE25C91515702582688.png</thumbnail>
+<fanart>https://i.imgur.com/tkiguRU.png</fanart>
+<summary>Alberto "neptuNo" González is a Spanish player recently playing for Movistar Riders and stand-in Cloud9 EU, currently playing for the Philadelphia Fusion.</summary>
+#################################################################################
+
+<plugin>
+  <title>neptuNo Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=44003728&amp;channel_name=neptunoow&amp;display_name=neptuNoOw&amp;mode=channel_videos</link>
+  <summary>Alberto "neptuNo" González is a Spanish player recently playing for Movistar Riders and stand-in Cloud9 EU, currently playing for the Philadelphia Fusion.</summary>
+</plugin>
+
+<plugin>
+  <title>neptuNo Youtube</title>
+  <link>plugin://plugin.video/youtube/channel/UCaoAwAqvdxZbp1rH5JEgwqw/</link>
+  <thumbnail>https://yt3.ggpht.com/-9OT_XOGVhPQ/AAAAAAAAAAI/AAAAAAAAAAA/VzATT3YkG1Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Alberto "neptuNo" González is a Spanish player recently playing for Movistar Riders and stand-in Cloud9 EU, currently playing for the Philadelphia Fusion.</summary>
+</plugin>

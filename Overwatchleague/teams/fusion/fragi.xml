@@ -1,0 +1,12 @@
+#################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Q1UDN2ME09O31515702582682.png</thumbnail>
+<fanart>https://i.imgur.com/PEvZO1Q.png</fanart>
+###################################################################################
+
+<plugin>
+  <title>Fragi Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=37210499&amp;channel_name=fragiow&amp;display_name=fragiOW&amp;mode=channel_videos</link>
+    <summary>Joona "Fragi" Laine is a Finnish player.
+
+He played Dota 2 at high level and was also a member of the well known guild named Paragon in World of Warcraft. In Overwatch, he formerly played with Team Gigantti and currently plays on Philadelphia Fusion.</summary>
+</plugin>

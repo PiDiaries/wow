@@ -1,0 +1,11 @@
+################################################################################
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/fIDgsdN.png</fanart>
+<summary>Simon "snillo" Ekström is a Swedish player currently playing for the Philadelphia Fusion.</summary>
+################################################################################
+
+<plugin>
+  <title>snillo Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=128376403&amp;channel_name=snillo_ow&amp;display_name=snillo_ow&amp;mode=channel_videos</link>
+  <summary>Simon "snillo" Ekström is a Swedish player currently playing for the Philadelphia Fusion.</summary>
+</plugin>
