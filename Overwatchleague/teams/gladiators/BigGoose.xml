@@ -1,0 +1,16 @@
+####################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1OSV4XRC5PTK1512769977242.png</thumbnail>
+<fanart>https://i.imgur.com/nvCO2Gu.png</fanart>
+<summary>Benjamin "BigGoose" Isohanni is a Finnish player currently playing for the Los Angeles Gladiators.
+
+</summary>
+################################################################################################
+
+
+<plugin>
+  <title>BigGoose Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=41703896&amp;channel_name=biggooseow&amp;display_name=biggooseow&amp;mode=channel_videos</link>
+  <summary>Benjamin "BigGoose" Isohanni is a Finnish player currently playing for the Los Angeles Gladiators.
+
+  </summary>
+</plugin>

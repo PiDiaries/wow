@@ -1,0 +1,23 @@
+###################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/950519297134096384/4QN0kbzC_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
+###################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/players.xml</link>
+  <summary></summary>
+</dir>
+
+
+<plugin>
+  <title>Los Angeles Gladiators Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=176284305&amp;channel_name=lagladiators&amp;display_name=LAGladiators&amp;mode=channel_videos</link>
+  <summary></summary>
+</plugin>
+
+<plugin>
+  <title>Los Angeles Gladiators Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCmrw0M9fGg-lB2SS_kBpHsw/</link>
+  <thumbnail>https://yt3.ggpht.com/-hWRg6yjYM94/AAAAAAAAAAI/AAAAAAAAAAA/UZSFQDbaqgM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+</plugin>

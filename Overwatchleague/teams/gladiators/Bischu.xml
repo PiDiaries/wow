@@ -1,0 +1,24 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/02EPNXS6PRM71512769977245.png</thumbnail>
+<fanart>https://i.imgur.com/eHxdURP.png</fanart>
+<summary>Hyung-seok "Bischu" "Aaron" Kim is a South Korean player residing in Canada, currently playing for the Los Angeles Gladiators.
+
+He is also a former League of Legends player.</summary>
+###########################################################################################
+
+<plugin>
+  <title>Bischu Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=35671232&amp;channel_name=bischulol&amp;display_name=Bischulol&amp;mode=channel_videos</link>
+  <summary>Hyung-seok "Bischu" "Aaron" Kim is a South Korean player residing in Canada, currently playing for the Los Angeles Gladiators.
+
+He is also a former League of Legends player.</summary>
+</plugin>
+
+<plugin>
+  <title>Bischu Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCSPPV0K7KFZtA7QfOEyzWYw/</link>
+  <thumbnail>https://yt3.ggpht.com/-ETF5E_B0EEw/AAAAAAAAAAI/AAAAAAAAAAA/P9QmMd7xpYo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Hyung-seok "Bischu" "Aaron" Kim is a South Korean player residing in Canada, currently playing for the Los Angeles Gladiators.
+
+  He is also a former League of Legends player.</summary>
+</plugin>
