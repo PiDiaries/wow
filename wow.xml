@@ -9,3 +9,12 @@
   <fanart></fanart>
   <summary></summary>
 </item>
+
+
+<dir>
+  <title>Overwatch League</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>
+  <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
+  <summary>For everything to do with the Competition</summary>
+</dir>
