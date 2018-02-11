@@ -1,0 +1,17 @@
+#################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BBANQ2BHFL0Y1512686065493.png</thumbnail>
+<fanart>https://i.imgur.com/0MajIHm.png</fanart>
+################################################################################
+
+<plugin>
+  <title>PINE Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=62597620&amp;channel_name=tf2pine&amp;display_name=tf2PINE&amp;mode=channel_videos<link>
+    <summary>Do-hyeon "Pine" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+</plugin>
+
+<plugin>
+  <title>Pine Youtube<title>
+    <link>plugin://plugin.video.youtube/channel/UC0nhCDjyWZ-LZ9Ww0DqpAuA/</link>
+    <thumbnail>https://yt3.ggpht.com/-Re3FsFXB8-w/AAAAAAAAAAI/AAAAAAAAAAA/lKtxqJxiL3g/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>Do-hyeon "Pine" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+</plugin>

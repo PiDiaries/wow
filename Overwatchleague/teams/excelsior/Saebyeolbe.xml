@@ -1,0 +1,17 @@
+###############################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U38D6YQ3CHOO1512686065514.png</thumbnail>
+<fanart>https://i.imgur.com/qqzF5ww.png</fanart>
+#################################################################################
+
+<plugin>
+  <title>Saebyeolbe Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=140197662&amp;channel_name=saebyeolbe&amp;display_name=saebyeolbe&amp;mode=channel_videos</link>
+    <summary>Jong-yeol "Saebyeolbe" Park is a South Korean player currently playing for The New York Excelsior.</summary>
+</plugin>
+
+<plugin>
+  <title>Saebyeolbe Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCMoL0JkY2LpsaT9cUqTwokA/<link>
+    <thumbnail>https://yt3.ggpht.com/-xhGb1IACZfA/AAAAAAAAAAI/AAAAAAAAAAA/vSlvc4uam1s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>Jong-yeol "Saebyeolbe" Park is a South Korean player currently playing for The New York Excelsior.</summary>
+</plugin>

@@ -1,0 +1,32 @@
+################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/924971039679041536/SFSBmQPb_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/cQVIOlT.png</fanart>
+################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/excelsior/players.xml</link>
+  <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
+
+The word Excelsior is a Latin word that translates to Ever Upward. The team name is often shortened to NYXL.
+</summary>
+</dir>
+
+<plugin>
+  <title>New York Excelsior Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=175562420&amp;channel_name=nyxl&amp;display_name=NYXL&amp;mode=channel_videos</link>
+  <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
+
+The word Excelsior is a Latin word that translates to Ever Upward. The team name is often shortened to NYXL.</summary>
+</plugin>
+
+
+<plugin>
+  <title>New York Excelsior Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCVb-J9ey1KL31tMh5kjTJkw/</link>
+  <thumbnail>https://yt3.ggpht.com/-LVnL1PV_FcA/AAAAAAAAAAI/AAAAAAAAAAA/OJdbkKmst2Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
+
+The word Excelsior is a Latin word that translates to Ever Upward. The team name is often shortened to NYXL.
+</summary>
+</title>

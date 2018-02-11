@@ -1,0 +1,18 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V1YNOWR1LEWJ1512686065135.png</thumbnail>
+<fanart>https://i.imgur.com/TFHqcp1.png</fanart>
+
+##################################################################################
+
+<plugin>
+  <title>Mano Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=169109715&amp;channel_name=manoowl&amp;display_name=manoowl&amp;mode=channel_videos</link>
+  <summary>Dong-gyu "Mano" Kim is a South Korean player currently playing for the New York Excelsior.</summary>
+</plugin>
+
+</plugin>
+<title>Mano Youtube</title>
+<link>plugin://plugin.video.youtube/channel/UCfPbOtDxYxPtctXii7hSE-A/</link>
+<thumbnail>https://yt3.ggpht.com/-YdZOVf0Etps/AAAAAAAAAAI/AAAAAAAAAAA/a2eXWFOHgNU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<summary>Dong-gyu "Mano" Kim is a South Korean player currently playing for the New York Excelsior.</summary>
+</plugin>
