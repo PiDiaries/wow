@@ -1,0 +1,27 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/J3ZGE7V0A88P1512685113545.png</thumbnail>
+<fanart>https://i.imgur.com/blg3A10.png</fanart>
+
+
+################################################################################
+
+<plugin>
+  <title>Taimou Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=54581600&amp;channel_name=taimoutv&amp;display_name=taimoutv&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Timo "Taimou" Kettunen is a Finnish player currently playing for the Dallas Fuel.
+
+He is primarily a hitscan player known for his aggressive Widowmaker and McCree play.
+</summary>
+</plugin>
+
+
+<plugin>
+  <title>Taimou Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC8jnvzv_KW1ChKtdQYZUeAw/</link>
+  <thumbnail>https://yt3.ggpht.com/-hdDOHzTvKDg/AAAAAAAAAAI/AAAAAAAAAAA/dtjUEEzwaLo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Timo "Taimou" Kettunen is a Finnish player currently playing for the Dallas Fuel.
+
+He is primarily a hitscan player known for his aggressive Widowmaker and McCree play.
+</summary>
+</plugin>

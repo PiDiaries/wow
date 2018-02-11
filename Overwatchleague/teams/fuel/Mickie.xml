@@ -1,0 +1,22 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
+<fanart>https://i.imgur.com/4nGVTl1.png</fanart>
+
+################################################################################
+
+<plugin>
+  <title>Mickie Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=141713412&amp;channel_name=mickiepp&amp;display_name=MickiePP&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Pongphop "Mickie" Rattanasangchod is a Thai player currently playing for The Dallas Fuel. He comes from a competitive Point Blank background and is known for competing in Point Blank International Championship 2015.
+  </summary>
+</plugin>
+
+
+<plugin>
+  <title>Mickie Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCusG1UpXusPTEbZMFILLGVg/</link>
+  <thumbnail>https://yt3.ggpht.com/-bAfVeb2IyVQ/AAAAAAAAAAI/AAAAAAAAAAA/qYPMWNrwVCw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Pongphop "Mickie" Rattanasangchod is a Thai player currently playing for The Dallas Fuel. He comes from a competitive Point Blank background and is known for competing in Point Blank International Championship 2015.
+  </summary>
+</plugin>

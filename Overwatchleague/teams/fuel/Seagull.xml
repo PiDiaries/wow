@@ -1,0 +1,25 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/9OBOEB2LXGOP1512685113530.png</thumbnail>
+<fanart>https://i.imgur.com/9SAuthG.png</fanart>
+################################################################################
+
+<plugin>
+  <title>Seagull Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_videos</link>
+  <thumbnail></plugin></thumbnail>
+  <summary>Brandon "Seagull" Larned is an American player currently playing for The Dallas Fuel.
+
+He was a professional Team Fortress 2 player, having most notably played for Classic Mixup. He was most famously known for his role as a Roaming Soldier.
+</summary>
+</plugin>
+
+
+<plugin>
+  <title>Seagull Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCaFnEJ5tWlK0TO5PWHqr8Hw/</link>
+  <thumbnail></thumbnail>
+  <summary>Brandon "Seagull" Larned is an American player currently playing for The Dallas Fuel.
+
+He was a professional Team Fortress 2 player, having most notably played for Classic Mixup. He was most famously known for his role as a Roaming Soldier.
+</summary>
+</plugin>

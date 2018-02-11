@@ -1,0 +1,21 @@
+################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NSLR4T063K361512685112947.png</thumbnail>
+<fanart>https://i.imgur.com/i9WMhOw.png</fanart>
+
+################################################################################
+
+<plugin>
+  <title>Chipshajen Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=31735052&amp;channel_name=chipshajen&amp;display_name=chipshajen&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>Sebastian "chipshajen" Widlund is a Swedish player currently playing for The Dallas Fuel.</summary>
+</plugin>
+
+<!--
+<plugin>
+  <title>Chipshajen Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary>Sebastian "chipshajen" Widlund is a Swedish player currently playing for The Dallas Fuel.</summary>
+</plugin>
+-->
