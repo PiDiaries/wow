@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YUQL4VLXE7PX1512777247831.png</thumbnail>
+<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+<summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Super Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=59635827&amp;channel_name=supertf&amp;display_name=supertf&amp;mode=channel_videos</link>
+  <summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>

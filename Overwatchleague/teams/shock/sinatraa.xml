@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GAH625QTQPGC1512777247784.png</thumbnail>
+<fanart>https://i.imgur.com/6ovfmv0.png</fanart>
+<summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>sinatraa Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=138094916&amp;channel_name=sinatraa&amp;display_name=sinatraa&amp;mode=channel_videos</link>
+  <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>sinatraa Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCABUGfcFJhffRFZxSl-mIiw/</link>
+  <thumbnail>https://yt3.ggpht.com/-X0ykh8SPhOc/AAAAAAAAAAI/AAAAAAAAAAA/wYbuRaa0qDk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>

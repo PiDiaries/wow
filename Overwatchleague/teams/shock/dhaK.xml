@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png</thumbnail>
+<fanart>https://i.imgur.com/wjess9e.png</fanart>
+<summary>Daniel "dhaK" Martínez is a Spanish player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>dhaK Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=9485277&amp;channel_name=dhak&amp;display_name=dhaK&amp;mode=channel_videos</link>
+  <summary>Daniel "dhaK" Martínez is a Spanish player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>dhaK Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCHhdLPGK82wQthPaanUt-AQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-joOJ9mfwyDU/AAAAAAAAAAI/AAAAAAAAAAA/GHfjfFWRdqc/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Daniel "dhaK" Martínez is a Spanish player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>

@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png</thumbnail>
+<fanart>https://i.imgur.com/6ovfmv0.png</fanart>
+<summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Danteh Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=52914282&amp;channel_name=danteh&amp;display_name=Danteh&amp;mode=channel_videos</link>
+  <summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>Danteh Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCytLAmmJOlRDD2VRR2OBtJQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-Xwl17pyWw0Q/AAAAAAAAAAI/AAAAAAAAAAA/7O28jSCuJNg/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>

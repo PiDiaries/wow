@@ -1,0 +1,14 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
+<fanart>https://i.imgur.com/IUYFkm4.png</fanart>
+<summary>Seung-tae "Bdosin" Choi is a South Korean player currently playing for the London Spitfire.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Bdosin Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=163860353&amp;channel_name=bdosin_ow&amp;display_name=%ec%bd%a9%eb%91%90%eb%8f%84%ec%8b%a0&amp;mode=channel_videos</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
+  <fanart>https://i.imgur.com/IUYFkm4.png</fanart>
+  <summary>Seung-tae "Bdosin" Choi is a South Korean player currently playing for the London Spitfire.</summary>
+</plugin>

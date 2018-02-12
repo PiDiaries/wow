@@ -1,0 +1,15 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
+<fanart>https://i.imgur.com/Mle5t7n.png</fanart>
+<summary>Won-sik "Closer" Jung is a South Korean player playing for the London Spitfire.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Closer Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=138973451&amp;channel_name=closerow&amp;display_name=%ea%bf%80%eb%a1%9c%ec%a0%80&amp;mode=channel_videos</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
+  <fanart>https://i.imgur.com/Mle5t7n.png</fanart>
+  <summary>Won-sik "Closer" Jung is a South Korean player playing for the London Spitfire.</summary>
+
+</plugin>

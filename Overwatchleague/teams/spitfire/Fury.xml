@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
+<fanart>https://i.imgur.com/CYYuES5.png</fanart>
+<summary>Jun-ho "Fury" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Fury Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=131542111&amp;channel_name=furyy_d&amp;display_name=%ed%93%a8%eb%a6%ac99&amp;mode=channel_videos</link>
+  <summary>Jun-ho "Fury" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</plugin>

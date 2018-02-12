@@ -1,0 +1,18 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png</thumbnail>
+<fanart>https://i.imgur.com/svudzEp.png</fanart>
+<summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+###########################################################################################
+
+<plugin>
+  <title>BABYBAY Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=142728478&amp;channel_name=a_babybay&amp;display_name=a_babybay&amp;mode=channel_videos</link>
+  <summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>BABYBAY Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCwrqnFptuGTUL5u71XxfcHw/</link>
+  <thumbnail>https://yt3.ggpht.com/-kSc4a-FgVAI/AAAAAAAAAAI/AAAAAAAAAAA/FducRWmvWAo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</plugin>

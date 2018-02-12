@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/56GKIKO2Q0E41512616495373.png</thumbnail>
+<fanart>https://i.imgur.com/i4Omm4Y.png</fanart>
+<summary>Lucas "Mendokusaii" Håkansson is a Swedish player currently playing for the Houston Outlaws.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Mendokusaii Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=57717183&amp;channel_name=mendokusaii&amp;display_name=mendokusaii&amp;mode=channel_videos</link>
+  <summary>Lucas "Mendokusaii" Håkansson is a Swedish player currently playing for the Houston Outlaws.</summary>
+</plugin>

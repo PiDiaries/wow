@@ -1,0 +1,13 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D5446VCUXNMX1512616495110.png</thumbnail>
+<fanart>https://i.imgur.com/a4pZfRx.png</fanart>
+<summary>Jiri "LiNkzr" Masalin is a Finnish player currently playing for the Houston Outlaws.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>LiNkzr Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCu9-RMsiZ8-GGkP8nsIIvjw/</link>
+  <thumbnail>https://yt3.ggpht.com/-riPJ3WcBTcA/AAAAAAAAAAI/AAAAAAAAAAA/TRchx8vvB0w/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Jiri "LiNkzr" Masalin is a Finnish player currently playing for the Houston Outlaws.</summary>
+</plugin>

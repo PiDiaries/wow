@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMORW78G5YSJ1512776037577.png</thumbnail>
+<fanart>https://i.imgur.com/NrZ7vqU.png</fanart>
+<summary>Jong-seok "NUS" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>NUS Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=129550511&amp;channel_name=asdzxcl2&amp;display_name=%eb%84%88%ec%8a%a4&amp;mode=channel_videos</link>
+  <summary>Jong-seok "NUS" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</plugin>

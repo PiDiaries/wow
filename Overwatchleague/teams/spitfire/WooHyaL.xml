@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/9J5YW9MTH58G1512776037751.png</thumbnail>
+<fanart>https://i.imgur.com/CYYuES5.png</fanart>
+<summary>Seung-hyun "WooHyaL" Sung is a South Korean player currently playing for the London Spitfire.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>WooHyaL Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=140804873&amp;channel_name=woohyal_ow&amp;display_name=woohyal_ow&amp;mode=channel_videos</link>
+  <summary>Seung-hyun "WooHyaL" Sung is a South Korean player currently playing for the London Spitfire.</summary>
+</plugin>

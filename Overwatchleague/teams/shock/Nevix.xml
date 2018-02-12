@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png</thumbnail>
+<fanart>https://i.imgur.com/PZYsvSw.png</fanart>
+<summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Nevix Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=100336273&amp;channel_name=nevixow&amp;display_name=NevixOW&amp;mode=channel_videos</link>
+  <summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
+</plugin>

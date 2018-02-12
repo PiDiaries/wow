@@ -1,0 +1,11 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YIFKW875KSEP1512616495363.png</thumbnail>
+<fanart>https://i.imgur.com/6gxbKNz.png</fanart>
+<summary>Austin "Muma" Wilmot is an American player currently playing for the Houston Outlaws.</summary>
+###########################################################################################
+
+<plugin>
+  <title>Muma Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=96447492&amp;channel_name=muma&amp;display_name=Muma&amp;mode=channel_videos</link>
+  <summary>Austin "Muma" Wilmot is an American player currently playing for the Houston Outlaws.</summary>
+</plugin>
