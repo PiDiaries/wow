@@ -1,0 +1,11 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
+<fanart>https://i.imgur.com/5fX0uKV.png</fanart>
+<summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
+###########################################################################################
+
+<plugin>
+  <title>Logix Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=26508156&amp;channel_name=logixow&amp;display_name=logixow&amp;mode=channel_videos</link>
+  <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
+</plugin>

@@ -1,0 +1,19 @@
+###################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/926128968964517888/DdPyMj27_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/j0QG5Hw.png</fanart>
+###################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/players.xml</link>
+  <summary>The Florida Mayhem is the team representing the state of Florida, USA, and the Cities of Miami and Orlando, in the Overwatch League. The league spot is owned by Ben Spoont, CEO and Co-Founder of Misfits.</summary>
+</dir>
+
+
+
+<plugin>
+  <title>Florida Mayhem Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCsISkzM1u-24hWEm_3O1yoA/</link>
+  <thumbnail>https://yt3.ggpht.com/-hWRg6yjYM94/AAAAAAAAAAI/AAAAAAAAAAA/UZSFQDbaqgM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>The Florida Mayhem is the team representing the state of Florida, USA, and the Cities of Miami and Orlando, in the Overwatch League. The league spot is owned by Ben Spoont, CEO and Co-Founder of Misfits.</summary>
+</plugin>

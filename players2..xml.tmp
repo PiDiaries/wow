@@ -1,0 +1,18 @@
+##########################################################################################
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+###########################################################################################
+
+<plugin>
+  <title> Twitch</title>
+  <link></link>
+  <summary></summary>
+</plugin>
+
+<plugin>
+  <title> Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin>
