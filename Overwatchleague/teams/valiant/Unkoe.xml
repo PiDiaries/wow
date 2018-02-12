@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
+<fanart>https://i.imgur.com/zs9Oh8m.png</fanart>
+<summary>Benjamin "uNKOE" Chevasson is a French player that recently played for Rogue. He is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>uNKOE Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=50447542&amp;channel_name=unkoeee&amp;display_name=uNKOEEE&amp;mode=channel_videos</link>
+  <summary>Benjamin "uNKOE" Chevasson is a French player that recently played for Rogue. He is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</plugin>

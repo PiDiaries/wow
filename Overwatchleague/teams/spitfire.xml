@@ -1,0 +1,18 @@
+###################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/926832820667813890/uiaYjGFA_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/O0we6eU.png</fanart>
+###################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/spitfire/players.xml</link>
+  <summary>London Spitfire is the team representing London, United Kingdom, in the Overwatch League. The team is owned by Jack Etienne, Founder and CEO of Cloud9.</summary>
+</dir>
+
+
+<plugin>
+  <title>London Spitfire Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCSb5AC1CeljsYoBJH4qW1gQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-w76NJJbAQvY/AAAAAAAAAAI/AAAAAAAAAAA/Xd7hcd88u6w/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>London Spitfire is the team representing London, United Kingdom, in the Overwatch League. The team is owned by Jack Etienne, Founder and CEO of Cloud9.</summary>
+</plugin>

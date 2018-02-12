@@ -1,0 +1,25 @@
+###################################################################################
+<thumbnail></thumbnail>
+<fanart></fanart>
+###################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams//players.xml</link>
+  <summary></summary>
+</dir>
+
+<plugin>
+  <title> Twitch</title>
+  <link></link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin>
+
+
+<plugin>
+  <title> Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin>

@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png</thumbnail>
+<fanart>https://i.imgur.com/9QRdRoK.png</fanart>
+<summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Numlocked Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=8725477&amp;channel_name=numlocked&amp;display_name=numlocked&amp;mode=channel_videos</link>
+  <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
+</plugin>
+
+<plugin>
+  <title>Numlocked Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC1zbZQE6o3PaP38HP9UA9Cg/</link>
+  <thumbnail>https://yt3.ggpht.com/--xRfzDPS4pI/AAAAAAAAAAI/AAAAAAAAAAA/1JlMasdGLwU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
+</plugin>

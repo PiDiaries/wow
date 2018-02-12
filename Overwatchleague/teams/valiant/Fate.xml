@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png</thumbnail>
+<fanart>https://i.imgur.com/9QRdRoK.png</fanart>
+<summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Fate Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=138037386&amp;channel_name=fate_ow&amp;display_name=%eb%a7%88%ec%9d%b4%ed%8b%b0%ed%8e%98%ec%9d%b4%ed%8a%b8&amp;mode=channel_videos</link>
+  <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
+</plugin>

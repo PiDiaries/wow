@@ -1,0 +1,12 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
+<fanart>https://i.imgur.com/rO1QqEl.png</fanart>
+<summary>Indy "SPACE" Halpern is an American player currently playing for the Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>SPACE Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=147953635&amp;channel_name=space_ow&amp;display_name=space_ow&amp;mode=channel_videos</link>
+  <summary>Indy "SPACE" Halpern is an American player currently playing for the Los Angeles Valiant.</summary>
+</plugin>

@@ -1,0 +1,27 @@
+###################################################################################
+<thumbnail>https://pbs.twimg.com/profile_images/948321320806174725/Iw8apDJl_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/YIfLwCE.png</fanart>
+<summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
+
+###################################################################################
+
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/players.xml</link>
+  <summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
+</dir>
+
+<plugin>
+  <title>Los Angeles Valiant Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=177174746&amp;channel_name=lavaliant&amp;display_name=LAValiant&amp;mode=channel_videos</link>
+  <thumbnail></thumbnail>
+  <summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
+</plugin>
+
+
+<plugin>
+  <title>Los Angeles Valiant Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCYH1uEM9EBVP6ddxa5gsvGw/</link>
+  <thumbnail>https://yt3.ggpht.com/-id2fZ5FQnYg/AAAAAAAAAAI/AAAAAAAAAAA/rnLNjOlYHBs/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
+</plugin>

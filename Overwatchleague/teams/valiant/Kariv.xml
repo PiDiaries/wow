@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png</thumbnail>
+<fanart>https://i.imgur.com/bUJYBuV.png</fanart>
+<summary>Young-seo "KariV" Park is a South Korean player currently playing for the Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>KariV Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=135122504&amp;channel_name=kariv2&amp;display_name=%ec%b9%b4%eb%a6%ac%eb%b8%8c2&amp;mode=channel_videos</link>
+  <summary>Young-seo "KariV" Park is a South Korean player currently playing for the Los Angeles Valiant.</summary>
+</plugin>
+
+<plugin>
+  <title>KariV Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCLQ7jk8CPpWGp6Cdc365btA/</link>
+  <thumbnail>https://yt3.ggpht.com/-2nN4nhwfElQ/AAAAAAAAAAI/AAAAAAAAAAA/tTF3G9f3rMk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Young-seo "KariV" Park is a South Korean player currently playing for the Los Angeles Valiant.</summary>
+kariv2</plugin>

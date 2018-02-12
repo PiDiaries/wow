@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png</thumbnail>
+<fanart>https://i.imgur.com/b0SrsCI.png</fanart>
+<summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>SoOn Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=72915687&amp;channel_name=soonsm&amp;display_name=SoOnSM&amp;mode=channel_videos</link>
+  <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</plugin>
+
+<plugin>
+  <title>SoOn Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCvot3hng5y7wROA11Ga_cCw/</link>
+  <thumbnail>https://yt3.ggpht.com/-QkCYK3dyEs4/AAAAAAAAAAI/AAAAAAAAAAA/ahhEo0_UKPA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</plugin>

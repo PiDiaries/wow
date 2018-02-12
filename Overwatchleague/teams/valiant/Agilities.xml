@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png</thumbnail>
+<fanart>https://i.imgur.com/80E1m6y.png</fanart>
+<summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Agilities Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=126162810&amp;channel_name=agilities&amp;display_name=agilities&amp;mode=channel_videos</link>
+  <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
+</plugin>
+
+<plugin>
+  <title>Agilities Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
+</plugin>

@@ -1,0 +1,19 @@
+##########################################################################################
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png</thumbnail>
+<fanart>https://i.imgur.com/AIZIkdV.png</fanart>
+<summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
+
+###########################################################################################
+
+<plugin>
+  <title>Verbo Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=141190296&amp;channel_name=verboow&amp;display_name=VerboOW&amp;mode=channel_videos</link>
+  <summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
+</plugin>
+
+<plugin>
+  <title>Verbo Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCZwg0nrKdugRv6x5lavwiBQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-rDezxUAEsy0/AAAAAAAAAAI/AAAAAAAAAAA/OIKH3D2jtOM/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
+</plugin>
