@@ -7,7 +7,7 @@
 
 <plugin>
   <title>SoOn Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=72915687&amp;channel_name=soonsm&amp;display_name=SoOnSM&amp;content=live</link>
+  <link>plugin://plugin.video.twitch/?channel_id=72915687&amp;channel_name=soonsm&amp;display_name=SoOnSM&amp;mode=channel_videos</link>
   <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
 </plugin>
 
