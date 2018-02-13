@@ -18,3 +18,11 @@
   <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
   <summary>For all the Team information</summary>
 </dir>
+
+<plugin>
+  <title>Major League Gaming</title>
+  <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/<link>
+    <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
+    </summary>
+  </plugin>
