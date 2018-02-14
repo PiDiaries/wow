@@ -18,3 +18,10 @@
   <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
   <summary>For everything to do with the Competition</summary>
 </dir>
+
+<plugin>
+  <title>Developer Updates</title>
+  <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
+  <thumbnail>https://i.pinimg.com/736x/3b/22/c7/3b22c7d16ba11f8b420994b14c8c54c2--overwatch-preorder-overwatch-widowmaker.jpg</thumbnail>
+  <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
+</plugin>
