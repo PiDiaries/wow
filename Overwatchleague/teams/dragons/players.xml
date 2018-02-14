@@ -1,6 +1,16 @@
 ################################################################################
 
 ################################################################################
+<dir>
+  <title>Geguri</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons/Geguri.xml</link>>
+  <thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
+  <fanart>https://i.imgur.com/UVM9izU.png</fanart>
+  <summary>Kim "Geguri" Se-yeon is a South Korean player, currently playing for the Shanghai Dragons.
+
+She gained recognition in the scene after being accused of using an aim bot to play her signature Zarya in competitive play. She later showed her accusers through the use of a hand camera in a controlled setting, that she was not cheating. Geguri's accusers said they would quit playing if was not hacking. When it was proven she was not hacking, the accusers quit their team and the professional Overwatch scene entirely.[1]
+</summary>
+</dir>
 
 <dir>
   <title>Freefeel</title>
@@ -71,4 +81,31 @@
   <thumbnail>http://liquipedia.net/commons/images/d/d0/Diya_Vici_Gaming_OWPS_Summer_2017.png</thumbnail>
   <fanart>https://i.imgur.com/8QRMAxG.png</fanart>
   <summary>Weida "Diya" Lu is a Chinese player currently playing for the Shanghai Dragons.</summary>
+</dir>
+
+
+
+
+
+
+<dir>
+  <title>Sky</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons/Sky.xml</link>
+  <thumbnail>http://liquipedia.net/commons/images/thumb/6/62/MY_zhufanjun_in_OWPS_2017_Spring.jpg/900px-MY_zhufanjun_in_OWPS_2017_Spring.jpg</thumbnail>
+  <fanart>https://i.imgur.com/j8T1IAJ.png</fanart>
+  <summary>He "Sky" Junjian is a Chinese player currently playing for the Shanghai Dragons.</summary>
+</dir>
+<dir>
+  <title>Fearless</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons/Fearless.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/959277198031990784/q56RwAVo_400x400.jpg</thumbnail>
+  <fanart>https://i.imgur.com/fpvwRtd.png</fanart>
+  <summary>Eui-Seok "Fearless" Lee is a Korean player currently playing for the Shanghai Dragons.</summary>
+</dir>
+<dir>
+  <title>Ado</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons/Ado.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/959277198031990784/q56RwAVo_400x400.jpg</thumbnail>
+  <fanart>https://i.imgur.com/mVFREhd.png</fanart>
+  <summary>Ki-hyun "Ado" Cheon is a Korean player currently playing for the Shanghai Dragons.</summary>
 </dir>
