@@ -22,6 +22,14 @@
 <plugin>
   <title>Developer Updates</title>
   <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
-  <thumbnail>https://i.pinimg.com/736x/3b/22/c7/3b22c7d16ba11f8b420994b14c8c54c2--overwatch-preorder-overwatch-widowmaker.jpg</thumbnail>
+  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
   <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
+</plugin>
+
+
+<plugin>
+  <title>Animated shorts</title>
+  <link>pluging://plugin.video.youtube/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
+  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+  <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
