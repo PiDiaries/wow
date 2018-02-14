@@ -28,8 +28,8 @@
 
 
 <plugin>
-  <title>Animated shorts</title>
-  <link>pluging://plugin.video.youtube/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
+  <title>Animated Shorts</title>
+  <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
   <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
