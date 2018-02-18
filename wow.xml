@@ -33,3 +33,10 @@
   <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
+
+<plugin>
+  <title>Unit Lost - Great British Gaming </title>
+  <link>plugin://plugin.video.youtube/user/unitlosttube/playlists/</title>
+  <thumbnail>https://yt3.ggpht.com/-iQlp6VIqX8A/AAAAAAAAAAI/AAAAAAAAAAA/iGsL8xUg9To/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Unit Lost GREAT BRITISH GAMING! Overwatch is my thing! Daily videos!</summary>
+</plugin>
