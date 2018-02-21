@@ -40,7 +40,7 @@
 
 <plugin>
   <title>Overwatch Central </title>
-  <link>plugin://plugin.video.youtube/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists</link>
+  <link>plugin://plugin.video.youtube/channel/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists/</link>
   <thumbnail>https://yt3.ggpht.com/-NciZzMBdVq0/AAAAAAAAAAI/AAAAAAAAAAA/qpPtUDmRYSw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Overwatch Central is a channel revolving around the game Overwatch by Blizzard Entertainment. We produce guides, analyses, gameplay montages and other videos regarding Overwatch. Welcome to Overwatch Central.
 
@@ -49,7 +49,7 @@ Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 
 <plugin>
   <title>PlayOverwatch </title>
-  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists</link>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists/</link>
   <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
   </summary>
 </plugin>
