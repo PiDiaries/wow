@@ -26,6 +26,12 @@
   <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
 </plugin>
 
+<dir>
+  <title>Hero Guides</title>
+  <link></link>
+  <thumbnail></thumbnail>
+</dir>
+
 
 <plugin>
   <title>Animated Shorts</title>
@@ -35,22 +41,25 @@
 </plugin>
 
 <plugin>
-  <title>Unit Lost - Overwatch Guides</title>
-  <link>plugin://plugin.video.youtube/playlist/PLZVkseJlphu-wEkIyBsCvpSWaZ73TbSny/</link>
-  <thumbnail>https://yt3.ggpht.com/-iQlp6VIqX8A/AAAAAAAAAAI/AAAAAAAAAAA/iGsL8xUg9To/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Unit Lost GREAT BRITISH GAMING! Overwatch is my thing! Daily videos!</summary>
+  <title>Overwatch Central </title>
+  <link>plugin://plugin.video.youtube/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists</link>
+  <thumbnail>https://yt3.ggpht.com/-NciZzMBdVq0/AAAAAAAAAAI/AAAAAAAAAAA/qpPtUDmRYSw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Overwatch Central is a channel revolving around the game Overwatch by Blizzard Entertainment. We produce guides, analyses, gameplay montages and other videos regarding Overwatch. Welcome to Overwatch Central.
+
+Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 </plugin>
 
 <plugin>
-  <title>Unit Lost - Overwatch Pro Gameplay and Guides</title>
-  <link>plugin://plugin.video.youtube/playlist/PLZVkseJlphu9asPobMOX2cZ_ZcO2r3sui/</link>
-  <thumbnail>https://yt3.ggpht.com/-iQlp6VIqX8A/AAAAAAAAAAI/AAAAAAAAAAA/iGsL8xUg9To/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Unit Lost GREAT BRITISH GAMING! Overwatch is my thing! Daily videos!</summary>
+  <title>PlayOverwatch </title>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists</link>
+  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
+  </summary>
 </plugin>
 
 <plugin>
-  <title>Unit Lost - Overwatch Hero Guides</title>
-  <link>plugin://plugin.video.youtube/playlist/PLZVkseJlphu-g76IDcatw12i0lWLkDjR3/</link>
-  <thumbnail>https://yt3.ggpht.com/-iQlp6VIqX8A/AAAAAAAAAAI/AAAAAAAAAAA/iGsL8xUg9To/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Unit Lost GREAT BRITISH GAMING! Overwatch is my thing! Daily videos!</summary>
+  <title>Your Overwatch</link>
+  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists</link>
+  <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
 </plugin>
