@@ -26,3 +26,9 @@
     <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
     </summary>
   </plugin>
+
+<dir>
+  <title>Hero Guides and Play examples</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/heroes.xml</link>
+  <thumbnail></thumbnail>
+</dir>
