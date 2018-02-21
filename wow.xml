@@ -22,7 +22,6 @@
 <plugin>
   <title>Developer Updates</title>
   <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
-  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
   <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
 </plugin>
 
@@ -36,7 +35,6 @@
 <plugin>
   <title>Animated Shorts</title>
   <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
-  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
 
@@ -52,13 +50,12 @@ Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 <plugin>
   <title>PlayOverwatch </title>
   <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists</link>
-  <thumbnail>https://yt3.ggpht.com/-M2-DH_DN-Qs/AAAAAAAAAAI/AAAAAAAAAAA/kczw_wtvMOI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
   </summary>
 </plugin>
 
 <plugin>
-  <title>Your Overwatch</link>
+  <title>Your Overwatch</title>
   <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists</link>
   <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>

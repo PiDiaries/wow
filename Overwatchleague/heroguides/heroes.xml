@@ -1,12 +1,32 @@
+###################################################################################
+<dir>
+  <title></title>
+  <link></link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+<summary></summary>
+</dir>
 
+################################################################################
 
 <dir>
   <title>Ana</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ana.xml</link>
-  <thumbnail>https://vignette.wikia.nocookie.net/overwatch-game/images/4/47/Ana_graffiti_ana.png</thumbnail>
+  <thumbnail>https://vignette.wikia.nocookie.net/overwatch/images/f/fd/Ana_portrait.png</thumbnail>
   <fanart>http://assets1.ignimgs.com/thumbs/neon/2016/07/12/f5595d47b8b0f498c6dc20018d5bbafd-1468375207/neon_0001_1280w.jpg</fanart>
 <summary>Ana is one of the heroes in Overwatch. She is a former army sniper who has recently come out of hiding and rejoined the battle in order to protect her loved ones.
 
 Ana’s versatile arsenal allows her to affect heroes all over the battlefield. Her Biotic Rifle rounds and Biotic Grenades heal allies and damage or impair enemies; her sidearm tranquilizes key targets, and Nano Boost gives one of her comrades a considerable increase in power.
+</summary>
+</dir>
+
+<dir>
+  <title>Bastion</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ana.xml</link>
+  <thumbnail>https://vignette.wikia.nocookie.net/overwatch/images/6/6a/Bastion_portrait.png</thumbnail>
+  <fanart>http://7wallpapers.net/wp-content/uploads/7_Overwatch-Bastion.jpg</fanart>
+<summary>Bastion is one of the heroes in Overwatch. It is an omnic wanderer formerly built to be a war combatant, who is now travelling to satisfy its curiosity about nature and leave its horrifying past behind.
+
+Repair protocols and the ability to transform between stationary Sentry, mobile Recon and devastating Tank configurations provide Bastion with a high probability of victory.
 </summary>
 </dir>
