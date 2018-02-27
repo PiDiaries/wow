@@ -1,5 +1,5 @@
 ################################################################################
-
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 ################################################################################
 
 <dir>
@@ -77,4 +77,13 @@ He is mostly known for his great tracking and hitscan abilities, making him a ve
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3LZO7TZS1N9M1512616495074.png</thumbnail>
   <fanart>https://i.imgur.com/byWgzns.png</fanart>
   <summary>Matt "coolmatt" Iorio is an American player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<dir>
+  <title>FCTFCTN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/outlaws/FCTFCTN.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/6gxbKNz.png</fanart>
+  <summary>Russell "FCTFCTN" Campbell is an American player currently playing for Houston Outlaws.</summary>
 </dir>

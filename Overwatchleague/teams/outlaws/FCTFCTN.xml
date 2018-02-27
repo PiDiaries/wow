@@ -1,0 +1,10 @@
+##########################################################################################
+<fanart>https://i.imgur.com/6gxbKNz.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
+###########################################################################################
+
+<plugin>
+  <title>FCTFCTN Twitch</title>
+  <link>plugin://plugin.video.twitch/?channel_id=107667412&amp;channel_name=factfiction&amp;display_name=factfiction&amp;mode=channel_videos</link>
+  <summary>Russell "FCTFCTN" Campbell is an American player currently playing for Houston Outlaws.</summary>
+</plugin>
