@@ -10,14 +10,7 @@
   <summary>Christian "cocco" Jonsson is a Swedish player currently playing for The Dallas Fuel.</summary>
 </dir>
 
-<dir>
-  <title>Custa</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fuel/Custa.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
-  <fanart>https://i.imgur.com/4LPxTXL.png</fanart>
-  <summary>Scott "Custa" Kennedy is an Australian player who previously played for Arc 6 and Fnatic, and is now playing for the Dallas Fuel in the Overwatch League.
-  </summary>
-</dir>
+
 
 <dir>
   <title>Taimou</title>
@@ -97,4 +90,20 @@ He was a professional Team Fortress 2 player, having most notably played for Cla
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
   <fanart>https://i.imgur.com/y0Qt99B.png</fanart>
   <summary>Dong-jun "Rascal" Kim is a South Korean player currently playing for Dallas Fuel but was once part of London Spitfire.</summary>
+</dir>
+<dir>
+  <title>Unkoe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fuel/Unkoe.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
+  <fanart>https://i.imgur.com/i9WMhOw.png</fanart>
+  <summary>Benjamin "uNKOE" Chevasson is a French player that recently played for Rogue. He is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>OGE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/oge.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/U748UWp.png</fanart>
+  <summary>Min-seok "OGE" Son is a South Korean player currently playing for the Dallas Fuel.</summary>
 </dir>

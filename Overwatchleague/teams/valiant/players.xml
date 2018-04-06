@@ -12,13 +12,7 @@
   <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
   <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
 </dir>
-<dir>
-  <title>Unkoe</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Unkoe.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
-  <fanart>https://i.imgur.com/zs9Oh8m.png</fanart>
-  <summary>Benjamin "uNKOE" Chevasson is a French player that recently played for Rogue. He is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
-</dir>
+
 <dir>
   <title>Verbo</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Verbo.xml</link>
@@ -48,7 +42,7 @@
   <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
 </dir>
 <dir>
-  <title>Envy</title>
+  <title>Envy [COLORred]Left[/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Envy.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
   <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
@@ -64,7 +58,7 @@
 
 
 <dir>
-  <title>Grimreality</title>
+  <title>Grimreality [COLORred]Now coach[/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Grimreality.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png</thumbnail>
   <fanart>https://i.imgur.com/uidemLD.png</fanart>
@@ -78,9 +72,18 @@
   <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
 </dir>
 <dir>
-  <title>Silkthread</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Silkthread.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WZ8MLSBXCD6E1512776701242.png</thumbnail>
-  <fanart>https://i.imgur.com/80E1m6y.png</fanart>
-  <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
+  <title>Custa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Custa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
+  <fanart>https://i.imgur.com/4LPxTXL.png</fanart>
+  <summary>Scott "Custa" Kennedy is an Australian player who previously played for Arc 6 and Fnatic, and is now playing for the Dallas Fuel in the Overwatch League.
+  </summary>
+</dir>
+
+<dir>
+  <title>Bunny</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant/Bunny.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/8VVBZ6TJQZL41512770127850.png</thumbnail>
+  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
+  <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
 </dir>

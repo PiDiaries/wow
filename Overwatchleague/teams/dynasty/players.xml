@@ -4,15 +4,6 @@
 ################################################################################
 
 <dir>
-  <title>Bunny</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dynasty/Bunny.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/8VVBZ6TJQZL41512770127850.png</thumbnail>
-  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
-  <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
-</dir>
-
-
-<dir>
   <title>XepheR</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dynasty/XepheR.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LYMK8TUOQSWN1512770128515.png</thumbnail>
@@ -106,4 +97,12 @@ He is known for his exemplary Winston play, serving as the highest standard of p
 He is widely known for extraordinary playmaking abilities and accuracy, as well as for his wide hero pool. Ryujehong is regarded as one of the best Support players in the Professional scene, most famously for his Ana play.
 Also, he was a D.Va and Zarya player when dean was in Lunatic-Hai. Both players rotate between the roles of Support and Tank (Zarya-D.Va). Jehong is an Ex member of one of the best amateur CS 1.6 clans ElusioN Cell. he was later drafted onto Lunatic Hai in 2008, as he began to make his transition to Net Marvel's First person shooter;
 </summary>
+</dir>
+
+<dir>
+  <title>Gambler</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dynasty/Gambler.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/rDCNwVN.png</fanart>
+  <summary>Heo "Gambler" Jin-woo is a South Korean player currently playing for Seoul Dynasty.</summary>
 </dir>
