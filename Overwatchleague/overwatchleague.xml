@@ -14,7 +14,7 @@
 
 <plugin>
   <title>Overwatch League Live [COLORred]TEST[/COLOR]  Only when League is on. </title>
-  <link>plugin://plugin.video.twitch/?channel_id=137512364&amp;mode=play</link>
+  <link>plugin://plugin.video.twitch/?channel_id=137512364&amp;channel_name=overwatchleague&amp;display_name=OverwatchLeague&amp;mode=play</link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
   <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
   <summary>[COLORred]Test of Live Overwatch League stream[/COLOR]</summary>
