@@ -1,0 +1,24 @@
+#################################################################################################################################################################
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WAG4FT2YDWC1518726218799.jpg</thumbnail>
+  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+
+#################################################################################################################################################################
+
+
+
+
+<plugin>
+  <title>Overwatch Contenders Twitch (Needs Twitch Add-On)</title>
+  <link>plugin://plugin.video.twitch/?channel_id=156567621&amp;channel_name=overwatchcontenders&amp;display_name=OverwatchContenders&amp;mode=channel_videos</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WAG4FT2YDWC1518726218799.jpg</thumbnail>
+  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+  <summary>VOD of the Overwatch Contenders League</summary>
+</plugin>
+
+<plugin>
+  <title>Overwatch Contenders Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q</link>
+  <thumbnail>https://yt3.ggpht.com/-AHqshNRWylY/AAAAAAAAAAI/AAAAAAAAAAA/cAZSwP3Y5PA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</plugin>

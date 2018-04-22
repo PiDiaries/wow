@@ -24,6 +24,18 @@
   <summary>For everything to do with the Competition</summary>
 </dir>
 
+
+
+
+<dir>
+  <title>Overwatch Contenders</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/contenders.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WAG4FT2YDWC1518726218799.jpg</thumbnail>
+  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+  <summary>Gateway to the Feeder League of Overwatch</summary>
+</dir>
+
+
 <plugin>
   <title>Developer Updates</title>
   <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
