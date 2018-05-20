@@ -12,6 +12,13 @@
 </plugin>
 
 
+<plugin>
+<title>League Highlights</title>
+<link>plugin://plugin.video.youtube/playlist/PLj-VnmM9Xut0iEceZ5JlhSdRLn3nFYa1_/</link>
+<fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
+</plugin>
+
+
 <dir>
   <title>Overwatch League Teams</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/teams.xml</link>
