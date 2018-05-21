@@ -8,11 +8,19 @@
 
 
 <plugin>
+  <title>Overwatch League Live Twitch [COLORred]ONLY WHEN LEAGUE IS LIVE[/COLOR]</title>
+  <link>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&mode=play</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6_400x400.jpg</thumbnail>
+  <fanart></fanart>
+  <summary>Live Overwatch League Stream.  Don't forget to setup the Twitch Add-On if you want your OWL Skin Credits. </summary>
+</plugin>
+
+<plugin>
   <title>[COLORorange][B]W[COLORwhite]atch [COLORorange]O[COLORwhite]ver[COLORorange]w[COLORwhite]atch[/B][/COLOR]</title>
   <link>plugin://plugin.video.twitch/?game=Overwatch&amp;mode=game_streams</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/312EjBsxqzL.png</thumbnail>
   <fanart></fanart>
-  <summary>Live Overwatch streams on Twitch</summary>
+  <summary>Live Overwatch streams on Twitch from whoever is streaming at any given time. </summary>
 </plugin>
 
 
