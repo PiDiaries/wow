@@ -12,3 +12,12 @@
   <fanart>https://i.imgur.com/xh9ukc9.png</fanart>
   <summary>Jae-hee "Gesture" Hong is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>
+
+
+<plugin>
+  <title>Q&A with Gesture </title>
+  <link>plugin://plugin.video.twitch/?video_id=v263595927&amp;mode=play</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
+  <fanart>https://i.imgur.com/xh9ukc9.png</fanart>
+  <summary>Q&A with Gesture</summary>
+</plugin>
