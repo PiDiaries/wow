@@ -69,7 +69,7 @@ He is also a former League of Legends player.</summary>
 <dir>
   <title>Fissure</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/Fissure.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/FNRQOSO9NVAD1512776037020.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/9VI2CD4PUER91519254438519.png</thumbnail>
   <fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
   <summary>Chan-hyung "Fissure" Baek is a South Korean player currently playing for the Los Angeles Gladiators after a spell in London Spitfire.
 
@@ -82,4 +82,12 @@ He is also a former League of Legends player.</summary>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WZ8MLSBXCD6E1512776701242.png</thumbnail>
   <fanart>https://i.imgur.com/80E1m6y.png</fanart>
   <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>Void</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/void.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/uHfZGom.png</fanart>
+  <summary>Jun-woo "Void" Kang is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
 </dir>
