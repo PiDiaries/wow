@@ -13,3 +13,12 @@
   <summary>Won-sik "Closer" Jung is a South Korean player playing for the London Spitfire.</summary>
 
 </plugin>
+
+
+<plugin>
+  <title>Q&A with Closer </title>
+  <link>plugin://plugin.video.twitch/?use_player=True&video_id=v269057652&mode=play</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
+  <fanart>https://i.imgur.com/Mle5t7n.png</fanart>
+  <summary>Q&A with Closer</summary>
+</plugin>
