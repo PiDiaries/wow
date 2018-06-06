@@ -1,21 +1,13 @@
 ################################################################################
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
-<item>
-  <title>Overwatch - New Symmetra Rework! ALL NEW ABILITIES!  | [COLORred]PTR 5th June 2018[/COLOR]</title>
-  <link>https://youtu.be/khexvy-y_TQ</link>
+<dir>
+  <title>NEWS!!</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/news.xml</link>
   <thumbnail></thumbnail>
-  <summary>The new Symmetra rework is now live on the Overwatch PTR! She's actually INSANE!!!!!!
+  <summary>Latest Updates
   </summary>
-</item>
-
-<item>
-  <title>Overwatch News - ROLE SELECT! HUGE SOCIAL UPDATE! Endorsements and Looking for Group!| [COLORred]PTR 5th June 2018[/COLOR]</title>
-  <link>https://youtu.be/KtRjAIr6fxw</link>
-  <thumbnail></thumbnail>
-  <summary>MASSIVE OVERWATCH SOCIAL UPDATE! Role select! Looking for group! Find a group! Endorsement system! Dev update 
-  </summary>
-</item>
+</dir>
 
 
 <plugin>
