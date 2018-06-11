@@ -10,3 +10,20 @@
   <link>plugin://plugin.video.twitch/?channel_id=154784259&amp;channel_name=profitow&amp;display_name=%ec%81%98%eb%a1%9c%ed%95%8f&amp;mode=channel_videos</link>
   <summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>
+
+
+<plugin>
+  <title>Q&A with Profit</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271759842&mode=play (Part 1)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271765078&mode=play (Part 2</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271768672&mode=play (Part 3)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=271772464&mode=play (Part 4)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271774283&mode=play (Part 5) </sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271775077&mode=play Part 6)</sublink>
+
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
+<fanart>https://i.imgur.com/LjLai5x.png</fanart>
+  <summary>Q&A with Profit</summary>
+</plugin>
