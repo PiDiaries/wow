@@ -2,12 +2,14 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
-<item>
-  <title>Playoffs: Here We Come</title>
-  <link>https://www.youtube.com/watch/S-3g22a1vaY</link>
-  <thumbnail>https://yt3.ggpht.com/-mYhqkWSUk_o/AAAAAAAAAAI/AAAAAAAAAAA/9sKrCTQfk7Y/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary> </summary>
-</item>
+<plugin>
+  <title>[COLORred]Overwatch World Cup[/COLOR]</title>
+  <link>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play </link>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/80/Overwatch_World_Cup_2017_Logo.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</plugin>
+
 
 <plugin>
   <title>Overwatch League Live Twitch [COLORred]ONLY WHEN LEAGUE IS LIVE[/COLOR]</title>
