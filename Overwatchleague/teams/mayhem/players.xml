@@ -4,42 +4,42 @@
 
 <dir>
   <title>Manneten</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/Manneten.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Manneten.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YZNUNFMFABFG1512685744491.png</thumbnail>
   <fanart>https://i.imgur.com/BHkQPyN.png</fanart>
   <summary>Tim "Manneten" Bylund is a Swedish player currently playing for the Florida Mayhem.</summary>
 </dir>
 <dir>
   <title>Zebbosai</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/Zebbosai.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zebbosai.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
   <fanart>https://i.imgur.com/iSQAvIC.png</fanart>
   <summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
 </dir>
 <dir>
   <title>TviQ</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/TviQ.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/TviQ.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/L76ZWRFRYTN21512685744749.png</thumbnail>
   <fanart>https://i.imgur.com/dXG90Xd.png</fanart>
   <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
 </dir>
 <dir>
   <title>Logix</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/Logix.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Logix.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
   <fanart>https://i.imgur.com/5fX0uKV.png</fanart>
   <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
 </dir>
 <dir>
   <title>CWoosH</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/CWoosH.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/CWoosH.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/RPHC99GZV5YT1512685744459.png</thumbnail>
   <fanart>https://i.imgur.com/JNniDJx.png</fanart>
   <summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
 </dir>
 <dir>
   <title>Zuppeh</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/Zuppeh.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zuppeh.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
   <fanart>https://i.imgur.com/j0QG5Hw.png</fanart>
   <summary>Aleksi "Zuppeh" Kuntsi is a Finnish player currently playing for the Florida Mayhem.</summary>
@@ -48,7 +48,7 @@
 
 <dir>
   <title>zappis</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem/zappis.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/zappis.xml</link>
   <thumbnail>http://liquipedia.net/commons/images/1/14/NiPzappis.png</thumbnail>
   <fanart>https://i.imgur.com/WiLavMI.png</fanart>
   <summary>Joonas "zappis" Alakurtti is a Finnish player that plays for the Florida Mayhem of the Overwatch League.

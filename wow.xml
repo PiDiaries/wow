@@ -93,3 +93,11 @@ Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
   <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
 </plugin>
+
+<dir>
+  <title>Streamers and Channels</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/channels.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
