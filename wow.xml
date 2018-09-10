@@ -11,17 +11,16 @@
 </plugin>
 
 
-<plugin>
-  <title>Overwatch League Live Twitch [COLORred]ONLY WHEN LEAGUE IS LIVE[/COLOR]</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&mode=play (English)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188863650&mode=play (French)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188864445&mode=play (Korean)</sublink>
-  </link>
-  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6_400x400.jpg</thumbnail>
-  <fanart></fanart>
-  <summary>Live Overwatch League Stream.  Don't forget to setup the Twitch Add-On if you want your OWL Skin Credits. </summary>
-</plugin>
+<dir>
+  <title>Overwatch eSports</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>
+  <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
+  <summary>For everything to do with the Competition</summary>
+</dir>
+
+
+
 
 <plugin>
   <title>[COLORorange][B]W[COLORwhite]atch [COLORorange]O[COLORwhite]ver[COLORorange]w[COLORwhite]atch[/B][/COLOR]</title>
@@ -32,23 +31,12 @@
 </plugin>
 
 
-<dir>
-  <title>Overwatch League</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>
-  <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
-  <summary>For everything to do with the Competition</summary>
-</dir>
-
-
 
 
 <dir>
-  <title>Overwatch Contenders</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/contenders.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WAG4FT2YDWC1518726218799.jpg</thumbnail>
-  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-  <summary>Gateway to the Feeder League of Overwatch</summary>
+  <title>Hero Guides</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/heroes.xml</link>
+  <thumbnail></thumbnail>
 </dir>
 
 
@@ -58,11 +46,6 @@
   <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
 </plugin>
 
-<dir>
-  <title>Hero Guides</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/heroes.xml</link>
-  <thumbnail></thumbnail>
-</dir>
 
 
 <plugin>
