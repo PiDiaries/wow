@@ -17,14 +17,14 @@ Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 
 <plugin>
   <title>Your Overwatch</title>
-  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists</link>
+  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists/</link>
   <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
 </plugin>
 
 
 
-<plugin>
+<item>
   <title>Jayne - Overwatch Coaching</title>
   <link>
   <sublink>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/ (Youtube) </sublink>
@@ -39,7 +39,7 @@ I am a former flight instructor and digital educator who has always just played 
 I will be streaming full-time starting in May 2018.
 
 I am hyper competitive, passionate, and always seeking to improve myself - and if you want to learn the game or hone your skills, then I want to help you achieve those goals.</summary>
-  </plugin>
+  </item>
 
 
 <plugin>
