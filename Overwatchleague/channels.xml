@@ -1,7 +1,27 @@
 
 <plugin>
+<title>xQc</title>
+<link>
+<sublink>plugin://plugin.video.twitch/?channel_id=71092938&amp;channel_name=xqcow&amp;display_name=xQcOW&amp;mode=channel_videos VOD</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play Live Link</sublink>
+</link>
+<summary>My name is Félix and i'm 22 years old.
+I live in Laval, Qc Canada
+I play Overwatch, former main tank for Dallas Fuel
+I'm 6'2 120 lbs
+-I like streaming
+</summary>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/xqcow-profile_image-9298dca608632101-300x300.jpeg</thumbnail>
+</plugin>
+
+
+<plugin>
   <title>Jayne - Overwatch Coaching</title>
-  <link>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/<link>
+  <link>
+  <sublink>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/ Youtube </sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&mode=play Live Link</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=101068316&amp;channel_name=jayne&amp;display_name=Jayne&amp;mode=channel_videos VOD<sublink>
+  <link>
     <thumbnail>https://yt3.ggpht.com/-VR1V1juIgSw/AAAAAAAAAAI/AAAAAAAAAAA/JPgcOkyJ32Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
     <summary>I'm 25 years old, living in Alberta, Canada.
 
