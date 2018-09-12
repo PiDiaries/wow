@@ -1,26 +1,35 @@
 
 <plugin>
-<title>xQc</title>
-<link>
-<sublink>plugin://plugin.video.twitch/?channel_id=71092938&amp;channel_name=xqcow&amp;display_name=xQcOW&amp;mode=channel_videos VOD</sublink>
-<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play Live Link</sublink>
-</link>
-<summary>My name is Félix and i'm 22 years old.
-I live in Laval, Qc Canada
-I play Overwatch, former main tank for Dallas Fuel
-I'm 6'2 120 lbs
--I like streaming
-</summary>
-<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/xqcow-profile_image-9298dca608632101-300x300.jpeg</thumbnail>
+  <title>Overwatch Central </title>
+  <link>plugin://plugin.video.youtube/channel/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists/</link>
+  <thumbnail>https://yt3.ggpht.com/-NciZzMBdVq0/AAAAAAAAAAI/AAAAAAAAAAA/qpPtUDmRYSw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Overwatch Central is a channel revolving around the game Overwatch by Blizzard Entertainment. We produce guides, analyses, gameplay montages and other videos regarding Overwatch. Welcome to Overwatch Central.
+
+Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 </plugin>
+
+<plugin>
+  <title>PlayOverwatch </title>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists/</link>
+  <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
+  </summary>
+</plugin>
+
+<plugin>
+  <title>Your Overwatch</title>
+  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists</link>
+  <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
+</plugin>
+
 
 
 <plugin>
   <title>Jayne - Overwatch Coaching</title>
   <link>
-  <sublink>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/ Youtube </sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&mode=play Live Link</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=101068316&amp;channel_name=jayne&amp;display_name=Jayne&amp;mode=channel_videos VOD<sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/ (Youtube) </sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=101068316&amp;channel_name=jayne&amp;display_name=Jayne&amp;mode=channel_videos (VOD)<sublink>
   <link>
     <thumbnail>https://yt3.ggpht.com/-VR1V1juIgSw/AAAAAAAAAAI/AAAAAAAAAAA/JPgcOkyJ32Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
     <summary>I'm 25 years old, living in Alberta, Canada.
@@ -47,3 +56,17 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
   </plugin>
 
 
+<plugin>
+<title>xQc</title>
+<link>
+<sublink>plugin://plugin.video.twitch/?channel_id=71092938&amp;channel_name=xqcow&amp;display_name=xQcOW&amp;mode=channel_videos (VOD)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Live Link)</sublink>
+</link>
+<summary>My name is Félix and i'm 22 years old.
+I live in Laval, Qc Canada
+I play Overwatch, former main tank for Dallas Fuel
+I'm 6'2 120 lbs
+-I like streaming
+</summary>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/xqcow-profile_image-9298dca608632101-300x300.jpeg</thumbnail>
+</plugin>
