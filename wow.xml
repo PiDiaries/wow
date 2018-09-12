@@ -78,8 +78,8 @@ Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
 </plugin>
 
 <dir>
-  <title>Streamers and Channels</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/channels.xml</link>
+  <title>Streamers and Channels [W.I.P]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/channels.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
