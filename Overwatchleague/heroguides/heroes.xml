@@ -2,6 +2,15 @@
 
 ################################################################################
 <item>
+  <title>1 TIP for EVERY HERO Series</title>
+  <link>plugin://plugin.video.youtube/playlist/PLgRMcvKNkYFyD7RyWlNmvYF0NWcKei5z7/</link>
+  <thumbnail></thumbnail>
+  <summary> </summary>
+</item>
+
+
+
+<item>
   <title>Overwatch League GOD MODE Moments</title>
   <link>https://www.youtube.com/watch/ORcZDB_GXIc</link>
   <thumbnail>https://yt3.ggpht.com/-Nt2qu4F8b8Y/AAAAAAAAAAI/AAAAAAAAAAA/oPBO6AtT8RE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
@@ -22,7 +31,7 @@
 
 <dir>
   <title>Bastion</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ana.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/bastion.xml</link>
   <thumbnail>https://vignette.wikia.nocookie.net/overwatch/images/6/6a/Bastion_portrait.png</thumbnail>
   <fanart>http://7wallpapers.net/wp-content/uploads/7_Overwatch-Bastion.jpg</fanart>
   <summary>Bastion is one of the heroes in Overwatch. It is an omnic wanderer formerly built to be a war combatant, who is now travelling to satisfy its curiosity about nature and leave its horrifying past behind.
