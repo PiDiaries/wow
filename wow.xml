@@ -12,6 +12,15 @@
 
 
 <dir>
+  <title>[b]NEW HERO[/b] Ashe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ashe.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/ashe.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
   <title>Overwatch eSports</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
   <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>

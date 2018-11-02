@@ -30,6 +30,14 @@
 </dir>
 
 <dir>
+  <title>Ashe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ashe.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/ashe.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
   <title>Bastion</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/bastion.xml</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/bas.png</thumbnail>
