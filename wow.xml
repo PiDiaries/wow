@@ -4,7 +4,7 @@
 
 <plugin>
   <title>[COLORred]Overwatch World Cup[/COLOR]</title>
-  <link>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play</link>
+  <link>plugin://plugin.video.twitch/?channel_id=137512364&amp;mode=play</link>
   <thumbnail>https://d2haofsyd6yoka.cloudfront.net/images/global/owwc-logo@2x-3c2bca1358755bf8b5100953673776b029b42e86bfaec35d10995b6a574c928cecc69aabbb94392c5e685161681566b6e184d1d493abd77273f1fcb74f5925c0.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
@@ -12,7 +12,7 @@
 
 
 <dir>
-  <title>[b]NEW HERO[/b] Ashe</title>
+  <title>NEW HERO Ashe</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ashe.xml</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/ashe.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/ashe-screenshot-003.jpg</fanart>

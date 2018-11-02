@@ -8,9 +8,9 @@
 <plugin>
   <title>Overwatch League Live Twitch [COLORred]ONLY WHEN LEAGUE IS LIVE[/COLOR]</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&mode=play (English)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188863650&mode=play (French)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188864445&mode=play (Korean)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=137512364&amp;mode=play (English)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=188863650&mode=play (French)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=188864445&mode=play (Korean)</sublink>
   </link>
   <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6_400x400.jpg</thumbnail>
   <fanart></fanart>
