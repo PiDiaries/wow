@@ -2,14 +2,6 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
-<plugin>
-  <title>[COLORred]Overwatch World Cup[/COLOR]</title>
-  <link>plugin://plugin.video.twitch/?channel_id=137512364&amp;mode=play</link>
-  <thumbnail>https://d2haofsyd6yoka.cloudfront.net/images/global/owwc-logo@2x-3c2bca1358755bf8b5100953673776b029b42e86bfaec35d10995b6a574c928cecc69aabbb94392c5e685161681566b6e184d1d493abd77273f1fcb74f5925c0.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</plugin>
-
 
 <dir>
   <title>NEW HERO Ashe</title>
@@ -73,5 +65,5 @@
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/channels.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
-  <summary></summary>
+  <summary>If you enjoy their content please support any streamers anyway you can. </summary>
 </dir>

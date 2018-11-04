@@ -1,3 +1,7 @@
+<item>
+<link>Please Support Streamers by subbing, subscribing, donating etc etc if you enjoy their content</link>
+</item>
+
 
 <plugin>
   <title>Overwatch Central </title>
@@ -80,5 +84,17 @@ I'm 6'2 120 lbs
 </link>
 <summary>Hi I'm Anita. I'm 28, from the UK, and I have tourrette's syndrome! My stream is for a mature audience only as I say some pretty inappropriate things about cats and Jesus.
 </summary>
-<thumbnail>hhttps://static-cdn.jtvnw.net/jtv_user_pictures/a1c59a46-9c20-40ba-8707-79bd1c388046-profile_image-300x300.png</thumbnail>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/a1c59a46-9c20-40ba-8707-79bd1c388046-profile_image-300x300.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>FRAN (Has Blizzcon content)</title>
+<link>
+<sublink>plugin://plugin.video.twitch/?channel_id=5690948&amp;channel_name=fran&amp;display_name=FRAN (Twitch VOD)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=5690948&mode=play (Twitch Live Link)</sublink>
+</link>
+<summary>Hi~! My name is Francine, I am 25 years old and I started gaming for as long as I can remember, which was mostly influenced by growing up around gamers. I started competing at MLG events for the game Halo reach in 2011, slowly progressing into the PC world around 2014. Unfortunately I have dropped Halo and moved on to League of Legends. I quit League and am addicted to Overwatch now :)
+
+</summary>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dfc19e51-7d82-4084-93e8-e077c9f98eba-profile_image-300x300.jpg</thumbnail>
 </plugin>
