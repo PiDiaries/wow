@@ -4,28 +4,37 @@
 
 
 <plugin>
-  <title>Overwatch Central </title>
-  <link>plugin://plugin.video.youtube/channel/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists/</link>
-  <thumbnail>https://yt3.ggpht.com/-NciZzMBdVq0/AAAAAAAAAAI/AAAAAAAAAAA/qpPtUDmRYSw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Overwatch Central is a channel revolving around the game Overwatch by Blizzard Entertainment. We produce guides, analyses, gameplay montages and other videos regarding Overwatch. Welcome to Overwatch Central.
-
-Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
-</plugin>
-
-<plugin>
   <title>PlayOverwatch </title>
-  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlists/</link>
+  <link>
+  <sublink>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/ (Youtube)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=59980349&amp;channel_name=playoverwatch&amp;display_name=PlayOverwatch&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
   </summary>
 </plugin>
 
 <plugin>
-  <title>Your Overwatch</title>
-  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists/</link>
-  <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
-</plugin>
+  <title>Major League Gaming</title>
+  <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/<link>
+    <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
+    </summary>
+  </plugin>
 
+
+<plugin>
+  <title>Reinforce</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30071705&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=30071705&amp;channel_name=reinforce&amp;display_name=Reinforce&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/reinforce-profile_image-744253442b75424c-300x300.png</thumbnail>
+    <summary>I'm a 23-year-old professional Overwatch player. My main role is Tank, but on stream I'll play a variety of heroes. Don't worry, my aim is top tier and don't believe anyone saying differently.
+
+After reaching a lot of success in Overwatch, playing on the best team in the world at one point in Rogue during the fall of 2016, I have played for Misfits, and Team Sweden for the 2017 and 2018 World Cup, but now I'm currently hired as a full-time broadcast analyst for the Overwatch League!
+</summary>
+  </plugin>
 
 
 <plugin>
@@ -98,3 +107,222 @@ I'm 6'2 120 lbs
 </summary>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dfc19e51-7d82-4084-93e8-e077c9f98eba-profile_image-300x300.jpg</thumbnail>
 </plugin>
+
+
+<plugin>
+  <title>SSSWolf</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=48076581&mode=play (Twitch Live Link)</sublink>
+ <sublink>plugin://plugin.video.twitch/?channel_id=48076581&amp;channel_name=ssswolf&amp;display_name=SSSWolf&amp;mode=channel_video (Twitch VODs)</sublink>
+  </link>
+ <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/ssswolf-profile_image-4e7964c2a29ab70d-300x300.png</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>A_Seagull   </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/a_seagull-profile_image-4d2d235688c7dc66-300x300.png</thumbnail>      <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>kafeeeeee_ow</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125260178&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=125260178&amp;channel_name=kafeeeeee_ow&amp;display_name=kafeeeeee_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/4d83b103-f1dc-409a-9453-77583918c1ba-profile_image-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Fitzyhere</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23155607&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=23155607&amp;channel_name=fitzyhere&amp;display_name=Fitzyhere&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/fitzyhere-profile_image-a911403868970b27-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>barcode_ow</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31367265&mode=play (Twitch Live Link)</sublink>
+ <sublink>plugin://plugin.video.twitch/?channel_id=31367265&amp;channel_name=barcode_ow&amp;display_name=barcode_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/b62920f4-ac24-4b28-8bec-de5f8ac3393a-profile_image-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Vale </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27645199&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=27645199&amp;channel_name=vale&amp;display_name=Vale&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/e3ee398aba1a541d-profile_image-300x300.png</thumbnail>      <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>DanielFenner</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=9345718&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=9345718&amp;channel_name=danielfenner&amp;display_name=DanielFenner&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/375f29dd-92c6-42ce-bdb8-0058be190f80-profile_image-300x300.jpg</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>S0rryYouMustDie   </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=173267156&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=173267156&amp;channel_name=s0rryyoumustdie&amp;display_name=S0rryYouMustDie&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/64ea6d17-c466-40d3-96b3-3078943de6fd-profile_image-300x300.jpg</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>kragiee</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=124604785&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=124604785&amp;channel_name=kragiee&amp;display_name=kragiee&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/68dc8706-d15e-4cd2-9974-098c194a3574-profile_image-300x300.png</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>spiritow</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26933810&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=26933810&amp;channel_name=spiritow&amp;display_name=spiritow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/28e67b8d2868ff03-profile_image-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Brandito</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=13043231&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=130432314&amp;channel_name=brandito&amp;display_name=Brandito&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/40b0e607-22cf-4dad-9441-33086459636f-profile_image-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>cavalry</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138630827&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=138630827&amp;channel_name=cavalry&amp;display_name=cavalry&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/0fdcd106556f11b3-profile_image-300x300.jpeg</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>boostio_ow</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=43887657&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=43887657&amp;channel_name=boostio_ow&amp;display_name=boostio_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/f3b7315c-4e96-4c57-9544-2397cf8c24e3-profile_image-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Redshell</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=157440062&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=157440062&amp;channel_name=redshell&amp;display_name=Redshell&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/76637f7a-673e-4a65-a7e7-d2d10c73c4e9-profile_image-300x300.jpg</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>aimbotcalvin</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84574550&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=84574550&amp;channel_name=aimbotcalvin&amp;display_name=aimbotcalvin&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+ <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/aimbotcalvin-profile_image-fa763d0637574d8a-300x300.png</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Emongg</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23220337&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=23220337&amp;channel_name=emongg&amp;display_name=Emongg&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/10c36ad0a4756df8-profile_image-300x300.png</thumbnail>       <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>mL7_ow</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=51929371&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=51929371&amp;channel_name=ml7_ow&amp;display_name=mL7_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/7b8f3faf-7a06-461c-91ac-d315b4850781-profile_image-300x300.png</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Aspen</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147927227&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=147927227&amp;channel_name=aspen&amp;display_name=Aspen&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/b90d33d4-5772-488b-ac03-f93786b28b53-profile_image-300x300.png</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Gale_Adelade </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=115467657&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=115467657&amp;channel_name=gale_adelade&amp;display_name=Gale_Adelade&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/77f5b632d7ac6928-profile_image-300x300.jpeg</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>harbleu</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=4329841&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=4329841&amp;channel_name=harbleu&amp;display_name=harbleu&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-300x300.jpg</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>m0xyy</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=69012069&mode=play (Twitch Live Link)</sublink>
+   <sublink>plugin://plugin.video.twitch/?channel_id=69012069&amp;channel_name=m0xyy&amp;display_name=m0xyy&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/c901b680-9876-4e67-826a-e141381628e5-profile_image-300x300.jpg</thumbnail>    <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>KabajiOW</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114476906&mode=play (Twitch Live Link)</sublink>
+ <sublink>plugin://plugin.video.twitch/?channel_id=114476906&amp;channel_name=kabajiow&amp;display_name=KabajiOW&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/d5beef26-0f08-4c70-a90f-bd80144bb1fd-profile_image-300x300.png</thumbnail>        <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>Kephrii </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=31582795&amp;channel_name=kephrii&amp;display_name=Kephrii&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/kephrii-profile_image-d6499e8af76a8936-300x300.jpeg</thumbnail>     <summary></summary>
+  </plugin>
+
+<plugin>
+  <title>dafran</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&mode=play (Twitch Live Link)</sublink>
+       <sublink>plugin://plugin.video.twitch/?channel_id=41314239&amp;channel_name=dafran&amp;display_name=dafran&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dafran-profile_image-98c45a96ca6ad150-300x300.png</thumbnail>      <summary></summary>
+  </plugin>
+
+
+<plugin>
+  <title>Overwatch Central </title>
+  <link>plugin://plugin.video.youtube/channel/UCZmz0RdI6LvX_rRmrlwx0Eg/playlists/</link>
+  <thumbnail>https://yt3.ggpht.com/-NciZzMBdVq0/AAAAAAAAAAI/AAAAAAAAAAA/qpPtUDmRYSw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Overwatch Central is a channel revolving around the game Overwatch by Blizzard Entertainment. We produce guides, analyses, gameplay montages and other videos regarding Overwatch. Welcome to Overwatch Central.
+
+Overwatch Central is not affiliated with Blizzard Entertainment.</summary>
+</plugin>
+
+<plugin>
+  <title>Your Overwatch</title>
+  <link>plugin://plugin.video.youtube/channel/UCEzOHrh9snmHJSGu9wmOvsw/playlists/</link>
+  <thumbnail>https://yt3.ggpht.com/-oSITWHrc7wU/AAAAAAAAAAI/AAAAAAAAAAA/CNkaJFS6O40/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>Three YouTubers combine efforts to cover Overwatch from top to bottom, new player tips, esports coverage, news and balance discussion. Eddythechump, Weagal & FREEDO.</summary>
+</plugin>
+
+<plugin>
+  <title>DBLTAP Overwatch</title>
+  <link>plugin://plugin.video.youtube/channel/UCMdhsa-OYIGrOIoiZVGscOA/<link>
+    <thumbnail>https://yt3.ggpht.com/-lLZgQUEGY38/AAAAAAAAAAI/AAAAAAAAAAA/9npe4LaB40M/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    </summary>
+  </plugin>
+

@@ -59,6 +59,15 @@
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
 
+<dir>
+  <title>Overwatch Casting Talent</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/blog_header/rw/RWVM50TF6NB61515192028543.jpg</fanart>
+  <summary>League Analysts,  Commentators and Announcers</summary>
+</dir>
+
+
 
 <dir>
   <title>Streamers and Channels [W.I.P]</title>
