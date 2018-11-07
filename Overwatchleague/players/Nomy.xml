@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Nomy Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=23593124&amp;channel_name=nomy&amp;display_name=Nomy&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23593124&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=23593124&amp;channel_name=nomy&amp;display_name=Nomy&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>David "nomy" Ramirez is a Mexican player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>

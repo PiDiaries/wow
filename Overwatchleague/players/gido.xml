@@ -5,6 +5,9 @@
 
 <plugin>
   <title>gido Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=137917751&amp;channel_name=oogido&amp;display_name=%ea%b8%b0%eb%8f%84&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137917751&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=137917751&amp;channel_name=oogido&amp;display_name=%ea%b8%b0%eb%8f%84&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Gi-do "Gido" Mun is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
 </plugin>

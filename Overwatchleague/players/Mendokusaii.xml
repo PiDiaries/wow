@@ -7,6 +7,10 @@
 
 <plugin>
   <title>Mendokusaii Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=57717183&amp;channel_name=mendokusaii&amp;display_name=mendokusaii&amp;mode=channel_videos</link>
+  <title></title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=57717183&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=57717183&amp;channel_name=mendokusaii&amp;display_name=mendokusaii&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Lucas "Mendokusaii" Håkansson is a Swedish player currently playing for the Houston Outlaws.</summary>
 </plugin>

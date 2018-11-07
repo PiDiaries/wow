@@ -6,7 +6,10 @@
 
 <plugin>
   <title>TviQ Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=27728003&amp;channel_name=tvique&amp;display_name=TviQuE&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27728003&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=27728003&amp;channel_name=tvique&amp;display_name=TviQuE&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
 </plugin>
 

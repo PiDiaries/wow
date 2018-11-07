@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Hooreg Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=152172663&amp;channel_name=hooregow&amp;display_name=%ed%9b%84%eb%a0%89%eb%8b%98&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=152172663&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=152172663&amp;channel_name=hooregow&amp;display_name=%ed%9b%84%eb%a0%89%eb%8b%98&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Dong-eun "Hooreg" Lee is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>

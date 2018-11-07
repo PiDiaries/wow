@@ -5,7 +5,10 @@
 
 <plugin>
   <title>Libero Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=126936223&amp;channel_name=liberot99&amp;display_name=Liberot99&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=126936223&amp;channel_name=liberot99&amp;display_name=Liberot99&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
     <summary>Hye-sung "Libero" Kim is a Korean player currently playing for The New York Excelsior.</summary>
 </plugin>
 

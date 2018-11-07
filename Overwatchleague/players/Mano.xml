@@ -6,7 +6,10 @@
 
 <plugin>
   <title>Mano Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=169109715&amp;channel_name=manoowl&amp;display_name=manoowl&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=169109715&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=169109715&amp;channel_name=manoowl&amp;display_name=manoowl&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Dong-gyu "Mano" Kim is a South Korean player currently playing for the New York Excelsior.</summary>
 </plugin>
 

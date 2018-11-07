@@ -5,6 +5,9 @@
 
 <plugin>
   <title>Wekeed Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=52029630&amp;channel_name=klfdkn&amp;display_name=%ec%9c%84%ed%82%a4%eb%93%9c_&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52029630&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=52029630&amp;channel_name=klfdkn&amp;display_name=%ec%9c%84%ed%82%a4%eb%93%9c_&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Seok-woo "Wekeed" Choi is a South Korean player that currently plays for Seoul Dynasty in the Overwatch League.</summary>
 </plugin>

@@ -6,6 +6,9 @@
 
 <plugin>
   <title>JAKE Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=135360961&amp;channel_name=jake_ow&amp;display_name=jake_ow&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=135360961&amp;channel_name=jake_ow&amp;display_name=jake_ow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Jacob "JAKE" Lyon (born July 28, 1996) is an American player currently playing for the Houston Outlaws. Raised in San Diego, California, Jake started playing Overwatch while in college at Denison University as part of -bird noises-, which quickly signed with Hammers Esports. After a few months the team’s contracts were bought out by Toronto-based Luminosity Gaming. While playing as part of one of the sister teams of LG, LG Evil, he also served on the 2017 World Cup Team USA.</summary>
 </plugin>

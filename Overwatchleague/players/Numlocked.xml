@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Numlocked Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=8725477&amp;channel_name=numlocked&amp;display_name=numlocked&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=8725477&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=8725477&amp;channel_name=numlocked&amp;display_name=numlocked&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
 </plugin>
 

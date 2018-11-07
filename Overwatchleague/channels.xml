@@ -74,6 +74,7 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
 <link>
 <sublink>plugin://plugin.video.twitch/?channel_id=71092938&amp;channel_name=xqcow&amp;display_name=xQcOW&amp;mode=channel_videos (Twitch VOD)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.youtube/channel/UCmDTrq0LNgPodDOFZiSbsww/ (Youtube)</sublink>
 </link>
 <summary>My name is Félix and i'm 22 years old.
 I live in Laval, Qc Canada
@@ -119,10 +120,12 @@ I'm 6'2 120 lbs
   </plugin>
 
 <plugin>
-  <title>A_Seagull   </title>
+  <title>Seagull   </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
-<sublink>plugin://plugin.video.twitch/?channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<sublink>plugin://plugin.video.twitch/?channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_video (Twitch VODs)</sublink>
+<sublink>plugin://plugin.video.youtube/channel/UCaFnEJ5tWlK0TO5PWHqr8Hw/ (Youtube)</sublink>
+  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/a_seagull-profile_image-4d2d235688c7dc66-300x300.png</thumbnail>      <summary></summary>
   </plugin>
 

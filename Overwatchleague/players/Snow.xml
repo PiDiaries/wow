@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Snow Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=125494549&amp;channel_name=snow_iwnl&amp;display_name=snow_iwnl&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125494549&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=125494549&amp;channel_name=snow_iwnl&amp;display_name=snow_iwnl&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail></thumbnail>
   <summary>Mikias "Snow" Yohannes is an Ethiopian player residing in America, currently playing for the Boston Uprising.</summary>
 </plugin>

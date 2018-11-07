@@ -6,6 +6,9 @@
 
 <plugin>
   <title>OGE Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=191580639&amp;channel_name=oge_ow&amp;display_name=OGE_ow&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=191580639&amp;channel_name=oge_ow&amp;display_name=OGE_ow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary></summary>
 </plugin>

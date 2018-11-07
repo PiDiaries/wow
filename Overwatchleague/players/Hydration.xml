@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Hydration Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=53176196&amp;channel_name=hydration&amp;display_name=Hydration&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53176196&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=53176196&amp;channel_name=hydration&amp;display_name=Hydration&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>João Pedro "Hydration" Goes Telles is a Brazilian player currently playing for the Los Angeles Gladiators.</summary>
 </plugin>

@@ -7,7 +7,10 @@
 
 <plugin>
   <title>HaGoPeun Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=130599198&amp;channel_name=hagopeun&amp;display_name=%ed%95%98%ea%b3%a0%ed%94%88&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130599198&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=130599198&amp;channel_name=hagopeun&amp;display_name=%ed%95%98%ea%b3%a0%ed%94%88&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BYLMNO25M5M21512776037306.png</thumbnail>
   <fanart>https://i.imgur.com/IUYFkm4.png</fanart>
   <summary>Hyeon-woo "HaGoPeun" Jo is a South Korean player currently playing for the London Spitfire.</summary>

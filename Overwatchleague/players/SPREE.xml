@@ -6,7 +6,10 @@
 
 <plugin>
   <title>SPREE Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=37351711&amp;channel_name=spree&amp;display_name=SPREE&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=37351711&amp;channel_name=spree&amp;display_name=SPREE&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Alexandre "SPREE" Vanhomwegen is a Belgian player currently playing for the Houston Outlaws.</summary>
 </plugin>
 

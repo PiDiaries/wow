@@ -7,6 +7,9 @@
 
 <plugin>
   <title>GrimReality Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=136539228&amp;channel_name=grimrealityow&amp;display_name=GrimRealityOW&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137917751&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=137917751&amp;channel_name=grimrealityow&amp;display_name=GrimRealityOW&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Christopher "GrimReality" Schaefer is an American player that played for the Los Angeles Valiant in the Overwatch League. He has now moved to a Coaching role.</summary>
 </plugin>

@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Super Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=59635827&amp;channel_name=supertf&amp;display_name=supertf&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59635827&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=59635827&amp;channel_name=supertf&amp;display_name=supertf&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>

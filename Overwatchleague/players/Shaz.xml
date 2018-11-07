@@ -6,6 +6,9 @@
 
 <plugin>
   <title>Shaz Twitch<title>
-    <link>plugin://plugin.video.twitch/?channel_id=31047413&amp;channel_name=shaz_ow&amp;display_name=Shaz_OW&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=31047413&amp;channel_name=shaz_ow&amp;display_name=Shaz_OW&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
     <summary>Jonas "Shaz" Suovaara is a Finnish player who currently plays for the Los Angeles Gladiators.</summary>
 </plugin>

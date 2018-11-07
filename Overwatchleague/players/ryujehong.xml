@@ -5,7 +5,10 @@
 
 <plugin>
   <title>ryujehong Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=128035304&amp;channel_name=wpghd321&amp;display_name=ryujehong&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128035304&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=128035304&amp;channel_name=wpghd321&amp;display_name=ryujehong&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Je-hong "ryujehong" Ryu is a South Korean player currently playing for Seoul Dynasty of the Overwatch League.
 
 He is widely known for extraordinary playmaking abilities and accuracy, as well as for his wide hero pool. Ryujehong is regarded as one of the best Support players in the Professional scene, most famously for his Ana play.

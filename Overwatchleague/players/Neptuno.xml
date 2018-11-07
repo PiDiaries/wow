@@ -6,7 +6,10 @@
 
 <plugin>
   <title>neptuNo Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=44003728&amp;channel_name=neptunoow&amp;display_name=neptuNoOw&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44003728&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=44003728&amp;channel_name=neptunoow&amp;display_name=neptuNoOw&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Alberto "neptuNo" González is a Spanish player recently playing for Movistar Riders and stand-in Cloud9 EU, currently playing for the Philadelphia Fusion.</summary>
 </plugin>
 

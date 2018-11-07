@@ -5,6 +5,9 @@
 
 <plugin>
   <title>JJoNak Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=140577538&amp;channel_name=jjonaklove&amp;display_name=%ec%aa%bc%eb%ac%bc%eb%9d%bd%eb%82%99%ec%a7%80&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=140577538&amp;channel_name=jjonaklove&amp;display_name=%ec%aa%bc%eb%ac%bc%eb%9d%bd%eb%82%99%ec%a7%80&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Sung-hyeon "JJoNak" Bang is a South Korean player currently playing for the New York Excelsior.</summary>
 </plugin>

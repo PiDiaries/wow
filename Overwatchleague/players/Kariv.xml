@@ -7,7 +7,10 @@
 
 <plugin>
   <title>KariV Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=135122504&amp;channel_name=kariv2&amp;display_name=%ec%b9%b4%eb%a6%ac%eb%b8%8c2&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135122504&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=135122504&amp;channel_name=kariv2&amp;display_name=%ec%b9%b4%eb%a6%ac%eb%b8%8c2&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Young-seo "KariV" Park is a South Korean player currently playing for the Los Angeles Valiant.</summary>
 </plugin>
 

@@ -5,7 +5,10 @@
 
 <plugin>
   <title>Meko Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=152073095&amp;channel_name=mekoppa&amp;display_name=%eb%a9%94%ec%bd%94%eb%a9%94%ec%bd%94&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=152073095&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=152073095&amp;channel_name=mekoppa&amp;display_name=%eb%a9%94%ec%bd%94%eb%a9%94%ec%bd%94&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
     <summary>Tae-hong "MekO" Kim is a Korean player currently playing for The New York Excelsior.</summary>
 </plugin>
 
