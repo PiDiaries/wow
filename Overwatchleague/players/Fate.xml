@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Fate Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=138037386&amp;channel_name=fate_ow&amp;display_name=%eb%a7%88%ec%9d%b4%ed%8b%b0%ed%8e%98%ec%9d%b4%ed%8a%b8&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138037386&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=138037386&amp;channel_name=fate_ow&amp;display_name=%eb%a7%88%ec%9d%b4%ed%8b%b0%ed%8e%98%ec%9d%b4%ed%8a%b8&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
 </plugin>

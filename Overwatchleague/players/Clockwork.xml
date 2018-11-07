@@ -10,7 +10,10 @@ He is mostly known for his great tracking and hitscan abilities, making him a ve
 
 <plugin>
   <title>Clockwork Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=24644343&amp;channel_name=clockwork&amp;display_name=clockwork&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=24644343&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=24644343&amp;channel_name=clockwork&amp;display_name=clockwork&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Matthew "Clockwork" Dias is an American player currently playing for the Houston Outlaws.
 
 Clockwork is well known for his history in TF2. He was a core member of the most successful team in the world, Froyotech. He was seen as the best scout player in the world until he made the switch to Overwatch. He returned a few times to TF2 until he finally focused on Overwatch.

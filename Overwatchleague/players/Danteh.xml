@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Danteh Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=52914282&amp;channel_name=danteh&amp;display_name=Danteh&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=52914282&amp;channel_name=danteh&amp;display_name=Danteh&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>
 

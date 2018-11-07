@@ -6,6 +6,9 @@
 
 <plugin>
   <title>CWoosH Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=123618783&amp;channel_name=cwoosh&amp;display_name=cwoosh&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=123618783&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=123618783&amp;channel_name=cwoosh&amp;display_name=cwoosh&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
 </plugin>

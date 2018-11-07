@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Avast Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=32905366&amp;channel_name=avasto&amp;display_name=Avasto&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=32905366&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=32905366&amp;channel_name=avasto&amp;display_name=Avasto&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail></thumbnail>
   <summary>Connor "Avast" Prince is an American player currently playing for the Boston Uprising.</summary>
 </plugin>

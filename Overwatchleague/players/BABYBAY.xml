@@ -6,7 +6,10 @@
 
 <plugin>
   <title>BABYBAY Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=142728478&amp;channel_name=a_babybay&amp;display_name=a_babybay&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=142728478&amp;channel_name=a_babybay&amp;display_name=a_babybay&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>
 

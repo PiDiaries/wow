@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Gamsu Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=129958872&amp;channel_name=gamsu8898&amp;display_name=%ea%b0%9c%ea%b0%90%ec%88%98&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129958872&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=129958872&amp;channel_name=gamsu8898&amp;display_name=%ea%b0%9c%ea%b0%90%ec%88%98&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail></thumbnail>
   <summary>Young-jin "Gamsu" Noh is a South Korean player that plays for the Boston Uprising in the Overwatch League.</summary>
 </plugin>

@@ -4,7 +4,10 @@
 
 <plugin>
   <title>ChoiHyoBin Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=140638319&amp;channel_name=tnpehdnzlf&amp;display_name=%ec%b5%9c%ed%9a%a8%eb%b9%88&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=140638319&amp;channel_name=tnpehdnzlf&amp;display_name=%ec%b5%9c%ed%9a%a8%eb%b9%88&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary></summary>
 </plugin>
 

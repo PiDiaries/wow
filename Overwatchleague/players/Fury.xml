@@ -7,6 +7,9 @@
 
 <plugin>
   <title>Fury Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=131542111&amp;channel_name=furyy_d&amp;display_name=%ed%93%a8%eb%a6%ac99&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=131542111&amp;channel_name=furyy_d&amp;display_name=%ed%93%a8%eb%a6%ac99&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Jun-ho "Fury" Kim is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>

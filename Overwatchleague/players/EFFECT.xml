@@ -6,7 +6,10 @@
 
 <plugin>
   <title>EFFECT Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=135013913&amp;channel_name=eff2ct&amp;display_name=eff2ct&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135013913&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=135013913&amp;channel_name=eff2ct&amp;display_name=eff2ct&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail></thumbnail>
   <summary>Hyeon "EFFECT" Hwang is a South Korean player currently playing for the Dallas Fuel</summary>
 </plugin>

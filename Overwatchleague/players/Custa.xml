@@ -7,7 +7,10 @@
 
 <plugin>
   <title>Custa Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=114865766&amp;channel_name=custa&amp;display_name=custa&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=114865766&amp;channel_name=custa&amp;display_name=custa&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail></thumbnail>
   <summary>Scott "Custa" Kennedy is an Australian player who previously played for Arc 6 and Fnatic, and is now playing for the Dallas Fuel in the Overwatch League.
   </summary>

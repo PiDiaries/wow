@@ -6,6 +6,9 @@
 
 <plugin>
   <title>Bani Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=22468499&amp;channel_name=baniow&amp;display_name=Baniow&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=22468499&amp;channel_name=baniow&amp;display_name=Baniow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Chris "Bani" Benell is an Canadian player currently playing for the Houston Outlaws.</summary>
 </plugin>

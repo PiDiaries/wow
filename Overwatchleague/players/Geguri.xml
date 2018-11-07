@@ -11,7 +11,10 @@ She gained recognition in the scene after being accused of using an aim bot to p
 
 <plugin>
   <title>Geguri Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=126168826&amp;channel_name=frog135&amp;display_name=%ea%b2%8c%ea%b5%ac%eb%a6%ac&amp;mode=channel_videos</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=126168826&amp;channel_name=frog135&amp;display_name=%ea%b2%8c%ea%b5%ac%eb%a6%ac&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <summary>Kim "Geguri" Se-yeon is a South Korean player, currently playing for the Shanghai Dragons.
 
   She gained recognition in the scene after being accused of using an aim bot to play her signature Zarya in competitive play. She later showed her accusers through the use of a hand camera in a controlled setting, that she was not cheating. Geguri's accusers said they would quit playing if was not hacking. When it was proven she was not hacking, the accusers quit their team and the professional Overwatch scene entirely.[1]
