@@ -93,3 +93,15 @@
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/c8df77ec9919d8e0-profile_image-300x300.png</thumbnail>    
 <summary>Alex "Goldenboy" Mendez is a professional esports commentator and host in multiple games including Call of Duty, Halo and most recently, Overwatch. He was either a host or commentator for most of the big western Overwatch events pre-Overwatch League.</summary>
   </plugin>
+
+
+<plugin>
+  <title>MALIK FORTE</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29838873&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=29838873&amp;channel_name=malik4play&amp;display_name=Malik4Play&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/ca4a7501f236152a-profile_image-300x300.png</thumbnail>
+    <summary>Brennon Hook began commentating for competitive Overwatch soon after the game's release in 2016, covering numerous tournaments including the recent Overwatch Contenders. For the Overwatch League inaugural season, Bren returns to North America, bringing his highly energetic style and expansive knowledge of the European scene to the analyst desk. Follow him on Twitter at @BrenCasts.
+    </summary>
+  </plugin>
