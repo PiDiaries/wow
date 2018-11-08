@@ -7,7 +7,7 @@
   <title>Janus Twitch</link>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=75603583&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=75603583&amp;channel_name=januspy&amp;display_name=%ec%95%bc%eb%88%84%ec%8a%a4&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=75603583&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Joon-hwa "Janus" Song is a South Korean player currently playing for the New York Excelsior.</summary>
 </plugin>

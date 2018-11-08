@@ -9,7 +9,7 @@
   <title>Silkthread Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26437807&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=26437807&amp;channel_name=silkthread&amp;display_name=silkthread&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=26437807&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
 </plugin>

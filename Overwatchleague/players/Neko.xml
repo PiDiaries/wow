@@ -9,7 +9,7 @@
   <title>Neko Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=144486954&amp;channel_name=nek0_0w&amp;display_name=%ea%b3%a0%ec%96%91%ec%9d%b4%ec%9d%bc%eb%b3%b8%ec%96%b4%eb%84%a4%ec%bd%94&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=144486954&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail></thumbnail>
   <summary>Se-hyeon "Neko" Park is a South Korean player currently playing for the Boston Uprising.</summary>

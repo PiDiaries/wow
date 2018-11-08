@@ -8,7 +8,7 @@
   <title>snillo Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=128376403&amp;channel_name=snillo_ow&amp;display_name=snillo_ow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=128376403&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Simon "snillo" Ekström is a Swedish player currently playing for the Philadelphia Fusion.</summary>
 </plugin>

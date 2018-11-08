@@ -7,7 +7,7 @@
   <title>Bunny Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148495863&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=148495863&amp;channel_name=cownsgur123&amp;display_name=%eb%b2%84%eb%8b%88%eb%b2%84%eb%8b%88&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=148495863&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
 </plugin>

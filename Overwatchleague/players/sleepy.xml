@@ -8,7 +8,7 @@
   <title>sleepy Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135052907&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=135052907&amp;channel_name=sleepy&amp;display_name=sleepy&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=135052907&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>

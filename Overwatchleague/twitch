@@ -1,0 +1,8 @@
+
+<plugin>
+  <title>Paris Eternal Twitch</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=117401940&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=117401940&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <summary>

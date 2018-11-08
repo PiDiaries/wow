@@ -1,0 +1,21 @@
+##########################################################################################
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+###########################################################################################
+
+<plugin>
+  <title> Twitch</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=133993495&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=133993495&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <summary></summary>
+</plugin>
+
+<plugin>
+  <title> Youtube</title>
+  <link>plugin://plugin.video.youtube/channel//</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin>

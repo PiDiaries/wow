@@ -7,7 +7,7 @@
   <title>tobi Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137440400&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=137440400&amp;channel_name=ow_tobi&amp;display_name=ow_tobi&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=137440400&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary>Jin-mo "tobi" Yang is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
 </plugin>

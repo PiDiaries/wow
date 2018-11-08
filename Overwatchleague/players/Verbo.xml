@@ -9,7 +9,7 @@
   <title>Verbo Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141190296&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=141190296&amp;channel_name=verboow&amp;display_name=VerboOW&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=141190296&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
 </plugin>

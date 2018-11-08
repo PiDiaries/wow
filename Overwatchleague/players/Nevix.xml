@@ -9,7 +9,7 @@
   <title>Nevix Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=100336273&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=100336273&amp;channel_name=nevixow&amp;display_name=NevixOW&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=100336273&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
 </plugin>

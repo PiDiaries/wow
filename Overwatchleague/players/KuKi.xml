@@ -7,7 +7,7 @@
   <title>KuKi Twitch<title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136235844&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=136235844&amp;channel_name=ow_kuki&amp;display_name=ow_kuki&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=136235844&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary>Dae-kuk "KuKi" Kim is a South Korean player currently playing for the Seoul Dynasty.</summary>
 </plugin>

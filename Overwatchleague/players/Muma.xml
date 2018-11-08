@@ -8,7 +8,7 @@
   <title>Muma Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=96447492&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=96447492&amp;channel_name=muma&amp;display_name=Muma&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=96447492&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Austin "Muma" Wilmot is an American player currently playing for the Houston Outlaws.</summary>
 </plugin>

@@ -7,7 +7,7 @@
   <title>Fragi Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=37210499&amp;channel_name=fragiow&amp;display_name=fragiOW&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=37210499&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary>Joona "Fragi" Laine is a Finnish player.
 

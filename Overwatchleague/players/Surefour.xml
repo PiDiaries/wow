@@ -8,7 +8,7 @@
   <title>Surefour Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=2982838&amp;channel_name=surefour&amp;display_name=Surefour&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Lane "Surefour" Roberts is a Canadian player currently playing for the Los Angeles Gladiators.</summary>
 </plugin>

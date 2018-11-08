@@ -8,7 +8,7 @@
   <title>Mickie Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=141713412&amp;channel_name=mickiepp&amp;display_name=MickiePP&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=141713412&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail></thumbnail>
   <summary>Pongphop "Mickie" Rattanasangchod is a Thai player currently playing for The Dallas Fuel. He comes from a competitive Point Blank background and is known for competing in Point Blank International Championship 2015.

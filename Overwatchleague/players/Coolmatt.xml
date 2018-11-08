@@ -9,7 +9,7 @@
   <title>coolmatt Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=36043286&amp;channel_name=coolmatt69&amp;display_name=coolmatt69&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=36043286&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Matt "coolmatt" Iorio is an American player currently playing for the Houston Outlaws.</summary>
 </plugin>

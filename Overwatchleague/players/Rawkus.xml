@@ -9,7 +9,7 @@
   <title>Rawkus Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=27855530&amp;channel_name=itsrawkus&amp;display_name=itsrawkus&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=27855530&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Shane "Rawkus" Flaherty is an American player currently playing for the Houston Outlaws.</summary>
 </plugin>

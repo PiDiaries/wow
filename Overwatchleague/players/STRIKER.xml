@@ -9,7 +9,7 @@
   <title>Striker Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=136116409&amp;channel_name=skawn4263&amp;display_name=%ec%93%b0%eb%9c%a8%eb%9d%bc%ec%9d%b4%ea%ba%bc&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=136116409&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail></thumbnail>
   <summary>Nam-joo "Striker" Kwon is a Korean player currently playing for the Boston Uprising.</summary>

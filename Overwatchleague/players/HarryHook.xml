@@ -8,7 +8,7 @@
   <title>HarryHook Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=30257355&amp;channel_name=harryhook&amp;display_name=HarryHook&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=30257355&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail></thumbnail>
   <summary>Jonathan "HarryHook" Tejedor Rua is a Spanish player currently playing for The Dallas Fuel. He is from Asturias, Spain, and was picked up by Team EnVyUs at the start of his career to move from Spain to the US to play for them. He has previous experience in other competitive games such as Heroes of the Storm and Team Fortress 2, competing in top Team Fortress 2 teams.

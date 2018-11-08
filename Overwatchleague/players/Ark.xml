@@ -7,7 +7,7 @@
   <title>ArK</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=138868831&amp;channel_name=arkyjun&amp;display_name=%ec%95%84%ed%81%ac%ec%95%84%ed%81%ac%ec%95%84%ed%81%ac&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=138868831&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Yeon-joon "ArK" Hong is a South Korean player currently playing for The New York Excelsior.</summary>
 </plugin>

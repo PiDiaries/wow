@@ -6,7 +6,10 @@
 
 <plugin>
   <title> Twitch</title>
-  <link></link>
+  <link>
+  <sublink> (Live Link)</sublink>
+  <sublink>(VODs)</sublink>
+  </link>
   <summary></summary>
 </plugin>
 

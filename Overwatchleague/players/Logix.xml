@@ -8,7 +8,7 @@
   <title>Logix Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=26508156&amp;channel_name=logixow&amp;display_name=logixow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
 </plugin>

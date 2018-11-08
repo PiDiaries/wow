@@ -8,7 +8,7 @@
   <title>Poko Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=53265819&amp;channel_name=poko_ow&amp;display_name=Poko_ow&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=53265819&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Gael "Poko" Gouzerch is a French player formerly playing for GamersOrigin and currently playing for the Philadelphia Fusion.</summary>
 </plugin>

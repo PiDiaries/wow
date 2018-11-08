@@ -9,7 +9,7 @@
   <title>sinatraa Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138094916&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=138094916&amp;channel_name=sinatraa&amp;display_name=sinatraa&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=138094916&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>

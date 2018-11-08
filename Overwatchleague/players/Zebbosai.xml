@@ -8,7 +8,7 @@
   <title>Zebbosai Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23064268&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=23064268&amp;channel_name=zebbosai&amp;display_name=Zebbosai&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=23064268&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
   <summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
 </plugin>

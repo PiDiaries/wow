@@ -9,7 +9,7 @@
   <title>birdring Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144548334&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=144548334&amp;channel_name=birdring_ow&amp;display_name=%eb%b2%84%eb%93%9c%eb%a6%a5&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=144548334&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>

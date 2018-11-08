@@ -8,7 +8,7 @@
   <title>ShaDowBurn Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45165401&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=45165401&amp;channel_name=sdburn&amp;display_name=SDBurn&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=45165401&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>George "ShaDowBurn" Gushcha is a Russian player currently playing for the Philadelphia Fusion. He's also a renowned ex-Team Fortress 2 player and Genji main.</summary>
 </plugin>

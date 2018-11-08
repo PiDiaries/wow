@@ -9,7 +9,7 @@
   <title>Profit Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=154784259&amp;channel_name=profitow&amp;display_name=%ec%81%98%eb%a1%9c%ed%95%8f&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
 </plugin>

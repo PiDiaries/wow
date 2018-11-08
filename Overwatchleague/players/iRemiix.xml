@@ -9,7 +9,7 @@
   <title>iRemiix Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=48730158&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=48730158&amp;channel_name=iremiixz&amp;display_name=iRemiixZ&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=48730158&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Luis "iRemiix" Galarza Figueroa is a Puerto Rican player currently playing for the Los Angeles Gladiators.</summary>
 </plugin>

@@ -9,7 +9,7 @@
   <title>Agilities Twitch</title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126162810&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=126162810&amp;channel_name=agilities&amp;display_name=agilities&amp;mode=channel_videos (Twitch VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=126162810&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
   <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
 </plugin>

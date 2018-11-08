@@ -9,7 +9,7 @@
   <title>envy Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160050719&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=160050719&amp;channel_name=envy0w&amp;display_name=envy0w&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=160050719&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Kang-jae "envy" Lee is a Korean player who played for Los Angeles Valiant. But has now left</summary>
 </plugin>

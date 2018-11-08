@@ -9,7 +9,7 @@
   <title>Gesture Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=170974282&amp;channel_name=gestureow&amp;display_name=%ec%a0%9c%ec%8a%a4%ec%b3%90%ec%bf%a4&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=170974282&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
   <fanart>https://i.imgur.com/xh9ukc9.png</fanart>

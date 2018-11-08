@@ -7,7 +7,7 @@
   <title>ZUNBA Twitch</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137407035&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=137407035&amp;channel_name=wg1646&amp;display_name=OW_Zunba&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=137407035&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
     <summary>Joon-hyuk "zunba" Kim is a South Korean player currently playing for Seoul Dynasty of the Overwatch League. He is widely known as one the game's elite Zarya players.</summary>
 </plugin>
