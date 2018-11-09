@@ -9,7 +9,8 @@
 <dir>
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/eternal/players.xml</link>
-  <summary>
+  <thumbnail>https://pbs.twimg.com/profile_images/1060614308122509312/jpPLyFwu_400x400.jpg</thumbnail>
+<summary>
 
 </summary>
 </dir>
@@ -20,7 +21,8 @@
     <sublink>plugin://plugin.video.twitch/?channel_id=257814510&amp;&mode=play  (Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?channel_id=257814510&amp;mode=channel_videos (VODs)</sublink>
 </link>
-  <summary>
+ <thumbnail>https://pbs.twimg.com/profile_images/1060614308122509312/jpPLyFwu_400x400.jpg</thumbnail>
+ <summary>
 
 </summary>
 </plugin>
@@ -28,7 +30,7 @@
 <plugin>
   <title>Paris Eternal Youtube</title>
   <link>plugin://plugin.video.youtube/channel//</link>
-  <thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/1060614308122509312/jpPLyFwu_400x400.jpg</thumbnail>
   <summary>
 
 </summary>

@@ -8,13 +8,19 @@
 <dir>
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/shock/players.xml</link>
-  <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
+  <thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+<summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </dir>
 
 <plugin>
   <title>SAN FRANCISCO SHOCK Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=176297741&amp;channel_name=sfshock&amp;display_name=SFShock&amp;mode=channel_videos</link>
-  <thumbnail></thumbnail>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=176297741&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=176297741&amp;mode=channel_videos (VODs)</sublink>
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
   <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </plugin>
 
@@ -22,6 +28,7 @@
 <plugin>
   <title>SAN FRANCISCO SHOCK Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCFRweL546FCwYs7JVAz4FyA/</link>
-  <thumbnail>https://yt3.ggpht.com/-3Jy04nkkV9g/AAAAAAAAAAI/AAAAAAAAAAA/Rkjmvmwd__Y/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
   <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </plugin>

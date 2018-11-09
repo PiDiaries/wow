@@ -8,7 +8,8 @@
 <dir>
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fuel/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/937050243912179712/JG2Ucser_400x400.jpg</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/937050243912179712/JG2Ucser_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/yujj1Oo.png</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
 
 The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
@@ -17,9 +18,12 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 
 <plugin>
   <title>Dallas Fuel Twitch</title>
-  <link>plugin://plugin.video.twitch/?channel_id=176777787&amp;channel_name=dallasfuel&amp;display_name=DallasFuel&amp;mode=channel_videos</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=176777787&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=176777787&amp;mode=channel_videos (VODs)</sublink>
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/937050243912179712/JG2Ucser_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/yujj1Oo.png</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
 
 The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
@@ -29,8 +33,8 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 <plugin>
   <title>Dallas Fuel Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCj4XSmDqIhRT4frKzRTMyrA/</link>
-  <thumbnail>https://yt3.ggpht.com/-DNexhcAXZoQ/AAAAAAAAAAI/AAAAAAAAAAA/y4UYw0iIv94/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <fanart></fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/937050243912179712/JG2Ucser_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/yujj1Oo.png</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
 
 The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
