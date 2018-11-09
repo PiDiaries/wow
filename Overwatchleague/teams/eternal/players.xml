@@ -4,7 +4,7 @@
 
 <dir>
   <title>BenBest</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/BenBest.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BenBest.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Benjamin "BenBest" Dieulafait</summary>
@@ -13,7 +13,7 @@
 
 <dir>
   <title>LhCloudy</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/LhCloudy.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/LhCloudy.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Roni "LhCloudy" Tiihonen</summary>
@@ -22,7 +22,7 @@
 
 <dir>
   <title>Finnsi</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Finnsi.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Finnsi.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Finnbjörn "Finnsi" Jónasson</summary>
@@ -31,7 +31,7 @@
 
 <dir>
   <title>NiCO</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/NiCO.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NiCO.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Nicolas "NiCO" Moret</summary>
@@ -40,7 +40,7 @@
 
 <dir>
   <title>Danye</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Danye.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danye.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Karol "Danye" Szcześniak</summary>
@@ -49,7 +49,7 @@
 
 <dir>
   <title>SoOn</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Soon.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Soon.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Terence "SoOn" Tarlier</summary>
@@ -58,7 +58,7 @@
 
 <dir>
   <title>ShaDowBurn</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/ShaDowBurn.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ShaDowBurn.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>George "ShaDowBurn" Gushcha</summary>
@@ -67,7 +67,7 @@
 
 <dir>
   <title>HyP</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/HyP.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HyP.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Damien "HyP" Souville</summary>
@@ -75,7 +75,7 @@
 
 <dir>
   <title>Kruise</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kruise.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kruise.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Harrison "Kruise" Pond</summary>
