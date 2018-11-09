@@ -1,0 +1,17 @@
+<plugin>
+  <title>Atlanta Reign Twitch</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin>
+
+
+    <plugin>
+      <title>Atlanta Reign Youtube</title>
+      <link>plugin://plugin.video.youtube/channel/yyyyy/<link>
+        <thumbnail>https://yt3.ggpht.com/a-/AN66SAy6GUZa8SNhHexCUJxqggg9v1lBIUnh0a2wFQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+        <summary>The Official YouTube Account of Atlanta's Overwatch League Team, Atlanta Reign. Est. 2018. #LetItReign</summary>
+      </plugin>

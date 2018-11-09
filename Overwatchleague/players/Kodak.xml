@@ -1,6 +1,5 @@
-
 <plugin>
-  <title> Twitch</title>
+  <title>Kodak Twitch</title>
   <link>
     <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
@@ -8,11 +7,3 @@
   <thumbnail></thumbnail>
   <summary></summary>
 </plugin>
-
-
-    <plugin>
-      <title></title>
-      <link>plugin://plugin.video.youtube/channel/UCcRYeBK7oHYcuChC4RhU6aQ/<link>
-        <thumbnail></thumbnail>
-        <summary></summary>
-      </plugin>
