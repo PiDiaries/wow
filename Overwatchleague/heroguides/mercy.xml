@@ -1,6 +1,6 @@
 #################################################################################################
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mercy.png</thumbnail>
-<fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mercy-screenshot-001.jpg</fanart>
+  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mercy-screenshot-001.jpg</fanart>
   <summary>Mercy’s Valkyrie Suit helps keep her close to teammates like a guardian angel; healing, resurrecting or strengthening them with the beams emanating from her Caduceus Staff.
   
   A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace.
@@ -17,7 +17,8 @@ Though she spends most of her time caring for the broken and dispossessed in cri
 <item>
   <title>Mercy Ability Overview</title>
   <link>https://www.youtube.com/watch/-l-ytDZWVFI</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mercy.png</thumbnail>
+  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mercy-screenshot-001.jpg</fanart>
   <summary>A guardian angel to those who come under her care, Dr. Angela Ziegler ("Mercy") is a peerless healer, brilliant scientist, and staunch advocate for peace. Though she spends most of her time caring for the broken and dispossessed in crisis areas around the world, Mercy can be counted on to don her Valkyrie swift-response suit whenever innocents are imperiled.
 
 Mercy is a formidable frontline medic, capable of healing and strengthening her allies, and even resurrecting them when they’ve fallen on the battlefield. 
@@ -27,7 +28,8 @@ Mercy is a formidable frontline medic, capable of healing and strengthening her 
 <plugin>
   <title>Overwatch - Mercy Guide - It's Nice To Be Appreciated! (Tips and Advice)</title>
   <link>https://www.youtube.com/watch/po7_nti09Kw</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mercy.png</thumbnail>
+  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mercy-screenshot-001.jpg</fanart>
   <summary>I love Mercy! She’s awesome and YOU should play her! This Mercy guide video will give you tips and advice on how to play her. By playing Mercy you can dramatically swing the tide of games and bring your team back from the brink of defeat!
   </summary>
 </plugin>
