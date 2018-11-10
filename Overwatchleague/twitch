@@ -16,3 +16,5 @@
         <thumbnail></thumbnail>
         <summary></summary>
       </plugin>
+
+      <link>plugin://plugin.video.twitch/?video_id=xxxxx</link>
