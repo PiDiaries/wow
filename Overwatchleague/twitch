@@ -17,4 +17,10 @@
         <summary></summary>
       </plugin>
 
-      <link>plugin://plugin.video.twitch/?video_id=xxxxx</link>
+      <link>
+      <sublink>plugin://plugin.video.twitch/?video_id=330639111?t=3h8m18s (Twitch)</sublink>
+      <sublink>https://www.youtube.com/watch?v=VMFA5RoPFEQ&t=20m12s (Youtube)</sublink>
+      <sublink>https://www.youtube.com/watch?v=seTnP8s0eBQ&t=24s (highlights)</sublink>
+      </link>
+
+      https://www.twitch.tv/videos/

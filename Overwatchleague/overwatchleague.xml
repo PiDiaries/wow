@@ -29,6 +29,14 @@
     <summary>VODs of the Overwatch League</summary>
   </plugin>
 
+<dir>
+<title>2018 Overwatch world Cup</title>
+<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleaguevods/2018wc.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+
   <plugin>
     <title>League Highlights</title>
     <link>plugin://plugin.video.youtube/playlist/PLj-VnmM9Xut0iEceZ5JlhSdRLn3nFYa1_/</link>
