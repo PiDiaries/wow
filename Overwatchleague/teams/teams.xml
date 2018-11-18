@@ -74,7 +74,7 @@ into a bright future.”</summary>
 <dir>
   <title>HANGZHOU SPARK (NOTHING TO SEE YET)</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/spark.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://pbs.twimg.com/profile_images/1062862818330853376/SHlaW595_400x400.jpg</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -169,4 +169,12 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 
 The team is owned by NetEase, a Chinese Internet Technology company that distributes Blizzard games in China.
 </summary>
+</dir>
+
+<dir>
+  <title>TORONTO DEFIANT (WIP) </title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/defiant.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/1055237309984059393/hc0EXjIW_400x400.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
