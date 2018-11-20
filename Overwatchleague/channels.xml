@@ -22,6 +22,12 @@
     </summary>
   </plugin>
 
+<dir>
+<title>Overwatch Subreddits</title>
+<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/reddit.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
 
 <plugin>
   <title>Reinforce</title>
