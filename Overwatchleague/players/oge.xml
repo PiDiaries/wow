@@ -12,3 +12,13 @@
   </link>
   <summary></summary>
 </plugin>
+
+
+
+
+<plugin>
+  <title>OGE Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCp0POM1KSeOKsDgaRBfbnRQ/</link>
+  <thumbnail>https://yt3.ggpht.com/-JNmewjZTviQ/AAAAAAAAAAI/AAAAAAAAAAA/QWrNDmrOdbI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary></summary>
+</plugin>

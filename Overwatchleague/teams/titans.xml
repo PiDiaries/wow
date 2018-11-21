@@ -1,0 +1,19 @@
+<dir>
+  <title>Roster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/titans/players.xml</link>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</dir>
+
+<plugin>
+  <title>VANCOUVER TITANS Twitch</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxxxxx&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxxxxx&amp;mode=channel_videos (VODs)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+  <summary></summary>
+</plugin>
+
