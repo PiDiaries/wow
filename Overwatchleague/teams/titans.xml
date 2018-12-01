@@ -2,18 +2,18 @@
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/titans/players.xml</link>
   <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/uc/UCBKPQF6LB8H1543531400032.jpg</fanart>
 <summary></summary>
 </dir>
 
 <plugin>
   <title>VANCOUVER TITANS Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxxxxx&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxxxxx&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=278717644&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=278717644&amp;mode=channel_videos (VODs)</sublink>
 </link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/uc/UCBKPQF6LB8H1543531400032.jpg</fanart>
   <summary></summary>
 </plugin>
 
