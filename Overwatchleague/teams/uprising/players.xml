@@ -2,6 +2,11 @@
 <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
 
 <dir>
   <title>Gamsu</title>
@@ -39,6 +44,11 @@
 </dir>
 
 
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 
 <dir>
   <title>STRIKER</title>
@@ -65,6 +75,12 @@
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
 
 
 <dir>

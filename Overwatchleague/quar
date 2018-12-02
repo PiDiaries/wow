@@ -45,3 +45,33 @@
 
 
 
+<dir>
+  <title>Rascal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rascal.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
+  <fanart>https://i.imgur.com/y0Qt99B.png</fanart>
+  <summary>Dong-jun "Rascal" Kim is a South Korean player currently playing for Dallas Fuel but was once part of London Spitfire.</summary>
+</dir>
+
+
+<dir>
+  <title>cocco</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/cocco.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/XXLO6MSM8ENO1512685112952.png</thumbnail>
+  <fanart>https://i.imgur.com/4FAtiWY.png</fanart>
+  <summary>Christian "cocco" Jonsson is a Swedish player currently playing for The Dallas Fuel.</summary>
+</dir>
+
+
+<dir>
+  <title>Chipshajen</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Chipshajen.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NSLR4T063K361512685112947.png</thumbnail>
+  <fanart>https://i.imgur.com/i9WMhOw.png</fanart>
+  <summary>Sebastian "chipshajen" Widlund is a Swedish player currently playing for The Dallas Fuel.</summary>
+</dir>
+
+
+
+
+

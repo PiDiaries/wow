@@ -2,59 +2,101 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Lateyoung</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Lateyoung.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Ameng</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ameng.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Elsa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Elsa.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Baconjack</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Baconjack.xml</link>
   <thumbnail>.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Jinmu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jinmu.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>YangX1aoLg</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/YangX1aoLg.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Yveltal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Yveltal.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Kyo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kyo.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+<dir>
+  <title>Garry</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Garry.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
