@@ -3,7 +3,7 @@
 ################################################################################
 
 <item>
-<title>[B]TANKS[/B]</title>
+<title>[B][COLORorange}TANKS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
@@ -36,7 +36,7 @@
 
 
 <item>
-<title>[B]DPS[/B]</title>
+<title>[B][COLORorange}DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
@@ -69,7 +69,7 @@ He is primarily a hitscan player known for his aggressive Widowmaker and McCree 
 </dir>
 
 <item>
-<title>[B]Support[/B]</title>
+<title>[B][COLORorange}SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 

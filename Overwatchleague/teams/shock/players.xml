@@ -3,7 +3,7 @@
 ################################################################################
 
 <item>
-<title>[B]TANKS[/B]</title>
+<title>[B][COLORorange}TANKS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
@@ -40,7 +40,7 @@
 
 
 <item>
-<title>[B]DPS[/B]</title>
+<title>[B][COLORorange}DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
@@ -78,7 +78,7 @@
 
 
 <item>
-<title>[B]Support[/B]</title>
+<title>[B][COLORorange}SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
