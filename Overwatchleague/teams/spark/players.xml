@@ -3,14 +3,14 @@
 ################################################################################
 
 <item>
-<title>[B][COLORorange}TANKS[/COLOR][/B]</title>
+<title>[B][COLORorange]TANKS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
 
 <dir>
   <title>guxue</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/playersguxue/.xml</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/guxue.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
@@ -41,7 +41,7 @@
 
 
 <item>
-<title>[B][COLORorange}DPS[/COLOR][/B]</title>
+<title>[B][COLORorange]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
@@ -84,7 +84,7 @@
 </dir>
 
 <item>
-<title>[B][COLORorange}SUPPORT[/COLOR][/B]</title>
+<title>[B][COLORorange]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
