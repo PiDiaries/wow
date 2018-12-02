@@ -1,13 +1,13 @@
 ###################################################################################
-<thumbnail>https://pbs.twimg.com/profile_images/950519297134096384/4QN0kbzC_400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1068913258969485313/nBJ-1BYS_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M5B8EFZ2GC011509475482766.jpg</fanart>
 ###################################################################################
 
 <dir>
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/950519297134096384/4QN0kbzC_400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1068913258969485313/nBJ-1BYS_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M5B8EFZ2GC011509475482766.jpg</fanart>
 <summary>The Los Angeles Gladiators are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The franchise is owned by Stan and Josh Kroenke, owners of several American sports franchises, and founders of KSE Esports. The team owners brought in esports organization Phoenix1, known for previously having a League of Legends team in the NA LCS to run the team.[1]</summary>
 </dir>
 
@@ -18,15 +18,15 @@
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176284305&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=176284305&amp;mode=channel_videos (VODs)</sublink>
 </link>
-  <thumbnail>https://pbs.twimg.com/profile_images/950519297134096384/4QN0kbzC_400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1068913258969485313/nBJ-1BYS_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M5B8EFZ2GC011509475482766.jpg</fanart>
 <summary>The Los Angeles Gladiators are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The franchise is owned by Stan and Josh Kroenke, owners of several American sports franchises, and founders of KSE Esports. The team owners brought in esports organization Phoenix1, known for previously having a League of Legends team in the NA LCS to run the team.[1]</summary>
 </plugin>
 
 <plugin>
   <title>Los Angeles Gladiators Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCmrw0M9fGg-lB2SS_kBpHsw/</link>
-<thumbnail>https://pbs.twimg.com/profile_images/950519297134096384/4QN0kbzC_400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/BZ2bPe4.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1068913258969485313/nBJ-1BYS_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M5B8EFZ2GC011509475482766.jpg</fanart>
   <summary>The Los Angeles Gladiators are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The franchise is owned by Stan and Josh Kroenke, owners of several American sports franchises, and founders of KSE Esports. The team owners brought in esports organization Phoenix1, known for previously having a League of Legends team in the NA LCS to run the team.[1]</summary>
 </plugin>

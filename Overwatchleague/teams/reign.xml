@@ -3,7 +3,7 @@
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/reign/players.xml</link>
   <thumbnail>https://pbs.twimg.com/profile_images/1054692919196545025/JkM1ZZs__400x400.jpg</thumbnail>
-<fanart></fanart>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
 <summary></summary>
 </dir>
 
@@ -13,14 +13,14 @@
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
 </link>
-  <thumbnail></thumbnail>
-  <summary></summary>
+  <thumbnail>https://pbs.twimg.com/profile_images/1054692919196545025/JkM1ZZs__400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
 </plugin>
 
 
     <plugin>
       <title>Atlanta Reign Youtube</title>
       <link>plugin://plugin.video.youtube/channel/yyyyy/<link>
-        <thumbnail>https://yt3.ggpht.com/a-/AN66SAy6GUZa8SNhHexCUJxqggg9v1lBIUnh0a2wFQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
-        <summary>The Official YouTube Account of Atlanta's Overwatch League Team, Atlanta Reign. Est. 2018. #LetItReign</summary>
+  <thumbnail>https://pbs.twimg.com/profile_images/1054692919196545025/JkM1ZZs__400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
       </plugin>

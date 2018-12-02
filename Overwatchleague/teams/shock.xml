@@ -1,15 +1,14 @@
 ###################################################################################
-<thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
-<summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
+  <thumbnail>https://pbs.twimg.com/profile_images/1056592265320124417/l9_2f4Ce_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>
 
 ###################################################################################
 
 <dir>
   <title>Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/shock/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1056592265320124417/l9_2f4Ce_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>
 <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </dir>
 
@@ -19,8 +18,8 @@
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176297741&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=176297741&amp;mode=channel_videos (VODs)</sublink>
 </link>
-<thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1056592265320124417/l9_2f4Ce_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>
   <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </plugin>
 
@@ -28,7 +27,7 @@
 <plugin>
   <title>SAN FRANCISCO SHOCK Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCFRweL546FCwYs7JVAz4FyA/</link>
-<thumbnail>https://pbs.twimg.com/profile_images/941723878472146945/8YEDGQX__400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+  <thumbnail>https://pbs.twimg.com/profile_images/1056592265320124417/l9_2f4Ce_400x400.jpg</thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>
   <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </plugin>
