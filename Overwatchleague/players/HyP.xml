@@ -5,17 +5,10 @@
 ###########################################################################################
 
 <plugin>
-  <title> Twitch</title>
+  <title>HyP Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=44546356&amp;mode=channel_videos (VODs)</sublink>
 </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title> Youtube</title>
-  <link>plugin://plugin.video.youtube/channel//</link>
-  <thumbnail></thumbnail>
   <summary></summary>
 </plugin>

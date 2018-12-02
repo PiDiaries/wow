@@ -5,16 +5,16 @@
 ###########################################################################################
 
 <plugin>
-  <title> Twitch</title>
+  <title>Nico Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?channel_id=117401940&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=17401940&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=117401940&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary></summary>
 </plugin>
 
 <plugin>
-  <title> Youtube</title>
+  <title>NiCO Youtube</title>
   <link>plugin://plugin.video.youtube/channel//</link>
   <thumbnail></thumbnail>
   <summary></summary>

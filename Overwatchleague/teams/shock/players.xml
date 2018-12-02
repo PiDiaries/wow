@@ -2,28 +2,17 @@
 
 ################################################################################
 
-<dir>
-  <title>sleepy</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sleepy.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png</thumbnail>
-  <fanart>https://i.imgur.com/ZTwiWev.png</fanart>
-  <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
-  <title>Danteh</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danteh.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/FD9N9OR9YO7L1512777246926.png</thumbnail>
-  <fanart>https://i.imgur.com/6ovfmv0.png</fanart>
-  <summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
-  <title>iddqd</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/iddqd.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WSFQZ1R6LCJ31512777247534.png</thumbnail>
-  <fanart>https://i.imgur.com/mdalrsE.png</fanart>
-  <summary>André "iddqd" Dahlström is a Swedish player currently playing for NRG's Overwatch League team, San Francisco Shock.
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
 
-He is known for his superb McCree play, and is indeed frequently described as one of the top players of the hero in the game.</summary>
+<dir>
+  <title>smurf</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/smurf.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
 <dir>
   <title>super</title>
@@ -33,39 +22,11 @@ He is known for his superb McCree play, and is indeed frequently described as on
   <summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </dir>
 <dir>
-  <title>BABYBAY</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png</thumbnail>
-  <fanart>https://i.imgur.com/svudzEp.png</fanart>
-  <summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
   <title>Nevix</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nevix.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png</thumbnail>
   <fanart>https://i.imgur.com/PZYsvSw.png</fanart>
   <summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
-  <title>Nomy</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nomy.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png</thumbnail>
-  <fanart>https://i.imgur.com/ir7NlUO.png</fanart>
-  <summary>David "nomy" Ramirez is a Mexican player who currently plays for San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
-  <title>dhaK</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/dhaK.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png</thumbnail>
-  <fanart>https://i.imgur.com/wjess9e.png</fanart>
-  <summary>Daniel "dhaK" Martínez is a Spanish player who currently plays for San Francisco Shock in the Overwatch League.</summary>
-</dir>
-<dir>
-  <title>sinatraa</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sinatraa.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GAH625QTQPGC1512777247784.png</thumbnail>
-  <fanart>https://i.imgur.com/6ovfmv0.png</fanart>
-  <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </dir>
 
 <dir>
@@ -77,3 +38,75 @@ He is known for his superb McCree play, and is indeed frequently described as on
 </dir>
 
 
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Architect</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Architect.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>BABYBAY</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U9QK0OYK87F01512777246945.png</thumbnail>
+  <fanart>https://i.imgur.com/svudzEp.png</fanart>
+  <summary>Andrej "babybay" Francisty is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>Rascal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rascal.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+<dir>
+  <title>sinatraa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sinatraa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GAH625QTQPGC1512777247784.png</thumbnail>
+  <fanart>https://i.imgur.com/6ovfmv0.png</fanart>
+  <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>sleepy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sleepy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png</thumbnail>
+  <fanart>https://i.imgur.com/ZTwiWev.png</fanart>
+  <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+
+
+
+<dir>
+  <title>moth</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/moth.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Viol2t</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Viol2t.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>

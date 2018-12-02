@@ -14,7 +14,7 @@
 <plugin>
   <title>London Spitfire Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?channel_id=207130493&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207130493&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=207130493&amp;mode=channel_videos (VODs)</sublink>
 </link>
 <thumbnail>https://pbs.twimg.com/profile_images/926832820667813890/uiaYjGFA_400x400.jpg</thumbnail>

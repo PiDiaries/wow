@@ -1,0 +1,17 @@
+
+<plugin>
+  <title>Hotba Twitch</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=138328501&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+    <summary>Hong-joon "HOTBA" Choi is a South Korean currently playing for the Philadelphia Fusion.</summary>
+</plugin>
+
+
+<plugin>
+  <title>Hotba Youtube</title>
+  <link>plugin://pluging.video.youtube/channel/UCLNljYSsv95Ijq0bs6bslMg/</link>
+  <thumbnail>https://yt3.ggpht.com/-ihpIARwrgrc/AAAAAAAAAAI/AAAAAAAAAAA/zXOfT3T274Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>Hong-joon "HOTBA" Choi is a South Korean currently playing for the Philadelphia Fusion.</summary>
+</plugin>

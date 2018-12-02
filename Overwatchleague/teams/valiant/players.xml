@@ -5,35 +5,12 @@
 
 ################################################################################
 
-<dir>
-  <title>Numlocked</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Numlocked.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png</thumbnail>
-  <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
-  <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
-</dir>
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
 
-<dir>
-  <title>Verbo</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Verbo.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png</thumbnail>
-  <fanart>https://i.imgur.com/AIZIkdV.png</fanart>
-  <summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
-</dir>
-<dir>
-  <title>Agilities</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Agilities.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png</thumbnail>
-  <fanart>https://i.imgur.com/80E1m6y.png</fanart>
-  <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
-</dir>
-<dir>
-  <title>Space</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/playersSpace/.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
-  <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
-  <summary>Indy "SPACE" Halpern is an American player currently playing for the Los Angeles Valiant.</summary>
-</dir>
+
 <dir>
   <title>Fate</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fate.xml</link>
@@ -41,13 +18,33 @@
   <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
   <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
 </dir>
+
+
+
 <dir>
-  <title>Envy [COLORred]Left[/COLOR]</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Envy.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
-  <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
-  <summary>Kang-jae "envy" Lee is a Korean player currently playing for Los Angeles Valiant.</summary>
+  <title>KuKi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/KuKi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/IBAIGQXWJM9X1512770128067.png</thumbnail>
+  <fanart>https://i.imgur.com/HLYJzaA.png</fanart>
+  <summary></summary>
 </dir>
+
+
+<dir>
+  <title>Space</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/playersSpace/.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
+  <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
+  <summary>Indy "SPACE" Halpern is an American player currently playing for the Los Angeles Valiant.</summary>
+</dir>
+
+
+
+<item>
+<title>[B]FLEX[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Kariv</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kariv.xml</link>
@@ -57,20 +54,45 @@
 </dir>
 
 
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title>Grimreality [COLORred]Now coach[/COLOR]</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Grimreality.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png</thumbnail>
-  <fanart>https://i.imgur.com/uidemLD.png</fanart>
-  <summary>Christopher "GrimReality" Schaefer is an American player that played for Immortals and now plays for the Los Angeles Valiant in the Overwatch League. He is known primarily for his aim on hitscan heroes.</summary>
+  <title>Bunny</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bunny.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/8VVBZ6TJQZL41512770127850.png</thumbnail>
+  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
+  <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
 </dir>
+
+
 <dir>
-  <title>Soon</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Soon.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png</thumbnail>
-  <fanart>https://i.imgur.com/b0SrsCI.png</fanart>
-  <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+  <title>KSF</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/KSF.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
+<dir>
+  <title>Agilities</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Agilities.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png</thumbnail>
+  <fanart>https://i.imgur.com/80E1m6y.png</fanart>
+  <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
+</dir>
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Custa</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Custa.xml</link>
@@ -80,10 +102,16 @@
   </summary>
 </dir>
 
+
 <dir>
-  <title>Bunny</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bunny.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/8VVBZ6TJQZL41512770127850.png</thumbnail>
-  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
-  <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
+  <title>Izayaki</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Izayaki.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
+
+
+

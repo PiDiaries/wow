@@ -5,16 +5,16 @@
 ###########################################################################################
 
 <plugin>
-  <title> Twitch</title>
+  <title>Finnsi Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?channel_id=90238430&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=90238430&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=90238430&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary></summary>
 </plugin>
 
 <plugin>
-  <title> Youtube</title>
+  <title>Finnsi  Youtube</title>
   <link>plugin://plugin.video.youtube/channel//</link>
   <thumbnail></thumbnail>
   <summary></summary>

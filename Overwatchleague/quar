@@ -1,5 +1,32 @@
 
 <dir>
+  <title>Joemeister</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Joemeister.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/XD8KBKYLHJ3R1515621286382.png</thumbnail>
+  <fanart>https://i.imgur.com/tkiguRU.png</fanart>
+  <summary>Joe "Joemeister" Gramano is a Canadian player formerly playing for compLexity Gaming and FaZe Clan, currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+<dir>
+  <title>ShaDowBurn</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ShaDowBurn.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/08BQ9B93UZMA1515702582681.png</thumbnail>
+  <fanart>https://i.imgur.com/yQahTf7.png</fanart>
+  <summary>George "ShaDowBurn" Gushcha is a Russian player currently playing for the Philadelphia Fusion. He's also a renowned ex-Team Fortress 2 player and Genji main.</summary>
+</dir>
+
+
+
+<dir>
+  <title>DayFly</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/DayFly.xml</link>
+  <thumbnail>DayFly</thumbnail>
+  <fanart>https://i.imgur.com/06T17TP.png</fanart>
+  <summary>Jeong-hwan "Dayfly" Park is a South Korean player currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+<dir>
   <title>Neko</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Neko.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TZ8DWCLINMZS1512769820004.png</thumbnail>
@@ -46,11 +73,31 @@
 
 
 <dir>
-  <title>Rascal</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rascal.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
-  <fanart>https://i.imgur.com/y0Qt99B.png</fanart>
-  <summary>Dong-jun "Rascal" Kim is a South Korean player currently playing for Dallas Fuel but was once part of London Spitfire.</summary>
+  <title>iddqd</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/iddqd.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WSFQZ1R6LCJ31512777247534.png</thumbnail>
+  <fanart>https://i.imgur.com/mdalrsE.png</fanart>
+  <summary>André "iddqd" Dahlström is a Swedish player currently playing for NRG's Overwatch League team, San Francisco Shock.
+
+He is known for his superb McCree play, and is indeed frequently described as one of the top players of the hero in the game.</summary>
+</dir>
+
+
+<dir>
+  <title>Nomy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nomy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png</thumbnail>
+  <fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+  <summary>David "nomy" Ramirez is a Mexican player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>dhaK</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/dhaK.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png</thumbnail>
+  <fanart>https://i.imgur.com/wjess9e.png</fanart>
+  <summary>Daniel "dhaK" Martínez is a Spanish player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </dir>
 
 
@@ -75,3 +122,201 @@
 
 
 
+<dir>
+  <title>Manneten</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Manneten.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YZNUNFMFABFG1512685744491.png</thumbnail>
+  <fanart>https://i.imgur.com/BHkQPyN.png</fanart>
+  <summary>Tim "Manneten" Bylund is a Swedish player currently playing for the Florida Mayhem.</summary>
+</dir>
+
+
+<dir>
+  <title>Zebbosai</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zebbosai.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
+  <fanart>https://i.imgur.com/iSQAvIC.png</fanart>
+  <summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
+</dir>
+
+<dir>
+  <title>Logix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Logix.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
+  <fanart>https://i.imgur.com/5fX0uKV.png</fanart>
+  <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>CWoosH</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/CWoosH.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/RPHC99GZV5YT1512685744459.png</thumbnail>
+  <fanart>https://i.imgur.com/JNniDJx.png</fanart>
+  <summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
+</dir>
+
+
+<dir>
+  <title>Zuppeh</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zuppeh.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
+  <fanart>https://i.imgur.com/j0QG5Hw.png</fanart>
+  <summary>Aleksi "Zuppeh" Kuntsi is a Finnish player currently playing for the Florida Mayhem.</summary>
+</dir>
+
+
+<dir>
+  <title>zappis</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/zappis.xml</link>
+  <thumbnail>http://liquipedia.net/commons/images/1/14/NiPzappis.png</thumbnail>
+  <fanart>https://i.imgur.com/WiLavMI.png</fanart>
+  <summary>Joonas "zappis" Alakurtti is a Finnish player that plays for the Florida Mayhem of the Overwatch League.
+
+He comes again from the Team Fortress 2 scene with +4000 hours of TF2 behind him and experience in teams like k1ck, CKRAS, Quarantine, Awsomniac and lastly Ze Knutsson Rollerbladers. While he formerly played the role of a primary hitscan DPS player, he also shared the Ana-Zenyatta role with kyynel as part of the team's three-tank-three-support strategy in meta three-tank in third season. Currently playing Flex role. Acquired fame as a strong Zarya player</summary>
+</dir>
+
+<dir>
+  <title>Clockwork</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Clockwork.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/XZ5K8UN67KS11512616494899.png</thumbnail>
+  <fanart>https://i.imgur.com/i4Omm4Y.png</fanart>
+  <summary>Matthew "Clockwork" Dias is an American player currently playing for the Houston Outlaws.
+
+Clockwork is well known for his history in TF2. He was a core member of the most successful team in the world, Froyotech. He was seen as the best scout player in the world until he made the switch to Overwatch. He returned a few times to TF2 until he finally focused on Overwatch.
+
+He is mostly known for his great tracking and hitscan abilities, making him a very dangerous player to play against.</summary>
+</dir>
+
+
+<dir>
+  <title>Mendokusaii</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mendokusaii.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/56GKIKO2Q0E41512616495373.png</thumbnail>
+  <fanart>https://i.imgur.com/i4Omm4Y.png</fanart>
+  <summary>Lucas "Mendokusaii" Håkansson is a Swedish player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<dir>
+  <title>FCTFCTN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/outlaws/FCTFCTN.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/6gxbKNz.png</fanart>
+  <summary>Russell "FCTFCTN" Campbell is an American player currently playing for Houston Outlaws.</summary>
+</dir>
+
+<dir>
+  <title>Asher</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Asher.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EDZHIK5WC0IK1512769977222.png</thumbnail>
+  <fanart>https://i.imgur.com/jbnmMvA.png</fanart>
+  <summary>Joon-seong "Asher" Choi is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
+</dir>
+
+
+<dir>
+  <title>iRemiix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/iRemiix.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/KA2YMLHN9WL61512769977429.png</thumbnail>
+  <fanart>https://i.imgur.com/SrdYVs5.png</fanart>
+  <summary>Luis "iRemiix" Galarza Figueroa is a Puerto Rican player currently playing for the Los Angeles Gladiators.</summary>
+</dir>
+
+<dir>
+  <title>Silkthread</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Silkthread.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WZ8MLSBXCD6E1512776701242.png</thumbnail>
+  <fanart>https://i.imgur.com/80E1m6y.png</fanart>
+  <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>Envy [COLORred]Left[/COLOR]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Envy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
+  <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
+  <summary>Kang-jae "envy" Lee is a Korean player currently playing for Los Angeles Valiant.</summary>
+</dir>
+
+<dir>
+  <title>Grimreality [COLORred]Now coach[/COLOR]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Grimreality.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png</thumbnail>
+  <fanart>https://i.imgur.com/uidemLD.png</fanart>
+  <summary>Christopher "GrimReality" Schaefer is an American player that played for Immortals and now plays for the Los Angeles Valiant in the Overwatch League. He is known primarily for his aim on hitscan heroes.</summary>
+</dir>
+
+
+
+
+<dir>
+  <title>Numlocked</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Numlocked.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png</thumbnail>
+  <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
+  <summary>Seb "numlocked" Barton is a British player currently playing for the Los Angeles Valiant.</summary>
+</dir>
+
+<dir>
+  <title>Verbo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Verbo.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png</thumbnail>
+  <fanart>https://i.imgur.com/AIZIkdV.png</fanart>
+  <summary>Stefano "Verbo" Disalvo is a Canadian player currently playing for the Los Angeles Valiant.</summary>
+</dir>
+
+
+<dir>
+  <title>Soon</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Soon.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png</thumbnail>
+  <fanart>https://i.imgur.com/b0SrsCI.png</fanart>
+  <summary>Terence "SoOn" Tarlier is a French player that formerly played for Rogue, and is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>Janus</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Janus.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ML4KPZZ8FTRT1512686064886.png</thumbnail>
+  <fanart>https://i.imgur.com/7p4uPZW.png</fanart>
+  <summary>Joon-hwa "Janus" Song is a South Korean player currently playing for the New York Excelsior.</summary>
+</dir>
+
+
+
+<dir>
+  <title>Wekeed</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Wekeed.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ERF1NG1OPC2R1512770128333.png</thumbnail>
+  <fanart>https://i.imgur.com/L7IKSz6.png</fanart>
+  <summary>Seok-woo "Wekeed" Choi is a South Korean player that currently plays for Seoul Dynasty in the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>Miro</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Miro.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LTXC1UP8RPNW1512770128083.png</thumbnail>
+  <fanart>https://i.imgur.com/HLYJzaA.png</fanart>
+  <summary>Jin-hyuk "Miro" Gong is a Korean player currently playing for Seoul Dynasty of the Overwatch League.
+
+He is known for his exemplary Winston play, serving as the highest standard of performance on that hero. Miro has been considered as one of the game's best Tank players.
+</summary>
+</dir>
+
+<dir>
+  <title>gido</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/gido.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/UBGJQAE73V6C1512770127858.png</thumbnail>
+  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
+  <summary>Gi-do "Gido" Mun is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>Gambler</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gambler.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/rDCNwVN.png</fanart>
+  <summary>Heo "Gambler" Jin-woo is a South Korean player currently playing for Seoul Dynasty.</summary>
+</dir>

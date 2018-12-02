@@ -2,58 +2,112 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>guxue</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/playersguxue/.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-<dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-<dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>NoSmite</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NoSmite.xml</link>
   <thumbnail>.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>Ria</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ria.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>GodsB</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/GodsB.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>Bazzi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bazzi.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Krystal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Krystal.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <title>Adora</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Adora.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>BeBe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BeBe.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Revenge</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Revenge.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>iDK</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/iDK.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>

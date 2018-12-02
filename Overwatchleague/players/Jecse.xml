@@ -1,0 +1,9 @@
+
+<plugin>
+  <title>Jecse Twitch</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=109560801&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=109560801&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary></summary>
+</plugin>

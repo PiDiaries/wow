@@ -2,6 +2,11 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>BenBest</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BenBest.xml</link>
@@ -19,6 +24,13 @@
   <summary>Roni "LhCloudy" Tiihonen</summary>
 </dir>
 
+
+
+
+<item>
+<title>[B]FLEX[/B]</title>
+<link>//</link>
+</item>
 
 <dir>
   <title>Finnsi</title>
@@ -38,6 +50,12 @@
 </dir>
 
 
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Danye</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danye.xml</link>
@@ -55,7 +73,6 @@
   <summary>Terence "SoOn" Tarlier</summary>
 </dir>
 
-
 <dir>
   <title>ShaDowBurn</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ShaDowBurn.xml</link>
@@ -63,6 +80,15 @@
   <fanart></fanart>
   <summary>George "ShaDowBurn" Gushcha</summary>
 </dir>
+
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+
 
 
 <dir>
@@ -79,4 +105,14 @@
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary>Harrison "Kruise" Pond</summary>
+</dir>
+
+
+
+<dir>
+  <title>Greyy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Greyy.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>

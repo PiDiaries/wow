@@ -2,20 +2,42 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
-  <title>Manneten</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Manneten.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YZNUNFMFABFG1512685744491.png</thumbnail>
-  <fanart>https://i.imgur.com/BHkQPyN.png</fanart>
-  <summary>Tim "Manneten" Bylund is a Swedish player currently playing for the Florida Mayhem.</summary>
+  <title>SNT</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SNT.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
 <dir>
-  <title>Zebbosai</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zebbosai.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
-  <fanart>https://i.imgur.com/iSQAvIC.png</fanart>
-  <summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
+  <title>XepheR</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/XepheR.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+<dir>
+  <title>Swon</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Swon.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>TviQ</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/TviQ.xml</link>
@@ -23,35 +45,49 @@
   <fanart>https://i.imgur.com/dXG90Xd.png</fanart>
   <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
 </dir>
+
 <dir>
-  <title>Logix</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Logix.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
-  <fanart>https://i.imgur.com/5fX0uKV.png</fanart>
-  <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
+  <title>Sayaplayer</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Sayaplayer.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
 <dir>
-  <title>CWoosH</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/CWoosH.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/RPHC99GZV5YT1512685744459.png</thumbnail>
-  <fanart>https://i.imgur.com/JNniDJx.png</fanart>
-  <summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
+  <title>BQB</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BQB.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
 <dir>
-  <title>Zuppeh</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Zuppeh.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
-  <fanart>https://i.imgur.com/j0QG5Hw.png</fanart>
-  <summary>Aleksi "Zuppeh" Kuntsi is a Finnish player currently playing for the Florida Mayhem.</summary>
+  <title>Apply</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Apply.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
 
 
-<dir>
-  <title>zappis</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/zappis.xml</link>
-  <thumbnail>http://liquipedia.net/commons/images/1/14/NiPzappis.png</thumbnail>
-  <fanart>https://i.imgur.com/WiLavMI.png</fanart>
-  <summary>Joonas "zappis" Alakurtti is a Finnish player that plays for the Florida Mayhem of the Overwatch League.
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
 
-He comes again from the Team Fortress 2 scene with +4000 hours of TF2 behind him and experience in teams like k1ck, CKRAS, Quarantine, Awsomniac and lastly Ze Knutsson Rollerbladers. While he formerly played the role of a primary hitscan DPS player, he also shared the Ana-Zenyatta role with kyynel as part of the team's three-tank-three-support strategy in meta three-tank in third season. Currently playing Flex role. Acquired fame as a strong Zarya player</summary>
+<dir>
+  <title>HaGoPeun</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HaGoPeun.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Kris</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kris.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>

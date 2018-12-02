@@ -2,59 +2,112 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Rio</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rio.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+<item>
+<title>[B]FLEX[/B]</title>
+<link>//</link>
+</item>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>HOTBA</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Happy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Happy.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Eileen</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Eileen.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>nero</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/nero.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Kyb</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kyb.xml</link>
   <thumbnail>.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Chara</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Chara.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Shu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Shu.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>OnlyWish</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/OnlyWish.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
-  <thumbnail></thumbnail>
+  <title>WonJaeLee</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/WonJaeLee.xml</link>
+  <thumbnail>.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+

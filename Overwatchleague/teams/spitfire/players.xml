@@ -2,14 +2,10 @@
 
 ################################################################################
 
-
-<dir>
-  <title>Bdosin</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bdosin.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
-  <fanart>https://i.imgur.com/IUYFkm4.png</fanart>
-  <summary>Seung-tae "Bdosin" Choi is a South Korean player currently playing for the London Spitfire.</summary>
-</dir>
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
 <dir>
   <title>Gesture</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gesture.xml</link>
@@ -18,20 +14,6 @@
   <summary>Jae-hee "Gesture" Hong is a South Korean player currently playing for the London Spitfire.</summary>
 </dir>
 
-<dir>
-  <title>birdring</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/birdring.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1UDI0E8KITK81512776037063.png</thumbnail>
-  <fanart>https://i.imgur.com/LjLai5x.png</fanart>
-  <summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
-</dir>
-<dir>
-  <title>NUS</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NUS.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMORW78G5YSJ1512776037577.png</thumbnail>
-  <fanart>https://i.imgur.com/NrZ7vqU.png</fanart>
-  <summary>Jong-seok "NUS" Kim is a South Korean player currently playing for the London Spitfire.</summary>
-</dir>
 
 <dir>
   <title>Fury</title>
@@ -41,6 +23,15 @@
   <summary>Jun-ho "Fury" Kim is a South Korean player currently playing for the London Spitfire.</summary>
 </dir>
 
+
+
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Profit</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Profit.xml</link>
@@ -48,3 +39,57 @@
   <fanart>https://i.imgur.com/LjLai5x.png</fanart>
   <summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
 </dir>
+
+
+<dir>
+  <title>birdring</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/birdring.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1UDI0E8KITK81512776037063.png</thumbnail>
+  <fanart>https://i.imgur.com/LjLai5x.png</fanart>
+  <summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+<dir>
+  <title>Guard</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Guard.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+
+
+<dir>
+  <title>NUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NUS.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMORW78G5YSJ1512776037577.png</thumbnail>
+  <fanart>https://i.imgur.com/NrZ7vqU.png</fanart>
+  <summary>Jong-seok "NUS" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+<dir>
+  <title>Bdosin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bdosin.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
+  <fanart>https://i.imgur.com/IUYFkm4.png</fanart>
+  <summary>Seung-tae "Bdosin" Choi is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+
+<dir>
+  <title>Krillin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Krillin.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
