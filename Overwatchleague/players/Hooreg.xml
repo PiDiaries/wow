@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZHXU3L6G4B891512776037465.png</thumbnail>
-<fanart>https://i.imgur.com/VAb5XZW.png</fanart>
-<summary>Dong-eun "Hooreg" Lee is a South Korean player currently playing for the London Spitfire.</summary>
 
 ###########################################################################################
 
@@ -11,5 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=152172663&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=152172663&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Dong-eun "Hooreg" Lee is a South Korean player currently playing for the London Spitfire.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZHXU3L6G4B891512776037465.png</thumbnail>
 </plugin>

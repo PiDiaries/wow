@@ -1,6 +1,19 @@
 ################################################################################
 
 ################################################################################
+
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+<dir>
+  <title>Fearless</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fearless.xml</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/959277198031990784/q56RwAVo_400x400.jpg</thumbnail>
+  <fanart>https://i.imgur.com/fpvwRtd.png</fanart>
+  <summary>Eui-Seok "Fearless" Lee is a Korean player currently playing for the Shanghai Dragons.</summary>
+</dir>
+
 <dir>
   <title>Geguri</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Geguri.xml</link>>
@@ -13,67 +26,34 @@ She gained recognition in the scene after being accused of using an aim bot to p
 </dir>
 
 <dir>
-  <title>Freefeel</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Freefeel.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/8/89/FTD_b612_in_OWPS_2017_Spring.jpg/900px-FTD_b612_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/j8T1IAJ.png</fanart>
-  <summary>Peixuan "Freefeel" Xu is a Chinese player currently playing for the Shanghai Dragons.</summary>
+  <title>GuardiaN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/GuardiaN.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
+<item>
+<title>[B]FLEX[/B]</title>
+<link>//</link>
+</item>
 
 
 <dir>
-  <title>Fiveking</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fiveking.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/7/72/IG.Ice_5King_in_OWPS_2017_Spring.jpg/900px-IG.Ice_5King_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/HfdmR6t.png</fanart>
-  <summary>Zhaoyu "Fiveking" Chen is a Chinese player currently playing for the Shanghai Dragons.</summary>
+  <title>DDing</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/DDing.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
 
 
-<dir>
-  <title>Undead [COLORred]Left[/COLOR]</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Undead.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/e/e6/LGD_uNdeAD_in_OWPS_2017_Spring.jpg/900px-LGD_uNdeAD_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VvojYed.png</fanart>
-  <summary>Chao "Undead" Fang is a Chinese player currently playing for the Shanghai Dragons.</summary>
-</dir>
 
-
-<dir>
-  <title>Roshan</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Roshan.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/d/df/FTD_Roshan_in_OWPS_2017_Spring.jpg/900px-FTD_Roshan_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/fpvwRtd.png</fanart>
-  <summary>Wenhao "Roshan" Jing is a Chinese player currently playing for the Shanghai Dragons.</summary>
-</dir>
-
-
-<dir>
-  <title>Xushu</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Xushu.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/a/a0/1246_Luca_in_OWPS_2017_Spring.jpg/900px-1246_Luca_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/FcAFCho.png</fanart>
-  <summary>Junjie "Xushu" Liu is a Chinese player currently playing for the Shanghai Dragons.</summary>
-</dir>
-
-
-<dir>
-  <title>Altering</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Altering.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/b/bb/LGD_Gawain_in_OWPS_2017_Spring.jpg/900px-LGD_Gawain_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/nrAc6uC.png</fanart>
-  <summary>Yage "Altering" Cheng is a Chinese player currently playing for the Shanghai Dragons.</summary>
-</dir>
-
-
-<dir>
-  <title>MG</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/MG.xml</link>>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/5/58/LGD_mg_in_OWPS_2017_Spring.jpg/900px-LGD_mg_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/S951vjg.png</fanart>
-  <summary>Dongjian "MG" Wu is a Chinese player currently playing for The Shanghai Dragons.</summary>
-</dir>
-
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
 
 <dir>
   <title>Diya</title>
@@ -84,28 +64,44 @@ She gained recognition in the scene after being accused of using an aim bot to p
 </dir>
 
 
-
-
-
-
 <dir>
-  <title>Sky</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Sky.xml</link>
-  <thumbnail>http://liquipedia.net/commons/images/thumb/6/62/MY_zhufanjun_in_OWPS_2017_Spring.jpg/900px-MY_zhufanjun_in_OWPS_2017_Spring.jpg</thumbnail>
-  <fanart>https://i.imgur.com/j8T1IAJ.png</fanart>
-  <summary>He "Sky" Junjian is a Chinese player currently playing for the Shanghai Dragons.</summary>
+  <title>YOUNGJIN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/YOUNGJIN.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
 <dir>
-  <title>Fearless</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fearless.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/959277198031990784/q56RwAVo_400x400.jpg</thumbnail>
-  <fanart>https://i.imgur.com/fpvwRtd.png</fanart>
-  <summary>Eui-Seok "Fearless" Lee is a Korean player currently playing for the Shanghai Dragons.</summary>
+  <title>diem</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/diem.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+
+
 <dir>
-  <title>Ado</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ado.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/959277198031990784/q56RwAVo_400x400.jpg</thumbnail>
-  <fanart>https://i.imgur.com/mVFREhd.png</fanart>
-  <summary>Ki-hyun "Ado" Cheon is a Korean player currently playing for the Shanghai Dragons.</summary>
+  <title>CoMa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/CoMa.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Luffy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Luffy.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>

@@ -2,7 +2,7 @@
 ##########################################################################################
 <thumbnail>https://i.imgur.com/y0Qt99B.png</thumbnail>
 <fanart>https://i.imgur.com/i9WMhOw.png</fanart>
-<summary>Dylan "aKm" Bignet is a French player that plays for the Dallas Fuel.</summary>
+<summary></summary>
 
 ###########################################################################################
 
@@ -12,5 +12,5 @@
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=31670989&amp;mode=channel_videos </sublink>
   </link>
-  <summary>Dylan "aKm" Bignet is a French player that plays for the Dallas Fuel.</summary>
+  <summary></summary>
 </plugin>

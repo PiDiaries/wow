@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
-<fanart>https://i.imgur.com/j0QG5Hw.png</fanart>
-<summary>Aleksi "Zuppeh" Kuntsi is a Finnish player currently playing for the Florida Mayhem.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=103006437&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=103006437&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
-  <summary>Aleksi "Zuppeh" Kuntsi is a Finnish player currently playing for the Florida Mayhem.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
 </plugin>

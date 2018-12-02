@@ -1,7 +1,4 @@
 ###################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/08BQ9B93UZMA1515702582681.png</thumbnail>
-<fanart>https://i.imgur.com/yQahTf7.png</fanart>
-<summary>George "ShaDowBurn" Gushcha is a Russian player currently playing for the Philadelphia Fusion. He's also a renowned ex-Team Fortress 2 player and Genji main.</summary>
 ###################################################################################
 
 <plugin>
@@ -10,12 +7,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45165401&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=45165401&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>George "ShaDowBurn" Gushcha is a Russian player currently playing for the Philadelphia Fusion. He's also a renowned ex-Team Fortress 2 player and Genji main.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/08BQ9B93UZMA1515702582681.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>ShaDowBurn Youtube</title>
   <link>plugin:plugin.video.youtube/channel/UCW5TpUOho3qXE_bPWS3z0yQ/</link>
   <thumbnail>https://yt3.ggpht.com/-u75GBJ5Na_I/AAAAAAAAAAI/AAAAAAAAAAA/BovpCCbGTsU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>George "ShaDowBurn" Gushcha is a Russian player currently playing for the Philadelphia Fusion. He's also a renowned ex-Team Fortress 2 player and Genji main.</summary>
 </plugin>

@@ -1,7 +1,4 @@
 ################################################################################
-<fanart>https://i.imgur.com/4FAtiWY.png</fanart>
-<thumbnail></thumbnail>
-<summary></summary>
 
 ################################################################################
 
@@ -12,5 +9,4 @@
   <sublink>plugin://plugin.video.twitch/?channel_id=117748199&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/XXLO6MSM8ENO1512685112952.png</thumbnail>
-  <summary>Christian "cocco" Jonsson is a Swedish player currently playing for The Dallas Fuel.</summary>
 </plugin>

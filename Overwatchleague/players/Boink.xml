@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ULB4T6MH7R381512616494895.png</thumbnail>
-<fanart>https://i.imgur.com/o5vRB0j.png</fanart>
-<summary>Daniel "Boink" Pence is an American player currently playing for the Houston Outlaws.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,12 +7,12 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=22883056&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Daniel "Boink" Pence is an American player currently playing for the Houston Outlaws.</summary>
+  <summary></summary>
 </plugin>
 
 <plugin>
   <title>Boink Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCNyyWMy3ulcc060_tYFBc2A/</link>
   <thumbnail>https://yt3.ggpht.com/-0LKS_5VxR8c/AAAAAAAAAAI/AAAAAAAAAAA/YOBtj83-nTA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Daniel "Boink" Pence is an American player currently playing for the Houston Outlaws.</summary>
+  <summary></summary>
 </plugin>

@@ -1,6 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ERF1NG1OPC2R1512770128333.png</thumbnail>
-<fanart>https://i.imgur.com/L7IKSz6.png</fanart>
 ################################################################################
 
 <plugin>
@@ -9,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52029630&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=52029630&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Seok-woo "Wekeed" Choi is a South Korean player that currently plays for Seoul Dynasty in the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ERF1NG1OPC2R1512770128333.png</thumbnail>
 </plugin>

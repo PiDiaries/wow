@@ -1,6 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0XYLZKYB8LO21512770127871.png</thumbnail>
-<fanart>https://i.imgur.com/1Epw17S.png</fanart>
 #################################################################################
 
 <plugin>
@@ -9,7 +7,7 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146057990&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=146057990&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-    <summary>Byung-sun "Fleta" Kim is a South Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0XYLZKYB8LO21512770127871.png</thumbnail>
 </plugin>
 
 <plugin>

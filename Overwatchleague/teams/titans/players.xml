@@ -2,6 +2,11 @@
 
 ################################################################################
 
+<item>
+<title>[B]TANKS[/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Bumper</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bumper.xml</link>
@@ -19,6 +24,17 @@
   <summary></summary>
 </dir>
 
+
+
+
+
+
+
+
+<item>
+<title>[B]DPS[/B]</title>
+<link>//</link>
+</item>
 
 <dir>
   <title>Haksal</title>
@@ -54,6 +70,13 @@
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+<item>
+<title>[B]Support[/B]</title>
+<link>//</link>
+</item>
+
+
 
 
 <dir>

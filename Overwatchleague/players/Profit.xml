@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
-<fanart>https://i.imgur.com/LjLai5x.png</fanart>
-<summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
 
 ###########################################################################################
 
@@ -11,7 +8,7 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
 </plugin>
 
 
@@ -27,6 +24,5 @@
 
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
-<fanart>https://i.imgur.com/LjLai5x.png</fanart>
   <summary>Q&A with Profit</summary>
 </plugin>

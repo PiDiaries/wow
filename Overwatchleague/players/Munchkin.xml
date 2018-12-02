@@ -1,5 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EXGQNIWZDGSD1512770128109.png</thumbnail>
 <fanart>https://i.imgur.com/59xtHcK.png</fanart>
 #################################################################################
 
@@ -9,5 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153587615&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=153587615&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Sang-beom "Munchkin" Byeon is a Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EXGQNIWZDGSD1512770128109.png</thumbnail>
 </plugin>

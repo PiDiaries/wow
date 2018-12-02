@@ -1,6 +1,5 @@
 ################################################################################
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BSOW4XNW20CS1512685113260.png</thumbnail>
-<fanart>https://i.imgur.com/yujj1Oo.png</fanart>
 
 ################################################################################
 
@@ -10,8 +9,7 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135013913&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=135013913&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <thumbnail></thumbnail>
-  <summary>Hyeon "EFFECT" Hwang is a South Korean player currently playing for the Dallas Fuel</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BSOW4XNW20CS1512685113260.png</thumbnail>
 </plugin>
 
 
@@ -19,5 +17,4 @@
   <title>EFFECT Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCcc3YwvoDF3LqfGZPZmCy/</link>
   <thumbnail>https://yt3.ggpht.com/-C8sJh7nRr8o/AAAAAAAAAAI/AAAAAAAAAAA/SOAc5eCfqPo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Hyeon "EFFECT" Hwang is a South Korean player currently playing for the Dallas Fuel</summary>
 </plugin>

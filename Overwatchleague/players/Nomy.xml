@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png</thumbnail>
-<fanart>https://i.imgur.com/ir7NlUO.png</fanart>
-<summary>David "nomy" Ramirez is a Mexican player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 
 ###########################################################################################
 
@@ -11,5 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23593124&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=23593124&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>David "nomy" Ramirez is a Mexican player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png</thumbnail>
 </plugin>

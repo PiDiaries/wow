@@ -1,0 +1,11 @@
+
+
+
+<plugin>
+  <title>GuardiaN Twitch</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145631942&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=145631942&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary></summary>
+</plugin>

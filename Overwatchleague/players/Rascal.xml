@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
-<fanart>https://i.imgur.com/y0Qt99B.png</fanart>
-<summary>Dong-jun "Rascal" Kim is a South Korean player currently playing for the London Spitfire.</summary>
 
 ###########################################################################################
 
@@ -11,8 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=144636878&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/32KVIN02MN121512776037657.png</thumbnail>
-  <fanart>https://i.imgur.com/y0Qt99B.png</fanart>
-  <summary>Dong-jun "Rascal" Kim is a South Korean player currently playing for Dallas Fuel but was once part of London Spitfire.</summary>
 
 </plugin>

@@ -1,6 +1,4 @@
 #################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ML4KPZZ8FTRT1512686064886.png</thumbnail>
-<fanart>https://i.imgur.com/7p4uPZW.png</fanart>
 #################################################################################
 
 <plugin>
@@ -9,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=75603583&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=75603583&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Joon-hwa "Janus" Song is a South Korean player currently playing for the New York Excelsior.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ML4KPZZ8FTRT1512686064886.png</thumbnail>
 </plugin>

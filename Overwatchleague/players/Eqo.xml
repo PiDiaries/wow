@@ -1,7 +1,5 @@
 ###################################################################################
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/yQahTf7.png</fanart>
-<summary>Josh "Eqo" Corona is an Israeli player currently playing for the Philadelphia Fusion.</summary>
 #################################################################################
 
 <plugin>
@@ -10,5 +8,4 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=144332450&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Josh "Eqo" Corona is an Israeli player currently playing for the Philadelphia Fusion.</summary>
 </plugin>

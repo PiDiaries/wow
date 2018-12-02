@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png</thumbnail>
-<fanart>https://i.imgur.com/ZTwiWev.png</fanart>
-<summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,12 +7,12 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135052907&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=135052907&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YWYMSL7EOA951512777247847.png</thumbnail>
+
 </plugin>
 
 <plugin>
   <title>sleepy Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCyJMBruhef9sSLgOMz_joTA/</link>
   <thumbnail>https://yt3.ggpht.com/-ACPQMw98Bm4/AAAAAAAAAAI/AAAAAAAAAAA/IpQzPdvD7l4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </plugin>

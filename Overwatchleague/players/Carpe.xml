@@ -1,8 +1,4 @@
 ##################################################################################
-<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fusion/Carpe.xml</link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/45JECTBHIE2M1515621286179.png</thumbnail>
-<fanart>https://i.imgur.com/g8EJ5U8.png</fanart>
-<summary>Jae-hyeok "Carpe" Lee is a South Korean player currently playing for the Philadelphia Fusion.</summary>
 ##################################################################################################
 
 <plugin>
@@ -11,12 +7,12 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=148019820&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-    <summary>Jae-hyeok "Carpe" Lee is a South Korean player currently playing for the Philadelphia Fusion.</summary>
+    <summary>.</summary>
 </plugin>
 
 <plugin>
   <title>Carpe Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UC1pOo4q4RBQHohNAYn3BFyg/</link>
   <thumbnail>https://yt3.ggpht.com/-wyEBtM7SqEc/AAAAAAAAAAI/AAAAAAAAAAA/6KGq6rRau-Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Jae-hyeok "Carpe" Lee is a South Korean player currently playing for the Philadelphia Fusion.</summary>
+  <summary>.</summary>
 </plugin>

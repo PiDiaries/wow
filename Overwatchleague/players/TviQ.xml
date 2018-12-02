@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/L76ZWRFRYTN21512685744749.png</thumbnail>
-<fanart>https://i.imgur.com/dXG90Xd.png</fanart>
-<summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,12 +7,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27728003&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=27728003&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/L76ZWRFRYTN21512685744749.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>TviQ Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCfFWkHQzRsAHr-kiEVdlWtw/</link>
   <thumbnail>https://yt3.ggpht.com/-8po3CAuFbgA/AAAAAAAAAAI/AAAAAAAAAAA/4tveVjmOXgw/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
 </plugin>

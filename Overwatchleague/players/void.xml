@@ -1,5 +1,4 @@
 ##########################################################################
-  <fanart>https://i.imgur.com/uHfZGom.png</fanart>
 
 ############################################################################
 
@@ -11,7 +10,6 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=153696106&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Jun-woo "Void" Kang is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
 </plugin>
 
 

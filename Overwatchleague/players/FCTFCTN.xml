@@ -1,6 +1,4 @@
 ##########################################################################################
-<fanart>https://i.imgur.com/6gxbKNz.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 ###########################################################################################
 
 <plugin>
@@ -9,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Russell "FCTFCTN" Campbell is an American player currently playing for Houston Outlaws.</summary>
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 </plugin>

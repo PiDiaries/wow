@@ -1,5 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4TUBG7W23UYA1512685113511.png</thumbnail>
 <fanart>https://i.imgur.com/D7RcVxR.png</fanart>
 
 ################################################################################
@@ -10,7 +9,7 @@
 <sublink>plugin://plugin.video.twitch/?channel_id=71092938&amp;mode=channel_videos (Twitch VOD)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
 </link>
-  <thumbnail></thumbnail>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4TUBG7W23UYA1512685113511.png</thumbnail>
   <summary></summary>
 </plugin>
 
@@ -19,5 +18,4 @@
   <title>xQc Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCmDTrq0LNgPodDOFZiSbsww/</link>
   <thumbnail>https://yt3.ggpht.com/-2OSf1dzIXF4/AAAAAAAAAAI/AAAAAAAAAAA/EA83qKpux2g/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Félix "xQc" Lengyel is a Canadian player who currently plays Main Tank for the Dallas Fuel.</summary>
 </plugin>

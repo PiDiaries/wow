@@ -1,8 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png</thumbnail>
-<fanart>https://i.imgur.com/uidemLD.png</fanart>
-<summary>Christopher "GrimReality" Schaefer is an American player that played for Immortals and now plays for the Los Angeles Valiant in the Overwatch League. He is known primarily for his aim on hitscan heroes.</summary>
-
 ###########################################################################################
 
 <plugin>
@@ -11,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137917751&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=137917751&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Christopher "GrimReality" Schaefer is an American player that played for the Los Angeles Valiant in the Overwatch League. He has now moved to a Coaching role.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png</thumbnail>
 </plugin>

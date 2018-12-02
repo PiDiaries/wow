@@ -1,6 +1,4 @@
 ##################################################################################
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JHRCXX6XSYML1515621286136.png</thumbnail>
-  <fanart>https://i.imgur.com/Sai3W29.png</fanart>
 ##################################################################################
 
 <plugin>
@@ -9,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=87917078&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-    <summary>Isaac "Boombox" Charles is a British player currently playing for the Philadelphia Fusion.</summary>
+    <summary></summary>
 </plugin>

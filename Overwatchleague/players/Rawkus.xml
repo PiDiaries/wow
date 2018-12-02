@@ -1,5 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DMM5P90VN9SX1512616495367.png</thumbnail>
 <fanart>https://i.imgur.com/dTFWdfe.png</fanart>
 <summary>Shane "Rawkus" Flaherty is an American player currently playing for the Houston Outlaws.</summary>
 
@@ -11,12 +10,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=27855530&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Shane "Rawkus" Flaherty is an American player currently playing for the Houston Outlaws.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DMM5P90VN9SX1512616495367.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>Rawkus Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCsniFhn5IfU7VaJW5XuynSg/</link>
   <thumbnail>https://yt3.ggpht.com/-SEgw_qCUzk8/AAAAAAAAAAI/AAAAAAAAAAA/t_6CAiSZ57M/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Shane "Rawkus" Flaherty is an American player currently playing for the Houston Outlaws.</summary>
 </plugin>

@@ -1,7 +1,4 @@
 ################################################################################
-<fanart>https://i.imgur.com/toujCyM.png</fanart>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DPNHA5GMIH3J1512769819813.png</thumbnail>
-<summary></summary>
 
 ################################################################################
 
@@ -11,6 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132763247&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=132763247&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <thumbnail></thumbnail>
-  <summary>Woo-yeol "Kalios" Shin is a Korean player currently playing for Boston Uprising.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DPNHA5GMIH3J1512769819813.png</thumbnail>
 </plugin>

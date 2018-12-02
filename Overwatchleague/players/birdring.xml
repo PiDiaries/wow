@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1UDI0E8KITK81512776037063.png</thumbnail>
-<fanart>https://i.imgur.com/LjLai5x.png</fanart>
-<summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
 
 ###########################################################################################
 
@@ -11,5 +8,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144548334&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=144548334&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+  <summary></summary>
 </plugin>

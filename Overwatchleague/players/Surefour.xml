@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
-<fanart>https://i.imgur.com/yWZr5yr.png</fanart>
-<summary>Lane "Surefour" Roberts is a Canadian player currently playing for the Los Angeles Gladiators.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,7 +7,7 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Lane "Surefour" Roberts is a Canadian player currently playing for the Los Angeles Gladiators.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
 </plugin>
 
 
@@ -18,5 +15,4 @@
   <title>Surefour Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCUtpwWjM4FQCdwfdZWzxJrg/</link>
   <thumbnail>https://yt3.ggpht.com/-xUUOPuIetDU/AAAAAAAAAAI/AAAAAAAAAAA/6MhPaxFgs9I/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Lane "Surefour" Roberts is a Canadian player currently playing for the Los Angeles Gladiators.</summary>
 </plugin>

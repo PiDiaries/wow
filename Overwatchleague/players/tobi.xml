@@ -1,6 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85PY053PQS2E1512770128333.png</thumbnail>
-<fanart>https://i.imgur.com/rDCNwVN.png</fanart>
 #################################################################################
 
 <plugin>
@@ -9,12 +7,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137440400&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=137440400&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-    <summary>Jin-mo "tobi" Yang is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85PY053PQS2E1512770128333.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>tobi Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UC_u9GVt_E_bnBtngSFxzWqg/</link>
   <thumbnail>https://yt3.ggpht.com/-tqzUBN2rS6Y/AAAAAAAAAAI/AAAAAAAAAAA/8SKn951D2mI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Jin-mo "tobi" Yang is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
 </plugin

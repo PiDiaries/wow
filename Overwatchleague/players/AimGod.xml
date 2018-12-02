@@ -11,7 +11,7 @@
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139934912&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=139934912&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
-  <thumbnail></thumbnail>
-  <summary>Min-seok "AimGod" "Jeff" Kwon is a South Korean player currently playing for Boston Uprising.</summary>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/S98M3VIS59XR1526600595504.png</thumbnail>
+  <summary></summary>
 </plugin>
 

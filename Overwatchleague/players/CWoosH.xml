@@ -1,7 +1,5 @@
 ##########################################################################################
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/RPHC99GZV5YT1512685744459.png</thumbnail>
-<fanart>https://i.imgur.com/JNniDJx.png</fanart>
-<summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,5 +8,6 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=123618783&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=123618783&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Johan "CWoosH" Klingestedt is a Swedish player currently playing for the Florida Mayhem.</summary>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/RPHC99GZV5YT1512685744459.png</thumbnail>
+
 </plugin>

@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WZ8MLSBXCD6E1512776701242.png</thumbnail>
-<fanart>https://i.imgur.com/80E1m6y.png</fanart>
-<summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
 
 ###########################################################################################
 
@@ -11,12 +8,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26437807&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=26437807&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/WZ8MLSBXCD6E1512776701242.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>Silkthread Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCuPqXAms0Kg_pSh6g_aiX6w/</link>
   <thumbnail>https://yt3.ggpht.com/-JNQ8hSqB6GI/AAAAAAAAAAI/AAAAAAAAAAA/S7I6b1FpSsg/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Ted "silkthread" Wang is an American player that plays for the Los Angeles Valiant in the Overwatch League.</summary>
 </plugin>

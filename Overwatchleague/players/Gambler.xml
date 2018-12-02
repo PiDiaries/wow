@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/rDCNwVN.png</fanart>
-<summary></summary>
 ###########################################################################################
 
 <plugin>
@@ -10,5 +7,4 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130445097&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=130445097&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Heo "Gambler" Jin-woo is a South Korean player currently playing for Seoul Dynasty.</summary>
 </plugin>

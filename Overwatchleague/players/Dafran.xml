@@ -1,8 +1,0 @@
-
-<plugin>
-  <title>Dafran</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&mode=play (Twitch Live Link)</sublink>
-       <sublink>plugin://plugin.video.twitch/?channel_id=41314239&amp;channel_name=dafran&amp;display_name=dafran&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
-   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dafran-profile_image-98c45a96ca6ad150-300x300.png</thumbnail>      <summary></summary>
-  </plugin>

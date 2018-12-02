@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
-<fanart>https://i.imgur.com/iSQAvIC.png</fanart>
-<summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23064268&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=23064268&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
-  <summary>Sebastian "Zebbosai" Olsson is a Swedish player that plays for the Florida Mayhem.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
 </plugin>

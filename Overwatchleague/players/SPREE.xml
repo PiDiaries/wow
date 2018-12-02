@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NBP2HF8SW2LQ1512616495543.png</thumbnail>
-<fanart>https://i.imgur.com/kVPmjUH.png</fanart>
-<summary>Alexandre "SPREE" Vanhomwegen is a Belgian player currently playing for the Houston Outlaws.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,12 +7,11 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=37351711&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Alexandre "SPREE" Vanhomwegen is a Belgian player currently playing for the Houston Outlaws.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NBP2HF8SW2LQ1512616495543.png</thumbnail>
 </plugin>
 
 <plugin>
   <title>SPREE Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCvT33BBdRckYZCbFDe-rZCA/</link>
   <thumbnail>https://yt3.ggpht.com/-WxLOsxtJqw0/AAAAAAAAAAI/AAAAAAAAAAA/b9dbcibWKU0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Alexandre "SPREE" Vanhomwegen is a Belgian player currently playing for the Houston Outlaws.</summary>
 </plugin>

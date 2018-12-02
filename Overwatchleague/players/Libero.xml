@@ -1,6 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
-<fanart>https://i.imgur.com/oAj3Yst.png</fanart>
 ################################################################################
 
 <plugin>
@@ -9,7 +7,7 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=126936223&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-    <summary>Hye-sung "Libero" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
 </plugin>
 
 
@@ -17,5 +15,5 @@
   <title>Libero Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UC5ItNT1byUJmE1fHBt9b-wg/</link>
   <thumbnail>https://yt3.ggpht.com/-1YaeG607dn4/AAAAAAAAAAI/AAAAAAAAAAA/y7NpcNvf8B0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-  <summary>Hye-sung "Libero" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
 </plugin>

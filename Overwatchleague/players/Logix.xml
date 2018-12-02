@@ -1,7 +1,4 @@
 ##########################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
-<fanart>https://i.imgur.com/5fX0uKV.png</fanart>
-<summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
 ###########################################################################################
 
 <plugin>
@@ -10,5 +7,5 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <summary>Andreas "Logix" Berghmans is a Belgian player currently playing for the Florida Mayhem in the Overwatch League.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
 </plugin>

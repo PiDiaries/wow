@@ -1,6 +1,4 @@
 ################################################################################
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NSLR4T063K361512685112947.png</thumbnail>
-<fanart>https://i.imgur.com/i9WMhOw.png</fanart>
 
 ################################################################################
 
@@ -10,6 +8,6 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31735052&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=31735052&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <thumbnail></thumbnail>
-  <summary>Sebastian "chipshajen" Widlund is a Swedish player currently playing for The Dallas Fuel.</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NSLR4T063K361512685112947.png</thumbnail>
+  <summary></summary>
 </plugin>
