@@ -1,0 +1,10 @@
+
+<plugin>
+  <title> Twitch</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?channel_id=139042966&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?channel_id=139042966&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary></summary>
+</plugin

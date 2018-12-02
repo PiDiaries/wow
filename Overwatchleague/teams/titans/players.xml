@@ -3,57 +3,80 @@
 ################################################################################
 
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Bumper</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bumper.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>JJANU</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/JJANU.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Haksal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Haksal.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Stitch</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Stitch.xml</link>
   <thumbnail>.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Hooreg</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Hooreg.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>SeoMinSoo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SeoMinSoo.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>SLIME</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SLIME.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
 <dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/.xml</link>
+  <title>Twilight</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Twilight.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Rapel</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rapel.xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
