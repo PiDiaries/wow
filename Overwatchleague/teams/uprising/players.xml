@@ -1,5 +1,5 @@
 ################################################################################
-<fanart>https://i.imgur.com/bW3gPXw.png</fanart>
+<fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>
 ################################################################################
 
 
@@ -11,14 +11,33 @@
   <summary>Young-jin "Gamsu" Noh is a South Korean player that plays for the Boston Uprising in the Overwatch League.</summary>
 </dir>
 
+<dir>
+  <title>NotE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NotE.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
+  <fanart>https://i.imgur.com/0uiKZyw.png</fanart>
+  <summary>Lucas "NotE" Meissner is a Canadian player currently playing for the Boston Uprising.</summary>
+</dir>
+
+
 
 <dir>
-  <title>Neko</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Neko.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TZ8DWCLINMZS1512769820004.png</thumbnail>
-  <fanart>https://i.imgur.com/WTIehly.png</fanart>
-  <summary>Se-hyeon "Neko" Park is a South Korean player currently playing for the Boston Uprising.</summary>
+  <title>Axxiom</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Axxiom.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
+
+
+<dir>
+  <title>Fusions</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fusions.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
 
 
 <dir>
@@ -30,48 +49,21 @@
 </dir>
 
 
+
 <dir>
-  <title>Mistakes</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mistakes.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LN1C7SYE7GX81512769819823.png</thumbnail>
-  <fanart>https://i.imgur.com/NtSxEQH.png</fanart>
-  <summary>Stanislav "Mistakes" Danilov a Russian player that plays for the Boston Uprising in the Overwatch League.</summary>
+  <title>Colourhex</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Colourhex.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
 
-
 <dir>
-  <title>Snow</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Snow.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D8ZAQFT98UTD1512769820007.png</thumbnail>
-  <fanart>https://i.imgur.com/2paxgdw.png</fanart>
-  <summary>Mikias "Snow" Yohannes is an Ethiopian player residing in America, currently playing for the Boston Uprising.</summary>
-</dir>
-
-
-<dir>
-  <title>NotE</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NotE.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
-  <fanart>https://i.imgur.com/0uiKZyw.png</fanart>
-  <summary>Lucas "NotE" Meissner is a Canadian player currently playing for the Boston Uprising.</summary>
-</dir>
-
-
-<dir>
-  <title>Avast</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Avast.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QXCMYNUTGPRL1512769819625.png</thumbnail>
-  <fanart>https://i.imgur.com/16beLrm.png</fanart>
-  <summary>Connor "Avast" Prince is an American player currently playing for the Boston Uprising.</summary>
-</dir>
-
-
-<dir>
-  <title>Kalios</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kalios.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DPNHA5GMIH3J1512769819813.png</thumbnail>
-  <fanart>https://i.imgur.com/toujCyM.png</fanart>
-  <summary>Woo-yeol "Kalios" Shin is a Korean player currently playing for Boston Uprising.</summary>
+  <title>blasé</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/blasé.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>
 
 
@@ -90,4 +82,12 @@
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/S98M3VIS59XR1526600595504.png</thumbnail>
   <fanart>https://i.imgur.com/WTIehly.png</fanart>
   <summary>Min-seok "AimGod" "Jeff" Kwon is a South Korean player currently playing for Boston Uprising.</summary>
+</dir>
+
+<dir>
+  <title>FunnyAstro</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FunnyAstro.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
 </dir>

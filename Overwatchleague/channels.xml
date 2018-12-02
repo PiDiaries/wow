@@ -304,7 +304,7 @@ I'm 6'2 120 lbs
   </plugin>
 
 <plugin>
-  <title>dafran</title>
+  <title>Dafran</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&mode=play (Twitch Live Link)</sublink>
        <sublink>plugin://plugin.video.twitch/?channel_id=41314239&amp;channel_name=dafran&amp;display_name=dafran&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
@@ -324,7 +324,7 @@ I'm 6'2 120 lbs
 </plugin>
 
 <plugin>
-  <title> Twitch</title>
+  <title>QueenE Twitch</title>
   <link>
     <sublink>plugin://plugin.video.twitch/?channel_id=25880340&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?channel_id=25880340&amp;mode=channel_videos (VODs)</sublink>
