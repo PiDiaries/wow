@@ -33,3 +33,11 @@
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>
   </summary>
 </plugin>
+
+<dir>
+  <title>UPRISING ACADEMY</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/na/uprising/main.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/na/uprising/icon.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>

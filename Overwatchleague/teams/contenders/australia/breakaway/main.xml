@@ -1,0 +1,63 @@
+
+<plugin>
+  <title>Trisimail</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Tristan Ismail</summary>
+</plugin>
+
+<plugin>
+  <title>Jervisss</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Alston Xiong</summary>
+</plugin>
+
+<plugin>
+  <title>Volonte</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>William McCallum</summary>
+</plugin>
+
+<plugin>
+  <title>JJJJ</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Sol Spearitt</summary>
+</plugin>
+
+<plugin>
+  <title>Babyporo</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Serena Barnett</summary>
+</plugin>
+
+<plugin>
+  <title>SlidzorJ</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Jason Andrews</summary>
+</plugin>
+
+<plugin>
+  <title>Dfield</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Daniel Banfield</summary>
+</plugin>
