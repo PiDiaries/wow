@@ -1,72 +1,72 @@
 
 <plugin>
-  <title></title>
+  <title>BTRGGUDAN</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Legeng Huang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGRIVEN</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Guifeng Chen</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGFENGM1AN</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Qi Fan</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGReborn</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Feng Xue</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGmAsk</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Zhongming He</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGmz</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Xinmiao Li</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGEffort</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Zhehao Tang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>BTRGLiGe</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>ChengJie Jia</summary>
 </plugin>

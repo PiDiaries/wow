@@ -1,72 +1,72 @@
 
 <plugin>
-  <title></title>
+  <title>FGevillx</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Hanbin Zhao</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGOver</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Sifan Deng</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGColdest</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Xiaodong Tong</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGJason</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Wenjie Jiang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGLie</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Haoxuan Huang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGMachine</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Kaiwen Yang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGmika</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Jiming Liu</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>FGmg</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Dongjian Wu</summary>
 </plugin>

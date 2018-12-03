@@ -1,72 +1,63 @@
 
 <plugin>
-  <title></title>
+  <title>TSLRunChheng</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Bin Feng</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSL399</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Ang Li</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSLYaGami</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Zhicheng Yang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSLDPS</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Choi</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSLUMBRA</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>He Feng</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSLn1ghtg0d</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Xinyu Bai</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>TSLSOBER</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <summary>Xiaozhuang Zhan</summary>
 </plugin>

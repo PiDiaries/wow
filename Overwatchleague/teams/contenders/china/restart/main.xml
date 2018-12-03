@@ -1,72 +1,63 @@
 
 <plugin>
-  <title></title>
+  <title>RSDeku</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Yi Lu</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSWinWinQ</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Wenjin Wang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSFengyan</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Zhengfeng Xu</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSMomda</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Zi Huang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSWonz</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Jiseop Won</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSAzt2c</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Jeong Soo Park</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>RSCloud</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <summary>Tak Huik</summary>
 </plugin>

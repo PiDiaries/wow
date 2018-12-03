@@ -1,72 +1,72 @@
 
 <plugin>
-  <title></title>
+  <title>ZOOAyan</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Yan Wang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOcloudy</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Yiteng Hong</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOZelta</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Chenhan Zou</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOMccOuO</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Sizhe Yang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOLengFeng</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Kunbin Xu</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOLazy</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Shunzhi Chen</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOONanhai</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Chenxu Yang</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>ZOOMuahorse</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Shijing Cheng</summary>
 </plugin>
