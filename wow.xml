@@ -8,7 +8,7 @@
 </plugin>
 
 <dir>
-  <title>[COLORffce532a][B]Overwatch[/B][/COLOR] eSports</title>
+  <title>[COLORffffcf35][B]Overwatch[/B][/COLOR] eSports</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
   <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>
   <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
@@ -19,7 +19,7 @@
 
 
 <plugin>
-  <title>[COLORffce532a][B]W[COLORwhite]atch [COLORffce532a]O[COLORwhite]ver[COLORffce532a]w[COLORwhite]atch[/B][/COLOR]</title>
+  <title>[COLORffffcf35][B]W[COLORwhite]atch [COLORffffcf35]O[COLORwhite]ver[COLORffffcf35]w[COLORwhite]atch[/B][/COLOR]</title>
   <link>plugin://plugin.video.twitch/?game=Overwatch&amp;mode=game_streams</link>
   <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/312EjBsxqzL.png</thumbnail>
   <fanart></fanart>
@@ -51,7 +51,7 @@
 </plugin>
 
 <dir>
-  <title>[COLORffce532a][B]Overwatch League[/B][/COLOR] Casting Talent</title>
+  <title>[COLORffffcf35][B]Overwatch League[/B][/COLOR] Casting Talent</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast.xml</link>
   <thumbnail></thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/blog_header/rw/RWVM50TF6NB61515192028543.jpg</fanart>
