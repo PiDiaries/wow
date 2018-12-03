@@ -56,6 +56,14 @@ justice1 = 990034
 justice2 = 003768
 justice3 = ffffff
 
+ana 
+617695
+4f77b2
+5167b2
+d4966e
+edd0c0
+
+
 
 bastion
 Eye and Chest = 45fffe
@@ -64,6 +72,16 @@ Armor Highlight = b86e41
 Armor Upper = ebd9b3
 Decals = a1472f
 gunmetal base = 443f46
+
+
+Brigitte
+
+
+
+
+
+
+
 
 Dva
 skin = f8c5ae
@@ -134,6 +152,21 @@ armor accents = d52b1e
 eyes = 4d809b
 outer armor = ffffff
 
+Moira
+d8cecd
+2d2e30
+b7533d
+904fd9
+3daae1	
+
+
+Orisa 
+5d5160
+d0c8b4
+de9839
+97ab40
+cdf838
+
 pharah 
 armor = 3461a4
 accent gold = ddaf63
@@ -172,6 +205,14 @@ metal = 494149
 pants = 584e47
 gun accent = 4e6de4
 gun accent = e7e7e7
+
+sombra
+b2855e
+312717
+a350f9
+f76aff
+30353b	
+
 
 sym
 armor white = f3f0e9

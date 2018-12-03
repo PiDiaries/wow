@@ -2,22 +2,13 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
-
-<dir>
-  <title>NEW HERO Ashe</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/ashe.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/ashe.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/ashe-screenshot-003.jpg</fanart>
-  <summary></summary>
-</dir>
-
 <plugin>
 <title>Latest Game News | Overwatch</title>
 <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
 </plugin>
 
 <dir>
-  <title>Overwatch eSports</title>
+  <title>[COLORffce532a][B]Overwatch[/B][/COLOR] eSports</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
   <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6.jpg</thumbnail>
   <fanart>https://i.ytimg.com/vi/OFHpK627XkI/maxresdefault.jpg</fanart>
@@ -39,7 +30,7 @@
 
 
 <dir>
-  <title>Playing Guides</title>
+  <title>Hero Info and  Guides</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/guides.xml</link>
   <thumbnail></thumbnail>
 </dir>
@@ -60,7 +51,7 @@
 </plugin>
 
 <dir>
-  <title>Overwatch Casting Talent</title>
+  <title>[COLORffce532a][B]Overwatch League[/B][/COLOR] Casting Talent</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast.xml</link>
   <thumbnail></thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/blog_header/rw/RWVM50TF6NB61515192028543.jpg</fanart>

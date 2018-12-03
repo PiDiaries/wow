@@ -1,72 +1,74 @@
 
+
 <plugin>
-  <title></title>
+  <title>Kephrii </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?channel_id=31582795&amp;channel_name=kephrii&amp;display_name=Kephrii&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/kephrii-profile_image-d6499e8af76a8936-300x300.jpeg</thumbnail>     <summary></summary>
+
+  <summary>Brian St. Pierre</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Water</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Minsung Lee</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>SYC</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Yoonchan Sung</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Kadalis</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Yeonghwan Ra</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Spanic</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Minyeol Lee</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Medic</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>HongGyu Kim</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>InHyeok</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Inhyeok Jeong</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Backwall</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Kyungsun Park</summary>
 </plugin>
