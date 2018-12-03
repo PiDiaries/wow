@@ -19,7 +19,7 @@
 
 
 <plugin>
-  <title>[COLORorange][B]W[COLORwhite]atch [COLORorange]O[COLORwhite]ver[COLORorange]w[COLORwhite]atch[/B][/COLOR]</title>
+  <title>[COLORffce532a[B]W[COLORwhite]atch [COLORffce532aO[COLORwhite]ver[COLORffce532a]w[COLORwhite]atch[/B][/COLOR]</title>
   <link>plugin://plugin.video.twitch/?game=Overwatch&amp;mode=game_streams</link>
   <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/312EjBsxqzL.png</thumbnail>
   <fanart></fanart>
