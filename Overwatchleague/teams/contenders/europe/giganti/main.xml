@@ -1,72 +1,67 @@
 
 <plugin>
-  <title></title>
+  <title>zappis</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29493830&mode=play (Twitch Live Link) </sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=29493830&amp;mode=channel_videos (Twitch VODs)</sublink>
+  </link>
+<thumbnail>http://liquipedia.net/commons/images/1/14/NiPzappis.png</thumbnail>
+<summary>Joonas Alakurtti</summary>
+</plugin>
+
+
+<plugin>
+  <title>Joonas Alakurtti</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Tuomo Leppänen</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Lilbow</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>David Moschetto</summary>
+</plugin>
+
+
+<plugin>
+  <title>Zuppeh</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=103006437&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=103006437&amp;mode=channel_videos (Twitch VODs)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>
+  <summary>Aleksi Kuntsi</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>Vizility</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Jeffrey de Vries</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>CrusaDe</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
+  <summary>Ryan Francisco van Wegen</summary>
 </plugin>
 
 <plugin>
-  <title></title>
+  <title>milkyman</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
-</plugin>
-
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <summary>Otto Sarén</summary>
 </plugin>
