@@ -1,57 +1,234 @@
- ("dragons1", "dd22730"),
-        ("dragons2", "000000"),
-        ("dragons3", "fce300"),
-        ("shock1", "fc4c01"),
-        ("shock2", "60636a"),
-        ("shock3", "d7c152"),
-        ("fusion1", "f89d2a"),
-        ("fusion2", "000000"),
-        ("fusion3", "ffffff"),
-        ("mayhem1", "fedc01"),
-        ("mayhem2", "af282f"),
-        ("mayhem3", "000000"),
-        ("valiant1", "2a7230"),
-        ("valiant2", "000000"),
-        ("valiant3", "e5d661"),
-        ("outlaws1", "96ca4e"),
-        ("outlaws2", "000000"),
-        ("outlaws3", "ffffff"),
-        ("spitfire1", "59cae8"),
-        ("spitfire2", "1b2b3a"),
-        ("spitfire3", "ff8201"),
-        ("uprising1", "174b97"),
-        ("uprising2", "000000"),
-        ("uprising3", "eedf00"),
-        ("fuel1", "0b233f"),
-        ("fuel2", "0071cd"),
-        ("fuel3", "9ea2a3"),
-        ("nyxl1", "181c39"),
-        ("nyxl2", "2b58e9"),
-        ("nyxl3", "f22431"),
-        ("glad1", "381360"),
-        ("glad2", "000000"),
-        ("glad3", "ffffff"),
-        ("dynasty1", "000000"),
-        ("dynasty2", "9ea2a3"),
-        ("dynasty3", "ffffff"),
-        ("hunters1", "fda100"),
-        ("hunters2", "b4936a"),
-        ("hunters3", "161824"),
-        ("charge1", "122d42"),
-        ("charge2", "67a2b2"),
-        ("charge3", "25f2d4"),
-        ("spark1", "fa7298"),
-        ("spark2", "5887cf"),
-        ("spark3", "ffffff"),
-        ("eternal1", "2f3d57"),
-        ("eternal2", "8d052d"),
-        ("eternal3", "ffaa1c"),
-        ("defiant1", "000000"),
-        ("defiant2", "c20022"),
-        ("defiant3", "91a1b0"),
-        ("titans1", "0a226c"),
-        ("titans2", "2fb228"),
-        ("titans3", "fefefe"),
-        ("justice1", "990034"),
-        ("justice2", "003768"),
-        ("justice3", "ffffff"),
+dragons1 = dd22730
+dragons2 = 000000
+dragons3 = fce300
+shock1 = fc4c01
+shock2 = 60636a
+shock3 = d7c152
+fusion1 = f89d2a
+fusion2 = 000000
+fusion3 = ffffff
+mayhem1 = fedc01
+mayhem2 = af282f
+mayhem3 = 000000
+valiant1 = 2a7230
+valiant2 = 000000
+valiant3 = e5d661
+outlaws1 = 96ca4e
+outlaws2 = 000000
+outlaws3 = ffffff
+spitfire1 = 59cae8
+spitfire2 = 1b2b3a
+spitfire3 = ff8201
+uprising1 = 174b97
+uprising2 = 000000
+uprising3 = eedf00
+fuel1 = 0b233f
+fuel2 = 0071cd
+fuel3 = 9ea2a3
+nyxl1 = 181c39
+nyxl2 = 2b58e9
+nyxl3 = f22431
+glad1 = 381360
+glad2 = 000000
+glad3 = ffffff
+dynasty1 = 000000
+dynasty2 = 9ea2a3
+dynasty3 = ffffff
+hunters1 = fda100
+hunters2 = b4936a
+hunters3 = 161824
+charge1 = 122d42
+charge2 = 67a2b2
+charge3 = 25f2d4
+spark1 = fa7298
+spark2 = 5887cf
+spark3 = ffffff
+eternal1 = 2f3d57
+eternal2 = 8d052d
+eternal3 = ffaa1c
+defiant1 = 000000
+defiant2 = c20022
+defiant3 = 91a1b0
+titans1 = 0a226c
+titans2 = 2fb228
+titans3 = fefefe
+justice1 = 990034
+justice2 = 003768
+justice3 = ffffff
+
+
+bastion
+Eye and Chest = 45fffe
+Armor Base = 7a9767
+Armor Highlight = b86e41
+Armor Upper = ebd9b3
+Decals = a1472f
+gunmetal base = 443f46
+
+Dva
+skin = f8c5ae
+Bodysuit = 92baf4
+bodysuit accent = ee4bb5
+hair = 633633
+mech = feabe6
+mech accent = 01ec8f
+
+genji
+glow = b6ef13
+armor = d7d4d0
+armor accent 787978
+armour muscle = 9a7b6e
+scarf = 2b3037
+
+hanzo
+scarf = ffeb96
+clothing base = 343128
+clothing accent = 837c46
+obi = 345286
+quiver accent = 3bfdf9
+eyes = 343a3f
+
+Junkrat
+armor base = 424140
+armor accents = ffdc44
+mech arm = c7712a
+dark camo = 837c19
+light camo = bcc42d
+wrapping = dbc6ae
+dangerous bits = bd2f17
+
+Lucio
+Armor base = 3f3f3f
+shirt = b8ff45
+skate details = 80cc2e
+leg armor = 3554a2
+yellow armor = fff14b
+speed glow = 24c158
+heal glow = fff225
+
+McCree
+eyes = 5d4c3e
+serape = c23f46
+leather pants = 4e4643
+leather chaps = 795c42
+mechanical arm = 727a8a
+armor = ac9164
+accents = c58c42
+glow = 65ffff
+
+mei 
+eyes = a67a60
+skin = dfad9e
+hair = 472f2b
+jacket base = d0cfd9
+jacket accent = 87d7f6
+fur accents = dad5c2
+pants = 555579
+
+Mercy
+armor base = 3d3b3f
+upper gradient = fedc57
+lower gradient = 944e3b
+wings = ffffa3
+armor accents = d52b1e
+eyes = 4d809b
+outer armor = ffffff
+
+pharah 
+armor = 3461a4
+accent gold = ddaf63
+glow and visor = fee86e
+rockets = a13b2f
+under armor = 4a4949
+accent silver = 848a8c
+
+reaper
+skull mask = d9cca9
+cartridges = 9b3423
+knee glow = ed2711
+armor base = 5e5c50
+coat = 333333
+
+rein
+glows = ffff00
+outer armor = b9b5ad
+armor base = 5d5956
+accents = b22f3b
+
+roadhog
+armor base = 54515a
+armor accents = ffdc44
+wrappings = eedbb00
+dark camo = 566565
+light camo = 7c7f7d
+plate blue = 34426a
+
+s76
+visor glow = f94c18
+skin = facdb2
+blue leather = 525d9b
+red leather = d53231
+metal = 494149
+pants = 584e47
+gun accent = 4e6de4
+gun accent = e7e7e7
+
+sym
+armor white = f3f0e9
+armor base = 535353
+science glow = 3cffff
+dress blue = 3e90b5
+metal accents = a07f4c
+
+torb
+beard = e9d282
+armor = b04a33
+armor glow = ffeb01
+pants = 4b473c
+tattoo teal = 4f6469
+decals = fff1da
+
+tracer
+blue accents = 4dfffe
+jacket = 8c684e
+orange upr = ffcf35
+orange lwr = ce532a
+straps = 46423f
+
+widow
+skin = b1b4db
+hair = 30385f
+jumpsuit body = af5e9e
+jumpsuit legs = 716e8e
+jumpsuit trim = a7bae9
+eyes = eddd52
+visor lens = ef1d1f
+
+winston
+skin/fur = 595959
+helmet = e9a92e
+suit armor = e1dfd8
+suit base = 464540
+suit accents = e9d53e
+eyes = 7d4e22
+lunar logo = 68bac5
+
+zarya
+eyes = 658b5e
+skin = ffc7a9
+hair = ff73c1
+pants = 3d3c41
+steel trim = afafaf
+armor = 5588a2
+armor trim = c11d25
+gun = eff0f0
+
+zen
+head pattern = 98ffff
+sash = e1c931
+dhoti = 6f241e
+pants = bb8a24
+tassel beads = 684c3e
+back skirt = c1b4a1
+skirt pattern = 5f5949
+
