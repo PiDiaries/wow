@@ -1,16 +1,24 @@
 # -*- coding: UTF-8 -*-
 """ Processes HTML of a YT channel's videos, to build a template file for all of them. """
 
-import datetime, json, os, re, requests, sys, traceback
+import datetime
+import json
+import os
+import re
+import requests
+import sys
+import traceback
 
 YOUTUBE_API_KEY = "AIzaSyA4ktCh7tLBk467AYgPMykgdtMZ8HL68hE"
-RESULTS_PER_PAGE = '40' # 1-50 as per Google's rules.
+RESULTS_PER_PAGE = '50'  # 1-50 as per Google's rules.
+
 
 class Generator:
-    def __init__( self ):
+    def __init__(self):
         # create initial variables needed later
         self.base_search_url = 'https://www.googleapis.com/youtube/v3/playlistItems?'
-        self.tools_path = os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__))))
+        self.tools_path = os.path.abspath(os.path.join(
+            os.path.dirname(os.path.realpath(__file__))))
 
         # CHANGEME to match the path needed for your generic fanart to add to each entry. Set to None to not set it.
         # Example: self.fanart = None
@@ -24,7 +32,7 @@ class Generator:
         # notify user
         print('Finished parsing the YouTube Channel. Output saved as .xml')
 
-    def _generate_yt_templates ( self ):
+    def _generate_yt_templates(self):
 
         print('Contacting YouTube API.....')
 
@@ -35,12 +43,12 @@ class Generator:
             print('Youtube Playlist Parser - Exception: \n' + str(failure))
 
         # save file
-        with open('76.xml','w') as f:
+        with open('76.xml', 'w') as f:
             f.write(output_string)
 
-
     def get_all_video_in_channel(self):
-        first_url = self.base_search_url+'key={}&playlistId={}&part=snippet,id&order=date&maxResults={}'.format(YOUTUBE_API_KEY, self.playlist, RESULTS_PER_PAGE)
+        first_url = self.base_search_url+'key={}&playlistId={}&part=snippet,id&order=date&maxResults={}'.format(
+            YOUTUBE_API_KEY, self.playlist, RESULTS_PER_PAGE)
 
         output_string = ''
 
@@ -49,17 +57,20 @@ class Generator:
         url = first_url
 
         while True:
-            inp = requests.get(url, headers={'User-Agent':randomagent()})
+            inp = requests.get(url, headers={'User-Agent': randomagent()})
             resp = inp.json()
 
             for video_item in resp['items']:
                 title_temp = video_item["snippet"]["title"]
                 title = title_temp
-                desc = video_item["snippet"]["description"].encode('ascii',errors='ignore')
+                desc = video_item["snippet"]["description"].encode(
+                    'ascii', errors='ignore')
                 title_temp = replaceHTMLCodes(title_temp)
                 title_temp = replaceEscapeCodes(title_temp)
-                title_temp = title_temp.replace(u'\xa0', u' ').replace(u'\xa9', u'').replace(u'\xe4', u'a').replace(u'\xe9', u'e').replace(u'\xeb', u'e').replace(u'\xe6', u'ae').replace(u'\xfa', u'u').replace(u'\xda', u'U').replace(u'\xe7', u'c')
-                title_temp = title_temp.replace(u'\xe0', u'a').replace(u'\xc9', u'E').replace(u'\xf3', u'o').replace(u'\xff', u'y').replace(u'\xe1', u'a').replace(u'\xed', u'i').replace(u'\xf1', u'n').replace(u'\xe3', u'a')
+                title_temp = title_temp.replace(u'\xa0', u' ').replace(u'\xa9', u'').replace(u'\xe4', u'a').replace(u'\xe9', u'e').replace(
+                    u'\xeb', u'e').replace(u'\xe6', u'ae').replace(u'\xfa', u'u').replace(u'\xda', u'U').replace(u'\xe7', u'c')
+                title_temp = title_temp.replace(u'\xe0', u'a').replace(u'\xc9', u'E').replace(u'\xf3', u'o').replace(
+                    u'\xff', u'y').replace(u'\xe1', u'a').replace(u'\xed', u'i').replace(u'\xf1', u'n').replace(u'\xe3', u'a')
                 title_temp = title_temp.lower()
 
                 video_id = video_item['snippet']['resourceId']['videoId']
@@ -69,14 +80,20 @@ class Generator:
                     thumbnail = video_item["snippet"]["thumbnails"]["default"]["url"]
 
                 output_string = output_string + '<item>\n'
-                output_string = output_string + '    <title>' + str(title) + '</title>\n'
+                output_string = output_string + \
+                    '    <title>' + str(title) + '</title>\n'
                 output_string = output_string + '    <meta>\n'
-                output_string = output_string + '        <summary>' + str(desc) + ' </summary>\n'
+                output_string = output_string + \
+                    '        <summary>' + str(desc) + ' </summary>\n'
                 output_string = output_string + '    </meta>\n'
-                output_string = output_string + '    <link>https://www.youtube.com/watch?v=' + str(video_id) + '/</link>\n'
-                output_string = output_string + '    <thumbnail>' + str(thumbnail) + '</thumbnail>\n'
+                output_string = output_string + \
+                    '    <link>https://www.youtube.com/watch?v=' + \
+                    str(video_id) + '/</link>\n'
+                output_string = output_string + '    <thumbnail>' + \
+                    str(thumbnail) + '</thumbnail>\n'
                 if not self.fanart == None:
-                    output_string = output_string + '    <fanart>' + str(self.fanart) + '</fanart>\n'
+                    output_string = output_string + '    <fanart>' + \
+                        str(self.fanart) + '</fanart>\n'
                 output_string = output_string + '</item>\n\n'
 
             try:
@@ -85,6 +102,7 @@ class Generator:
             except:
                 break
         return output_string
+
 
 def replaceHTMLCodes(txt):
     txt = re.sub("(&#[0-9]+)([^;^0-9]+)", "\\1;\\2", txt)
@@ -99,6 +117,7 @@ def replaceHTMLCodes(txt):
     txt = txt.strip()
     return txt
 
+
 def replaceEscapeCodes(txt):
     try:
         import html.parser as html_parser
@@ -106,6 +125,7 @@ def replaceEscapeCodes(txt):
         import HTMLParser as html_parser
     txt = html_parser.HTMLParser().unescape(txt)
     return txt
+
 
 def randomagent():
     import random
@@ -119,7 +139,8 @@ def randomagent():
          '53.0.2785.143', '54.0.2840.71', '61.0.3163.100'],
         ['11.0'],
         ['8.0', '9.0', '10.0', '10.6']]
-    WIN_VERS = ['Windows NT 10.0', 'Windows NT 7.0', 'Windows NT 6.3', 'Windows NT 6.2', 'Windows NT 6.1', 'Windows NT 6.0', 'Windows NT 5.1', 'Windows NT 5.0']
+    WIN_VERS = ['Windows NT 10.0', 'Windows NT 7.0', 'Windows NT 6.3', 'Windows NT 6.2',
+                'Windows NT 6.1', 'Windows NT 6.0', 'Windows NT 5.1', 'Windows NT 5.0']
     FEATURES = ['; WOW64', '; Win64; IA64', '; Win64; x64', '']
     RAND_UAS = ['Mozilla/5.0 ({win_ver}{feature}; rv:{br_ver}) Gecko/20100101 Firefox/{br_ver}',
                 'Mozilla/5.0 ({win_ver}{feature}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{br_ver} Safari/537.36',
@@ -128,6 +149,7 @@ def randomagent():
     index = random.randrange(len(RAND_UAS))
     return RAND_UAS[index].format(win_ver=random.choice(WIN_VERS), feature=random.choice(FEATURES), br_ver=random.choice(BR_VERS[index]))
 
-if ( __name__ == "__main__" ):
+
+if (__name__ == "__main__"):
     # start
     Generator()
