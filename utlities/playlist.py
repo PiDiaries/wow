@@ -25,7 +25,7 @@ class Generator:
         self.fanart = None
 
         # CHANGEME to match the playlist ID you want to pull
-        self.playlist = 'PLMAWrySkMfZMwWxpkT3Ew1CE1H8fyi4Lt'
+        self.playlist = 'PLMAWrySkMfZOU6cddaNT9vkAWjcZtLT7K'
         # generate files
         self._generate_yt_templates()
 
@@ -43,7 +43,7 @@ class Generator:
             print('Youtube Playlist Parser - Exception: \n' + str(failure))
 
         # save file
-        with open('76.xml', 'w') as f:
+        with open('pl.xml', 'w') as f:
             f.write(output_string)
 
     def get_all_video_in_channel(self):
