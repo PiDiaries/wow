@@ -1,3 +1,4 @@
+
 # -*- coding: UTF-8 -*-
 """ Processes HTML of a YT channel's videos, to build a template file for all of them. """
 
@@ -25,12 +26,12 @@ class Generator:
         self.fanart = None
 
         # CHANGEME to match the playlist ID you want to pull
-        self.playlist = 'PLMAWrySkMfZOU6cddaNT9vkAWjcZtLT7K'
+        self.playlist = 'PLMAWrySkMfZMXAD5MeQ9kFdqo5MIpmkm3'
         # generate files
         self._generate_yt_templates()
 
         # notify user
-        print('Finished parsing the YouTube Channel. Output saved as .xml')
+        print('Finished parsing the YouTube Channel. Output saved as channel_videos.xml')
 
     def _generate_yt_templates(self):
 
@@ -43,7 +44,7 @@ class Generator:
             print('Youtube Playlist Parser - Exception: \n' + str(failure))
 
         # save file
-        with open('pl.xml', 'w') as f:
+        with open('../Overwatchleague/heroguides/zenyatta.xml', 'w') as f:
             f.write(output_string)
 
     def get_all_video_in_channel(self):

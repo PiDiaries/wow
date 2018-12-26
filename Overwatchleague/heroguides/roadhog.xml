@@ -1,53 +1,279 @@
-
-################################################################################
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hog.png</thumbnail>
-<fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/roadhog-screenshot-004.jpg</fanart>
-  <summary>Roadhog uses his signature Chain Hook to pull his enemies close before shredding them with blasts from his Scrap Gun. He’s hardy enough to withstand tremendous damage, and can recover his health with a short breather.
-   Roadhog is a ruthless killer with a well-earned reputation for cruelty and wanton destruction.
-
-After the Omnic Crisis, government officials gifted the Australian omnium and the surrounding area to the omnics that had nearly destroyed their country, hoping to establish a long-term peace accord. This arrangement permanently displaced Mako Rutledge and a large number of the Outback's residents, a scattered collection of survivalists, solar farmers, and people who just wanted to be left alone.
-
-Furious over the loss of their homes, Mako and others turned to violent rebellion. They formed the Australian Liberation Front and struck against the omnium and its robot population to take back the lands that had been stolen. Events continued to escalate until the rebels sabotaged the omnium's fusion core, resulting in an explosion that destroyed the facility, irradiated the region, and littered the Outback with twisted metal and wreckage for kilometers around.
-
-Mako watched as his home became an apocalyptic wasteland, and he was forever changed.
-
-Adapting to his environment, he donned a mask and took to the broken highways of the Outback on his ramshackle chopper. Little by little, his humanity was forgotten. The last vestiges of Mako faded away and the ruthless killer Roadhog was born.
-</summary>
-
-################################################################################
 <item>
-  <title>Introducing Roadhog and Junkrat</title>
-  <link>https://www.youtube.com/watch/DqhiLbRXGUQ</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hog.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/roadhog-screenshot-004.jpg</fanart>
-  <summary>Meet Roadhog and Junkrat—two criminals on a spree of mayhem and destruction around the world.</summary>
-</item>
-
-
-<item>
-  <title>A Moment in Crime Special Report: "The Junkers"</title>
-  <link>https://www.youtube.com/watch/l5kTATxt7bE</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hog.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/roadhog-screenshot-004.jpg</fanart>
-  <summary>Their spree of mayhem and chaos has caused untold millions in property damage around the world. But who are these two deranged Junkers, and what is behind their destructive rampage? Find out in this special episode of A Moment in Crime!  </summary>
-</item>
-
-
-<item>
-  <title>Roadhog Ability Overview</title>
-  <link>https://www.youtube.com/watch/5URzijwRPfk</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hog.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/roadhog-screenshot-004.jpg</fanart>
-  <summary>After taking part in a violent anti-omnic rebellion that led to nuclear disaster, the man once known as Mako Rutledge watched the Australian Outback become a wasteland. Adapting to his new environment, he donned a mask and took to the broken highways on his ramshackle chopper—and the ruthless killer known as Roadhog was born. 
-
-Roadhog uses his signature Chain Hook to pull his enemies close before shredding them with a blast from his Scrap Gun. He can heal himself by stopping to Take a Breather, and when his rage takes hold, he goes Whole Hog—overloading his Scrap Gun and knocking back foes with a stream of devastating shrapnel.</summary>
+    <title>Introducing Roadhog and Junkrat | Overwatch</title>
+    <meta>
+        <summary>b'Meet Roadhog and Junkrattwo criminals on a spree of mayhem and destruction around the world.\n\nLearn more about Roadhog: http://blizz.ly/MeetRoadhog \nLearn more about Junkrat: http://blizz.ly/MeetJunkrat \n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=DqhiLbRXGUQ/</link>
+    <thumbnail>https://i.ytimg.com/vi/DqhiLbRXGUQ/sddefault.jpg</thumbnail>
 </item>
 
 <item>
-  <title>Overwatch - Roadhog Guide - THE BOSS HOG! (Tips and Advice)</title>
-  <link>https://www.youtube.com/watch/HnCWSk92V50</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hog.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/roadhog-screenshot-004.jpg</fanart>
-  <summary>Roadhog is the ultimate brawler tank. A man (hog) mountain specifcally designed to keep in the fight! Between Roadhog’s hook, self heal and shotgun attacks he’s a close range brawler tank elite!
-  </summary>
+    <title>A Moment in Crime Special Report: "The Junkers" | Overwatch</title>
+    <meta>
+        <summary>b'Their spree of mayhem and chaos has caused untold millions in property damage around the world. But who are these two deranged Junkers, and what is behind their destructive rampage? Find out in this special episode of A Moment in Crime!  \n\nIf you have any information on the whereabouts of these dangerous criminals, please contact us at tips@amomentincrime.com. \n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=l5kTATxt7bE/</link>
+    <thumbnail>https://i.ytimg.com/vi/l5kTATxt7bE/sddefault.jpg</thumbnail>
 </item>
+
+<item>
+    <title>Roadhog Ability Overview | Overwatch</title>
+    <meta>
+        <summary>b"I'm a one man apocalypse: http://blizz.ly/MeetRoadhog  \n\nAfter taking part in a violent anti-omnic rebellion that led to nuclear disaster, the man once known as Mako Rutledge watched the Australian Outback become a wasteland. Adapting to his new environment, he donned a mask and took to the broken highways on his ramshackle chopperand the ruthless killer known as Roadhog was born. \n\nRoadhog uses his signature Chain Hook to pull his enemies close before shredding them with a blast from his Scrap Gun. He can heal himself by stopping to Take a Breather, and when his rage takes hold, he goes Whole Hogoverloading his Scrap Gun and knocking back foes with a stream of devastating shrapnel.\n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=5URzijwRPfk/</link>
+    <thumbnail>https://i.ytimg.com/vi/5URzijwRPfk/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch - Roadhog Guide - THE BOSS HOG! (Tips and Advice)</title>
+    <meta>
+        <summary>b"Roadhog is the ultimate brawler tank. A man (hog) mountain specifcally designed to keep in the fight! Between Roadhogs hook, self heal and shotgun attacks hes a close range brawler tank elite!\n\n PATREON CAMPAIGN! http://www.patreon.com/unitlost\n Steam Curator Page http://store.steampowered.com/curator/2666675/\n SUBSCRIBE! https://www.youtube.com/subscription_center?add_user=unitlosttube\n http://www.unitlost.com - Join our AWESOME community forums!\n T-shirts! http://unitlost.spreadshirt.co.uk/\n Sty's Twitter https://twitter.com/unitlostgaming\n Kiri's Twitter https://twitter.com/kirioth\n Live Stream http://www.twitch.tv/unitlost" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=HnCWSk92V50/</link>
+    <thumbnail>https://i.ytimg.com/vi/HnCWSk92V50/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>SMURF HOG - Roadhog Pro Gameplay Guide | Overwatch Guide</title>
+    <meta>
+        <summary>b' Enjoying the video? Like and Subscribe for more daily releases!\n Join NOW! https://www.gameleap.com/ - Learn from Top 500 Pros and carry your games!\n\nThis Overwatch Roadhog Pro Guide will show you how a Smurf player dominates in the lower ranks. Overwatch Guides are the quickest way for you to improve, so make sure to stick around and enjoy!\n\nThanks for watching. If you have any questions or want to reach us, please send an email at support@game-leap.com and we will get back to you shortly. Be a Rank 1 Roadhog!' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=PlkXosCLMJU/</link>
+    <thumbnail>https://i.ytimg.com/vi/PlkXosCLMJU/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Top 7 Roadhog Tips to Rank Up FAST! (Overwatch Guide)</title>
+    <meta>
+        <summary>b'Top 7 Roadhog Tips to Rank Up FAST! (Overwatch Guide) Tips and tricks to learn how to play or improve your skills with Roadhog easy and rank up in competitive season 13! Carry from bronze, silver, gold, platinum, diamond and masters. If played right Roadhog can be a  deadly tank hero pick! Goodluck\n\n\n\nIn this video we talk about: \nOverwatch Roadhod\nOverwatch Tips\nOverwatch Guide\nOverwatch Heroes\n\nNEW DISCORD: Discord: https://discord.gg/UxEVpgt\n\n\n STAY CONNECTED! \n\n\nFollow Us on Social Media!\n Discord: https://discord.gg/UxEVpgt\n Twitter: https://twitter.com/Blizzard_Guides\n UG Twitter: http://Twitter.com/UltraGuides\n UG Discord: https://discord.gg/ultra\n Twitch: http://Twitch.tv/UltraGuides\n Instagram: https://www.instagram.com/overwatch.guides\n\nSources \nhttps://twitch.tv/harbleu\nhttps://twitch.tv/aimbotcalvin\nhttps://youtu.be/Lox__j57-wU\nhttps://youtu.be/dv4th7H0NQA\nhttps://youtu.be/bQCng7IRJIs\n___\n\n\nThat just about does it for this video guys, if you liked Top 7 Roadhog Tips to Rank Up FAST! (Overwatch Guide) , hit that like button, if you want to see more videos like this as they are made public, subscribe. If you want to enter in some sick giveaways, you can follow us on twitter @UltraGuides. If you wanna hang with me and the other UG members, you can join our Discord server.  Thank you so much for staying till the end of the video. Stay amazing, and we will see you, in the next one.' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=hPVmW0dmA8I/</link>
+    <thumbnail>https://i.ytimg.com/vi/hPVmW0dmA8I/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Roadhog 2.0 Complete Guide - Comprehensive Theory & Practice</title>
+    <meta>
+        <summary>b"Welcome to the complete Roadhog 2.0 guide! I'll be showing you everything you need to know to master the new Hog, from the 4 steps of his hook combo to his newfound tanking ability to how to get those perfect right clicks! I'll give you the theory behind Nu-hog's 3 main playstyles, as well as the technical details to actually implement them. New Hog isn't the death machine that he used to be, but in the right hands, he's a force to be reckoned with and can hold his own in a 1v1 with almost any hero in the game.\n__________________________________________________________________\n\nInterested in private coaching or VOD reviews? Check me out at https://www.patreon.com/MindFuzz and http://sandbox.gg/ \n\nCome hang out in my Discord! https://discord.gg/wAxkBzG\n\nI stream 4 times a week at https://twitch.tv/inyrmindfuzz\n\nIntro song: Defkon - Raindrops\nOutro song: Mia Doi Todd - My Room Is White (Flying Lotus Remix) \nChannel graphics by @Zarythe\n\nDon't forget to like and subscribe!" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=OvUAzxtPILc/</link>
+    <thumbnail>https://i.ytimg.com/vi/OvUAzxtPILc/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Roadhog Solo Queue Guide | Overwatch</title>
+    <meta>
+        <summary>b'Roadhog is a beast in solo queue! He is versatile enough to be useful in a load of situations, and played correctly, will surely help you up your competitive game and climb the Overwatch ranks in season 8! \n\nHere are some tips and tricks on how to best use Roadhog, and some of the main reasons why he is agreat hero to play in solo queue. \n\nThanks a lot for watching this video :)\n\nMore Roadhog tips: https://youtu.be/nKw-DOZ9gPs' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=qGUDA6G7T-M/</link>
+    <thumbnail>https://i.ytimg.com/vi/qGUDA6G7T-M/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Roadhog - Coaching a New Player with Roadhog Gameplay Tips and Tricks | Overwatch Guide</title>
+    <meta>
+        <summary>b' Join NOW! https://ow.gameleap.com/ - Learn from Top 500 Pros and carry your games!\n\nArtorigold goes over this Roadhog - Coaching a New Player with Roadhog Gameplay Tips and Tricks | Overwatch Guide\n\nThanks for watching. If you have any questions or want to reach us, please send an email at support@game-leap.com and we will get back to you shortly.' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=AkMT-_oUO5o/</link>
+    <thumbnail>https://i.ytimg.com/vi/AkMT-_oUO5o/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: Advanced Roadhog Guide - Hook 2.0 Tips</title>
+    <meta>
+        <summary>b"Roadhog hook 2.0 has been a great addition to overwatch for all players. In this advanced guide eddy goes through the best ways to hook people now as well as tips on how to use map geometry to your advantage. Let us know what you think and be sure to drop a Like & Subscribe if you enjoyed!\nSubscribe here: https://www.youtube.com/c/youroverwatch?sub_confirmation=1\n\nWe are YOUR OVERWATCH:\nTwitch - https://www.twitch.tv/youroverwatch \nTwitter - https://twitter.com/youroverwatchyt\nSubscribe - http://bit.ly/2aN1OuO\n\nDiscord Server:\nhttps://discordapp.com/invite/FadSx3u\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=WBgP9UsyW50/</link>
+    <thumbnail>https://i.ytimg.com/vi/WBgP9UsyW50/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch | TOP 5 TIPS FOR ROADHOG - The Master Playstyle ft DrRiku</title>
+    <meta>
+        <summary>b'DrRiku Twitch: https://www.twitch.tv/drriku\nDrRiku Twitter: https://twitter.com/DrRikuTV\nRoadhog is a popular pick again so today we go over our Top 5 tricks for playing the new style\n WIN A HYPERX CLOUD ALPHA HEADET https://gleam.io/KNSOC/owc-hyperx-cloud-alpha-giveawayl \n__\n\nFollow us!\nTwitch: http://www.twitch.tv/overwatchcentral\nTwitter: https://twitter.com/OWCentral\nGoogle+: https://plus.google.com/+OverwatchCentral\n__\n\nMusic: Epidemic Sound\n\nApproaching Nirvana - Super Happy Fun Time\nhttp://youtube.com/user/approachingnirvana\nApproaching Nirvana on iTunes: https://itunes.apple.com/us/artist/approaching-nirvana/id313583565\n__\n\nThanks for watching! #Overwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=pqmNzMJwvqY/</link>
+    <thumbnail>https://i.ytimg.com/vi/pqmNzMJwvqY/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>1 ROADHOG TIP for EVERY HERO ft. DrRiku</title>
+    <meta>
+        <summary>b"This is how DrRiku, the best Roadhog player deals with every hero matchup. He provides 1 tip/trick for all 25 heroes to help you with his rising popularity again due to the E (take a breather) change. Enjoy!\n\nFollow DrRiku:\n https://twitch.tv/DrRiku\n https://youtube.com/undeadriku\n https://twitter.com/DrRikuTV\n\nThanks for filming: Fishthief, Platypus, HFCPhoenix\n\n\n*FREE* 14 day free trial for HASTE! If you have inconsistent ping, jitter, or packet loss on NA servers for Overwatch or League of Legends, sign up/download Haste and leave it running in the background!\n http://bit.ly/KarQ_17\n\nInterested in private Overwatch lessons? I currently teach Ana lessons & private VOD reviews!\n https://sandbox.gg/author/karq/\n\n\n TWITCH Stream  https://twitch.tv/karQ\n Adpocalypse is hurting my livelihood, I don't know if I can keep creating content as a living. You can sponsor me here if you want another method of supporting me!  https://gaming.youtube.com/karqgames\nDiscord  https://discord.gg/km5UmmZ\nTwitter  https://twitter.com/KarQGames\nInstagram  http://instagram.com/KarQGames\nFacebook  https://www.facebook.com/KarQGames/\nWebsite  http://karqgames.com/\n\n\n Music Used:\n\n Otis McDonald - Scarlet Fire https://youtu.be/8yOskhDn468\n Itro x Valcos - Starbound [NCS Release] https://youtu.be/2hz668UNTE4\nItro\n Facebook https://www.facebook.com/officialitro\n Twitter http://www.twitter.com/itromsc\n SoundCloud https://soundcloud.com/itro\n\nValcos\n Facebook https://www.facebook.com/ValcosEDM\n Twitter https://twitter.com/OfficialValcos\n SoundCloud https://soundcloud.com/official_valcos" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=TGC_VdKc3Zo/</link>
+    <thumbnail>https://i.ytimg.com/vi/TGC_VdKc3Zo/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch | The Best SOLO CARRY HERO - Interview With A Pro Roadhog ft Smex (Top 10 EU)</title>
+    <meta>
+        <summary>b"Smex Twitch: https://www.twitch.tv/smex_ow\nRoadhog is a very strong hero in overwatch's current climate. Today we will go over some tips and tricks with pro player and top 10 eu player Smex.\n CHECK OUT THE HYPERX CLOUD ALPHA http://hyperx.gg/AlphaOverwatchCentral \n__\nFollow us!\nTwitter: https://twitter.com/OWCentral\nTwitch - Mysca: http://www.twitch.tv/mysca_\nTwitch - Ryan: http://www.twitch.tv/ryancentral_\n__\n\nMusic: Epidemic Sound\n\nApproaching Nirvana - Super Happy Fun Time\nhttp://youtube.com/user/approachingnirvana\nApproaching Nirvana on iTunes: https://itunes.apple.com/us/artist/approaching-nirvana/id313583565\n__\n\nThanks for watching! #Overwatch" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=-w-Z2ReojJU/</link>
+    <thumbnail>https://i.ytimg.com/vi/-w-Z2ReojJU/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Let's Git Gud | Roadhog Gameplay - Guide & Tips</title>
+    <meta>
+        <summary>b"A review of Roadhog gameplay with tips and tricks\nOur Discord server: https://discord.gg/UJzwMS4\nOther VoD Reviews:\nhttps://www.youtube.com/playlist?list=PLRxsC0vIWul2iy4rDTt0R-zg7TD5plHt2\nSubmit your own VoD for review: \ntrilby1227@gmail.com\nSupport me on Patreon:\nhttps://www.patreon.com/user?u=5667329\nMy Let's Play Channel:\nhttps://www.youtube.com/channel/UCdPBXrNmPEqTgsZCrsme81g" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=24o5XzJvVZE/</link>
+    <thumbnail>https://i.ytimg.com/vi/24o5XzJvVZE/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Let's Git Gud | Roadhog Gameplay - Guide & Tips</title>
+    <meta>
+        <summary>b"The Go fund Me: https://www.gofundme.com/trip-to-japan-to-visit-my-lil-bro\nOur Discord server: https://discord.gg/UJzwMS4\nOther VoD Reviews:\nhttps://www.youtube.com/playlist?list=PLRxsC0vIWul2iy4rDTt0R-zg7TD5plHt2\nSubmit your own VoD for review: \ntrilby1227@gmail.com\nSupport me on Patreon:\nhttps://www.patreon.com/user?u=5667329\nMy Let's Play Channel:\nhttps://www.youtube.com/channel/UCdPBXrNmPEqTgsZCrsme81g" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=CHXdbfmNsdY/</link>
+    <thumbnail>https://i.ytimg.com/vi/CHXdbfmNsdY/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch In Depth: Roadhog Guide</title>
+    <meta>
+        <summary>b'D.Va Guide: https://www.youtube.com/watch?v=RcHmP0jpQOw&t=32s\nRoadhog is one of the tiltiest characters in Overwatch. He is a supertank with 600 health, self heals, a magic hook, and can delete a variety of characters in just one shot. Despite all of these strengths he is not OP or without challenge. It takes a lot of work to be a good Roadhog and today I want to break down his stats to help you!\nMy Twitter: http://www.twitter.com/drift0r\n\nI capture console gameplay with The Elgato HD60 because it\'s the most professional device on the market for 1080p 60fps console capture.\nElgato website: http://bit.ly/LCO57Q \nAmazon Link: http://amzn.to/1y6Y759\n\nNEW DRIFT0R SHIRTS! http://www.coregamewear.com/drift0r\n\nI game exclusively on the Netduma R1 because it is best gaming router I have ever used.\nNetduma website: http://www.netduma.com/\nUse code "DRFT" for $10 off!\n\nI use ASTRO Headsets for all my gaming. They are very high quality gaming headsets. I also have a 5% off link with them. Clicking this link automatically gives you 5% off of everything ASTRO: http://bit.ly/1NIzdQi' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=cmBgoLRe03Y/</link>
+    <thumbnail>https://i.ytimg.com/vi/cmBgoLRe03Y/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch Roadhog Guide - Who To Hook & When</title>
+    <meta>
+        <summary>b"A guide on which targets to pick when using Roadhog's hook ability to get the most value for your team in Overwatch\n\nSubscribe here: https://www.youtube.com/c/youroverwatch?sub_confirmation=1\n\nWe are YOUR OVERWATCH:\nStream - https://www.twitch.tv/youroverwatch \nTwitter - https://twitter.com/youroverwatchyt\nSubscribe - http://bit.ly/2aN1OuO" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=v8-KAlWyZW8/</link>
+    <thumbnail>https://i.ytimg.com/vi/v8-KAlWyZW8/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Roadhog Guide For Console Players | Overwatch PS4 XBOXONE</title>
+    <meta>
+        <summary>b'Simple yet elegant. The most majestic beautiful specimen in Overwatch. Roadhog will steal the hearts of billions for generations to come.      -Jeff Kaplan\n\nArt Credited to: http://anoncraft.com/roadhog-and-junkrat-overwatch-art-549/' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=-nJh2zbbtl0/</link>
+    <thumbnail>https://i.ytimg.com/vi/-nJh2zbbtl0/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Let's Git Gud | Roadhog Gameplay - Guide & Tips</title>
+    <meta>
+        <summary>b"A review of Roadhog gameplay with tips and tricks\nOur Discord server: https://discord.gg/UJzwMS4\nOther VoD Reviews:\nhttps://www.youtube.com/playlist?list=PLRxsC0vIWul2iy4rDTt0R-zg7TD5plHt2\nSubmit your own VoD for review: \ntrilby1227@gmail.com\nSupport me on Patreon:\nhttps://www.patreon.com/user?u=5667329\nMy Let's Play Channel:\nhttps://www.youtube.com/channel/UCdPBXrNmPEqTgsZCrsme81g" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=1M8-1bNp5DI/</link>
+    <thumbnail>https://i.ytimg.com/vi/1M8-1bNp5DI/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>[Overwatch] 5 Minute Tips: Roadhog The "Solo Queue God" (Competitive Advice)</title>
+    <meta>
+        <summary>b"The 5 minute tip series was created to provide enjoyable educational overwatch videos in easily digestible segments. I could literally go on and on about the tips relating to this video so if you have any questions, please feel free to ask in the comments below!\n\nThis Video:\n\nRoadhog has seen some changes since I've last talked about him in a video. Most importantly, he has become extremely tanky with his damage reduction during healing. Throughout this video I will try to not only give tips on how to play Roadhog effectively, but also talk about his viability in the current meta, and why he may be a good hero for you to play to rank up.\n\nThe gameplay in this video is from a grandmaster placement game.\n\nPlease enjoy, and remember to leave a like, comment, and subscribe for more videos!" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=7IYnCjQkuek/</link>
+    <thumbnail>https://i.ytimg.com/vi/7IYnCjQkuek/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Roadhog - Overwatch Hero Guide</title>
+    <meta>
+        <summary>b"Fancy yourself a beer-bellied, radiation swiggin' hog of death? Danny & Chris 'hook' you up with some tips on how to get started playing Overwatch's Roadhog.\n\nFind out about the Story of Overatch:\nhttps://www.youtube.com/playlist?list=PLpg6WLs8kxGOjvBbzjWTtT0exaWsR58iB\n\nCheck out our Overwatch Hero Guide!\nhttps://www.youtube.com/playlist?list=PLpg6WLs8kxGOwCOjDZVbCMuUCoLPPLW0V\n\nFollow Overwatch at GameSpot.com!\nhttp://www.gamespot.com/overwatch/\nOfficial Site - http://us.battle.net/overwatch/\n\nCheck out our review!\nWatch - https://www.youtube.com/watch?v=JF2nEfY_Thg\nRead - http://www.gamespot.com/reviews/overwatch-review/1900-6416439/\n\nSubscribe to us on YouTube Gaming!\nhttp://gaming.youtube.com/gamespot\n\nVisit all of our channels:\nFeatures & Reviews - http://www.youtube.com/GameSpot\nGameplay & Guides - http://www.youtube.com/GameSpotGameplay\nTrailers - http://www.youtube.com/GameSpotTrailers\n\nhttp://www.gamespot.com" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=yqeUMQeJqPw/</link>
+    <thumbnail>https://i.ytimg.com/vi/yqeUMQeJqPw/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>ROADHOG GUIDE + TIPS & TRICKS! Overwatch Gameplay</title>
+    <meta>
+        <summary>b"Today, I'm going on ahead and giving you guys some tips about one of my mains, Roadhog! I really hope you guys enjoyed this video, and I hope you benefited from it and got better! \n\nIf you guys want to get hundreds of free tags that can get you thousands of extra views, hundreds of new subscribers, and much more be sure to go install the add-on called TubeBuddy! I will be soon making a full tutorial/ walkthrough on everything that this add-on has to offer! https://www.tubebuddy.com/Accurate13\n\nHey guys, I'm Accurate13, and I mainly upload Overwatch and Fortnite! If you guys have some ideas for either of those games, or even other games similar to those, be sure to let me know if the comments! If you like this video, be sure to hit that like button and that lets me know to do more like this video! I actually do daily uploads! Thanks so much guys!\nSocial Medias:\nTwitter: https://twitter.com/Accurate_13\nInstagram: https://www.instagram.com/eddiel2h/" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=j4bYcnkLl-4/</link>
+    <thumbnail>https://i.ytimg.com/vi/j4bYcnkLl-4/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch Coaching - THE NEW ROADHOG! - PLATINUM 2707 SR - [OverAnalyzed]</title>
+    <meta>
+        <summary>b'Overwatch New ROADHOG coaching! New season 6 Roadhog tips and advice! Welcome to OverAnalyzed! In this series, we as a community help our fellow players with tips and advice on how to become better players! Good Aim, Bad Positioning t-shirt! http://bit.ly/ulstore\n\n UNIT LOST STORE! http://bit.ly/ulstore\n HyperX - CHECK THEM OUT! http://bit.ly/UnitLostFPS [AD]\n Discord JOIN NOW! http://discord.gg/unitlost  \n PATREON CAMPAIGN! http://www.patreon.com/unitlost\n Twitter https://twitter.com/unitlostgaming\n Live Stream http://www.twitch.tv/unitlost\n http://www.unitlost.com - Join our AWESOME community forums!\n\nSystem Specs\n\nIntel i7 6900K overclocked @ 4.6Ghz\nWater Loop Coolant: Mayhem Aurora Blue\nAdditional Static Pressure Fan: Corsair SP120 LED Blue High Static Pressure 120mm Fan\nStatic Pressure Fans: Corsair SP120 LED Blue High Static Pressure 120mm Fan - Twin Pack\n32GB Corsair 3000mhz Vengeance LPX DDR4 (4x8GB) \n2 x NVIDIA GeForce GTX 1080 Strix 8GB \nAsus ROG STRIX Intel X99 RGB LED GAMING ATX Motherboard\nWindows 10 Home (64-bit)\nIntel 400GB 750 PCIe SSD\n4TB S-ATAIII 6.0Gb/s \n4TB S-ATAIII 6.0Gb/s \nBlue Camo Vinyl\nCorsair Carbide 600C Windowed\nCase Fans: Corsair AF120 LED Blue Quiet Edition High Airflow 120mm Fan - Twin Pack\nAdditional Case Fan: Corsair AF120 LED Blue Quiet Edition High Airflow 120mm Fan\nBraided Cables: PSU Braided Extension Cable set Black\nPSU: 850W Corsair RMX Fully Modular' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=mFIPaTKWTuM/</link>
+    <thumbnail>https://i.ytimg.com/vi/mFIPaTKWTuM/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch Roadhog Aim Tutorial Guide - How To Play Roadhog | Hook, Aim and Combo Drills OwDojo</title>
+    <meta>
+        <summary>b"--~--\nWe present you the drills that can teach you how to aim with Roadhog. Follow and repeat them to create a solid foundation for your Roadhog aim. If you are still missing your hooks or not getting kills instantly on squishies, this tutorial is for you. Let's start practicing Roadhog!\n\nIf you like what we are doing, please SUBSCRIBE and give a thumbs up! You can also follow us on different social media platforms:\n\nJoin our Discord: https://discordapp.com/invite/Dd8Fw2a\nPledge on Patreon: https://www.patreon.com/overwatchdojo\n\nSupport Overwatchdojo on Patreon: https://www.patreon.com/overwatchdojo\n\nWebsite: http://overwatchdojo.com\nFacebook: https://www.facebook.com/overwatchdojo/\nTwitter: https://twitter.com/owdojo\nThumblr: https://www.tumblr.com/blog/overwatchdojo\nGoogle+: https://plus.google.com/b/113411751621981370622/113411751621981370622\n---\nIntro Music: TheFatRat - Monody (feat. Laura Brehm) https://www.youtube.com/watch?v=nw5Mc5bpq-A\nOutro Music: Jim Yosef - Forces (feat. Ivan Jamile & Kdo Rebelle) https://www.youtube.com/watch?v=ZWOA6lQiETk\nBackground music: https://youtu.be/DxdfDE-qSnM\nGraphics by: http://ambruskrisztian.hu" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=iKrxD5KmYXQ/</link>
+    <thumbnail>https://i.ytimg.com/vi/iKrxD5KmYXQ/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: ROADHOG IS BACK! - NEW Hog Playstyle!</title>
+    <meta>
+        <summary>b"You may have thought Roadhog would return 'when pigs fly' but he's BACK! Roadhog has a stabilizing effect on Overwatch Gameplay to hold point presence as many tanks do, but also can be a threat himself. This is an exciting and likely far healthier state for Roadhog who now fits the vision of him being a brawler tank.\n\nSubscribe here - http://bit.ly/2aN1OuO\n\nWe are YOUR OVERWATCH:\nDestiny Channel: https://www.youtube.com/channel/UCb4Jomiox07xosU843EYTiw\nPatreon - https://www.patreon.com/YourOverwatch\nTwitter - https://twitter.com/youroverwatchyt\nTwitch - https://www.twitch.tv/youroverwatch \n\nDiscord Server:\nhttps://discordapp.com/invite/youroverwatch\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=9olgX7dkaUo/</link>
+    <thumbnail>https://i.ytimg.com/vi/9olgX7dkaUo/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: How To Hit More Roadhog Hooks - Advanced Guide</title>
+    <meta>
+        <summary>b"Overwatch's top of the meta roadhog sees use in just about every game these days, but how does it work? Well in this guide we go through the animation of the hook and how it land on people as well as how to land more of these hooks and confirm frags on your targets. Let us know what you think and be sure to drop a Like & Subscribe if you enjoyed!\nSubscribe here: https://www.youtube.com/c/youroverwatch?sub_confirmation=1\n\nOld Hook Mechanic Video: https://www.youtube.com/watch?v=MiC9kRcRz3k\n\nWe are YOUR OVERWATCH:\nTwitch - https://www.twitch.tv/youroverwatch \nTwitter - https://twitter.com/youroverwatchyt\nSubscribe - http://bit.ly/2aN1OuO\n\nDiscord Server:\nhttps://discordapp.com/invite/FadSx3u\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=hSH5-dXm5q0/</link>
+    <thumbnail>https://i.ytimg.com/vi/hSH5-dXm5q0/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Just The Tips - Roadhog (Basics, How to Flank, Mastering the Hook) | Overwatch Beginner's Guide</title>
+    <meta>
+        <summary>b"In this Just The Tips I got over Roadhog's basics, how to flank, and mastering the hook.\n\nLike, sub, & hit the notification bell for more gaming content.\n------------------------------------------------------------------------------------\n Subscribe: http://bit.ly/1Tnap2Q\n\n Twitter: https://twitter.com/NiccoG6\n\n Facebook: https://www.facebook.com/NiccoG6\n------------------------------------------------------------------------------------\nSong: Inova - Seamonster\nhttps://youtu.be/8kmZWGhumUE" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=tl3TDP3e_jg/</link>
+    <thumbnail>https://i.ytimg.com/vi/tl3TDP3e_jg/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch Roadhog Guide | How to Play Roadhog (In-Depth Stats, Tips, and Match Ups) Roadhog Gameplay</title>
+    <meta>
+        <summary>b"Today in Overwatch, I'll be showing you how to play Roadhog with some tips and tricks on how to do better with this hero. This guide will go pretty in depth as far as numbers go, but I won't be surprised if the numbers get changed as Overwatch ages so I'll be sure to catalog the changes down here in the description. \n\n\nMUSIC:\nKillercats - Kaibu\n\n*Channel Banner and Logo made by Tomographic (HIT HIM UP IF YOU WANT AWESOME ARTWORK DONE!)\nhttps://twitter.com/ItsTomographic\nhttps://www.youtube.com/channel/UCOt5hVyS2-nbcJ3_FP41Ajg" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=8eNsts2sLHA/</link>
+    <thumbnail>https://i.ytimg.com/vi/8eNsts2sLHA/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: ROADHOG Guide | Hero Abilities + Character Strategy | Roadhog Tips & Tricks</title>
+    <meta>
+        <summary>b"Overwatch Roadhog Advanced Guide + Ability Tips, focusing on the Tank Character Roadhog, in-depth Hero guide/analysis on Roadhog's abilities and Weapons plus, strategy, tactics, tips + tricks on using them. (for PS4, Xbox One, PC) (Roadhog Gameplay Montage shown in Background)\n\nhttps://youtu.be/Y4iG2jUc_SI\n\nOverwatch: ROADHOG Guide In-Depth | Hero Abilities + Character Gameplay | Roadhog Tips & Tricks (Advanced)\n\nOverwatch - Road hog Abilities and Weapons Analysis:\n\nScrap Gun\n\nRoadhog's Scrap Gun fires short-range blasts of shrapnel with a wide spread. Alternatively, it can launch a shrapnel ball that detonates farther away, scattering metal fragments from the point of impact.\n\nTake a Breather\n\nRoad hog restores a chunk of his health over a brief period of time.\n\nChain Hook\n\nRoadhog hurls his chain at a target; if it catches, he yanks them into close range.\n\nUltimate Ability: Whole Hog\n\nAfter cramming a top-loader onto his Scrap Gun, Roadhog pours in ammo. For a short time, he can crank out a stream of shrapnel that knocks back enemies.\n\nAll Overwatch Heroes and Characters (in Base-game) Include: Bastion, D.Va, Genji, Hanzo, Junkrat, Lucio, McCree, Mei, Mercy, Pharah, Reaper, Reinhardt, Roadhog, Soldier: 76, Symmetra, Torbjorn, Tracer, Widowmaker, Winston, Zarya and Zenyatta\n\n(Stats and details may change overtime due to patches and updates)\n\nFacebook:  https://www.facebook.com/kriticalkris\nTwitter:  https://twitter.com/KriticalKris\n\nMusic:\n\nIntro:\nKrale - Frontier (ft. Jasmina Lin & Jay Christopher) [NCS Release]\nhttp://www.youtube.com/watch?v=pGMojZB0Lm0\nKrale:\n Facebook https://www.facebook.com/kraleofficial\n SoundCloud https://soundcloud.com/kraleofficial\n Twitter http://twitter.com/Krale_official\n\nJasmina Lin:\n Twitter https://twitter.com/jasminalin_\n YouTube https://youtube.com/officialjasminalin\n Instagram https://instagram.com/jasm1na\n\nJay Christopher: \n SoundCloud http://soundcloud/john-Macpherson\n Instagram http://instagram.com/johnmacpherson\n Twitter http://twitter.com/johnmacmusic\n\nOutro:\nLensko - Circles [NCS Release] \nhttp://www.youtube.com/watch?v=ztvIhqVtrrw&list=UU_aEa8K-EOJ3D6gOs7HcyNg\nLensko:\n SoundCloud https://soundcloud.com/lensko\n Facebook https://www.facebook.com/Lenskoofficial\n Twitter https://twitter.com/LenskoNorway\n YouTube https://www.youtube.com/user/LenskoOf...\n\nMore info can be found on the Overwatch Wiki - Thanks and enjoy the guide\n\nCheck out my channel: \n\nKriticalKris Channel : \nhttps://www.youtube.com/channel/UC5d9SQiZzg7qFcqF0xTOFXQ/feed\n\nhttps://youtu.be/Y4iG2jUc_SI" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=Y4iG2jUc_SI/</link>
+    <thumbnail>https://i.ytimg.com/vi/Y4iG2jUc_SI/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch | Roadhog - Quick Start Guide</title>
+    <meta>
+        <summary>b"Learn how to play Roadhog in Overwatch. Join us as we teach you all about the tips and tricks for Roadhog and his chain hook.\nNOTE: Roadhog can't hook through barriers (Zarya barriers, Reinhardt shield, Winston bubble)\n__\n\n Send in your own clips: http://goo.gl/forms/JsizriSpRL\n__\n\nFollow us!\nTwitch: http://www.twitch.tv/overwatchcentral\nTwitter: https://twitter.com/OWCentral\nGoogle+ https://plus.google.com/+OverwatchCentral\n__\n\nMusic: Epidemic Sound\n\nApproaching Nirvana - Super Happy Fun Time\nhttp://youtube.com/user/approachingnirvana\nApproaching Nirvana on iTunes: https://itunes.apple.com/us/artist/approaching-nirvana/id313583565\n__\n\nThanks for watching! #Overwatch" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=FUmCajiwLQ4/</link>
+    <thumbnail>https://i.ytimg.com/vi/FUmCajiwLQ4/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>How GRANDMASTER Players DESTROY with Roadhog - Overwatch Top 500 PRO Tricks | HARBLEU Roadhog Vod</title>
+    <meta>
+        <summary>b'Today we are watching a top 500 roadhog overwatch season 4 competitive ranked gameplay vod review with the player Harbleu who is just a wonderful roadhog player that roasts everyone with amazing flanking tactics.\n\n\n\n\n\n\n\n\nPlaylist:https://www.youtube.com/playlist?list=PLefC4eOMnbRF5Xm7uCjfU73bh0ybup9Df\n\n\n\n\n\n\n\n\nthumbnail:https://68.media.tumblr.com/5374ef9b648b8624d44351e3be49c37b/tumblr_o87jug5aGr1qesl2no1_500.png\n\nvideo from:https://www.youtube.com/watch?v=Wx0GjgRtHVM\n\n\n\n\n\n\n\n\nWhat is overwatch?: Well overwatch is Blizzards new take on the fps genre. In this game you choose a hero or "Class" to take on enemies, push payloads, and take control points. The point of the game is to beat the other team over and it is indeed a whole bunch of fun to play. The game includes 24 heroes so far and Is a blast to play. In this video I mostly go over playing it in a commentary type of manner, and these types of videos will usually be overwatch live commentaries or overwatch group commentaries. As well expect a few guides of this game in the future and some box openings as well. Anyways, hope you enjoy blizzards new hit!\'\n\nWho is JoeKing aka me. Im a overwatch youtuber that likes to talk about character updates, how to get better, and the competitive community. Trying to help you get better at overwatch and entertain at the same time hopefully. How GRANDMASTER Players DESTORY with roadhog - Overwatch Top 500 PRO Tricks \nOverwatch - 20 Tricksroadhog Grandmasters ABUSE That You Don\'t! Some tips and tricks to master roadhog! Overwatch - 7 OP Tips and Tricks Grandmaster Players use every game!\nroadhog overwatch, roadhog guide top 500 tips and tricks \nroadhog master gameplay, how roadhog is played, eeveea gameplay roadhog overwatch competitive esports vod grandmaster roadhog tricks\ngrandmaster top 500 roadhog, overwatch top 500 roadhog esports vod roadhog esports gameplay, grandmaster roadhog tricks top 500 tricks tips, how to play roadhog, roadhog season 4, overatch competitive season 4 roadhog, roadhog season 4 offense, roadhog season 4 defense, overwatch season 4 roadhog guide' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=lp3UUE0FxHU/</link>
+    <thumbnail>https://i.ytimg.com/vi/lp3UUE0FxHU/sddefault.jpg</thumbnail>
+</item>
+

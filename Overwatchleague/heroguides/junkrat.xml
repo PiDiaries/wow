@@ -1,52 +1,117 @@
-#################################################################################
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/junk.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/junkrat-screenshot-002.jpg</fanart>
-  <summary>Junkrat’s area-denying armaments include a Frag Launcher that lobs bouncing grenades, Concussion Mines that send enemies flying, and Steel Traps that stop foes dead in their tracks.
-   Junkrat is an explosives-obsessed freak who lives to cause chaos and destruction.
-
-The attack on the Australian omnium's fusion core forever altered the landscape of the Outback. After the detonation, the area was transformed into a harsh, irradiated wasteland, littered with debris and the twisted fragments of the ruined facility, and unlivable to most.
-
-But there were some who survived. Calling themselves the Junkers, they scavenged the husk of the omnium and formed a lawless, cutthroat society in its shadow. Junkrat was one of them, eking out a living reclaiming metal and components from the ruins. Like many others, he was affected by the lingering radiation. This touch of madness made him ideal for handling dangerous explosives, a love which he turned into an obsession.
-
-He came to notoriety when he discovered an extremely valuable secret in the bones of the omnium. Though few knew the nature of what he found, he was nonetheless pursued by bounty hunters, gangs, and opportunists wherever he went, until he made a deal with the Junker enforcer Roadhog, who grudgingly agreed to be his personal bodyguard in exchange for a fifty-fifty share of the spoils.
-
-Now, with Roadhog in tow, Junkrat has left the Outback, and embarked upon an international crime spree leaving nothing but havoc and bedlam in his wake.
-</summary>
-
-################################################################################
 <item>
-  <title>Introducing Roadhog and Junkrat</title>
-  <link>https://www.youtube.com/watch/DqhiLbRXGUQ</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/junk.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/junkrat-screenshot-002.jpg</fanart>
-  <summary>Meet Roadhog and Junkrat—two criminals on a spree of mayhem and destruction around the world.</summary>
+    <title>Introducing Roadhog and Junkrat | Overwatch</title>
+    <meta>
+        <summary>b'Meet Roadhog and Junkrattwo criminals on a spree of mayhem and destruction around the world.\n\nLearn more about Roadhog: http://blizz.ly/MeetRoadhog \nLearn more about Junkrat: http://blizz.ly/MeetJunkrat \n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=DqhiLbRXGUQ/</link>
+    <thumbnail>https://i.ytimg.com/vi/DqhiLbRXGUQ/sddefault.jpg</thumbnail>
 </item>
 
 <item>
-  <title>A Moment in Crime Special Report: "The Junkers"</title>
-  <link>https://www.youtube.com/watch/l5kTATxt7bE</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/junk.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/junkrat-screenshot-002.jpg</fanart>
-  <summary>Their spree of mayhem and chaos has caused untold millions in property damage around the world. But who are these two deranged Junkers, and what is behind their destructive rampage? Find out in this special episode of A Moment in Crime!  </summary>
-</item>
-
-
-<item>
-  <title>Junkrat Ability Overview</title>
-  <link>https://www.youtube.com/watch/mFGQG8I68h8</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/junk.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/junkrat-screenshot-002.jpg</fanart>
-  <summary>
-Junkrat is an explosives-obsessed freak who lives to cause chaos and destruction. A former member of a group of anarchistic scavengers known as the Junkers, he's now embarked upon an international crime spree with Roadhog, leaving nothing but havoc and bedlam in his wake.
-
-Junkrat excels at area denial. His arsenal includes a Frag Launcher that lobs bouncing grenades, Concussion Mines that send enemies flying, and Steel Traps that stop foes dead in their tracks. But his favorite toy is the RIP-Tire, a rolling bomb that drives across the battlefield, destroying everything around it when it explodes.</summary>
+    <title>A Moment in Crime Special Report: "The Junkers" | Overwatch</title>
+    <meta>
+        <summary>b'Their spree of mayhem and chaos has caused untold millions in property damage around the world. But who are these two deranged Junkers, and what is behind their destructive rampage? Find out in this special episode of A Moment in Crime!  \n\nIf you have any information on the whereabouts of these dangerous criminals, please contact us at tips@amomentincrime.com. \n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=l5kTATxt7bE/</link>
+    <thumbnail>https://i.ytimg.com/vi/l5kTATxt7bE/sddefault.jpg</thumbnail>
 </item>
 
 <item>
-  <title>Overwatch - Junkrat Guide - Anyone Want Some BBQ?! (Tips and Advice)</title>
-  <link>https://www.youtube.com/watch/Yg0XzmK-dUU</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/junk.png</thumbnail>
-  <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/junkrat-screenshot-002.jpg</fanart>
-  <summary>Junkrat, everyone's favourite deranged explosive addict! This Junkrat guide video will give you tips and advice on how to play him. From his Concussion Mine to Steel trap, Junkrat has a whole host of tools at his disposal! Oh and don’t forget, he leaves a nice explosive present behind after he dies :D
-  </summary>
+    <title>Junkrat Ability Overview | Overwatch</title>
+    <meta>
+        <summary>b"It's a perfect day for some mayhem: http://blizz.ly/MeetJunkrat   \n\nJunkrat is an explosives-obsessed freak who lives to cause chaos and destruction. A former member of a group of anarchistic scavengers known as the Junkers, he's now embarked upon an international crime spree with Roadhog, leaving nothing but havoc and bedlam in his wake.\n\nJunkrat excels at area denial. His arsenal includes a Frag Launcher that lobs bouncing grenades, Concussion Mines that send enemies flying, and Steel Traps that stop foes dead in their tracks. But his favorite toy is the RIP-Tire, a rolling bomb that drives across the battlefield, destroying everything around it when it explodes.\n\nSign Up for Beta: http://bit.ly/JoinOverwatch \nLike Us on Facebook: http://www.facebook.com/playoverwatch \nFollow Us on Twitter: http://www.twitter.com/playoverwatch" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=mFGQG8I68h8/</link>
+    <thumbnail>https://i.ytimg.com/vi/mFGQG8I68h8/sddefault.jpg</thumbnail>
 </item>
+
+<item>
+    <title>Overwatch - Junkrat Guide - Anyone Want Some BBQ?!  (Tips and Advice)</title>
+    <meta>
+        <summary>b"Junkrat, everyone's favourite deranged explosive addict! This Junkrat guide video will give you tips and advice on how to play him. From his Concussion Mine to Steel trap, Junkrat has a whole host of tools at his disposal! Oh and dont forget, he leaves a nice explosive present behind after he dies :D\n\n PATREON CAMPAIGN! http://www.patreon.com/unitlost\n Twitter https://twitter.com/unitlostgaming\n Live Stream http://www.twitch.tv/unitlost\n http://www.unitlost.com - Join our AWESOME community forums!" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=Yg0XzmK-dUU/</link>
+    <thumbnail>https://i.ytimg.com/vi/Yg0XzmK-dUU/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>How to be an effective Junkrat | A Guide by a top 500 Junkrat Main</title>
+    <meta>
+        <summary>b'there could be a sequel\nFollow me on Twitch: twitch.tv/jackls7' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=LFdCl1pU-zM/</link>
+    <thumbnail>https://i.ytimg.com/vi/LFdCl1pU-zM/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch Coaching - Junkrat - GOLD 2188 SR - [OverAnalyzed]</title>
+    <meta>
+        <summary>b'Overwatch coaching! Welcome to OverAnalyzed! In this series, we as a community help our fellow players with tips and advice on how to become better players! Thumbnail from https://www.facebook.com/Shellshockedcosplay/\n\n HyperX - CHECK THEM OUT! http://bit.ly/UnitLostFPS [AD]\n Discord JOIN NOW! http://discord.gg/unitlost  \n PATREON CAMPAIGN! http://www.patreon.com/unitlost\n Twitter https://twitter.com/unitlostgaming\n Live Stream http://www.twitch.tv/unitlost\n http://www.unitlost.com - Join our AWESOME community forums!\n\nSystem Specs\n\nIntel i7 6900K overclocked @ 4.6Ghz\nWater Loop Coolant: Mayhem Aurora Blue\nAdditional Static Pressure Fan: Corsair SP120 LED Blue High Static Pressure 120mm Fan\nStatic Pressure Fans: Corsair SP120 LED Blue High Static Pressure 120mm Fan - Twin Pack\n32GB Corsair 3000mhz Vengeance LPX DDR4 (4x8GB) \n2 x NVIDIA GeForce GTX 1080 Strix 8GB \nAsus ROG STRIX Intel X99 RGB LED GAMING ATX Motherboard\nWindows 10 Home (64-bit)\nIntel 400GB 750 PCIe SSD\n4TB S-ATAIII 6.0Gb/s \n4TB S-ATAIII 6.0Gb/s \nBlue Camo Vinyl\nCorsair Carbide 600C Windowed\nCase Fans: Corsair AF120 LED Blue Quiet Edition High Airflow 120mm Fan - Twin Pack\nAdditional Case Fan: Corsair AF120 LED Blue Quiet Edition High Airflow 120mm Fan\nBraided Cables: PSU Braided Extension Cable set Black\nPSU: 850W Corsair RMX Fully Modular' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=cvvdtKU2QgY/</link>
+    <thumbnail>https://i.ytimg.com/vi/cvvdtKU2QgY/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: Top 5 PRO Junkrat Tips! - Advanced Guide</title>
+    <meta>
+        <summary>b"This is a brand new series where we break down 5 pro Junkrat tips, applied by the best players in the world, that you need to know! Let us know what you think to this guide, we really hope it help you improve your Overwatch gameplay!\nSubscribe here - http://bit.ly/2aN1OuO\n\nRazer makes the best equipment, check out here! http://rzr.to/lnvvm\n\nWe are YOUR OVERWATCH:\nDestiny Channel: https://www.youtube.com/channel/UCb4Jomiox07xosU843EYTiw\nPatreon - https://www.patreon.com/YourOverwatch\nTwitter - https://twitter.com/youroverwatchyt\nTwitch - https://www.twitch.tv/youroverwatch \n\nDiscord Server:\nhttps://discordapp.com/invite/youroverwatch\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=TcRe_8UGhFA/</link>
+    <thumbnail>https://i.ytimg.com/vi/TcRe_8UGhFA/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>How to play Junkrat Properly - 10 Top Tips</title>
+    <meta>
+        <summary>b"Well I've always wanted to make a video with my thoughts on this hero. He's not your standard pick, but will certainly catch people off guard if you know what you're doing!\n\nSupport me on Patreon: \n\nhttps://www.patreon.com/Ragtagg" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=Y2qaWF44yI8/</link>
+    <thumbnail>https://i.ytimg.com/vi/Y2qaWF44yI8/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>1 JUNKRAT TIP for EVERY HERO ft. PvPTwitch</title>
+    <meta>
+        <summary>b"This is how PvPTwitch approaches each hero matchup when playing Junkrat. He provides 1 tip/trick for all 25 heroes just in time for Junkrat's new buff with double concussion mine and 30% rip-tire speed!\n\nFollow PvPTwitch:\n https://twitch.tv/pvptwitch\n https://youtube.com/pvptwitch\n\nFollow Dino (helped us film)\n https://www.twitch.tv/dinomun\n\n\n*FREE* 14 day free trial for HASTE! If you have inconsistent ping, jitter, or packet loss on NA servers for Overwatch or League of Legends, sign up/download Haste and leave it running in the background!\n http://bit.ly/KarQ_17\n\nInterested in private Overwatch lessons? I currently teach Ana lessons & private VOD reviews!\n https://sandbox.gg/author/karq/\n\n\n TWITCH Stream  https://twitch.tv/karQ\n Adpocalypse is hurting my livelihood, I don't know if I can keep creating content as a living. You can sponsor me here if you want another method of supporting me!  https://gaming.youtube.com/karqgames\n\nDiscord  https://discord.gg/km5UmmZ\nTwitter  https://twitter.com/KarQGames\nInstagram  http://instagram.com/KarQGames\nFacebook  https://www.facebook.com/KarQGames/\nWebsite  http://karqgames.com/\n\n\n Music Used:\n\n Otis McDonald - Scarlet Fire https://youtu.be/8yOskhDn468\n Kasger - Reflection [NCS Release] \nMusic provided by NoCopyrightSounds: https://youtu.be/M4_ivwYfWFo\nArtist: Kasger" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=Ezk4HUZpWr8/</link>
+    <thumbnail>https://i.ytimg.com/vi/Ezk4HUZpWr8/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: The BEST Junkrat in the WORLD! - JAKE Pro Analysis</title>
+    <meta>
+        <summary>b"Jake's Junkrat has a reputation to be meme-worthy but it deserves respect. The Overwatch League was fairly strictly in a dive meta, however through the necessity of Houston not having an Ace Tracer player, they dominated a large portion of the regular season of Stage 1, with an emphasis of Jake's Junkrat, who we esteem to be the best Junkrat in the world. If you enjoyed this pro analysis video, be sure to leave it a like! -F\n\nSubscribe here - http://bit.ly/2aN1OuO\n\nRazer makes the best equipment, check out here! http://rzr.to/lnvvm\n\nWe are YOUR OVERWATCH:\nDestiny Channel: https://www.youtube.com/channel/UCb4Jomiox07xosU843EYTiw\nPatreon - https://www.patreon.com/YourOverwatch\nTwitter - https://twitter.com/youroverwatchyt\nTwitch - https://www.twitch.tv/youroverwatch \n\nDiscord Server:\nhttps://discordapp.com/invite/youroverwatch\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=3wzN7ePsyLA/</link>
+    <thumbnail>https://i.ytimg.com/vi/3wzN7ePsyLA/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch | Master Junkrat - Tips and Tricks (ft ProLikeChro)</title>
+    <meta>
+        <summary>b'Chro Twitch: https://www.twitch.tv/prolikechro\nChro YT:  https://www.youtube.com/prolikechro\nChro Twitter: https://twitter.com/prolikechro\n\n\nJunkrat is a polarising character in Overwatch competitive. Today we spoke to Junkrat only player Chro on how to play the hero but also spoke about the overall meta health of the game.\n\n__\n\n Need a new headset? Buy this one and support us! http://hyperx.gg/StingerOWC [AD]\n\n Send in your own clips: http://goo.gl/forms/JsizriSpRL\n__\n\nFollow us!\nTwitch: http://www.twitch.tv/overwatchcentral\nTwitter: https://twitter.com/OWCentral\nGoogle+: https://plus.google.com/+OverwatchCentral\n__\n\nMusic: Epidemic Sound\n\nApproaching Nirvana - Super Happy Fun Time\nhttp://youtube.com/user/approachingnirvana\nApproaching Nirvana on iTunes: https://itunes.apple.com/us/artist/approaching-nirvana/id313583565\n__\n\nThanks for watching! #Overwatch' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=xUt0LDEcdDU/</link>
+    <thumbnail>https://i.ytimg.com/vi/xUt0LDEcdDU/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Overwatch: Junkrat Counters EVERYTHING!</title>
+    <meta>
+        <summary>b"Junkrat especially in matchmaking gets silly amounts of value. All the dominant playstyles Junkrat can counter, as long as the map isn't too unfavorable to him. Everything? Yes, everything! He can whittle down tanks and static bunker comps, control against dive with big burst to protect your backline. His ult wins fights and his mobility controls the space and positioning he desperately needs. At least with how the meta is working right now, Junkrat is the type of hero McCree could only dream of being, mainly because he has the mutli use tool of his mine that keeps him out of harms way as well as having a potential insta-kill if someone dares get to close. One may think Junkrat is an easy hero and he is in the grand scheme of things, but once you can burst down squishy healers and static dps, challenge flankers and get a high % of shots on tanks, you'll be well on your way to controlling the entire battlefield. If you enjoyed the video, be sure to leave it a like!  \n\nSubscribe here - http://bit.ly/2aN1OuO\n\nRazer makes the best equipment, check out here! http://rzr.to/lnvvm\n\nWe are YOUR OVERWATCH:\nDestiny Channel: https://www.youtube.com/channel/UCb4Jomiox07xosU843EYTiw\nPatreon - https://www.patreon.com/YourOverwatch\nTwitter - https://twitter.com/youroverwatchyt\nTwitch - https://www.twitch.tv/youroverwatch \n\nDiscord Server:\nhttps://discordapp.com/invite/youroverwatch\n\nFREEDO's personal channel for Overwatch esports talk and more!\nhttps://www.youtube.com/user/xfreeedo" </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=6MZW9Qci-4Q/</link>
+    <thumbnail>https://i.ytimg.com/vi/6MZW9Qci-4Q/sddefault.jpg</thumbnail>
+</item>
+
+<item>
+    <title>Smurf Junkrat - Pro Junkrat Tips and Tricks Gameplay Guide| Overwatch Guide</title>
+    <meta>
+        <summary>b' Join NOW! https://ow.gameleap.com/ - Learn from Top 500 Pros and carry your games!\n\nArtorigold goes over in the smurf series how to play Junkrat at a lower level, and some of the basic tips and tricks that can help you improve your Junkrat gameplay in this Smurf Junkrat - Pro Junkrat Tips and Tricks Gameplay Guide\n\n\nThanks for watching. If you have any questions or want to reach us, please send an email at support@game-leap.com and we will get back to you shortly.' </summary>
+    </meta>
+    <link>https://www.youtube.com/watch?v=K0fkN7n3WyY/</link>
+    <thumbnail>https://i.ytimg.com/vi/K0fkN7n3WyY/sddefault.jpg</thumbnail>
+</item>
+
