@@ -3,13 +3,11 @@
 import praw
 import os
 import re
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
-
-reddit = praw.Reddit(client_id='DJ7c54TdxLex2g', \
-                     client_secret='UMihRd5ZmgWNyXqsX042rwjKRxk', \
-                     user_agent='Pi-Diaries', \
-
-                     )
+reddit = praw.Reddit('script', user_agent='script user agent')
 
 if os.path.exists("../Overwatchleague/owu.xml"):
     os.remove('../Overwatchleague/owu.xml')
