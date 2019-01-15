@@ -1,11 +1,12 @@
-#http://www.storybench.org/how-to-scrape-reddit-with-python/
 #! usr/bin/env python3
+
 import praw
+from importlib import reload
 import os
-import re
+
 import sys
 reload(sys)
-sys.setdefaultencoding('utf-8')
+
 
 reddit = praw.Reddit('script', user_agent='script user agent')
 

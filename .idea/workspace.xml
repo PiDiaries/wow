@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="574ce078-1a9f-4726-bd08-82ecdd620ef3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/channels.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/channels.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/contenders.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/contenders.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/doomfist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/doomfist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/dva.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/dva.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/genji.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/genji.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/hanzo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/hanzo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/heroes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/heroes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/junkrat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/junkrat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/lucio.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/lucio.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/mccree.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/mccree.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/mercy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/mercy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/moira.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/moira.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/orisa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/orisa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/pharah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/pharah.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/reaper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/reaper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/reinhardt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/reinhardt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/roadhog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/roadhog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/sombra.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/sombra.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/symmetra.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/symmetra.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/torbjorn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/torbjorn.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/tracer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/tracer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/widowmaker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/widowmaker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/winston.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/winston.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/wreck.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/wreck.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/zarya.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/zarya.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/heroguides/zenyatta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/heroguides/zenyatta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/links" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/overwatchleague.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/overwatchleague.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/owl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/owl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Ado.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Ado.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Agilities.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Agilities.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/AimGod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/AimGod.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Altering.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Altering.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Ark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Ark.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Asher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Asher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Avast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Avast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/BABYBAY.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/BABYBAY.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Bani.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Bani.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Bdosin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Bdosin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/BigGoose.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/BigGoose.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Bischu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Bischu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Boink.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Boink.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Boombox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Boombox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Bunny.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Bunny.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/CWoosH.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/CWoosH.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Carpe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Carpe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Chipshajen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Chipshajen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/ChoiHyoBin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/ChoiHyoBin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Clockwork.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Clockwork.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Closer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Closer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Coolmatt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Coolmatt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Custa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Custa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Danteh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Danteh.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/DayFly.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/DayFly.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Diya.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Diya.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/EFFECT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/EFFECT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Envy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Envy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Eqo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Eqo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/FCTFCTN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/FCTFCTN.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/FLETA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/FLETA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Fate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Fate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Fearless.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Fearless.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Fissure.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Fissure.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Fiveking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Fiveking.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Freefeel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Freefeel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Fury.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Fury.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Gambler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Gambler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Gamsu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Gamsu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Geguri.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Geguri.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Gesture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Gesture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Grimreality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Grimreality.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/HaGoPeun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/HaGoPeun.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/HarryHook.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/HarryHook.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Hooreg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Hooreg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Hydration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Hydration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Jake.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Jake.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Janus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Janus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Jjonak.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Jjonak.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Joemeister.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Joemeister.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Kalios.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Kalios.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Kariv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Kariv.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Kellex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Kellex.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/KuKi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/KuKi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/LiNkzr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/LiNkzr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Libero.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Libero.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Logix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Logix.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/MG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/MG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Manneten.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Manneten.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Mano.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Mano.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Meko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Meko.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Mendokusaii.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Mendokusaii.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Mickie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Mickie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Miro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Miro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Mistakes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Mistakes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Muma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Muma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Munchkin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Munchkin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/NUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/NUS.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Neko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Neko.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Neptuno.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Neptuno.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Nevix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Nevix.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Nomy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Nomy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/NotE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/NotE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Numlocked.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Numlocked.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Pine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Pine.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Poko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Poko.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Profit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Profit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Rascal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Rascal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Rawkus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Rawkus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Roshan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Roshan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/SADO.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/SADO.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/SPREE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/SPREE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/STRIKER.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/STRIKER.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Saebyeolbe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Saebyeolbe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Seagull.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Seagull.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/ShaDowBurn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/ShaDowBurn.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Shaz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Shaz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Silkthread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Silkthread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Sky.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Sky.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Snillo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Snillo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Snow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Snow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Soon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Soon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Space.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Space.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Surefour.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Surefour.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Taimou.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Taimou.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/TviQ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/TviQ.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Undead.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Undead.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Unkoe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Unkoe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Verbo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Verbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Wekeed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Wekeed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/WooHyaL.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/WooHyaL.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/XepheR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/XepheR.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Xushu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Xushu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/ZUNBA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/ZUNBA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Zebbosai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Zebbosai.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/Zuppeh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/Zuppeh.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/akm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/akm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/birdring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/birdring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/cocco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/cocco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/dhaK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/dhaK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/fragi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/fragi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/gido.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/gido.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/iRemiix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/iRemiix.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/iddqd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/iddqd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/oge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/oge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/ryujehong.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/ryujehong.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/sinatraa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/sinatraa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/sleepy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/sleepy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/super.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/super.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/tobi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/tobi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/void.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/void.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/xQc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/xQc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/players/zappis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/players/zappis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/charge/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/charge/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/defiant/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/defiant/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/dragons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/dragons.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/dragons/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/dragons/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/dynasty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/dynasty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/dynasty/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/dynasty/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/eternal/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/eternal/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/excelsior.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/excelsior.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/excelsior/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/excelsior/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/fuel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/fuel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/fuel/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/fuel/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/fusion.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/fusion.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/fusion/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/fusion/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/gladiators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/gladiators.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/gladiators/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/gladiators/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/hunters/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/hunters/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/mayhem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/mayhem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/mayhem/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/mayhem/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/outlaws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/outlaws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/outlaws/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/outlaws/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/reign/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/reign/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/shock.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/shock.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/shock/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/shock/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/spark/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/spark/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/spitfire.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/spitfire.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/spitfire/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/spitfire/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/teams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/teams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/titans/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/titans/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/toronto/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/toronto/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/uprising.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/uprising.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/uprising/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/uprising/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/valiant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/valiant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/valiant/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/valiant/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overwatchleague/teams/washington/players.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Overwatchleague/teams/washington/players.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels" beforeDir="false" afterPath="$PROJECT_DIR$/channels" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.xml" beforeDir="false" afterPath="$PROJECT_DIR$/news.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/players.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players2..xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/players2..xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/Brigitte_Cute.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/Brigitte_Cute.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/Doomspray_cute.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/Doomspray_cute.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/Moira_Cute.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/Moira_Cute.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/Orisa_cute.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/Orisa_cute.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/ana.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/ana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/bas.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/bas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/dva.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/dva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/genji.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/genji.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/hammond.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/hammond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/hanzo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/hanzo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/hog.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/hog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/junk.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/junk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/lucio.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/lucio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/mccree.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/mccree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/mei.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/mei.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/mercy.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/mercy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/pharah.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/pharah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/reaper.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/reaper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/rein.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/rein.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/soldier.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/soldier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/sombra.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/sombra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/sym.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/sym.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/torb.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/torb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/tracer.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/tracer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/widow.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/widow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/winston.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/winston.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/zarya.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/zarya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprays/zen.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprays/zen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teams.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/teams.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlities/OverwatchLeague.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlities/OverwatchLeague.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlities/OverwatchUniversity.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlities/OverwatchUniversity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlities/oxc.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlities/oxc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wow.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utlities/OverwatchLeague.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utlities/OverwatchUniversity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utlities/oxc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#84#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utlities/OverwatchLeague.py" />
+        <option value="$PROJECT_DIR$/utlities/OverwatchUniversity.py" />
+        <option value="$PROJECT_DIR$/utlities/oxc.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="243" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wow" type="462c0819:PsiDirectoryNode" />
+              <item name="utlities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="wow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.OverwatchLeague">
+    <configuration name="OverwatchLeague" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utlities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utlities/OverwatchLeague.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OverwatchUniversity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utlities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utlities/OverwatchUniversity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oxc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utlities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utlities/oxc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.oxc" />
+        <item itemvalue="Python.OverwatchUniversity" />
+        <item itemvalue="Python.OverwatchLeague" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="574ce078-1a9f-4726-bd08-82ecdd620ef3" name="Default Changelist" comment="" />
+      <created>1547390390109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547390390109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="243" y="80" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24981844" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981844" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utlities/OverwatchLeague.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utlities/OverwatchLeague.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utlities/OverwatchUniversity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utlities/oxc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#84#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
