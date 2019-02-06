@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+praw_script_oauth/__init__.py
+praw_script_oauth/config.py
+praw_script_oauth/praw_script_oauth.py
+praw_script_oauth.egg-info/PKG-INFO
+praw_script_oauth.egg-info/SOURCES.txt
+praw_script_oauth.egg-info/dependency_links.txt
+praw_script_oauth.egg-info/requires.txt
+praw_script_oauth.egg-info/top_level.txt
