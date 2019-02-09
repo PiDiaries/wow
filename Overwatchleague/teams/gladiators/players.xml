@@ -16,6 +16,16 @@
 </dir>
 
 
+<dir>
+  <title>Panker</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Panker.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
 
 <dir>
   <title>Bischu</title>
@@ -31,7 +41,7 @@ He is also a former League of Legends player.</summary>
 <dir>
   <title>Void</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/void.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LAKEA6GOSTXW1523496423868.png</thumbnail>
   <fanart>https://i.imgur.com/uHfZGom.png</fanart>
   <summary>Jun-woo "Void" Kang is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
 </dir>

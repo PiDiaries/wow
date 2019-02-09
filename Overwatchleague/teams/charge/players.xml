@@ -10,7 +10,7 @@
 <dir>
   <title>Rio</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rio.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HNQDQN9UZICQ1549664661539.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -25,7 +25,7 @@
 <dir>
   <title>HOTBA</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -39,7 +39,7 @@
 <dir>
   <title>Happy</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Happy.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/YGAFQXG7U7611549664660733.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -48,7 +48,7 @@
 <dir>
   <title>Eileen</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Eileen.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/2QKIMC550B7R1549664660732.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -57,7 +57,7 @@
 <dir>
   <title>nero</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/nero.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -66,7 +66,7 @@
 <dir>
   <title>Kyb</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kyb.xml</link>
-  <thumbnail>.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RV9MLWFCD35J1549664661221.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -79,7 +79,7 @@
 <dir>
   <title>Chara</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Chara.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HF8TQBAX9PNN1549664660731.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -88,7 +88,7 @@
 <dir>
   <title>Shu</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Shu.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/J2UP9CAQCMZO1549664661741.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -97,17 +97,16 @@
 <dir>
   <title>OnlyWish</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/OnlyWish.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/558PQ7N453O41549664661539.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
 
 
 <dir>
-  <title>WonJaeLee</title>
+  <title>RISE</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/WonJaeLee.xml</link>
-  <thumbnail>.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/PNNDLMW15IIO1549664661542.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
-

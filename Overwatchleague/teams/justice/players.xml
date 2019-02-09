@@ -4,14 +4,24 @@
 <link>//</link>
 </item>
 
+<dir>
+  <title>SANSAM</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SANSAM.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4CBNQCE3XA4K1549576974165.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
 
 
-<item>
-<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
-<link>//</link>
-</item>
 
 
+<dir>
+  <title>JANUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Janus.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4S8IJ7171U7D1549576973932.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
 
 
 
@@ -20,6 +30,30 @@
 <link>//</link>
 </item>
 
+<dir>
+  <title>Ado</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/8P51SUG05N171549576973629.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Corey</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Corey.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GATRQCCZ13I71549576973628.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>STRATUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/STRATUS.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QARVHM6UJZW41549576974172.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
@@ -27,10 +61,21 @@
 </item>
 
 
+
+
 <dir>
-  <title>Jecse</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jecse.xml</link>
-  <thumbnail>.png</thumbnail>
+  <title>GIDO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/gido.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6J0A4BPFCZH1549576973928.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>HYEONU</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HYEONU.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/U90061SZ7BGQ1549576973936.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -38,39 +83,9 @@
 
 
 <dir>
-  <title></title>
+  <title>Fahzix</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-
-<dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-
-<dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-
-<dir>
-  <title></title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/PO4515851HNE1549576973626.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
