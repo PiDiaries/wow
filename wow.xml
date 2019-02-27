@@ -7,6 +7,16 @@
 <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
 </plugin>
 
+
+<dir>
+  <title>[B]Baptiste NEW HERO[/B]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/baptist.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
 <dir>
   <title>[COLORffffcf35][B]Overwatch[/B][/COLOR] eSports</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
