@@ -54,12 +54,22 @@ No longer having to focus her energies on squabbles with the other gangs, Ashe i
 </dir>
 
 <dir>
+  <title>[B]Baptiste[/B]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/baptist.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
   <title>[COLORff7a9767][B]Bastion[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/bastion.xml</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/bas.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/bastion-screenshot-004.jpg</fanart>
   <summary>Repair protocols and the ability to transform between stationary Assault, mobile Recon and devastating Tank configurations provide Bastion with a high probability of victory.
-  
+
   Once a frontline combatant in the devastating Omnic Crisis, this curious Bastion unit now explores the world, fascinated by nature but wary of a fearful humanity.
 
 Originally created for peacekeeping purposes, Bastion robot units possessed the unique ability to rapidly reconfigure themselves into an assault-cannon mode. But during the Omnic Crisis, they were turned against their human makers, forming the bulk of the omnics' rebel army. Following the resolution of the crisis, nearly all of them were destroyed or disassembled. To this day, Bastion units still symbolize the horrors of the conflict.
@@ -102,7 +112,7 @@ Now Brigitte fights at Reinhardt's side to protect him, and any others in need a
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/Doomspray_cute.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/doomfist-screenshot-004.jpg</fanart>
   <summary>Doomfist’s cybernetics make him a highly-mobile, powerful frontline fighter. In addition to dealing ranged damage with his Hand Cannon, Doomfist can slam the ground, knock enemies into the air and off balance, or charge into the fray with his Rocket Punch. When facing a tightly packed group, Doomfist leaps out of view, then crashes down to earth with a spectacular Meteor Strike.
-  
+
   Recently freed from imprisonment, Doomfist is determined to plunge the world into a new conflict that he believes will make humanity stronger.
 
 Akande Ogundimu was born into a well-regarded Nigerian family, heir to its prosthetic-technology company. A highly intelligent and charismatic figure, Ogundimu helped to expand his family's business and position it for the future while dedicating his free time to his first love: competitive martial arts. He trained in traditional African fighting styles, including Dambe and Gidigbo, as well as in wrestling and other modern combat systems, incorporating the most effective techniques into his repertoire. Ogundimu competed in tournaments all over the continent, utilizing his intuition and ability to read opponents alongside his tremendous speed and strength.
@@ -137,7 +147,7 @@ Finally, he sensed that the time had come for him to return. He broke out of his
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/dva.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/dva-screenshot-001.jpg</fanart>
   <summary>D.Va’s mech is nimble and powerful—its twin Fusion Cannons blast away with autofire at short range, and she can use its Boosters to barrel over enemies and obstacles, or deflect attacks with her projectile-dismantling Defense Matrix.
-  
+
   D.Va is a former professional gamer who now uses her skills to pilot a state-of-the-art mech in defense of her homeland.
 
 Twenty years ago, South Korea was attacked by a colossal omnic monstrosity that rose from the depths of the East China Sea. The massive, lumbering construct caused catastrophic damage to coastal cities before it was driven back beneath the waves. In response, the South Korean government developed a mechanized armored drone unit, called MEKA, to protect urban environments in future engagements with the omnic threat.
@@ -155,7 +165,7 @@ Seeing her new mission as a game, D.Va fearlessly charges into battle alongside 
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/genji.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/genji-screenshot-002.jpg</fanart>
   <summary>Genji flings precise and deadly Shuriken at his targets, and uses his technologically-advanced katana to deflect projectiles or deliver a Swift Strike that cuts down enemies.
-  
+
   The cyborg Genji Shimada has made peace with the augmented body he once rejected, and in doing so, he has discovered a higher humanity.
 
 As the youngest son of the master of the Shimada ninja clan, Genji lived a life of luxury and privilege. He had little interest in the family's illegal businesses, and although he excelled at and enjoyed his ninja training, he spent most of his time pursuing a playboy lifestyle. Many within the clan considered the carefree Genji to be a dangerous liability, and they resented his father for coddling and protecting him. Following the clan leader's untimely death, Genji's older brother, Hanzo, demanded that Genji take a more active role in their late father's empire. Genji refused, enraging Hanzo. The tension between the brothers built to a violent confrontation that left Genji on the verge of dying.
@@ -175,7 +185,7 @@ Now, for the first time in his life, Genji is free. Even he cannot say where his
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hanzo.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/hanzo-screenshot-001.jpg</fanart>
   <summary>Hanzo’s versatile arrows can reveal his enemies or fragment to strike multiple targets. He can scale walls to fire his bow from on high, or summon a titanic spirit dragon.
-  
+
   Mastering his skills as a bowman and an assassin, Hanzo Shimada strives to prove himself as a warrior without peer.
 
 The Shimada family was established centuries ago, a clan of assassins whose power grew over the years, enabling them to build a vast criminal empire that profited from lucrative trade in arms and illegal substances. As the eldest son of the family's head, Hanzo was bound by duty to succeed his father and rule the Shimada empire. From a young age, he was trained for that responsibility, displaying a natural aptitude for leadership and possessing an innate understanding of strategy and tactics. He also excelled in more practical areas: he was a prodigy in martial arts, swordplay, and bowmanship.
@@ -210,7 +220,7 @@ Now, with Roadhog in tow, Junkrat has left the Outback, and embarked upon an int
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/lucio.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/lucio-screenshot-002.jpg</fanart>
   <summary>On the battlefield, Lúcio’s cutting-edge Sonic Amplifier buffets enemies with projectiles and knocks foes back with blasts of sound. His songs can both heal his team or boost their movement speed, and he can switch between tracks on the fly.
-  
+
   Lúcio is an international celebrity who inspires social change through his music and actions.
 
 Lúcio Correia dos Santos grew up in Rio de Janeiro, in a poor and crowded favela that was hit hard by the financial upheaval following the Omnic Crisis. As Brazil began the long process of recovery, he wanted to find a way to lift the spirits of those around him. He found his answer in music and its power to bring people together and even help them forget their troubles, if only for a short time. He performed on street corners, in block parties, and as he got older, at a string of legendary underground shows.
@@ -247,7 +257,7 @@ He resurfaced several years later as a gunslinger for hire. But while McCree's t
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mei.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mei-screenshot-005.jpg</fanart>
   <summary>Mei’s weather-altering devices slow opponents and protect locations. Her Endothermic Blaster unleashes damaging icicles and frost streams, and she can Cryo-Freeze herself to guard against counterattacks, or obstruct the opposing team's movements with an Ice Wall.
-  
+
  Mei is a scientist who has taken the fight to preserve the environment into her own hands.
 
 Though many blamed the planet's escalating, unexplained climate phenomena on the advent of new technologies, the rapidly growing omnic population, and drastically increased consumption of resources, the true cause remained unknown. To find a solution, Overwatch established a series of eco-Watchpoints at remote, critical locations worldwide.
@@ -266,7 +276,7 @@ Mei has decided to continue her work on her own. Equipped with a portable versio
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mercy.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/mercy-screenshot-001.jpg</fanart>
   <summary>Mercy’s Valkyrie Suit helps keep her close to teammates like a guardian angel; healing, resurrecting or strengthening them with the beams emanating from her Caduceus Staff.
-  
+
   A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace.
 
 Ziegler rose to become the head of surgery at a prominent Swiss hospital before pioneering a breakthrough in the field of applied nanobiology that radically improved the treatment of life-threatening illnesses and injuries. It was this expertise that attracted the attention of Overwatch.
@@ -285,7 +295,7 @@ Though she spends most of her time caring for the broken and dispossessed in cri
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/Moira_Cute.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/moira-screenshot-002.jpg</fanart>
   <summary>Moira’s biotic abilities enable her to contribute healing or damage in any crisis. While Biotic Grasp gives Moira short-range options, her Biotic Orbs contribute longer-range, hands-off damage and healing; she can also Fade to escape groups or remain close to allies in need of support. Once she’s charged Coalescence, Moira can save multiple allies from elimination at once or finish off weakened enemies.
-  
+
  Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life.
 
 Over a decade ago, O'Deorain made waves when she published a controversial paper detailing a methodology for creating custom genetic programs that could alter DNA at a cellular level. It seemed like a promising step toward overcoming diseases and disorders and maximizing human potential.
@@ -306,7 +316,7 @@ Though O'Deorain will go to any lengths to make scientific breakthroughs, her wo
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/Orisa_cute.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/orisa-screenshot-004.jpg</fanart>
   <summary>Orisa serves as the central anchor of her team, and defends her teammates from the frontline with a protective barrier. She can attack from long range, fortify her own defenses, launch graviton charges to slow and move enemies, and deploy a Supercharger to boost the damage output of multiple allies at once.
-  
+
   Built from parts of one of Numbani's short-lived OR15 defense robots, Orisa is the city's newest protector, though she still has much to learn.
 
 Originally put into service before the Omnic Crisis, the OR14 "Idina" line of security robots was built in Nigeria's massive manufacturing omnium. After the war, they were taken out of production, along with many of the other models used during the crisis. Twenty years later, Numbani revived and recommissioned the OR14 program to protect the city from external threats. These new OR15s were deployed for a short time before they were destroyed in an attack by Doomfist.
@@ -329,7 +339,7 @@ As Orisa starts her career as a guardian, she has much to learn about the world 
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/pharah.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/pharah-screenshot-003.jpg</fanart>
   <summary>Soaring through the air in her combat armor, and armed with a launcher that lays down high-explosive rockets, Pharah is a force to be reckoned with.
-  
+
  Fareeha Amari's commitment to duty runs in her blood. She comes from a long line of highly decorated soldiers and burns with the desire to serve with honor.
 
 As a child, Fareeha dreamed of following in her mother's footsteps and joining the global peacekeeping force, Overwatch. She enlisted in the Egyptian army, and her dogged persistence and tactical prowess caused her to rise up through the officer ranks. She was a courageous leader and earned the loyalty of all who served under her. With her exemplary record, Fareeha was well placed to join the ranks of Overwatch, but before she had that opportunity, Overwatch was disbanded.
@@ -346,7 +356,7 @@ Under the call sign "Pharah," she works to safeguard the AI installation. Though
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/reaper.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/reaper-screenshot-004.jpg</fanart>
   <summary>Hellfire Shotguns, the ghostly ability to become immune to damage, and the power to step between shadows make Reaper one of the deadliest beings on Earth.
-  
+
   Some speak of a black-robed terrorist known only as the Reaper. His identity and motives are a mystery. What is known is that where he appears, death follows.
 
 The Reaper is an extremely volatile mercenary, a ruthless and remorseless killer responsible for terrorist attacks across the world. He has fought in many armed conflicts in the last decades, showing no loyalty to any cause or organization.
@@ -419,7 +429,7 @@ Unrelenting in his search to find those responsible for Overwatch's fall, Soldie
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/sombra.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/sombra-screenshot-006-6de9884047e0fa523c234ce979e9418a573ea758ab7166d58c90e6118a3a849b6dab2a0ead43a7b4720e657c502e1fe94fc1913ff5a2be7df0b01d8b36ec9c3b.jpg</fanart>
   <summary>Stealth and debilitating attacks make Sombra a powerful infiltrator. Her hacking can disrupt her enemies, ensuring they're easier to take out, while her EMP provides the upper hand against multiple foes at once. Sombra’s ability to Translocate and camouflage herself makes her a hard target to pin down.
-  
+
   One of the world's most notorious hackers, Sombra uses information to manipulate those in power.
 
 Long before she took up the alias "Sombra," ░░░░░░ was among the thousands of children who were left orphaned in the aftermath of the Omnic Crisis. With much of her country's infrastructure destroyed, she survived by utilizing her natural gifts with hacking and computers.
@@ -474,7 +484,7 @@ But in the aftermath of Overwatch's fall, many of Torbjörn's weapons were stole
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/tracer.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/tracer-screenshot-002.jpg</fanart>
   <summary>Toting twin pulse pistols, energy-based time bombs, and rapid-fire banter, Tracer is able to "blink" through space and rewind her personal timeline as she battles to right wrongs the world over.
-  
+
   The former Overwatch agent known as Tracer is a time-jumping adventurer and an irrepressible force for good.
 
 Lena Oxton (call sign: "Tracer") was the youngest person ever inducted into Overwatch's experimental flight program. Known for her fearless piloting skills, she was handpicked to test the prototype of a teleporting fighter, the Slipstream. But during its first flight, the aircraft's teleportation matrix malfunctioned, and it disappeared. Lena was presumed dead.
@@ -493,7 +503,7 @@ Since Overwatch's dissolution, Tracer has continued to right wrongs and fight th
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/widow.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/widowmaker-screenshot-004.jpg</fanart>
   <summary>Widowmaker equips herself with whatever it takes to eliminate her targets, including mines that dispense poisonous gas, a visor that grants her squad infra-sight, and a powerful sniper rifle that can fire in fully-automatic mode.
-  
+
  Widowmaker is the perfect assassin: a patient, ruthlessly efficient killer who shows neither emotion nor remorse.
 
 It is believed that in her former life, Widowmaker was married to Gérard Lacroix, an Overwatch agent spearheading operations against the Talon terrorist organization. After several unsuccessful attempts to eliminate Gérard, Talon decided to change its focus to his wife, Amélie. Talon operatives kidnapped her and subjected her to an intense program of neural reconditioning. They broke her will, suppressed her personality, and reprogrammed her as a sleeper agent. She was eventually found by Overwatch agents, apparently none the worse for wear, and returned to her normal life.
@@ -564,7 +574,7 @@ Now she serves—a symbol to some, a stalwart fellow soldier to others. But for 
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/zen.png</thumbnail>
   <fanart>https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/zenyatta-screenshot-008.jpg</fanart>
   <summary>Zenyatta calls upon orbs of harmony and discord to heal his teammates and weaken his opponents, all while pursuing a transcendent state of immunity to damage.
-  
+
   Zenyatta is an omnic monk who wanders the world in search of spiritual enlightenment. It is said that those who cross his path are never the same again.
 
 Years ago, following the Omnic Crisis, a group of outcast omnic robots experienced what they described as a spiritual awakening. They abandoned their preprogrammed lives to establish a communal monastery deep in the Himalayas. After many years of meditation on the nature of existence, they came to the belief that they were more than artificial intelligences and that, like humans, they possessed the essence of a soul.
