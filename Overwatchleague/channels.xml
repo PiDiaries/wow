@@ -34,7 +34,8 @@
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30071705&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?channel_id=30071705&amp;channel_name=reinforce&amp;display_name=Reinforce&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <sublink> plugin://plugin.video.youtube/channel/UCPXBrhtqaRq7ApUku6WPcGQ/ (Youtube)</sublink>
+</link>
     <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/reinforce-profile_image-744253442b75424c-300x300.png</thumbnail>
     <summary>I'm a 23-year-old professional Overwatch player. My main role is Tank, but on stream I'll play a variety of heroes. Don't worry, my aim is top tier and don't believe anyone saying differently.
 
