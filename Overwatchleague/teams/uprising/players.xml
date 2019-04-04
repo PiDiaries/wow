@@ -8,15 +8,6 @@
 </item>
 
 
-<dir>
-  <title>NotE</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NotE.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/SLV8MICXJHX41549581232179.png</thumbnail>
-  <fanart>https://i.imgur.com/0uiKZyw.png</fanart>
-  <summary>Lucas "NotE" Meissner is a Canadian player currently playing for the Boston Uprising.</summary>
-</dir>
-
-
 
 <dir>
   <title>Axxiom</title>
@@ -89,6 +80,14 @@
   <title>ALEMAO</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ALEMAO.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6SN5JXEMRSSP1549581231340.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>rCk</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/rCk.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/9F58S6CZW7PU1549664649455.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>

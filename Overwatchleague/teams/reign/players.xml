@@ -32,16 +32,25 @@
 </dir>
 
 
+<dir>
+  <title>frd</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/frd.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
 <dir>
-  <title>dafran</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/dafran.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5R25PZO6Y2C61549580709410.png</thumbnail>
-  <fanart></fanart>
+  <title>BABYBAY</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/V303SWX6ILLZ1549652299171.png</thumbnail>
+  <fanart>https://i.imgur.com/svudzEp.png</fanart>
   <summary></summary>
 </dir>
 
@@ -83,6 +92,23 @@
   <title>Masaa</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Masaa.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KCVDOSD2BNBM1549580709709.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>FunnyAstro</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FunnyAstro.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KCVDOSD2BNBM1549580709709.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Dogman</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Dogman.xml</link>
+  <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>

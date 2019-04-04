@@ -28,6 +28,14 @@
 <thumbnail></thumbnail>
 </dir>
 
+<dir>
+  <title>dafran</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/dafran.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5R25PZO6Y2C61549580709410.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
 
 <plugin>
   <title>Reinforce</title>
