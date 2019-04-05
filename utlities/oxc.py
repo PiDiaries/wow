@@ -12,7 +12,7 @@ reddit = praw.Reddit('script', user_agent='script user agent')
 if os.path.exists("../Overwatchleague/owc.xml"):
     os.remove('../Overwatchleague/owc.xml')
 
-for submission in reddit.subreddit('OverwatchCompetitive').search('(site:youtube.com OR site:clips.twitch.tv)', limit=100, sort='hot', time_filter='all'):
+for submission in reddit.subreddit('OverwatchCompetitive').search('site:youtube.com', limit=100, sort='hot', time_filter='all'):
     print(submission.title)
     with open('../Overwatchleague/owc.xml', 'a') as file:
         #file.write('<item>\n<title>{}</title>\n<link>{}</link>\n</item>\n  '.format(submission.title, submission.url))
