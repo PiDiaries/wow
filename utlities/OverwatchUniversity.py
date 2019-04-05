@@ -13,7 +13,7 @@ if os.path.exists("../Overwatchleague/owu.xml"):
     os.remove('../Overwatchleague/owu.xml')
     
     
-for submission in reddit.subreddit('OverwatchUniversity').search('site:youtube.com', limit=100, sort='hot', time_filter='all'):
+for submission in reddit.subreddit('OverwatchLeague').search('(site:youtube.com OR site:clips.twitch.tv)', limit=100, sort='hot', time_filter='all'):
     print(submission.title)
     with open('../Overwatchleague/owu.xml', 'a') as file:
         #file.write('<item>\n<title>{}</title>\n<link>{}</link>\n</item>\n  '.format(submission.title, submission.url))
@@ -25,7 +25,7 @@ for submission in reddit.subreddit('OverwatchUniversity').search('site:youtube.c
 
 in_ = open('../Overwatchleague/owu.xml').read()
 out = open('../Overwatchleague/owu.xml', 'w')
-replacements = {'https://www.youtube.com/playlist?list=':'plugin://plugin.video.youtube/playlist/', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v='}
+replacements = {'https://www.youtube.com/playlist?list=':'plugin://plugin.video.youtube/playlist/', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://clips.twitch.tv/':'plugin://plugin.video.twitch/?mode=play&amp;slug='  ''}
 for i in replacements.keys():
     in_ = in_.replace(i, replacements[i])
 out.write(in_)
