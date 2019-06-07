@@ -4,7 +4,13 @@
 <link>//</link>
 </item>
 
-
+<dir>
+  <title>SNT</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SNT.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TE1XRBQPWIDU1549664655013.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
 
 <item>
 <title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
@@ -20,6 +26,46 @@
 <link>//</link>
 </item>
 
+<dir>
+  <title>sharyk</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sharyk.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>TviQ</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/TviQ.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/L76ZWRFRYTN21512685744749.png</thumbnail>
+  <fanart>https://i.imgur.com/dXG90Xd.png</fanart>
+  <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
+</dir>
+
+
+<dir>
+  <title>Asher</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Asher.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/IA6PNYMPSM341549576799700.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Apply</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Apply.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/13TVWPWFNCNQ1549664654783.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>EFFECT</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/EFFECT.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BSOW4XNW20CS1512685113260.png</thumbnail>
+  <fanart>https://i.imgur.com/yujj1Oo.png</fanart>
+  <summary>Hyeon "EFFECT" Hwang is a South Korean player currently playing for the Dallas Fuel</summary>
+</dir>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
@@ -70,6 +116,22 @@
 <dir>
   <title></title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Byrem</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Byrem.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Quatermain  </title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Quatermain  .xml</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <summary></summary>

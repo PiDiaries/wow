@@ -25,6 +25,17 @@
 
 
 
+<plugin>
+  <title>Gods</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=122154395&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=122154395&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Daniel Graeser</summary>
+</plugin>
+
+
+
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
@@ -51,15 +62,6 @@
 
 
 
-<dir>
-  <title>Asher</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Asher.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/IA6PNYMPSM341549576799700.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
 
 <dir>
   <title>im37</title>
@@ -68,6 +70,15 @@
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+<plugin>
+  <title>Shax</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Johannes Nielsen</summary>
+</plugin>
 
 
 <item>

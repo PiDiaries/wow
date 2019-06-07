@@ -7,13 +7,15 @@
 <link>//</link>
 </item>
 
-<dir>
+
+<plugin>
   <title>Rio</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rio.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HNQDQN9UZICQ1549664661539.png</thumbnail>
-  <fanart></fanart>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=143673261&amp;mode=channel_videos (VODs)</sublink>
+  </link>
   <summary></summary>
-</dir>
+</plugin>
 
 
 <item>

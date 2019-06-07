@@ -36,6 +36,17 @@
 </dir>
 
 
+<plugin>
+  <title>trill</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=140526051&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
+  <summary>Ashley Powell</summary>
+</plugin>
+
+
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
@@ -61,13 +72,6 @@ He is primarily a hitscan player known for his aggressive Widowmaker and McCree 
 </summary>
 </dir>
 
-<dir>
-  <title>EFFECT</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/EFFECT.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BSOW4XNW20CS1512685113260.png</thumbnail>
-  <fanart>https://i.imgur.com/yujj1Oo.png</fanart>
-  <summary>Hyeon "EFFECT" Hwang is a South Korean player currently playing for the Dallas Fuel</summary>
-</dir>
 
 
 

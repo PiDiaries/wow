@@ -7,13 +7,7 @@
 <link>//</link>
 </item>
 
-<dir>
-  <title>SNT</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SNT.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TE1XRBQPWIDU1549664655013.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
+
 
 
 <dir>
@@ -32,26 +26,21 @@
   <summary></summary>
 </dir>
 
-
 <dir>
-  <title>McGravy</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/McGravy.xml</link>
-  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/6143de1e-4737-41fa-9581-5ba6622b16c9-profile_image-300x300.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
+  <title>Fate</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fate.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/U5JEOCNJWTY11549580254575.png</thumbnail>
+  <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
+  <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
 </dir>
+
+
+
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
-<dir>
-  <title>TviQ</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/TviQ.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/L76ZWRFRYTN21512685744749.png</thumbnail>
-  <fanart>https://i.imgur.com/dXG90Xd.png</fanart>
-  <summary>Kevyn "TviQ" Lindström is a Swedish player currently playing for the Florida Mayhem. He is most famous for his flexibility, being one of the earliest DPS players to have a deep hero pool.</summary>
-</dir>
 
 <dir>
   <title>Sayaplayer</title>
@@ -65,14 +54,6 @@
   <title>BQB</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BQB.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5N6KLSFPZOEL1549664654784.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>Apply</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Apply.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/13TVWPWFNCNQ1549664654783.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
@@ -98,3 +79,13 @@
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+
+<plugin>
+  <title>Byrem</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160093092&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?channel_id=160093092&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary></summary>
+</plugin>
