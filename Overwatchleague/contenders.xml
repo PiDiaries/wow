@@ -15,8 +15,8 @@
 <plugin>
   <title>Overwatch Contenders</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=156567621&amp;mode=play (VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=156567621&mode=play (Live)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
   </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>

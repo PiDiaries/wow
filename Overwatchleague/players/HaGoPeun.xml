@@ -8,8 +8,8 @@
 <plugin>
   <title>HaGoPeun Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130599198&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=130599198&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=130599198&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130599198&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail></thumbnail>
   <fanart></fanart>

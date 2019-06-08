@@ -15,8 +15,8 @@
 <plugin>
   <title>SAN FRANCISCO SHOCK Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176297741&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=176297741&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=176297741&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176297741&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://pbs.twimg.com/profile_images/1056592265320124417/l9_2f4Ce_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>

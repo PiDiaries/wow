@@ -4,8 +4,8 @@
 <plugin>
   <title>ShaDowBurn Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45165401&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=45165401&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=45165401&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45165401&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/08BQ9B93UZMA1515702582681.png</thumbnail>
 </plugin>

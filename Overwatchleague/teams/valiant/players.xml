@@ -39,8 +39,8 @@
 <plugin>
   <title>FCTFCTN</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 </plugin>
@@ -97,8 +97,8 @@
 <plugin>
   <title>Shax</title>
 <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=64291139&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=64291139&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=64291139&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=64291139&amp;mode=channel_videos (VODs)</sublink>
   </link>
     <thumbnail>https://owcdn.net/img/5bda63f1791e6.jpg</thumbnail>
   <fanart></fanart>

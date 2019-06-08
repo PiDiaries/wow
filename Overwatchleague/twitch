@@ -2,8 +2,8 @@
 <plugin>
   <title> Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
   <summary></summary>
@@ -18,7 +18,7 @@
       </plugin>
 
       <link>
-      <sublink>plugin://plugin.video.twitch/?video_id=330639111?t=3h8m18s (Twitch)</sublink>
+      <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=330639111?t=3h8m18s (Twitch)</sublink>
       <sublink>https://www.youtube.com/watch?v=VMFA5RoPFEQ&t=20m12s (Youtube)</sublink>
       <sublink>https://www.youtube.com/watch?v=seTnP8s0eBQ&t=24s (highlights)</sublink>
       </link>

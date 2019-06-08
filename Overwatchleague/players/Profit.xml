@@ -5,8 +5,8 @@
 <plugin>
   <title>Profit Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
 </plugin>
@@ -15,12 +15,12 @@
 <plugin>
   <title>Q&A with Profit</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271759842&mode=play (Part 1)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271765078&mode=play (Part 2</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271768672&mode=play (Part 3)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=271772464&mode=play (Part 4)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271774283&mode=play (Part 5) </sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&video_id=v271775077&mode=play Part 6)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v271759842&mode=play (Part 1)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v271765078&mode=play (Part 2</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v271768672&mode=play (Part 3)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=271772464&mode=play (Part 4)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v271774283&mode=play (Part 5) </sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v271775077&mode=play Part 6)</sublink>
 
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>

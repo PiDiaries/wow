@@ -4,8 +4,8 @@
 <plugin>
   <title>Zebbosai Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23064268&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=23064268&amp;mode=channel_videos (Twitch VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=23064268&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23064268&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0RCI51ST0GU01512685744788.png</thumbnail>
 </plugin>

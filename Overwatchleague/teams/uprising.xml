@@ -16,8 +16,8 @@
 <plugin>
   <title>Boston Uprising Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178503767&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=178503767&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=178503767&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178503767&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://pbs.twimg.com/profile_images/1017978506427314176/x9oShwjY_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>

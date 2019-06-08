@@ -16,8 +16,8 @@
 <plugin>
   <title>Los Angeles Valiant Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177174746&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=177174746&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=177174746&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177174746&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://pbs.twimg.com/profile_images/1068932753733742592/FxmxmWzj_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/H4VV3RUOIXW31508539443842.jpg</fanart>

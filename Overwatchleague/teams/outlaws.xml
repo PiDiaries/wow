@@ -16,8 +16,8 @@
 <plugin>
   <title>HOUSTON OUTLAWS Twitch</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178215326&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?channel_id=178215326&amp;mode=channel_videos (VODs)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=178215326&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178215326&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://pbs.twimg.com/profile_images/1068706773534556160/QuqY7AMU_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/2g/2GXFGS7BRP4H1509371064521.jpg</fanart>

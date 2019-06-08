@@ -6,8 +6,8 @@
 <plugin>
   <title>Closer Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=138973451&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
 
@@ -16,6 +16,6 @@
 
 <plugin>
   <title>Q&A with Closer </title>
-  <link>plugin://plugin.video.twitch/?use_player=True&video_id=v269057652&mode=play</link>
+  <link>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v269057652&mode=play</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
 </plugin>

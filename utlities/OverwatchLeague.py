@@ -24,7 +24,7 @@ for submission in reddit.subreddit('OverwatchLeague').search('site:youtube.com',
 
 in_ = open('../Overwatchleague/owl.xml').read()
 out = open('../Overwatchleague/owl.xml', 'w')
-replacements = {'https://www.youtube.com/playlist?list=':'plugin://plugin.video.youtube/playlist/', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://clips.twitch.tv/':'plugin://plugin.video.twitch/?mode=play&amp;slug='  ''}
+replacements = {'https://www.youtube.com/playlist?list=':'plugin://plugin.video.youtube/playlist/', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://m.youtube.com/watch?v=':'https://youtube.com/watch?v=', 'https://clips.twitch.tv/':'plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug='  ''}
 for i in replacements.keys():
     in_ = in_.replace(i, replacements[i])
 out.write(in_)

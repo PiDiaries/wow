@@ -30,7 +30,7 @@
 
 <plugin>
   <title>[COLORffffcf35][B]W[COLORwhite]atch [COLORffffcf35]O[COLORwhite]ver[COLORffffcf35]w[COLORwhite]atch[/B][/COLOR]</title>
-  <link>plugin://plugin.video.twitch/?game=Overwatch&amp;mode=game_streams</link>
+  <link>plugin://plugin.video.twitch/?use_player=True&game=Overwatch&amp;mode=game_streams</link>
   <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/312EjBsxqzL.png</thumbnail>
   <fanart></fanart>
   <summary>Live Overwatch streams on Twitch from whoever is streaming at any given time. </summary>

@@ -6,8 +6,8 @@
   <title>Mendokusaii Twitch</title>
   <title></title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=57717183&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=57717183&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=57717183&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=57717183&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/56GKIKO2Q0E41512616495373.png</thumbnail>
 </plugin>

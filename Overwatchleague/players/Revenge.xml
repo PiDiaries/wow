@@ -2,8 +2,8 @@
 <plugin>
   <title>Revenge Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139559911&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=139559911&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139559911&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139559911&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>
 </plugin>

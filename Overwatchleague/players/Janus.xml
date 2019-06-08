@@ -4,8 +4,8 @@
 <plugin>
   <title>Janus Twitch</link>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=75603583&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=75603583&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=75603583&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=75603583&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ML4KPZZ8FTRT1512686064886.png</thumbnail>
 </plugin>

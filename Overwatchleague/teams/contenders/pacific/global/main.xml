@@ -3,8 +3,8 @@
 <plugin>
   <title>Kephrii </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
-<sublink>plugin://plugin.video.twitch/?channel_id=31582795&amp;channel_name=kephrii&amp;display_name=Kephrii&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&amp;channel_name=kephrii&amp;display_name=Kephrii&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/kephrii-profile_image-d6499e8af76a8936-300x300.jpeg</thumbnail>     <summary></summary>
 
   <summary>Brian St. Pierre</summary>
@@ -13,8 +13,8 @@
 <plugin>
   <title>Water</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Minsung Lee</summary>
 </plugin>
@@ -22,8 +22,8 @@
 <plugin>
   <title>SYC</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Yoonchan Sung</summary>
 </plugin>
@@ -31,8 +31,8 @@
 <plugin>
   <title>Kadalis</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Yeonghwan Ra</summary>
 </plugin>
@@ -40,8 +40,8 @@
 <plugin>
   <title>Spanic</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Minyeol Lee</summary>
 </plugin>
@@ -49,8 +49,8 @@
 <plugin>
   <title>Medic</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>HongGyu Kim</summary>
 </plugin>
@@ -58,8 +58,8 @@
 <plugin>
   <title>InHyeok</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Inhyeok Jeong</summary>
 </plugin>
@@ -67,8 +67,8 @@
 <plugin>
   <title>Backwall</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Kyungsun Park</summary>
 </plugin>

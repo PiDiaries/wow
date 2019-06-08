@@ -8,8 +8,8 @@
 <plugin>
   <title>Bdosin Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
   <fanart></fanart>
@@ -18,7 +18,7 @@
 
 <plugin>
   <title>Q&A with Bdosin </title>
-  <link>plugin://plugin.video.twitch/?use_player=True&video_id=v266276350&mode=play</link>
+  <link>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v266276350&mode=play</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
   <fanart></fanart>
   <summary>Q&A with Bdosin</summary>

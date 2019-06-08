@@ -6,8 +6,8 @@
 <plugin>
   <title>Geguri Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
 </plugin>
