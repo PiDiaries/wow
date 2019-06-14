@@ -66,6 +66,7 @@
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=55782451&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=55782451&amp;mode=channel_videos (Twitch VODs)</sublink>
+    <sublink>plugin://plugin.video.youtube/channel/UCyLvxt4eVsF6rwsTEbj1yeQ/ (Youtube)</sublink>
   </link>
     <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4G0KBB1UFB6W1515438393149.jpg</thumbnail>
     <summary>Josh Wilkinson has been analyzing and writing about Overwatch since its release, providing live analysis at events such as TaKeOver 2 and Overwatch Contenders Season 1. He has a passion for strategic complexity and detailed team histories, and the global narratives of the Overwatch scene are his favorite bedtime stories. Follow him on Twitter at @SideshowGaming.
