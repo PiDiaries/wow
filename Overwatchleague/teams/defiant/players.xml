@@ -81,6 +81,24 @@
 </plugin>
 
 
+<dir>
+  <title>Logix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Logix.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Mangachu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Mangachu.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>

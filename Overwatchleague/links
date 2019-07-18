@@ -2,3 +2,10 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=101068316&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&amp;channel_name=jayne&amp;display_name=Jayne&amp;mode=channel_videos (Twitch VOD)</sublink>
   
+<dir>
+  <title>KuKi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/KuKi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4S526X9JY70G1549580254959.png</thumbnail>
+  <fanart>https://i.imgur.com/HLYJzaA.png</fanart>
+  <summary></summary>
+</dir>

@@ -17,6 +17,26 @@
   <summary></summary>
 </plugin>
 
+<dir>
+  <title>fragi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/fragi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6GAHIOFB0O981549652290648.png</thumbnail>
+  <fanart>https://i.imgur.com/PEvZO1Q.png</fanart>
+  <summary>Joona "Fragi" Laine is a Finnish player.
+
+</dir>
+
+
+
+
+
+<dir>
+  <title>Bischu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bischu.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/02EPNXS6PRM71512769977245.png</thumbnail>
+  <fanart>https://i.imgur.com/eHxdURP.png</fanart>
+  <summary>.</summary>
+</dir>
 
 <item>
 <title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
@@ -64,14 +84,6 @@
   <summary></summary>
 </dir>
 
-
-<dir>
-  <title>Kyb</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kyb.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RV9MLWFCD35J1549664661221.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
