@@ -16,16 +16,6 @@
 </dir>
 
 
-<dir>
-  <title>fragi</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/fragi.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6GAHIOFB0O981549652290648.png</thumbnail>
-  <fanart>https://i.imgur.com/PEvZO1Q.png</fanart>
-  <summary>Joona "Fragi" Laine is a Finnish player.
-
-He played Dota 2 at high level and was also a member of the well known guild named Paragon in World of Warcraft. In Overwatch, he formerly played with Team Gigantti and currently plays on Philadelphia Fusion.</summary>
-</dir>
-
 
 <dir>
   <title>Poko</title>
@@ -69,6 +59,14 @@ He played Dota 2 at high level and was also a member of the well known guild nam
 </dir>
 
 
+
+<dir>
+  <title>Kyb</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kyb.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RV9MLWFCD35J1549664661221.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
 
 
 <item>

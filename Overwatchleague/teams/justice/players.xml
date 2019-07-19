@@ -25,6 +25,23 @@
 
 
 
+
+<dir>
+  <title>ELLIVOTE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/ELLIVOTE.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>LullSiSH</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/LullSiSH.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
