@@ -26,7 +26,7 @@ class Generator:
         self.fanart = None
 
         # CHANGEME to match the playlist ID you want to pull
-        self.playlist = 'PLMAWrySkMfZN06xQE374xNmHZbx4DJJy_'
+        self.playlist = 'PLMAWrySkMfZNukKWYbAfQOzE7rU_UQlMU'
         # generate files
         self._generate_yt_templates()
 
@@ -44,7 +44,7 @@ class Generator:
             print('Youtube Playlist Parser - Exception: \n' + str(failure))
 
         # save file
-        with open('../Overwatchleague/heroguides/baptiste.xml', 'w') as f:
+        with open('../Overwatchleague/heroguides/sigma.xml', 'w') as f:
             f.write(output_string)
 
     def get_all_video_in_channel(self):

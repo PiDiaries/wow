@@ -2,6 +2,15 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
+<dir>
+  <title>[COLORff3e90b5][B]New Hero Sigma[/B][/COLOR]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/sigma.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
 <plugin>
 <title>Latest Game News | Overwatch</title>
 <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
