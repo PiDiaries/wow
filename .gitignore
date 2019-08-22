@@ -8,3 +8,4 @@ venv/lib
 venv/lib64
 venv/pip-selfcheck.json
 venv/pyvenv.cfg
+utlities/praw.ini
