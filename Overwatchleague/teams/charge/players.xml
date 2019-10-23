@@ -1,7 +1,175 @@
 ################################################################################
 
 ################################################################################
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
 
+<plugin>
+  <title>Rio</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=143673261&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Oh Seung-pyo (오승표)
+@osp0418
+twitch.tv/osp0418
+South Korea</summary>
+</plugin>
+
+
+
+
+<plugin>
+  <title>Bischu</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=35671232&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=35671232&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCSPPV0K7KFZtA7QfOEyzWYw/ (YouTube)</sublink>
+</link>
+  <thumbnail>https://owcdn.net/img/5bd4ed872dc02.jpg</thumbnail>
+  <fanart>https://i.imgur.com/eHxdURP.png</fanart>
+  <summary>Aaron Kim
+@BischuGG
+twitch.tv/bischulol
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Hotba</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://pluging.video.youtube/channel/UCLNljYSsv95Ijq0bs6bslMg/ (YouTube)</sublink>
+</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
+  <fanart></fanart>
+  <summary>Choi Hong-joon
+@HOTBA_OW
+twitch.tv/hotba_ow
+ South Korea</summary>
+</plugin>
+
+
+<plugin>
+  <title>Fragi</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37210499&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Q1UDN2ME09O31515702582682.png</thumbnail>
+<summary>JJoona Laine
+@fragiOW
+twitch.tv/fragiow
+ Finland</summary>
+</plugin>
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<plugin>
+  <title>nero</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136943639&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
+  <summary>Charlie Zwarg
+@ow_nero
+twitch.tv/nero_overwatch
+United States</summary>
+</plugin>
+
+<plugin>
+  <title>Happy</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=421352709&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=421352709&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lee Jung-woo (이정우)
+– aliases: Vesta
+@wjddn1763
+twitch.tv/owhappy2
+ South Korea</summary>
+</plugin>
+
+<dir>
+  <title>Eileen</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=234650956&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=234650956&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary>Ou Yiliang (欧倚良)
+@Eileenzhi1
+twitch.tv/eileenzh
+ China</summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<plugin>
+  <title>Chara</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129089526&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129089526&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary>Kim Jung-yeon (김정연)
+@Chara_RRRing
+twitch.tv/chara_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Rise</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=406129570&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=406129570&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <summary>Jee Won-jae
+– aliases: WonJaeLee
+twitch.tv/Rise_OW
+ South Korea</summary>
+</plugin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###Season 2###
+##############
 <item>
 <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
 <link>//</link>
