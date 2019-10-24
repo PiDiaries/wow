@@ -15,7 +15,7 @@ The word Excelsior is a Latin word that translates to Ever Upward. The team name
 </dir>
 
 <plugin>
-  <title>New York Excelsior Twitch</title>
+  <title>New York Excelsior </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=175562420&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=175562420&amp;mode=channel_videos (VODs)</sublink>

@@ -2,7 +2,7 @@
 ###################################################################################
 
 <plugin>
-  <title>Miro Twitch</title>
+  <title>Miro </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139765945&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139765945&amp;mode=channel_videos (Twitch VOD)</sublink>

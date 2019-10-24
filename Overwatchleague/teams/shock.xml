@@ -13,7 +13,7 @@
 </dir>
 
 <plugin>
-  <title>SAN FRANCISCO SHOCK Twitch</title>
+  <title>SAN FRANCISCO SHOCK </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=176297741&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176297741&amp;mode=channel_videos (VODs)</sublink>

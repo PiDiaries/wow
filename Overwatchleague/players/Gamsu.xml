@@ -3,7 +3,7 @@
 ################################################################################
 
 <plugin>
-  <title>Gamsu Twitch</title>
+  <title>Gamsu </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129958872&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129958872&amp;mode=channel_videos (Twitch VOD)</sublink>

@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>uNKOE Twitch</title>
+  <title>uNKOE </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=50447542&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&amp;mode=channel_videos (Twitch VOD)</sublink>

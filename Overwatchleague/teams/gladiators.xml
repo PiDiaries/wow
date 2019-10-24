@@ -13,7 +13,7 @@
 
 
 <plugin>
-  <title>Los Angeles Gladiators Twitch</title>
+  <title>Los Angeles Gladiators </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=176284305&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176284305&amp;mode=channel_videos (VODs)</sublink>

@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>Sayaplayer Twitch</title>
+  <title>Sayaplayer </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=85352894&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85352894&amp;mode=channel_videos (VODs)</sublink>

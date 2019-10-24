@@ -26,7 +26,7 @@ twitch.tv/benbest_ow
 </item>
 
  <plugin>
-  <title>SoOn Twitch</title>
+  <title>SoOn </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=72915687&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=72915687&amp;mode=channel_videos (Twitch VOD)</sublink>

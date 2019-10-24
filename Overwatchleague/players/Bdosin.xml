@@ -6,7 +6,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Bdosin Twitch</title>
+  <title>Bdosin </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>

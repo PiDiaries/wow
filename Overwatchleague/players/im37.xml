@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>im37 Twitch</title>
+  <title>im37 </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=255398772&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=255398772&amp;mode=channel_videos (VODs)</sublink>

@@ -2,7 +2,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Zuppeh Twitch</title>
+  <title>Zuppeh </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=103006437&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=103006437&amp;mode=channel_videos (Twitch VODs)</sublink>

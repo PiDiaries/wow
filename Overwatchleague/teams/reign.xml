@@ -8,7 +8,7 @@
 </dir>
 
 <plugin>
-  <title>Atlanta Reign Twitch</title>
+  <title>Atlanta Reign </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>

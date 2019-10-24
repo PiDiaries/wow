@@ -5,7 +5,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Verbo Twitch</title>
+  <title>Verbo </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=141190296&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141190296&amp;mode=channel_videos (Twitch VOD)</sublink>

@@ -7,7 +7,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>aKm Twitch</title>
+  <title>aKm </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&amp;mode=channel_videos </sublink>

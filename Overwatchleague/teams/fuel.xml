@@ -17,7 +17,7 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 </dir>
 
 <plugin>
-  <title>Dallas Fuel Twitch</title>
+  <title>Dallas Fuel </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=176777787&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=176777787&amp;mode=channel_videos (VODs)</sublink>

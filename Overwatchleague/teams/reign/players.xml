@@ -6,6 +6,58 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Pokpo</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=199450455&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=199450455&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Park Hyun-Jun (박현준)
+@Pokpo_ow
+twitch.tv/pokpo3361
+ South Korea</summary>
+</plugin>
+
+
+<plugin>
+  <title>frd</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=102167939&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Nathan Goebel
+– aliases: N64, FrdWnr
+@frdwnr
+twitch.tv/frdwnr
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Gator </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132166675&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Blake Scott
+@Gator_OW
+twitch.tv/gator_
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Daco</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=146212213&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146212213&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Seo Dong-hyung (서동형)
+@Daco_ow
+twitch.tv/daco_ow
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -13,7 +65,45 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>NLaaeR</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=44979242&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44979242&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Ilya Koppalov
+@NLaaeR
+twitch.tv/nlaaer
+ Russian Federation</summary>
+</plugin>
 
+<plugin>
+  <title>Erster</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140184309&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140184309&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Jeong Joon
+@ERSTER_ow
+twitch.tv/erster_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>BABYBAY </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCwrqnFptuGTUL5u71XxfcHw/ (YouTube)</sublink>
+ </link>
+ <thumbnail>https://owcdn.net/img/5bd4efbe9ad1b.jpg</thumbnail>
+  <summary>Andrej Francisty
+@KING_BABYBAY
+twitch.tv/a_babybay
+ United States</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
@@ -21,6 +111,42 @@
 </item>
 
 
+<plugin>
+  <title>FunnyAstro</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Daniel Hathaway
+@funny_astro
+twitch.tv/funnyastro
+ United Kingdom</summary>
+</plugin>
+
+<plugin>
+  <title>Dogman </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=27439029&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27439029&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Dusttin Bowerman
+@DogmanOW
+twitch.tv/dogman
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Masaa </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=148273515&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148273515&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Petja Kantanen
+@Masaa_ow
+twitch.tv/massa_ow
+ Finland</summary>
+</plugin>
 
 ###Season 2###
 ##############

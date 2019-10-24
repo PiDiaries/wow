@@ -14,7 +14,7 @@
 </dir>
 
 <plugin>
-  <title>HOUSTON OUTLAWS Twitch</title>
+  <title>HOUSTON OUTLAWS </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=178215326&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178215326&amp;mode=channel_videos (VODs)</sublink>

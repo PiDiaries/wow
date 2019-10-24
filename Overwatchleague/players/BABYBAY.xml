@@ -5,11 +5,12 @@
 ###########################################################################################
 
 <plugin>
-  <title>BABYBAY Twitch</title>
+  <title>BABYBAY </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <sublink>plugin://plugin.video.youtube/channel/UCwrqnFptuGTUL5u71XxfcHw/ (YouTube)</sublink>
+ </link>
   <summary></summary>
 </plugin>
 

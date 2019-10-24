@@ -15,7 +15,7 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 </dir>
 
 <plugin>
-  <title>Philidelphia Fusion Twitch</title>
+  <title>Philidelphia Fusion </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=177317208&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177317208&amp;mode=channel_videos (VODs)</sublink>

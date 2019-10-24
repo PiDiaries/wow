@@ -14,7 +14,7 @@
 </dir>
 
 <plugin>
-  <title>Los Angeles Valiant Twitch</title>
+  <title>Los Angeles Valiant </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=177174746&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177174746&amp;mode=channel_videos (VODs)</sublink>

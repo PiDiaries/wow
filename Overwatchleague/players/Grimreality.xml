@@ -2,7 +2,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>GrimReality Twitch</title>
+  <title>GrimReality </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137917751&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137917751&amp;mode=channel_videos (Twitch VOD)</sublink>

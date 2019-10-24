@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>Stitch Twitch</title>
+  <title>Stitch </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142984860&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142984860&amp;mode=channel_videos (VODs)</sublink>

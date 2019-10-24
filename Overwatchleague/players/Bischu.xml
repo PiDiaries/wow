@@ -2,7 +2,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Bischu Twitch</title>
+  <title>Bischu </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=35671232&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=35671232&amp;mode=channel_videos (Twitch VOD)</sublink>

@@ -4,7 +4,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>coolmatt Twitch</title>
+  <title>coolmatt </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=36043286&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&amp;mode=channel_videos (Twitch VOD)</sublink>

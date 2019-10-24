@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>frd Twitch</title>
+  <title>frd </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=102167939&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&amp;mode=channel_videos (VODs)</sublink>

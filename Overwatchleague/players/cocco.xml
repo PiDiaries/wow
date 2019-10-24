@@ -3,7 +3,7 @@
 ################################################################################
 
 <plugin>
-  <title>cocco Twitch</title>
+  <title>cocco </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=117748199&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=117748199&amp;mode=channel_videos (Twitch VOD)</sublink>

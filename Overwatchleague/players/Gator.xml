@@ -1,5 +1,5 @@
 <plugin>
-  <title>Gator Twitch</title>
+  <title>Gator </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132166675&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;mode=channel_videos (VODs)</sublink>

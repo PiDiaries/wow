@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Silkthread Twitch</title>
+  <title>Silkthread </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26437807&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26437807&amp;mode=channel_videos (Twitch VOD)</sublink>

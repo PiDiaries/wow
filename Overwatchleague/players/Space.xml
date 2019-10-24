@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>SPACE Twitch</title>
+  <title>SPACE </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147953635&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&amp;mode=channel_videos (Twitch VOD)</sublink>

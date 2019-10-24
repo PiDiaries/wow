@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Mendokusaii Twitch</title>
+  <title>Mendokusaii </title>
   <title></title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=57717183&mode=play (Twitch Live Link)</sublink>

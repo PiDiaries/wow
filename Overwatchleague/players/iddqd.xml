@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>iddqd Twitch</title>
+  <title>iddqd </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=123484627&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=123484627&amp;mode=channel_videos (Twitch VOD)</sublink>

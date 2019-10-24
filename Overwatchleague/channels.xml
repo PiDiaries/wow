@@ -331,7 +331,7 @@ I'm 6'2 120 lbs
 
 
 <plugin>
-  <title>TimTheTatman Twitch</title>
+  <title>TimTheTatman </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=36769016&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36769016&amp;mode=channel_videos (VODs)</sublink>
@@ -342,7 +342,7 @@ I'm 6'2 120 lbs
 </plugin>
 
 <plugin>
-  <title>QueenE Twitch</title>
+  <title>QueenE </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=25880340&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=25880340&amp;mode=channel_videos (VODs)</sublink>

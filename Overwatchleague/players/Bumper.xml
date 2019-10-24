@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>Bumper Twitch</title>
+  <title>Bumper </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=149972918&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=149972918&amp;mode=channel_videos (VODs)</sublink>

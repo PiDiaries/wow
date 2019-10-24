@@ -3,7 +3,7 @@
 ################################################################################
 
 <plugin>
-  <title>Neko Twitch</title>
+  <title>Neko </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&amp;mode=channel_videos (Twitch VOD)</sublink>

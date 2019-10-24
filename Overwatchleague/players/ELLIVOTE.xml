@@ -1,5 +1,5 @@
 <plugin>
-  <title>ELLIVOTE Twitch</title>
+  <title>ELLIVOTE </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&amp;mode=channel_videos (VODs)</sublink>

@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>Apply Twitch</title>
+  <title>Apply </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138498363&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138498363&amp;mode=channel_videos (VODs)</sublink>

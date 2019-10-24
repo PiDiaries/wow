@@ -14,7 +14,7 @@
 </dir>
 
 <plugin>
-  <title>Boston Uprising Twitch</title>
+  <title>Boston Uprising </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=178503767&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=178503767&amp;mode=channel_videos (VODs)</sublink>

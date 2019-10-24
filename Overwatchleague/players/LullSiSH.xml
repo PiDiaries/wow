@@ -1,5 +1,5 @@
 <plugin>
-  <title>LullSiSH Twitch</title>
+  <title>LullSiSH </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&amp;mode=channel_videos (VODs)</sublink>

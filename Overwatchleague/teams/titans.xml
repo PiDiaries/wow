@@ -7,7 +7,7 @@
 </dir>
 
 <plugin>
-  <title>VANCOUVER TITANS Twitch</title>
+  <title>VANCOUVER TITANS </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=278717644&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=278717644&amp;mode=channel_videos (VODs)</sublink>

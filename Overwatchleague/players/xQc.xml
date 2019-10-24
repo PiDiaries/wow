@@ -4,7 +4,7 @@
 ################################################################################
 
 <plugin>
-  <title>xQc Twitch</title>
+  <title>xQc </title>
 <link>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=71092938&amp;mode=channel_videos (Twitch VOD)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>

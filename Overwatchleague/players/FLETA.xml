@@ -2,7 +2,7 @@
 #################################################################################
 
 <plugin>
-  <title>FLETA Twitch</title>
+  <title>FLETA </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=146057990&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146057990&amp;mode=channel_videos (Twitch VOD)</sublink>

@@ -1,5 +1,5 @@
 <plugin>
-  <title>ILLICIT Twitch</title>
+  <title>ILLICIT </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=181485341&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181485341&amp;mode=channel_videos (VODs)</sublink>

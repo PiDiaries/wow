@@ -54,7 +54,7 @@
 </plugin>
 
 <plugin>
-  <title>iRemiix Twitch</title>
+  <title>iRemiix </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=48730158&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=48730158&amp;mode=channel_videos (Twitch VOD)</sublink>

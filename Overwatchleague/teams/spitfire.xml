@@ -12,7 +12,7 @@
 </dir>
 
 <plugin>
-  <title>London Spitfire Twitch</title>
+  <title>London Spitfire </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=207130493&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207130493&amp;mode=channel_videos (VODs)</sublink>

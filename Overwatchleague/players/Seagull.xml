@@ -3,7 +3,7 @@
 ################################################################################
 
 <plugin>
-  <title>Seagull Twitch</title>
+  <title>Seagull </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&amp;mode=channel_videos (Twitch VOD)</sublink>

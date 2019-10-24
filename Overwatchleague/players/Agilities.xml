@@ -6,7 +6,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Agilities Twitch</title>
+  <title>Agilities </title>
   <link>
     <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126162810&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126162810&amp;mode=channel_videos (Twitch VODs)</sublink>

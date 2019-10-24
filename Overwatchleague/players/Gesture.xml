@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Gesture Twitch</title>
+  <title>Gesture </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&amp;mode=channel_videos (Twitch VOD)</sublink>

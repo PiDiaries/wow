@@ -3,7 +3,7 @@
 ##################################################################################
 
 <plugin>
-  <title>Joemeister Twitch</title>
+  <title>Joemeister </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=128109321&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128109321&amp;mode=channel_videos (Twitch VOD)</sublink>

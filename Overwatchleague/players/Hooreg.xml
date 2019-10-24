@@ -3,7 +3,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>Hooreg Twitch</title>
+  <title>Hooreg </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=152172663&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=152172663&amp;mode=channel_videos (Twitch VOD)</sublink>

@@ -1,6 +1,6 @@
 
 <plugin>
-  <title>GodsB Twitch</title>
+  <title>GodsB </title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137959674&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137959674&amp;mode=channel_videos (VODs)</sublink>
