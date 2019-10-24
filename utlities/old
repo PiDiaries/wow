@@ -1,0 +1,1985 @@
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>McGravy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/McGravy.xml</link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/6143de1e-4737-41fa-9581-5ba6622b16c9-profile_image-300x300.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Space</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/playersSpace/.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ZIO22Z0N194T1549580254961.png</thumbnail>
+  <fanart>https://i.imgur.com/rO1QqEl.png</fanart>
+  <summary>Indy "SPACE" Halpern is an American player currently playing for the Los Angeles Valiant.</summary>
+</dir>
+<plugin>
+  <title>FCTFCTN</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
+</plugin>
+
+
+
+<item>
+<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Kariv</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kariv.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/0XC7APD8GX0E1549580254588.png</thumbnail>
+  <fanart>https://i.imgur.com/bUJYBuV.png</fanart>
+  <summary>Young-seo "KariV" Park is a South Korean player currently playing for the Los Angeles Valiant.</summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Bunny</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bunny.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3Q0PB1KDCGVW1549580254274.png</thumbnail>
+  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
+  <summary>Joon-hyuk "Bunny" Chae is a South Korean player currently playing for the Seoul Dynasty.</summary>
+</dir>
+
+
+<dir>
+  <title>KSF</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/KSF.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/FDHS3GHI2JY31549580254953.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Agilities</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Agilities.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GIW0FGEDJAIM1549580254275.png</thumbnail>
+  <fanart>https://i.imgur.com/80E1m6y.png</fanart>
+  <summary>Brady "Agilities" Girardi is a Canadian player that played for Immortals and has now been signed to play for their Overwatch League team, the Los Angeles Valiant.</summary>
+</dir>
+
+<plugin>
+  <title>Shax</title>
+<link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=64291139&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=64291139&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+    <thumbnail>https://owcdn.net/img/5bda63f1791e6.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</plugin>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Custa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Custa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/FY0VMK6HXVJQ1549580254274.png</thumbnail>
+  <fanart>https://i.imgur.com/4LPxTXL.png</fanart>
+  <summary>Scott "Custa" Kennedy is an Australian player who previously played for Arc 6 and Fnatic, and is now playing for the Dallas Fuel in the Overwatch League.
+  </summary>
+</dir>
+
+
+<dir>
+  <title>Izayaki</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Izayaki.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6CAXRPU6LNR21549580254584.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+<dir>
+  <title>Axxiom</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Axxiom.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/YYKRZE03F9FI1549581231338.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Fusions</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fusions.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+
+<dir>
+  <title>Colourhex</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Colourhex.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5HTOI3M7QYT41549581231849.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>blasé</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/blasé.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/G221PTI8FNTR1549581231849.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+<dir>
+  <title>Stellar</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Stellar.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/G221PTI8FNTR1549581231849.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Kellex</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kellex.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QKZJGLRY26E11549581232179.png</thumbnail>
+  <fanart>https://i.imgur.com/16beLrm.png</fanart>
+  <summary>Kristian "Kellex" Keller is a Danish player currently playing for the Boston Uprising.</summary>
+</dir>
+
+
+<dir>
+  <title>AimGod</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/AimGod.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ZWEE1VG3Q0Z91549581231340.png</thumbnail>
+  <fanart>https://i.imgur.com/WTIehly.png</fanart>
+  <summary>Min-seok "AimGod" "Jeff" Kwon is a South Korean player currently playing for Boston Uprising.</summary>
+</dir>
+
+<dir>
+  <title>ALEMAO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ALEMAO.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6SN5JXEMRSSP1549581231340.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>rCk</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/rCk.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/9F58S6CZW7PU1549664649455.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Bumper</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bumper.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>JJANU</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/JJANU.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Haksal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Haksal.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Stitch</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Stitch.xml</link>
+  <thumbnail>.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Hooreg</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Hooreg.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>SeoMinSoo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SeoMinSoo.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+<dir>
+  <title>SLIME</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SLIME.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Twilight</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Twilight.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Rapel</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rapel.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+<dir>
+  <title>Gesture</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gesture.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/UIRNGJDS2CW81549580262042.png</thumbnail>
+  <fanart>https://i.imgur.com/xh9ukc9.png</fanart>
+  <summary>Jae-hee "Gesture" Hong is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+
+<dir>
+  <title>Fury</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fury.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HCNEZRY839OS1549580261731.png</thumbnail>
+  <fanart>https://i.imgur.com/CYYuES5.png</fanart>
+  <summary>Jun-ho "Fury" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Profit</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Profit.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/XYAERBBSJ9LD1549580262279.png</thumbnail>
+  <fanart>https://i.imgur.com/LjLai5x.png</fanart>
+  <summary>Joon-yeong "Profit" Park is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+
+<dir>
+  <title>birdring</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/birdring.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/N3S8Q25M9VZK1549580261730.png</thumbnail>
+  <fanart>https://i.imgur.com/LjLai5x.png</fanart>
+  <summary>Ji-hyuk "birdring" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+<dir>
+  <title>Guard</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Guard.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/0PFZDIGHMWL81549580262045.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+<dir>
+  <title>NUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NUS.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QKWUGALXT56T1549580262199.png</thumbnail>
+  <fanart>https://i.imgur.com/NrZ7vqU.png</fanart>
+  <summary>Jong-seok "NUS" Kim is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+<dir>
+  <title>Bdosin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bdosin.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QK3JIPEBML3B1549580261732.png</thumbnail>
+  <fanart>https://i.imgur.com/IUYFkm4.png</fanart>
+  <summary>Seung-tae "Bdosin" Choi is a South Korean player currently playing for the London Spitfire.</summary>
+</dir>
+
+
+<dir>
+  <title>Krillin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Krillin.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/7ZOAR8M4RUVA1549580262046.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>guxue</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/guxue.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/7O0HIXG3GPXO1549580705373.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>NoSmite</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NoSmite.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/924U25EQW0OX1549580705658.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Ria</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ria.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/N5UWS7KKEYA71549580705930.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>GodsB</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/GodsB.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CEKEL31G9X8R1549580705374.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Bazzi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bazzi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/DYO3MPZ3YCKW1549580704783.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Krystal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Krystal.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/445UOQFMGY531549580705658.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Adora</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Adora.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4VH5DWEFNUA91549580704783.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>BeBe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BeBe.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/LMCA03HQQB1O1549580704785.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Revenge</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Revenge.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/8MHMFJO13OCY1549580705657.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>iDK</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/iDK.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ZCIGPIQTGL731549580705377.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>smurf</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/smurf.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/A76BK6RJV2RH1549652300092.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+<dir>
+  <title>super</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/super.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5F03Q8CYP2IQ1549652300468.png</thumbnail>
+  <fanart>https://i.imgur.com/ir7NlUO.png</fanart>
+  <summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+<dir>
+  <title>Nevix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nevix.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3Q03820QB64K1549652299642.png</thumbnail>
+  <fanart>https://i.imgur.com/PZYsvSw.png</fanart>
+  <summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>ChoiHyoBin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ChoiHyoBin.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/XKHR98ARENTY1549652299173.png</thumbnail>
+  <fanart>https://i.imgur.com/t3w0yA9.png</fanart>
+  <summary></summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Architect</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Architect.xml</link>
+  <thumbnail>.https://bnetcmsus-a.akamaihd.net/cms/gallery/FDD9H067C54N1549652299173.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Rascal</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rascal.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ZJEKOTWJKW8U1549652299643.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+<dir>
+  <title>sinatraa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sinatraa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/NWXXP312TD4W1549652300085.png</thumbnail>
+  <fanart>https://i.imgur.com/6ovfmv0.png</fanart>
+  <summary>Jay "sinatraa" Won is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>STRIKER</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/STRIKER.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KJA1IRBB2BSQ1549652300467.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+
+<dir>
+  <title>moth</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/moth.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/H5TQ7XSY8GB81549652299640.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Viol2t</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Viol2t.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/0FB9G73JSGIW1549652300467.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Pokpo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Pokpo.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QBNAXPY27H3X1549580709978.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>DACO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/DACO.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/MMIRQD6GI6K61549580709410.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Gator</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gator.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/EZMJ86TAGKLZ1549580709703.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>frd</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/frd.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>BABYBAY</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/V303SWX6ILLZ1549652299171.png</thumbnail>
+  <fanart>https://i.imgur.com/svudzEp.png</fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Erster</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Erster.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/J6KAYNEWKJEC1549580709410.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>NLaaeR</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NLaaeR.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/Q96HUTH0EAJ81549580709977.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Kodak</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kodak.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/1QA8YKKVET2E1549580709703.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Masaa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Masaa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KCVDOSD2BNBM1549580709709.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>FunnyAstro</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FunnyAstro.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KCVDOSD2BNBM1549580709709.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Dogman</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Dogman.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Muma</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Muma.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/E4DLMRZ54FV61549580267560.png</thumbnail>
+  <fanart>https://i.imgur.com/6gxbKNz.png</fanart>
+  <summary>Austin "Muma" Wilmot is an American player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<dir>
+  <title>Coolmatt</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/outlaws/Coolmatt.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6IBPWY60T3I1549580267288.png</thumbnail>
+  <fanart>https://i.imgur.com/byWgzns.png</fanart>
+  <summary>Matt "coolmatt" Iorio is an American player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>SPREE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SPREE.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/E2Q00AQTFG981549580267748.png</thumbnail>
+  <fanart>https://i.imgur.com/kVPmjUH.png</fanart>
+  <summary>Alexandre "SPREE" Vanhomwegen is a Belgian player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Danteh</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danteh.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/A7VDWX8BJ40A1549580267289.png</thumbnail>
+  <fanart></fanart>
+  <summary>Dante "Danteh" Cruz is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>LiNkzr</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/LiNkzr.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5VHT0G2FCIWM1549580267560.png</thumbnail>
+  <fanart>https://i.imgur.com/a4pZfRx.png</fanart>
+  <summary>Jiri "LiNkzr" Masalin is a Finnish player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<dir>
+  <title>ArHaN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ArHaN.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/7XMK6AZFOS321549580266943.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Jake</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jake.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/L3O7NGA50HI91549580267287.png</thumbnail>
+  <fanart>https://i.imgur.com/reKlcWh.png</fanart>
+  <summary>Jacob "JAKE" Lyon (born July 28, 1996) is an American player currently playing for the Houston Outlaws. Raised in San Diego, California, Jake started playing Overwatch while in college at Denison University as part of -bird noises-, which quickly signed with Hammers Esports. After a few months the team’s contracts were bought out by Toronto-based Luminosity Gaming. While playing as part of one of the sister teams of LG, LG Evil, he also served on the 2017 World Cup Team USA.</summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Bani</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bani.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HLSL3MFL6KHV1549580266943.png</thumbnail>
+  <fanart>https://i.imgur.com/dTFWdfe.png</fanart>
+  <summary>Chris "Bani" Benell is an Canadian player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+<dir>
+  <title>Boink</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Boink.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/9I1XGN6MBMXB1549580266941.png</thumbnail>
+  <fanart>https://i.imgur.com/o5vRB0j.png</fanart>
+  <summary>Daniel "Boink" Pence is an American player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+
+<dir>
+  <title>Rawkus</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/outlaws/Rawkus.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/8FSRAPJV4O9R1549580267561.png</thumbnail>
+  <fanart>https://i.imgur.com/dTFWdfe.png</fanart>
+  <summary>Shane "Rawkus" Flaherty is an American player currently playing for the Houston Outlaws.</summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+<dir>
+  <title>XepheR</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/XepheR.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/VOMRLLOOGCCR1549664655208.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Swon</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Swon.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/XJPWLL33T5ED1549664655201.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Fate</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fate.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/U5JEOCNJWTY11549580254575.png</thumbnail>
+  <fanart>https://i.imgur.com/9QRdRoK.png</fanart>
+  <summary>Pan-seung "Fate" Koo is a Korean player currently playing for Los Angeles Valiant.</summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Sayaplayer</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Sayaplayer.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TEK3QQ4MRJXK1549664655009.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>BQB</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BQB.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5N6KLSFPZOEL1549664654784.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>HaGoPeun</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HaGoPeun.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3UYBH9N5975N1549664654787.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Kris</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kris.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/SRTYWJNSMFTW1549664654992.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<plugin>
+  <title>Byrem</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=160093092&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160093092&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary></summary>
+</plugin>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>SANSAM</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SANSAM.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4CBNQCE3XA4K1549576974165.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<dir>
+  <title>JANUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Janus.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4S8IJ7171U7D1549576973932.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<dir>
+  <title>ELLIVOTE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/ELLIVOTE.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>LullSiSH</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/LullSiSH.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Ado</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/8P51SUG05N171549576973629.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Corey</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Corey.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GATRQCCZ13I71549576973628.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>STRATUS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/STRATUS.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QARVHM6UJZW41549576974172.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+<dir>
+  <title>GIDO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/gido.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6J0A4BPFCZH1549576973928.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>HYEONU</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HYEONU.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/U90061SZ7BGQ1549576973936.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Fahzix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/PO4515851HNE1549576973626.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Ark</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ark.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/0EOSFI9D6K0Z1549652238592.png</thumbnail>
+  <fanart>https://i.imgur.com/pgVxN8n.png</fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>sleepy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/sleepy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/DBOWPK45POSC1549652300088.png</thumbnail>
+  <fanart>https://i.imgur.com/ZTwiWev.png</fanart>
+  <summary>Nikola "sleepy" Andrews is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>rOar</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/rOar.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Panker</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Panker.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Void</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/void.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LAKEA6GOSTXW1523496423868.png</thumbnail>
+  <fanart>https://i.imgur.com/uHfZGom.png</fanart>
+  <summary>Jun-woo "Void" Kang is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
+</dir>
+
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Surefour</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Surefour.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
+  <fanart>https://i.imgur.com/yWZr5yr.png</fanart>
+  <summary>Lane "Surefour" Roberts is a Canadian player currently playing for the Los Angeles Gladiators.</summary>
+</dir>
+
+
+
+<dir>
+  <title>Hydration</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Hydration.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/CGG5VB9U5MLQ1512769977402.png</thumbnail>
+  <fanart>https://i.imgur.com/aEn2sAq.png</fanart>
+  <summary>João Pedro "Hydration" Goes Telles is a Brazilian player currently playing for the Los Angeles Gladiators.</summary>
+</dir>
+
+
+
+<dir>
+  <title>Decay</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Decay.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Shaz</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Shaz.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>
+  <fanart>https://i.imgur.com/hpFOBVP.png</fanart>
+  <summary>Jonas "Shaz" Suovaara is a Finnish player who currently plays for the Los Angeles Gladiators.</summary>
+</dir>
+
+
+
+<dir>
+  <title>BigGoose</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BigGoose.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1OSV4XRC5PTK1512769977242.png</thumbnail>
+  <fanart>https://i.imgur.com/nvCO2Gu.png</fanart>
+  <summary>Benjamin "BigGoose" Isohanni is a Finnish player currently playing for the Los Angeles Gladiators.
+
+</summary>
+</dir>
+
+
+<dir>
+  <title>Ripa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ripa.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>SADO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SADO.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5D3GZ0V7N6ZT1549652290929.png</thumbnail>
+  <fanart></fanart>
+  <summary>Su-min "SADO" Kim is a South Korean player currently signed to the Philadelphia Fusion. He was suspended for the first 30 games and the preseason of Overwatch League Season 1 for account-boosting before he was signed to the team.[1]</summary>
+</dir>
+
+
+
+<dir>
+  <title>Poko</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Poko.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/IBTYWK5AF3O91549652290927.png</thumbnail>
+  <fanart>https://i.imgur.com/kWo0x8Z.png</fanart>
+  <summary>Gael "Poko" Gouzerch is a French player formerly playing for GamersOrigin and currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Snillo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Snillo.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/FKQC5IPXJ3L51549652290930.png</thumbnail>
+  <fanart>https://i.imgur.com/fIDgsdN.png</fanart>
+  <summary>Simon "snillo" Ekström is a Swedish player currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+
+<dir>
+  <title>Carpe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Carpe.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/AJZY2F9YATEY1549652290324.png</thumbnail>
+  <fanart>https://i.imgur.com/g8EJ5U8.png</fanart>
+  <summary>Jae-hyeok "Carpe" Lee is a South Korean player currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+<dir>
+  <title>Eqo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Eqo.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6SL41KU0RED1549652290643.png</thumbnail>
+  <fanart>https://i.imgur.com/yQahTf7.png</fanart>
+  <summary>Josh "Eqo" Corona is an Israeli player currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+
+<dir>
+  <title>Kyb</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Kyb.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RV9MLWFCD35J1549664661221.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Boombox</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Boombox.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/W133LJF4E1LT1549652290318.png</thumbnail>
+  <fanart>https://i.imgur.com/Sai3W29.png</fanart>
+  <summary>Isaac "Boombox" Charles is a British player currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+
+<dir>
+  <title>Elk</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Elk.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/A98RFV3HO2LD1549652290323.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Neptuno</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Neptuno.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6DITJ26GFNDO1549652290648.png</thumbnail>
+  <fanart>https://i.imgur.com/tkiguRU.png</fanart>
+  <summary>Alberto "neptuNo" González is a Spanish player recently playing for Movistar Riders and stand-in Cloud9 EU, currently playing for the Philadelphia Fusion.</summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>OGE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators/oge.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/U748UWp.png</fanart>
+  <summary>Min-seok "OGE" Son is a South Korean player currently playing for the Dallas Fuel.</summary>
+</dir>
+
+
+<dir>
+  <title>Mickie</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mickie.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
+  <fanart>https://i.imgur.com/4nGVTl1.png</fanart>
+  <summary>Pongphop "Mickie" Rattanasangchod is a Thai player currently playing for The Dallas Fuel. He comes from a competitive Point Blank background and is known for competing in Point Blank International Championship 2015.
+  </summary>
+</dir>
+
+
+<dir>
+  <title>NotE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NotE.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/SLV8MICXJHX41549581232179.png</thumbnail>
+  <fanart>https://i.imgur.com/0uiKZyw.png</fanart>
+  <summary></summary>
+</dir>
+
+
+<plugin>
+  <title>trill</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
+  <summary>Ashley Powell</summary>
+</plugin>
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>aKm</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/akm.xml</link>
+  <thumbnail>https://i.imgur.com/y0Qt99B.png</thumbnail>
+  <fanart>https://i.imgur.com/i9WMhOw.png</fanart>
+  <summary>Dylan "aKm" Bignet is a French player that plays for the Dallas Fuel.</summary>
+</dir>
+
+
+<dir>
+  <title>Taimou</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Taimou.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/J3ZGE7V0A88P1512685113545.png</thumbnail>
+  <fanart>https://i.imgur.com/blg3A10.png</fanart>
+  <summary>Timo "Taimou" Kettunen is a Finnish player currently playing for the Dallas Fuel.
+
+He is primarily a hitscan player known for his aggressive Widowmaker and McCree play.
+</summary>
+</dir>
+
+
+
+
+<dir>
+  <title>ZachaREEE</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ZachaREEE.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/9HWW7CZV9TN21549664649495.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Unkoe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Unkoe.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
+  <fanart>https://i.imgur.com/i9WMhOw.png</fanart>
+  <summary>Benjamin "uNKOE" Chevasson is a French player that recently played for Rogue. He is now playing for the Los Angeles Valiant in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>Closer</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Closer.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://i.imgur.com/Mle5t7n.png</fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>HarryHook</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HarryHook.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/X4JKRJUUAKYH1512685113279.png</thumbnail>
+  <fanart>https://i.imgur.com/pBNjzSX.png</fanart>
+  <summary>Jonathan "HarryHook" Tejedor Rua is a Spanish player currently playing for The Dallas Fuel. He is from Asturias, Spain, and was picked up by Team EnVyUs at the start of his career to move from Spain to the US to play for them. He has previous experience in other competitive games such as Heroes of the Storm and Team Fortress 2, competing in top Team Fortress 2 teams.
+  </summary>
+</dir>
+
+###Season 2###
+##############
+
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Mano</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mano.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/G12QBLHKB4E11549652238882.png</thumbnail>
+  <fanart>https://i.imgur.com/TFHqcp1.png</fanart>
+  <summary>Dong-gyu "Mano" Kim is a South Korean player currently playing for the New York Excelsior.</summary>
+</dir>
+
+<dir>
+  <title>Meko</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Meko.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/2SXFUVQU46CN1549652238912.png</thumbnail>
+  <fanart>https://i.imgur.com/EJSTfv5.png</fanart>
+  <summary>Tae-hong "MekO" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+<dir>
+  <title>Nenne</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nenne.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5K5SPUQZ7TMS1549652239242.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+<dir>
+  <title>Saebyeolbe</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Saebyeolbe.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/0F24IPZVSR841549652239247.png</thumbnail>
+  <fanart>https://i.imgur.com/qqzF5ww.png</fanart>
+  <summary>Jong-yeol "Saebyeolbe" Park is a South Korean player currently playing for The New York Excelsior.</summary>
+</dir>
+
+<dir>
+  <title>Pine</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Pine.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/OTK5K8S8TTSB1549652239246.png</thumbnail>
+  <fanart>https://i.imgur.com/0MajIHm.png</fanart>
+  <summary>Do-hyeon "Pine" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+</dir>
+
+<dir>
+  <title>Libero</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Libero.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/D0XHMUMBGZVA1549652238886.png</thumbnail>
+  <fanart>https://i.imgur.com/oAj3Yst.png</fanart>
+  <summary>Hye-sung "Libero" Kim is a Korean player currently playing for The New York Excelsior.</summary>
+</dir>
+
+
+<dir>
+  <title>Fl0w3R</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fl0w3R.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GIBBTIGMWVYB1549652238594.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Jjonak</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jjonak.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/BK8ZCWMAV6OR1549652238753.png</thumbnail>
+  <fanart>https://i.imgur.com/vitdSCB.png</fanart>
+  <summary>Sung-hyeon "JJoNak" Bang is a South Korean player currently playing for the New York Excelsior.</summary>
+</dir>
+
+<dir>
+  <title>ANAMO</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ANAMO.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3WU4MLXDRHV31549652238589.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+###Season 2###
+##############
+
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>BenBest</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BenBest.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3PMKEO2AJGXX1549652245089.png</thumbnail>
+  <fanart></fanart>
+  <summary>Benjamin "BenBest" Dieulafait</summary>
+</dir>
+
+
+<dir>
+  <title>LhCloudy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/LhCloudy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5ILKOYQ5OCQM1549652245649.png</thumbnail>
+  <fanart></fanart>
+  <summary>Roni "LhCloudy" Tiihonen</summary>
+</dir>
+
+
+
+
+<item>
+<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Finnsi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Finnsi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/J0CXFZM5JP8P1549652245088.png</thumbnail>
+  <fanart></fanart>
+  <summary>Finnbjörn "Finnsi" Jónasson</summary>
+</dir>
+
+
+<dir>
+  <title>NICOGDH</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/NiCO.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/67/674PI09ENY9H1549655026431.png</thumbnail>
+  <fanart></fanart>
+  <summary>Nicolas "NICOGDH" Moret</summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Danye</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danye.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/E3IZ7GASCPCP1549652245090.png</thumbnail>
+  <fanart></fanart>
+  <summary>Karol "Danye" Szcześniak</summary>
+</dir>
+
+
+<dir>
+  <title>SoOn</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Soon.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/NN0NEGNDPAR81549652245653.png</thumbnail>
+  <fanart></fanart>
+  <summary>Terence "SoOn" Tarlier</summary>
+</dir>
+
+<dir>
+  <title>ShaDowBurn</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ShaDowBurn.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GOWK7Y2YLJYC1549652245653.png</thumbnail>
+  <fanart></fanart>
+  <summary>George "ShaDowBurn" Gushcha</summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+
+<dir>
+  <title>HyP</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HyP.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KV4V52509U6U1549652245350.png</thumbnail>
+  <fanart></fanart>
+  <summary>Damien "HyP" Souville</summary>
+</dir>
+
+<dir>
+  <title>Kruise</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kruise.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png</thumbnail>
+  <fanart></fanart>
+  <summary>Harrison "Kruise" Pond</summary>
+</dir>
+
+
+
+<dir>
+  <title>Greyy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Greyy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>ZUNBA</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ZUNBA.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/FKHYO7M90YU91549652304467.png</thumbnail>
+  <fanart>https://i.imgur.com/BTcrCOI.png</fanart>
+  <summary>Joon-hyuk "zunba" Kim is a South Korean player currently playing for Seoul Dynasty of the Overwatch League. He is widely known as one the game's elite Zarya players.</summary>
+</dir>
+
+
+
+
+
+<dir>
+  <title>Michelle</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Michelle.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/98C5MD1D57HC1549652303863.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Marve1</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Marve1.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/A2XYGD183P501549652303862.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>FLETA</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FLETA.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HPP74HXRYLTX1549652303569.png</thumbnail>
+  <fanart>https://i.imgur.com/1Epw17S.png</fanart>
+  <summary>Byung-sun "Fleta" Kim is a South Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+</dir>
+
+
+<dir>
+  <title>Munchkin</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Munchkin.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/4UKP4KYQ7Y741549652304248.png</thumbnail>
+  <fanart>https://i.imgur.com/59xtHcK.png</fanart>
+  <summary>Sang-beom "Munchkin" Byeon is a Korean player currently signed by Seoul Dynasty of the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>FITS</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FITS.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/FIHZRH1QOK131549652303568.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>ILLICIT</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ILLICIT.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>tobi</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/tobi.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3DAL0ZWWUYZP1549652304251.png</thumbnail>
+  <fanart>https://i.imgur.com/rDCNwVN.png</fanart>
+  <summary>Jin-mo "tobi" Yang is a Korean player currently playing for Seoul Dynasty of the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>ryujehong</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ryujehong.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/LPT02ICVI5XC1549652304246.png</thumbnail>
+  <fanart>https://i.imgur.com/7LrK3A0.png</fanart>
+  <summary>Je-hong "ryujehong" Ryu is a South Korean player currently playing for Seoul Dynasty of the Overwatch League.
+
+He is widely known for extraordinary playmaking abilities and accuracy, as well as for his wide hero pool. Ryujehong is regarded as one of the best Support players in the Professional scene, most famously for his Ana play.
+Also, he was a D.Va and Zarya player when dean was in Lunatic-Hai. Both players rotate between the roles of Support and Tank (Zarya-D.Va). Jehong is an Ex member of one of the best amateur CS 1.6 clans ElusioN Cell. he was later drafted onto Lunatic Hai in 2008, as he began to make his transition to Net Marvel's First person shooter;
+</summary>
+</dir>
+
+
+<dir>
+  <title>Jecse</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jecse.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KWWQ2U3K5I6M1549652303859.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+<dir>
+  <title>Highly</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Highly.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+###Season 2###
+##############
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+<dir>
+  <title>Fearless</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fearless.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/7R0BTI0G749C1549652308662.png</thumbnail>
+  <fanart>https://i.imgur.com/fpvwRtd.png</fanart>
+  <summary>Eui-Seok "Fearless" Lee is a Korean player currently playing for the Shanghai Dragons.</summary>
+</dir>
+
+<dir>
+  <title>Geguri</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Geguri.xml</link>>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/IBX6S5M0J2CU1549652308660.png</thumbnail>
+  <fanart>https://i.imgur.com/UVM9izU.png</fanart>
+  <summary>Kim "Geguri" Se-yeon is a South Korean player, currently playing for the Shanghai Dragons.
+
+She gained recognition in the scene after being accused of using an aim bot to play her signature Zarya in competitive play. She later showed her accusers through the use of a hand camera in a controlled setting, that she was not cheating. Geguri's accusers said they would quit playing if was not hacking. When it was proven she was not hacking, the accusers quit their team and the professional Overwatch scene entirely.[1]
+</summary>
+</dir>
+
+<dir>
+  <title>Gamsu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gamsu.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/SO54RCQJNT3J1549581231851.png</thumbnail>
+  <fanart>https://i.imgur.com/OYf25Qq.png</fanart>
+  <summary>Young-jin "Gamsu" Noh is a South Korean player that plays for the Boston Uprising in the Overwatch League.</summary>
+</dir>
+
+<dir>
+  <title>GuardiaN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/GuardiaN.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/AMJLJ4X88JTY1549652309226.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>DDing</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/DDing.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/GVRULDSIXS1K1549652308199.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Diya</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Diya.xml</link>>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/V2HLT95TN4LU1549652308661.png</thumbnail>
+  <fanart>https://i.imgur.com/8QRMAxG.png</fanart>
+  <summary>Weida "Diya" Lu is a Chinese player currently playing for the Shanghai Dragons.</summary>
+</dir>
+
+
+<dir>
+  <title>YOUNGJIN</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/YOUNGJIN.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3ABK5QG7KEG41549652309231.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>diem</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/diem.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/28F2GFKQKS8S1549652308197.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+
+<dir>
+  <title>CoMa</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/CoMa.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/PA9D8L28RPRC1549652308196.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Luffy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Luffy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/214ASTNYM34F1549652309230.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+###Season 2###
+##############
+
+
+
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Yakpung</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Yakpung.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/QNQD02M7J3I81549576800289.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<dir>
+  <title>Envy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Envy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RTY8KTXBA5ND1549576799705.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<plugin>
+  <title>Gods</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=122154395&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=122154395&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Daniel Graeser</summary>
+</plugin>
+
+
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<dir>
+  <title>Ivy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Ivy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVMOLNDV13XN1549576800054.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Stellar</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Stellar.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KLQJZR9IR3CL1549576800290.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+
+<dir>
+  <title>im37</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/im37.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+<plugin>
+  <title>Shax</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Johannes Nielsen</summary>
+</plugin>
+
+
+<dir>
+  <title>Logix</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Logix.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<dir>
+  <title>Mangachu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Mangachu.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+
+<dir>
+  <title>Neko</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Neko.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/P0G4XZI0BY231549576800067.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>Aid</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Aid.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ZGI7V1MVHSKF1549576799699.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
+
+
+
+<dir>
+  <title>RoKy</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/RoKy.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/ERSLKU1OPDR71549576800064.png</thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</dir>
