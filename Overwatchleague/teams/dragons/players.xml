@@ -6,6 +6,48 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Gamsu</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129958872&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129958872&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCm-hJjIPNkuj9fRbShrP2JA/  (YouTube)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
+<summary>Noh Yeong-jin (노영진)
+@GamsuOW
+twitch.tv/gamsuow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>envy</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=160050719&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160050719&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
+<summary>Lee Kang-jae (이강재)
+@envyow
+twitch.tv/envy0w
+ South Korea</summary>
+</plugin>
+
+
+<plugin>
+  <title>Geguri</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/ (YouTube)</sublink>
+</link>
+<thumbnail>https://owcdn.net/img/5bd5096ae0f8c.jpg</thumbnail>
+<summary>Kim Se-yeon (김세연)
+@Geguri2
+twitch.tv/frog135
+ South Korea
+</summary>
+</plugin>
 
 
 <item>
@@ -13,6 +55,29 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>diem</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147013256&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147013256&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Bae Min-seong (배민성)
+@diem_ow
+twitch.tv/diem_ow_pop
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>DDing</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Yang Jin-hyeok (양진혁)
+twitch.tv/teamkongdoo_dding
+ South Korea</summary>
+  <thumbnail>https://liquipedia.net/commons/images/4/44/SHDdding.png</thumbnail>
+</plugin>
 
 
 <item>
@@ -20,7 +85,43 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Luffy</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636818&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636818&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+<thumbnail></thumbnail>
+<summary>Yang Seong-hyeon (양성현)
+twitch.tv/luffy3439
+ South Korea</summary>
+</plugin>
 
+
+<plugin>
+  <title>Izayaki</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=181397017&mode=play (Twitch Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181397017&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail></thumbnail>
+<summary>Kim Min-chul (김민철)
+– aliases: Need
+@Izayaki_ow
+twitch.tv/izayaki_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>CoMa</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=82536392&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=82536392&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Son Kyeong-woo (손경우)
+@CoMa_OW
+ South Korea</summary>
+</plugin>
 
 ###Season 2###
 ##############

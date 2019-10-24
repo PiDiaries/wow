@@ -8,12 +8,8 @@
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <sublink>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/ (YouTube)</sublink>
+</link>
 <thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
 </plugin>
 
-<plugin>
-  <title>Geguri Youtube</title>
-  <link>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/</link>
-  <thumbnail>https://yt3.ggpht.com/-Zgd1UTbYJKM/AAAAAAAAAAI/AAAAAAAAAAA/UjDKnsQ3yO0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-</plugin>
