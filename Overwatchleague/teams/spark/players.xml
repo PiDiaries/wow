@@ -6,6 +6,20 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Ria</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137349877&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137349877&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Park Seong-wook (박성욱)
+@alsldhkqufdl
+twitch.tv/ria_ow
+ South Korea
+</summary>
+</plugin>
+
 
 
 <item>
@@ -14,13 +28,84 @@
 </item>
 
 
+<plugin>
+  <title>Adora </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=163064520&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163064520&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Kang Jae-Hwan (강재환)
+@ow_adora
+twitch.tv/ow_adora
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>GodsB </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137959674&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137959674&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Kim Kyeon-Bo (김경보)
+@GodsB_OW
+twitch.tv/godsb_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Bazzi </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=161516456&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=161516456&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Park Jun-ki (박준기)
+@bazziow
+twitch.tv/bazziow
+ South Korea</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+<plugin>
+  <title>BeBe</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=146000796&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146000796&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Yoon Hui-Chang (윤희창)
+@bebezzangv
+twitch.tv/bebe0203
+ South Korea
+</summary>
+</plugin>
 
+<plugin>
+  <title>iDK </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138322376&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138322376&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Park Ho-jin (박호진)
+@Hojin_idk
+twitch.tv/qkrghwls0426
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Revenge </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139559911&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139559911&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>An Hyeong-geun (안형근)
+– aliases: R3VENGE
+@Ow_Revenge
+twitch.tv/ow_revenge</summary>
+</plugin>
 
 ###Season 2###
 ##############
