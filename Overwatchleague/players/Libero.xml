@@ -6,6 +6,7 @@
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UC5ItNT1byUJmE1fHBt9b-wg/ (YouTube)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
 </plugin>

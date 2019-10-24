@@ -2,11 +2,12 @@
 ################################################################################
 
 <plugin>
-  <title>PINE Twitch</title>
+  <title>PINE</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=62597620&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=62597620&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <sublink>plugin://plugin.video.youtube/channel/UC0nhCDjyWZ-LZ9Ww0DqpAuA/ (YouTube) </ublink>
+ </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BBANQ2BHFL0Y1512686065493.png</thumbnail>
 </plugin>
 
