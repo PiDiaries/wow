@@ -7,6 +7,19 @@
 </item>
 
 
+<plugin>
+  <title>Fury </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
+<summary>Kim Jun-ho (김준호)
+@Furyy_d
+twitch.tv/furyy_d
+ South Korea</summary>
+</plugin>
+
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
@@ -19,6 +32,20 @@
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
+
+<plugin>
+  <title>Bdosin </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
+  <fanart></fanart>
+  <summary>Choi Seung-tae (최승태)
+@BdosinOW
+twitch.tv/bdosin_ow
+ South Korea</summary>
+</plugin>
 
 
 
