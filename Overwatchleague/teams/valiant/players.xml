@@ -9,7 +9,30 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>McGravy </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136956829&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136956829&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Caleb McGarvey
+@McGravyOW
+twitch.tv/mcgravy
+ United States</summary>
+</plugin>
 
+<plugin>
+  <title>FCTFCTN </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <summary>Russell Campbell
+@FCTFCTN
+twitch.tv/factfiction
+ United States</summary>
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
@@ -17,12 +40,36 @@
 </item>
 
 
+<plugin>
+  <title>KSF </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=40581472&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Kyle Frandanisa
+@KSF_OW
+twitch.tv/ksf_ow
+ United States</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+
+<plugin>
+  <title>Custa </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
+  <summary>Scott Kennedy
+@Custa
+twitch.tv/custa
+ Australia</summary>
+</plugin>
 
 
 ###Season 2###
