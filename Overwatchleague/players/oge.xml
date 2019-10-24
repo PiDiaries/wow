@@ -2,10 +2,11 @@
 ###########################################################################################
 
 <plugin>
-  <title>OGE Twitch</title>
+  <title>OGE</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCp0POM1KSeOKsDgaRBfbnRQ/ (YouTube)</sublink>
   </link>
   <summary></summary>
 </plugin>
