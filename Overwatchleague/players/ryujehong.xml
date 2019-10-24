@@ -2,10 +2,11 @@
 ################################################################################
 
 <plugin>
-  <title>ryujehong Twitch</title>
+  <title>ryujehong</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=128035304&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128035304&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCtt0Hg9MhraTkzWwNQpplHg/ (YouTube) </sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/MLOCP54UWOTI1512770128331.png</thumbnail>
 </plugin>

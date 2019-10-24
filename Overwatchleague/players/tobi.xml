@@ -2,10 +2,11 @@
 #################################################################################
 
 <plugin>
-  <title>tobi Twitch</title>
+  <title>tobi</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137440400&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137440400&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UC_u9GVt_E_bnBtngSFxzWqg/ (YouTube) </sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85PY053PQS2E1512770128333.png</thumbnail>
 </plugin>

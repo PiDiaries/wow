@@ -7,6 +7,57 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Marve1</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=156841943&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156841943&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Hwang Min-seo (황민서)
+– aliases: MARVEL
+@ow_Marve1
+twitch.tv/marve1026
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>ZUNBA</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137407035&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137407035&amp;mode=channel_videos (Twitch VODs)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCp3llTlSHdNNOsGJrj74JAw/ (YouTube)</sublink>
+</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1W9Y36BABS5S1512770128543.png</thumbnail>
+  <summary>Kim Joon-hyuk (김준혁)
+@wg1646
+twitch.tv/wg1646
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Michelle</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140315223&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140315223&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Choi Min-hyuk
+@M1chelle_ow
+twitch.tv/michelle_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Gesture</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
+  <summary>Hong Jae-hee (홍재희)
+@GestureOW
+twitch.tv/gestureow
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -14,6 +65,59 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>FLETA</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=146057990&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146057990&amp;mode=channel_videos (Twitch VOD)</sublink>
+    <sublink>plugin://plugin.video.youtube/channel/UCDAsL2omMivGL-oTKEJcKxA/ (YouTube)</sublink>
+</link>
+  <summary>Kim Byung-sun (김병선)
+@ow_fleta
+twitch.tv/fleta92
+ South Korea</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/0XYLZKYB8LO21512770127871.png</thumbnail>
+</plugin>
+
+<plugin>
+  <title>Profit</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+ <summary>Park Joon-yeong (박준영)
+@PROFIT_OWL
+twitch.tv/profitow
+ South Korea</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
+</plugin>
+
+<plugin>
+  <title>Fits</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=207934127&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207934127&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Kim Dong-eon (김동언)
+– aliases: Fits
+@Fits_ow
+twitch.tv/fits_ow
+ South Korea
+</summary>
+</plugin>
+
+<plugin>
+  <title>ILLICIT</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=181485341&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181485341&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Park Jae-min (박제민)
+@OW_ILLICIT
+twitch.tv/illicit0_0
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -21,6 +125,51 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Highly</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=193044537&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=193044537&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lee Sung-hyeok (이성혁)
+@KingSungHyuk
+twitch.tv/sunghyuk313
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>tobi</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137440400&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137440400&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UC_u9GVt_E_bnBtngSFxzWqg/ (YouTube) </sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85PY053PQS2E1512770128333.png</thumbnail>
+</plugin>
+
+<plugin>
+  <title>ryujehong</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=128035304&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128035304&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCtt0Hg9MhraTkzWwNQpplHg/ (YouTube) </sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/MLOCP54UWOTI1512770128331.png</thumbnail>#
+<summary>Ryu Je-hong (류제홍)
+twitch.tv/wpghd321
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Jecse</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=109560801&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=109560801&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lee Seong-soo (이승수)
+@OW_Jecse
+ South Korea</summary>
+</plugin>
 
 
 ###Season 2###
