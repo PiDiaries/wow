@@ -2,12 +2,16 @@
 ##################################################################################################
 
 <plugin>
-  <title>Carpe Twitch</title>
+  <title>Carpe</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=148019820&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UC1pOo4q4RBQHohNAYn3BFyg/ (YouTube)</sublink>
   </link>
-    <summary>.</summary>
+    <summary>Lee Jae-hyeok (이재혁)
+@carpe_ow
+twitch.tv/carpe
+ South Korea</summary>
 </plugin>
 
 <plugin>
