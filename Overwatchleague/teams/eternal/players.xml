@@ -51,6 +51,22 @@ twitch.tv/nicogdh
  France</summary>
 </plugin>
 
+
+<plugin>
+  <title>SP9RK1E</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144475748&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144475748&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Kim Young-han (김영한)
+twitch.tv/sp9rk1e
+ South Korea
+</summary>
+</plugin>
+
+
+
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
