@@ -7,18 +7,94 @@
 </item>
 
 
+<plugin>
+  <title>BenBest</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=133993495&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=133993495&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <summary>Benjamin Dieulafait
+@BenBest_Ow
+twitch.tv/benbest_ow
+ France</summary>
+</plugin>
+
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+ <plugin>
+  <title>SoOn Twitch</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=72915687&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=72915687&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCvot3hng5y7wROA11Ga_cCw/ (YouTube) </sublink>
+  </link>
+  <summary>Terence Tarlier
+@SoOn99
+twitch.tv/soonsm
+ France</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png</thumbnail>
+</plugin>
 
+<plugin>
+  <title>NiCOgdh</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=17401940&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=117401940&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <summary>Nicolas Moret
+@Eagle_NiCOgdh
+twitch.tv/nicogdh
+ France</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
+
+
+<plugin>
+  <title>HyP</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <summary>Damien Souville
+@Eagle_HyP
+twitch.tv/hyp_tv
+ France</summary>
+</plugin>
+
+<plugin>
+  <title>Greyy</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=39559629&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=39559629&amp;mode=channel_videos (VODs)</sublink>
+</link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
+
+  <summary>Luís Perestrelo
+@GreyyOW
+twitch.tv/greyyow
+ Portugal</summary>
+</plugin>
+
+<plugin>
+  <title>Kruise</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=20774232&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=120774232&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png</thumbnail>
+  <summary>Harrison Pond
+@KruiseOW
+twitch.tv/kruise
+ United Kingdom</summary>
+</plugin>
 
 
 
