@@ -4,12 +4,70 @@
 </item>
 
 
+<plugin>
+  <title>LullSiSH</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lukas Wiklund
+@LullSiSH
+twitch.tv/lullsish_
+ Sweden</summary>
+</plugin>
+
+<plugin>
+  <title>rOar</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147233769&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Gye Chang-hoon
+@rOar_ow
+twitch.tv/roar_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>ELLIVOTE</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Elliot Vaneryd
+@ELLIVOTE
+twitch.tv/ellivote
+ Sweden</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Stratus</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=89131152&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=89131152&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Ethan Yankel
+@StratusEclipse
+twitch.tv/stratuseclipse
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Corey</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132408020&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132408020&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Corey Nigra
+@Corey_OW
+twitch.tv/corey
+ United States</summary>
+</plugin>
 
 
 <item>
@@ -18,6 +76,18 @@
 </item>
 
 
+<plugin>
+  <title>ArK</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <summary>Hong Yeon-joon
+@Arkyjun
+twitch.tv/arkyjun
+ South Korea</summary>
+ <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
+</plugin>
 
 ###Season 2###
 ##############
