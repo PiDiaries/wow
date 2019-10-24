@@ -107,3 +107,20 @@
     <summary>
     </summary>
   </plugin>
+
+
+<plugin>
+  <title>Mica Burton</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=56631128&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=56631128&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Hello! I'm Mica Burton!
+You can call me Micachu if you want! ❤︎
+
+The fact that you are here means you deserve a cookie. Thanks for coming to check out my stream and such! I'm a new-ish streamer and old-school content maker from Los Angeles. You may know me from my cosplay, my acting, or maybe even my hosting!
+
+All of my streams will be uploaded on youtube for later~!
+</summary>
+</plugin>

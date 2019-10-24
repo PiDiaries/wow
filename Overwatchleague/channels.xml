@@ -85,7 +85,10 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
 
 <dir>
   <title>Fissure</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Fissure.xml</link>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636778&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636778&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/74YXX168Q3HS1549652303568.png</thumbnail>
   <fanart></fanart>
   <summary>
@@ -122,7 +125,7 @@ I'm 6'2 120 lbs
 </plugin>
 
 <plugin>
-<title>FRAN (Has Blizzcon content)</title>
+<title>FRAN</title>
 <link>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=5690948&amp;channel_name=fran&amp;display_name=FRAN (Twitch VOD)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=5690948&mode=play (Twitch Live Link)</sublink>
@@ -144,7 +147,7 @@ I'm 6'2 120 lbs
   </plugin>
 
 <plugin>
-  <title>Seagull   </title>
+  <title>Seagull</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_video (Twitch VODs)</sublink>
