@@ -2,7 +2,7 @@
 <plugin>
   <title>ATing</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Shao-Hua Chen</summary>
@@ -11,7 +11,7 @@
 <plugin>
   <title>CQB</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Hao-Cheng Yang</summary>
@@ -20,7 +20,7 @@
 <plugin>
   <title>ManGoJai</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Kin-Long Wong</summary>
@@ -29,7 +29,7 @@
 <plugin>
   <title>VKei</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Seung Jun Ju</summary>
@@ -38,7 +38,7 @@
 <plugin>
   <title>inin77</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>QI HONG WANG</summary>
@@ -47,7 +47,7 @@
 <plugin>
   <title>Perfact</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Yeseung An</summary>
@@ -56,7 +56,7 @@
 <plugin>
   <title>ShaiuLin</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Keng-Yu Lin</summary>

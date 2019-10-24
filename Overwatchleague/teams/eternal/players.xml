@@ -10,7 +10,7 @@
 <plugin>
   <title>BenBest</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=133993495&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=133993495&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=133993495&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary>Benjamin Dieulafait
@@ -28,7 +28,7 @@ twitch.tv/benbest_ow
  <plugin>
   <title>SoOn </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=72915687&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=72915687&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=72915687&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCvot3hng5y7wROA11Ga_cCw/ (YouTube) </sublink>
   </link>
@@ -42,7 +42,7 @@ twitch.tv/soonsm
 <plugin>
   <title>NiCOgdh</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=17401940&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=17401940&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=117401940&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary>Nicolas Moret
@@ -55,7 +55,7 @@ twitch.tv/nicogdh
 <plugin>
   <title>SP9RK1E</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144475748&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144475748&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144475748&amp;mode=channel_videos (Twitch VOD)</sublink>
 </link>
 <thumbnail></thumbnail>
@@ -76,7 +76,7 @@ twitch.tv/sp9rk1e
 <plugin>
   <title>HyP</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary>Damien Souville
@@ -88,7 +88,7 @@ twitch.tv/hyp_tv
 <plugin>
   <title>Greyy</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=39559629&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=39559629&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=39559629&amp;mode=channel_videos (VODs)</sublink>
 </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
@@ -102,7 +102,7 @@ twitch.tv/greyyow
 <plugin>
   <title>Kruise</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=20774232&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=20774232&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=120774232&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png</thumbnail>

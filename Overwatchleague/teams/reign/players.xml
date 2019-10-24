@@ -9,7 +9,7 @@
 <plugin>
   <title>Pokpo</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=199450455&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=199450455&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=199450455&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -23,7 +23,7 @@ twitch.tv/pokpo3361
 <plugin>
   <title>frd</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=102167939&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Nathan Goebel
@@ -36,7 +36,7 @@ twitch.tv/frdwnr
 <plugin>
   <title>Gator </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132166675&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -49,7 +49,7 @@ twitch.tv/gator_
 <plugin>
   <title>Daco</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=146212213&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146212213&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146212213&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -68,7 +68,7 @@ twitch.tv/daco_ow
 <plugin>
   <title>NLaaeR</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=44979242&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44979242&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44979242&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -81,7 +81,7 @@ twitch.tv/nlaaer
 <plugin>
   <title>Erster</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140184309&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140184309&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140184309&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -94,7 +94,7 @@ twitch.tv/erster_ow
 <plugin>
   <title>BABYBAY </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCwrqnFptuGTUL5u71XxfcHw/ (YouTube)</sublink>
  </link>
@@ -114,7 +114,7 @@ twitch.tv/a_babybay
 <plugin>
   <title>FunnyAstro</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Daniel Hathaway
@@ -126,7 +126,7 @@ twitch.tv/funnyastro
 <plugin>
   <title>Dogman </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=27439029&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27439029&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27439029&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Dusttin Bowerman
@@ -138,7 +138,7 @@ twitch.tv/dogman
 <plugin>
   <title>Masaa </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=148273515&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148273515&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148273515&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>

@@ -2,7 +2,7 @@
 <plugin>
   <title>Spideragony</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>João Pedro dos Santos Rodrigues</summary>
@@ -11,7 +11,7 @@
 <plugin>
   <title>delevingne</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Hiago Baldi</summary>
@@ -20,7 +20,7 @@
 <plugin>
   <title>Negofist</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Vanderlei Sousa</summary>
@@ -29,7 +29,7 @@
 <plugin>
   <title>Darken</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Thiago Rivelino</summary>
@@ -38,7 +38,7 @@
 <plugin>
   <title>Broukz</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Rankioshi</summary>
@@ -47,7 +47,7 @@
 <plugin>
   <title>Julls</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Wesley Silva</summary>
@@ -56,7 +56,7 @@
 <plugin>
   <title>Lubbock</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>André Carravieri</summary>

@@ -2,7 +2,7 @@
 <plugin>
   <title>RinaVX</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Justin Jeon</summary>
@@ -11,7 +11,7 @@
 <plugin>
   <title>Akawa</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Adrian Kawa</summary>
@@ -20,7 +20,7 @@
 <plugin>
   <title>Frill</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Corey Scoda</summary>
@@ -29,7 +29,7 @@
 <plugin>
   <title>Coluge</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Colin Arai</summary>
@@ -38,7 +38,7 @@
 <plugin>
   <title>MirroR</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Gia Huy Trịnh</summary>
@@ -47,7 +47,7 @@
 <plugin>
   <title>frdwnr</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Nathan Goebel</summary>
@@ -56,7 +56,7 @@
 <plugin>
   <title>HaKu</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Robert Blohm</summary>
@@ -65,7 +65,7 @@
 <plugin>
   <title>CarCar</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Carson First</summary>

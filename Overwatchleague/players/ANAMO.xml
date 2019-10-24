@@ -2,7 +2,7 @@
 <plugin>
   <title>ANAMO </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>

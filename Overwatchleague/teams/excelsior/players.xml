@@ -9,7 +9,7 @@
 <plugin>
   <title>Mano </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=169109715&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=169109715&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=169109715&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCfPbOtDxYxPtctXii7hSE-A/ (YouTube)</link>
   </link>
@@ -30,7 +30,7 @@ twitch.tv/manoowl
 <plugin>
   <title>PINE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=62597620&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=62597620&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=62597620&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UC0nhCDjyWZ-LZ9Ww0DqpAuA/ (YouTube) </ublink>
  </link>
@@ -44,7 +44,7 @@ twitch.tv/tf2pine
 <plugin>
   <title>Nenne</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138595942&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138595942&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138595942&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Jeong Yeon-kwan
@@ -56,7 +56,7 @@ twitch.tv/nenne_ow
 <plugin>
   <title>Libero</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UC5ItNT1byUJmE1fHBt9b-wg/ (YouTube)</sublink>
   </link>
@@ -70,7 +70,7 @@ twitch.tv/liberot99
 <plugin>
   <title>Saebyeolbe</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140197662&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCMoL0JkY2LpsaT9cUqTwokA/ (YouTube)<sublink>
   </link>
@@ -90,7 +90,7 @@ twitch.tv/saebyeolbe
 <plugin>
   <title>ANAMO</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Jeong Tae-seong (정태성)
@@ -101,7 +101,7 @@ twitch.tv/anamo_ow</summary>
 <plugin>
   <title>JJoNak </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140577538&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3O7YIBU0Z6W61512686064910.png</thumbnail>

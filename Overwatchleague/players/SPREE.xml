@@ -4,7 +4,7 @@
 <plugin>
   <title>SPREE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&amp;mode=channel_videos (Twitch VOD)</sublink>
    <sublink>plugin://plugin.video.youtube/channel/UCvT33BBdRckYZCbFDe-rZCA/ (YouTube)</sublink>
  </link>

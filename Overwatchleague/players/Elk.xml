@@ -2,7 +2,7 @@
 <plugin>
   <title>Elk </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129689403&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129689403&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129689403&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>

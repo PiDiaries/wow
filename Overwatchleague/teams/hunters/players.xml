@@ -16,7 +16,7 @@
 <plugin>
   <title>Baconjack</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132359699&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132359699&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132359699&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Lo Tzu-heng (罗子恒)

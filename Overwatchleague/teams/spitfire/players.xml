@@ -10,7 +10,7 @@
 <plugin>
   <title>Fury </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
@@ -36,7 +36,7 @@ twitch.tv/furyy_d
 <plugin>
   <title>Bdosin </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>

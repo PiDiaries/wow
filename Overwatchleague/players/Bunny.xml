@@ -4,7 +4,7 @@
 <plugin>
   <title>Bunny </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=148495863&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148495863&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148495863&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary></summary>

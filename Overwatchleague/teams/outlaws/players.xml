@@ -10,7 +10,7 @@
 <plugin>
   <title>coolmatt</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=36043286&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3LZO7TZS1N9M1512616495074.png</thumbnail>
@@ -23,7 +23,7 @@ twitch.tv/coolmatt69
 <plugin>
   <title>SPREE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&amp;mode=channel_videos (Twitch VOD)</sublink>
    <sublink>plugin://plugin.video.youtube/channel/UCvT33BBdRckYZCbFDe-rZCA/ (YouTube)</sublink>
  </link>
@@ -37,7 +37,7 @@ twitch.tv/spree
 <plugin>
   <title>Muma</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=96447492&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=96447492&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=96447492&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YIFKW875KSEP1512616495363.png</thumbnail>
@@ -56,7 +56,7 @@ twitch.tv/muma
 <plugin>
   <title>LiNkzr</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=68558124&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=68558124&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=68558124&amp;mode=channel_videos (VODs)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCu9-RMsiZ8-GGkP8nsIIvjw/ (YouTube)</sublink>
   </link>
@@ -71,7 +71,7 @@ twitch.tv/linkzr
 <plugin>
   <title>Hydration</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=53176196&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53176196&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53176196&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/CGG5VB9U5MLQ1512769977402.png</thumbnail>
@@ -84,7 +84,7 @@ twitch.tv/hydration
 <plugin>
   <title>JAKE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D73OIHS7JU5O1512616495099.png</thumbnail>
@@ -97,7 +97,7 @@ twitch.tv/jake_ow
 <plugin>
   <title>blasé</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=85410222&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Jeffrey Tsang
@@ -109,7 +109,7 @@ twitch.tv/blase
 <plugin>
   <title>Danteh</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=52914282&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCytLAmmJOlRDD2VRR2OBtJQ/ (YouTube) </sublink>
   </link>
@@ -127,7 +127,7 @@ twitch.tv/danteh
 <plugin>
   <title>Boink</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=22883056&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCNyyWMy3ulcc060_tYFBc2A/ (youtube)</sublink>
   </link>
@@ -140,7 +140,7 @@ twitch.tv/forceboink
 <plugin>
   <title>Bani</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=22468499&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Chris Benell
@@ -153,7 +153,7 @@ twitch.tv/baniow
 <plugin>
   <title>Rawkus </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=27855530&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCsniFhn5IfU7VaJW5XuynSg/ (YouTube)</link>
   </link>

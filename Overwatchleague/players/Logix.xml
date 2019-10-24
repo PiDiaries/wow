@@ -4,7 +4,7 @@
 <plugin>
   <title>Logix </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>

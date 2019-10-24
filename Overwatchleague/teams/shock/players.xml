@@ -9,7 +9,7 @@
 <plugin>
   <title>ChoiHyoBin </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140638319&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Choi Hyo-Bin (최효빈)
@@ -21,7 +21,7 @@ twitch.tv/choihyobin_ow
 <plugin>
   <title>Super </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=59635827&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59635827&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59635827&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YUQL4VLXE7PX1512777247831.png</thumbnail>
@@ -35,7 +35,7 @@ twitch.tv/supertf
 <plugin>
   <title>Smurf </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=170665523&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170665523&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170665523&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Yoo Myeong-Hwan
@@ -53,7 +53,7 @@ twitch.tv/smurf5
 <plugin>
   <title>sinatraa </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138094916&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138094916&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138094916&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCABUGfcFJhffRFZxSl-mIiw/ (YouTube)</sublink>
   </link>
@@ -67,7 +67,7 @@ twitch.tv/sinatraa
 <plugin>
   <title>Striker </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136116409&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/F930WFVYVE601512769820260.png</thumbnail>
@@ -80,7 +80,7 @@ twitch.tv/owstriker
 <plugin>
   <title>Architect </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=158846066&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=158846066&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=158846066&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bd4f055d63f6.jpg</thumbnail>
@@ -93,7 +93,7 @@ twitch.tv/architect_ow
 <plugin>
   <title>Rascal </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636878&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Kim Dong-jun (김동준)
@@ -112,7 +112,7 @@ twitch.tv/rascal0723
 <plugin>
   <title>Viol2t</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139495692&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139495692&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139495692&amp;mode=channel_videos (Twitch VOD)</sublink>
 </link>
 <thumbnail></thumbnail>
@@ -126,7 +126,7 @@ twitch.tv/viol2t_ow
 <plugin>
   <title>Moth </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140090990&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140090990&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140090990&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Grant Espe

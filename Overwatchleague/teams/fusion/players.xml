@@ -9,7 +9,7 @@
 <plugin>
   <title>Poko </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=53265819&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EZQ4D59G4VKH1515621286468.png</thumbnail>
@@ -30,7 +30,7 @@ twitch.tv/poko
 <plugin>
   <title>Carpe</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=148019820&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UC1pOo4q4RBQHohNAYn3BFyg/ (YouTube)</sublink>
   </link>
@@ -43,7 +43,7 @@ twitch.tv/carpe
 <plugin>
   <title>snillo</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=128376403&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bfc9b732adaa.jpg</thumbnail>
@@ -62,7 +62,7 @@ twitch.tv/snillo_ow
 <plugin>
   <title>Boombox</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=87917078&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <summary>Isaac Charles

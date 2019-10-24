@@ -9,7 +9,7 @@
 <plugin>
   <title>OGE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCp0POM1KSeOKsDgaRBfbnRQ/ (YouTube)</sublink>
   </link>
@@ -24,7 +24,7 @@ twitch.tv/oge_ow
 <plugin>
   <title>NotE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=63034034&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=63034034&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=63034034&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
@@ -37,7 +37,7 @@ twitch.tv/notevenbleu
 <plugin>
   <title>trill</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
@@ -50,7 +50,7 @@ twitch.tv/trill_ow
 <plugin>
   <title>Mickie</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCusG1UpXusPTEbZMFILLGVg/ (YouTube)</sublink>
   </link>
@@ -71,7 +71,7 @@ twitch.tv/mickiepp
 <plugin>
   <title>Taimou</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=54581600&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UC8jnvzv_KW1ChKtdQYZUeAw/ (Youtube)</link>
  </link>
@@ -85,7 +85,7 @@ twitch.tv/taimoutv
 <plugin>
   <title>aKm</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&amp;mode=channel_videos </sublink>
   </link>
   <summary>Dylan Bignet
@@ -98,7 +98,7 @@ twitch.tv/akm_tv
 <plugin>
   <title>ZachaREEE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bda786601f6b.jpg</thumbnail>
@@ -117,7 +117,7 @@ twitch.tv/zachareeee
 <plugin>
   <title>Closer</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
@@ -130,7 +130,7 @@ twitch.tv/closerow
 <plugin>
   <title>uNKOE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=50447542&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
@@ -145,7 +145,7 @@ twitch.tv/unkoe
 <plugin>
   <title>HarryHook/title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=30257355&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCQV-LgAPwiea6Dpn8CBTWcQ/ (YouTube)</sublink>
 </link>

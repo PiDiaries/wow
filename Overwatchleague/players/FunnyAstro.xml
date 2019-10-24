@@ -2,7 +2,7 @@
 <plugin>
   <title>FunnyAstro </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>

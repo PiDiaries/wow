@@ -12,7 +12,7 @@
 <plugin>
   <title>McGravy </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136956829&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136956829&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136956829&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Caleb McGarvey
@@ -24,7 +24,7 @@ twitch.tv/mcgravy
 <plugin>
   <title>FCTFCTN </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Russell Campbell
@@ -43,7 +43,7 @@ twitch.tv/factfiction
 <plugin>
   <title>KSF </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=40581472&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Kyle Frandanisa
@@ -61,7 +61,7 @@ twitch.tv/ksf_ow
 <plugin>
   <title>Custa </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>

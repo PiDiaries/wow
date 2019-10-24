@@ -1,5 +1,5 @@
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
 
@@ -7,7 +7,7 @@
 <plugin>
   <title></title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel// (YouTube)</sublink>
 </link>
@@ -45,7 +45,7 @@
 <plugin>
   <title>FCTFCTN</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
@@ -103,7 +103,7 @@
 <plugin>
   <title>Shax</title>
 <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=64291139&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=64291139&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=64291139&amp;mode=channel_videos (VODs)</sublink>
   </link>
     <thumbnail>https://owcdn.net/img/5bda63f1791e6.jpg</thumbnail>
@@ -955,7 +955,7 @@
 <plugin>
   <title>Byrem</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=160093092&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160093092&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160093092&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>
@@ -1334,7 +1334,7 @@
 <plugin>
   <title>trill</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
@@ -1898,7 +1898,7 @@ She gained recognition in the scene after being accused of using an aim bot to p
 <plugin>
   <title>Gods</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=122154395&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=122154395&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=122154395&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Daniel Graeser</summary>
@@ -1944,7 +1944,7 @@ She gained recognition in the scene after being accused of using an aim bot to p
 <plugin>
   <title>Shax</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Johannes Nielsen</summary>

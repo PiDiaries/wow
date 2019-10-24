@@ -4,7 +4,7 @@
 <plugin>
   <title>Zuppeh </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=103006437&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=103006437&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=103006437&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/7NQZMZ9MX2FU1512685744843.png</thumbnail>

@@ -2,7 +2,7 @@
 <plugin>
   <title>Hotba </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 </plugin>

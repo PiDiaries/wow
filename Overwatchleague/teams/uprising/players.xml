@@ -10,7 +10,7 @@
 <plugin>
   <title>Fusions </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=45815466&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Cameron Bosworth
@@ -22,7 +22,7 @@ twitch.tv/fusions_ow
 <plugin>
   <title>Axxiom </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=207889636&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207889636&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207889636&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Park Min-sub (박민섭)
@@ -42,7 +42,7 @@ twitch.tv/axxiom_
 <plugin>
   <title>Colourhex </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=81190365&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Kelsey Birse

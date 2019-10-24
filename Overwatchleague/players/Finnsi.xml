@@ -7,7 +7,7 @@
 <plugin>
   <title>Finnsi </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=90238430&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=90238430&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=90238430&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <summary></summary>

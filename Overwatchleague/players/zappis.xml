@@ -4,7 +4,7 @@
 <plugin>
   <title>zappis </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=29493830&mode=play (Twitch Live Link) </sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29493830&mode=play (Twitch Live Link) </sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29493830&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
 <thumbnail>http://liquipedia.net/commons/images/1/14/NiPzappis.png</thumbnail>

@@ -17,7 +17,7 @@
 <plugin>
   <title>Logix</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
@@ -31,7 +31,7 @@ twitch.tv/logixow
 <plugin>
   <title>Mangachu</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37438044&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37438044&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37438044&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Liam Campbell
@@ -47,7 +47,7 @@ twitch.tv/mangachu</summary>
 <plugin>
   <title>Neko</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVMOLNDV13XN1549576800054.png</thumbnail>
@@ -62,7 +62,7 @@ twitch.tv/nek0_0w
 <plugin>
   <title>KariV</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=135122504&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135122504&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135122504&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCLQ7jk8CPpWGp6Cdc365btA/  (YouTube)</sublink>
   </link>
@@ -76,7 +76,7 @@ twitch.tv/kariv2
 <plugin>
   <title>RoKy</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=130179746&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130179746&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130179746&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Park Joo-seong (박주성)

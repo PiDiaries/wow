@@ -9,7 +9,7 @@
 <plugin>
   <title>Gamsu</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129958872&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129958872&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129958872&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCm-hJjIPNkuj9fRbShrP2JA/  (YouTube)</sublink>
   </link>
@@ -23,7 +23,7 @@ twitch.tv/gamsuow
 <plugin>
   <title>envy</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=160050719&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160050719&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=160050719&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
@@ -37,7 +37,7 @@ twitch.tv/envy0w
 <plugin>
   <title>Geguri</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/ (YouTube)</sublink>
 </link>
@@ -58,7 +58,7 @@ twitch.tv/frog135
 <plugin>
   <title>diem</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147013256&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147013256&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147013256&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Bae Min-seong (배민성)
@@ -70,7 +70,7 @@ twitch.tv/diem_ow_pop
 <plugin>
   <title>DDing</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Yang Jin-hyeok (양진혁)
@@ -88,7 +88,7 @@ twitch.tv/teamkongdoo_dding
 <plugin>
   <title>Luffy</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636818&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636818&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636818&amp;mode=channel_videos (VODs)</sublink>
   </link>
 <thumbnail></thumbnail>
@@ -101,7 +101,7 @@ twitch.tv/luffy3439
 <plugin>
   <title>Izayaki</title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=181397017&mode=play (Twitch Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181397017&mode=play (Twitch Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181397017&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail></thumbnail>
@@ -115,7 +115,7 @@ twitch.tv/izayaki_ow
 <plugin>
   <title>CoMa</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=82536392&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=82536392&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=82536392&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Son Kyeong-woo (손경우)

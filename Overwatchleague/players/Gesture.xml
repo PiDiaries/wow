@@ -5,7 +5,7 @@
 <plugin>
   <title>Gesture </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
@@ -15,7 +15,7 @@
 
 <plugin>
   <title>Q&A with Gesture </title>
-  <link>plugin://plugin.video.twitch/?use_player=True&use_player=True&video_id=v263595927&mode=play</link>
+  <link>plugin://plugin.video.twitch/?use_player=True&video_id=v263595927&mode=play</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
   <summary>Q&A with Gesture</summary>
 </plugin>

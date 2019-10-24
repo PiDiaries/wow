@@ -9,7 +9,7 @@
 <plugin>
   <title>Bumper </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=149972918&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=149972918&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=149972918&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -21,7 +21,7 @@ twitch.tv/bumper_ow
 <plugin>
   <title>JJANU </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=131925644&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131925644&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131925644&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -34,7 +34,7 @@ twitch.tv/jjanu_ow
 <plugin>
   <title>TiZi</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Hwang Jang-hyeon (황장현)
@@ -51,7 +51,7 @@ twitch.tv/tizi_ow
 <plugin>
   <title>Haksal </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137923480&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137923480&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137923480&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -63,7 +63,7 @@ twitch.tv/haksalow
 <plugin>
   <title>SeoMinSoo </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=159046484&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=159046484&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=159046484&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -78,7 +78,7 @@ twitch.tv/seominsoo_ow
 <plugin>
   <title>Stitch </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142984860&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142984860&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142984860&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -96,7 +96,7 @@ twitch.tv/stitch
 <plugin>
   <title>SLIME </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129158837&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129158837&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129158837&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -110,7 +110,7 @@ twitch.tv/slime
 <plugin>
   <title>Twilight </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139042966&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139042966&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139042966&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>
@@ -125,7 +125,7 @@ twitch.tv/twilight_x0x
 <plugin>
   <title>Rapel </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=172518148&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=172518148&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=172518148&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>

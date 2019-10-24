@@ -7,7 +7,7 @@
   <title>PlayOverwatch </title>
   <link>
   <sublink>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/ (Youtube)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&amp;channel_name=playoverwatch&amp;display_name=PlayOverwatch&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
@@ -31,7 +31,7 @@
 <plugin>
   <title>Avast</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=32905366&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=32905366&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=32905366&amp;channel_name=vale&amp;display_name=Vale&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://twitter.com/Avast_o/photo</thumbnail>      
 <summary>Former Professional OWL player now turned caster. </summary>
@@ -41,7 +41,7 @@
 <plugin>
   <title>dafran </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=41314239&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dafran-profile_image-98c45a96ca6ad150-300x300.png</thumbnail>
@@ -52,7 +52,7 @@
 <plugin>
   <title>Reinforce</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=30071705&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30071705&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30071705&amp;channel_name=reinforce&amp;display_name=Reinforce&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink> plugin://plugin.video.youtube/channel/UCPXBrhtqaRq7ApUku6WPcGQ/ (Youtube)</sublink>
 </link>
@@ -68,7 +68,7 @@ After reaching a lot of success in Overwatch, playing on the best team in the wo
   <title>Jayne - Overwatch Coaching</title>
   <link>
   <sublink>plugin://plugin.video.youtube/channel/UCMoNOUJPZTjA1w3ttT819SA/ (Youtube) </sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=101068316&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=101068316&amp;channel_name=jayne&amp;display_name=Jayne&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
     <thumbnail>https://yt3.ggpht.com/-VR1V1juIgSw/AAAAAAAAAAI/AAAAAAAAAAA/JPgcOkyJ32Q/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
@@ -98,7 +98,7 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
 <plugin>
   <title>Fissure</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636778&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636778&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636778&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/74YXX168Q3HS1549652303568.png</thumbnail>
@@ -112,7 +112,7 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
 <title>xQc</title>
 <link>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=71092938&amp;channel_name=xqcow&amp;display_name=xQcOW&amp;mode=channel_videos (Twitch VOD)</sublink>
-<sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.youtube/channel/UCmDTrq0LNgPodDOFZiSbsww/ (Youtube)</sublink>
 </link>
 <summary>My name is Félix and i'm 22 years old.
@@ -129,7 +129,7 @@ I'm 6'2 120 lbs
 <title>sweet_anita</title>
 <link>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=217377982&amp;channel_name=sweet_anita&amp;display_name=Sweet_Anita&amp;mode=channel_videos (Twitch VOD)</sublink>
-<sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=217377982&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=217377982&mode=play (Twitch Live Link)</sublink>
 </link>
 <summary>Hi I'm Anita. I'm 28, from the UK, and I have tourrette's syndrome! My stream is for a mature audience only as I say some pretty inappropriate things about cats and Jesus.
 </summary>
@@ -140,7 +140,7 @@ I'm 6'2 120 lbs
 <title>FRAN</title>
 <link>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=5690948&amp;channel_name=fran&amp;display_name=FRAN (Twitch VOD)</sublink>
-<sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=5690948&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=5690948&mode=play (Twitch Live Link)</sublink>
 </link>
 <summary>Hi~! My name is Francine, I am 25 years old and I started gaming for as long as I can remember, which was mostly influenced by growing up around gamers. I started competing at MLG events for the game Halo reach in 2011, slowly progressing into the PC world around 2014. Unfortunately I have dropped Halo and moved on to League of Legends. I quit League and am addicted to Overwatch now :)
 
@@ -152,7 +152,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>SSSWolf</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=48076581&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=48076581&mode=play (Twitch Live Link)</sublink>
  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=48076581&amp;channel_name=ssswolf&amp;display_name=SSSWolf&amp;mode=channel_video (Twitch VODs)</sublink>
   </link>
  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/ssswolf-profile_image-4e7964c2a29ab70d-300x300.png</thumbnail>     <summary></summary>
@@ -161,7 +161,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Seagull</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=19070311&amp;channel_name=a_seagull&amp;display_name=A_Seagull&amp;mode=channel_video (Twitch VODs)</sublink>
 <sublink>plugin://plugin.video.youtube/channel/UCaFnEJ5tWlK0TO5PWHqr8Hw/ (Youtube)</sublink>
   </link>
@@ -171,7 +171,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>kafeeeeee_ow</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=125260178&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125260178&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125260178&amp;channel_name=kafeeeeee_ow&amp;display_name=kafeeeeee_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/4d83b103-f1dc-409a-9453-77583918c1ba-profile_image-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -179,7 +179,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Fitzyhere</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=23155607&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23155607&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23155607&amp;channel_name=fitzyhere&amp;display_name=Fitzyhere&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/fitzyhere-profile_image-a911403868970b27-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -187,7 +187,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>barcode_ow</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31367265&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31367265&mode=play (Twitch Live Link)</sublink>
  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31367265&amp;channel_name=barcode_ow&amp;display_name=barcode_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/b62920f4-ac24-4b28-8bec-de5f8ac3393a-profile_image-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -195,7 +195,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Vale </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=27645199&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27645199&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27645199&amp;channel_name=vale&amp;display_name=Vale&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/e3ee398aba1a541d-profile_image-300x300.png</thumbnail>      <summary></summary>
   </plugin>
@@ -203,7 +203,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>DanielFenner</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=9345718&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=9345718&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=9345718&amp;channel_name=danielfenner&amp;display_name=DanielFenner&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/375f29dd-92c6-42ce-bdb8-0058be190f80-profile_image-300x300.jpg</thumbnail>     <summary></summary>
   </plugin>
@@ -211,7 +211,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>S0rryYouMustDie   </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=173267156&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=173267156&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=173267156&amp;channel_name=s0rryyoumustdie&amp;display_name=S0rryYouMustDie&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/64ea6d17-c466-40d3-96b3-3078943de6fd-profile_image-300x300.jpg</thumbnail>     <summary></summary>
   </plugin>
@@ -219,7 +219,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>kragiee</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=124604785&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=124604785&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=124604785&amp;channel_name=kragiee&amp;display_name=kragiee&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/68dc8706-d15e-4cd2-9974-098c194a3574-profile_image-300x300.png</thumbnail>     <summary></summary>
   </plugin>
@@ -227,7 +227,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>spiritow</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26933810&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26933810&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26933810&amp;channel_name=spiritow&amp;display_name=spiritow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/28e67b8d2868ff03-profile_image-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -235,7 +235,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Brandito</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=13043231&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=13043231&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130432314&amp;channel_name=brandito&amp;display_name=Brandito&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/40b0e607-22cf-4dad-9441-33086459636f-profile_image-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -243,7 +243,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>cavalry</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138630827&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138630827&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138630827&amp;channel_name=cavalry&amp;display_name=cavalry&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/0fdcd106556f11b3-profile_image-300x300.jpeg</thumbnail>     <summary></summary>
   </plugin>
@@ -251,7 +251,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>boostio_ow</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=43887657&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=43887657&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=43887657&amp;channel_name=boostio_ow&amp;display_name=boostio_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/f3b7315c-4e96-4c57-9544-2397cf8c24e3-profile_image-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -259,7 +259,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Redshell</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=157440062&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=157440062&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=157440062&amp;channel_name=redshell&amp;display_name=Redshell&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/76637f7a-673e-4a65-a7e7-d2d10c73c4e9-profile_image-300x300.jpg</thumbnail>    <summary></summary>
   </plugin>
@@ -267,7 +267,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>aimbotcalvin</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=84574550&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84574550&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84574550&amp;channel_name=aimbotcalvin&amp;display_name=aimbotcalvin&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/aimbotcalvin-profile_image-fa763d0637574d8a-300x300.png</thumbnail>    <summary></summary>
   </plugin>
@@ -275,7 +275,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Emongg</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=23220337&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23220337&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23220337&amp;channel_name=emongg&amp;display_name=Emongg&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/10c36ad0a4756df8-profile_image-300x300.png</thumbnail>       <summary></summary>
   </plugin>
@@ -283,7 +283,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>mL7_ow</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=51929371&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=51929371&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=51929371&amp;channel_name=ml7_ow&amp;display_name=mL7_ow&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/7b8f3faf-7a06-461c-91ac-d315b4850781-profile_image-300x300.png</thumbnail>     <summary></summary>
   </plugin>
@@ -291,7 +291,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Aspen</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147927227&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147927227&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147927227&amp;channel_name=aspen&amp;display_name=Aspen&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/b90d33d4-5772-488b-ac03-f93786b28b53-profile_image-300x300.png</thumbnail>     <summary></summary>
   </plugin>
@@ -299,7 +299,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Gale_Adelade </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=115467657&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=115467657&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=115467657&amp;channel_name=gale_adelade&amp;display_name=Gale_Adelade&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/77f5b632d7ac6928-profile_image-300x300.jpeg</thumbnail>     <summary></summary>
   </plugin>
@@ -307,7 +307,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>harbleu</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=4329841&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=4329841&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=4329841&amp;channel_name=harbleu&amp;display_name=harbleu&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-300x300.jpg</thumbnail>    <summary></summary>
   </plugin>
@@ -315,7 +315,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>m0xyy</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=69012069&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=69012069&mode=play (Twitch Live Link)</sublink>
    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=69012069&amp;channel_name=m0xyy&amp;display_name=m0xyy&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/c901b680-9876-4e67-826a-e141381628e5-profile_image-300x300.jpg</thumbnail>    <summary></summary>
   </plugin>
@@ -323,7 +323,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>KabajiOW</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=114476906&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114476906&mode=play (Twitch Live Link)</sublink>
  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114476906&amp;channel_name=kabajiow&amp;display_name=KabajiOW&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/d5beef26-0f08-4c70-a90f-bd80144bb1fd-profile_image-300x300.png</thumbnail>        <summary></summary>
   </plugin>
@@ -331,7 +331,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Kephrii </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&mode=play (Twitch Live Link)</sublink>
 <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31582795&amp;channel_name=kephrii&amp;display_name=Kephrii&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/kephrii-profile_image-d6499e8af76a8936-300x300.jpeg</thumbnail>     <summary></summary>
   </plugin>
@@ -339,7 +339,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>Dafran</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=41314239&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&mode=play (Twitch Live Link)</sublink>
        <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&amp;channel_name=dafran&amp;display_name=dafran&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dafran-profile_image-98c45a96ca6ad150-300x300.png</thumbnail>      <summary></summary>
   </plugin>
@@ -348,7 +348,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>TimTheTatman </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=36769016&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36769016&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36769016&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/timthetatman-profile_image-4cb867e7d0af1448-300x300.jpeg</thumbnail>
@@ -359,7 +359,7 @@ I'm 6'2 120 lbs
 <plugin>
   <title>QueenE </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=25880340&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=25880340&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=25880340&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/4615cdab-ea93-49ea-890b-e69feb2a902e-profile_image-300x300.png</thumbnail>

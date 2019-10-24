@@ -2,7 +2,7 @@
 <plugin>
   <title>Ripa </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>

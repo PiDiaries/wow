@@ -2,7 +2,7 @@
 <plugin>
   <title>nero </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136943639&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary></summary>

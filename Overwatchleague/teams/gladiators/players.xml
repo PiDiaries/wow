@@ -8,7 +8,7 @@
 <plugin>
   <title>Void</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Kang Jun-woo (강준우)
@@ -20,7 +20,7 @@ twitch.tv/ow_void
 <plugin>
   <title>SPACE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147953635&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
@@ -33,7 +33,7 @@ twitch.tv/space
 <plugin>
   <title>Panker</Panker>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137529743&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137529743&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137529743&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Lee Byung-ho (이병호)
@@ -49,7 +49,7 @@ twitch.tv/pank3r
 <plugin>
   <title>Surefour</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
   <sublink>plugin://plugin.video.youtube/channel/UCUtpwWjM4FQCdwfdZWzxJrg/ (YouTube)</sublink>
   </link>
@@ -64,7 +64,7 @@ twitch.tv/surefour
 <plugin>
   <title>Decay</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Jang Gui-un (장귀운)
@@ -81,7 +81,7 @@ twitch.tv/decay012
 <plugin>
   <title>Ripa</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Riku Toivanen
@@ -93,7 +93,7 @@ twitch.tv/ripatv
 <plugin>
   <title>BigGoose</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=41703896&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <thumbnail>https://owcdn.net/img/5bd4ed9228941.jpg</thumbnail>
@@ -108,7 +108,7 @@ twitch.tv/biggooseow
 <plugin>
   <title>Shaz<title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>

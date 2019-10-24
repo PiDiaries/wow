@@ -2,7 +2,7 @@
 <plugin>
   <title>SLIME </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129158837&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129158837&amp;&mode=play  (Live Link)</sublink>
     <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129158837&amp;mode=channel_videos (VODs)</sublink>
 </link>
   <thumbnail></thumbnail>

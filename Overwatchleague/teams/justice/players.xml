@@ -7,7 +7,7 @@
 <plugin>
   <title>LullSiSH</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Lukas Wiklund
@@ -19,7 +19,7 @@ twitch.tv/lullsish_
 <plugin>
   <title>rOar</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147233769&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Gye Chang-hoon
@@ -31,7 +31,7 @@ twitch.tv/roar_ow
 <plugin>
   <title>ELLIVOTE</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Elliot Vaneryd
@@ -48,7 +48,7 @@ twitch.tv/ellivote
 <plugin>
   <title>Stratus</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=89131152&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=89131152&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=89131152&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Ethan Yankel
@@ -60,7 +60,7 @@ twitch.tv/stratuseclipse
 <plugin>
   <title>Corey</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132408020&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132408020&mode=play (Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132408020&amp;mode=channel_videos (VODs)</sublink>
   </link>
   <summary>Corey Nigra
@@ -79,7 +79,7 @@ twitch.tv/corey
 <plugin>
   <title>ArK</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
   <summary>Hong Yeon-joon
