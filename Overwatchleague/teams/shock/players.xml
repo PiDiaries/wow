@@ -6,6 +6,43 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>ChoiHyoBin </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140638319&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <summary>Choi Hyo-Bin (최효빈)
+@Shock_CHB
+twitch.tv/choihyobin_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Super </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=59635827&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59635827&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YUQL4VLXE7PX1512777247831.png</thumbnail>
+<summary>Matthew DeLisi
+@super_OW
+twitch.tv/supertf
+ United States</summary>
+</plugin>
+
+
+<plugin>
+  <title>Smurf </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=170665523&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170665523&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Yoo Myeong-Hwan
+@smurf_ow
+twitch.tv/smurf5
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -13,6 +50,58 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>sinatraa </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=138094916&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138094916&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCABUGfcFJhffRFZxSl-mIiw/ (YouTube)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/GAH625QTQPGC1512777247784.png</thumbnail>
+<summary>Jay Won
+@sinatraaOW
+twitch.tv/sinatraa
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Striker </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=136116409&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/F930WFVYVE601512769820260.png</thumbnail>
+<summary>Kwon Nam-joo (권남주)
+@STRIKER_OW
+twitch.tv/owstriker
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Architect </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=158846066&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=158846066&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <thumbnail>https://owcdn.net/img/5bd4f055d63f6.jpg</thumbnail>
+  <summary>Park Min-ho (박민호)
+@Shock_Architect
+twitch.tv/architect_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>Rascal </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636878&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <summary>Kim Dong-jun (김동준)
+– aliases: DongJun
+@Rascal_OW
+twitch.tv/rascal0723
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -20,8 +109,31 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Viol2t</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139495692&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139495692&amp;mode=channel_videos (Twitch VOD)</sublink>
+</link>
+<thumbnail></thumbnail>
+<summary>Park Min-ki
+@Viol2t_OW
+twitch.tv/viol2t_ow
+ South Korea
+</summary>
+</plugin>
 
-
+<plugin>
+  <title>Moth </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=140090990&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140090990&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Grant Espe
+@moth_ow
+twitch.tv/moth_ow
+ United States</summary>
+</plugin>
 ###Season 2###
 ##############
 <item>
