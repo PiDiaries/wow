@@ -6,13 +6,86 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Bumper </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=149972918&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=149972918&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Park Sang-beom (박상범)
+twitch.tv/bumper_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>JJANU </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=131925644&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131925644&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Choi Hyeon-woo (최현우)
+@JJANU_ow
+twitch.tv/jjanu_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>TiZi</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Hwang Jang-hyeon (황장현)
+@Overwatch_TiZi
+twitch.tv/tizi_ow
+ South Korea</summary>
+</plugin>
 
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
+<plugin>
+  <title>Haksal </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137923480&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137923480&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Kim Hyo-jong (김효종)
+twitch.tv/haksalow
+ South Korea</summary>
+</plugin>
 
+<plugin>
+  <title>SeoMinSoo </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=159046484&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=159046484&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Seo Min-Soo (서민수)
+– aliases: Loven
+@alstn5517
+twitch.tv/seominsoo_ow
+ South Korea</summary>
+</plugin>
+
+
+<plugin>
+  <title>Stitch </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=142984860&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142984860&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Lee Chung-hee (이충희)
+twitch.tv/stitch
+ South Korea</summary>
+</plugin>
 
 
 <item>
@@ -20,7 +93,47 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>SLIME </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=129158837&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129158837&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Kim Sung-jun (김성준)
+@Slime000112
+twitch.tv/slime
+ South Korea</summary>
+</plugin>
 
+
+<plugin>
+  <title>Twilight </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=139042966&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139042966&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Lee Joo-seok (이주석)
+@Twilight_OW
+twitch.tv/twilight_x0x
+ South Korea</summary>
+</plugin>
+
+
+
+<plugin>
+  <title>Rapel </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=172518148&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=172518148&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail></thumbnail>
+  <summary>Kim Jun-geun (김준근)
+@ow__Rapel
+twitch.tv/kingjungeun
+ South Korea</summary>
+</plugin>
 
 ###Season 2###
 ##############
