@@ -7,12 +7,49 @@
 </item>
 
 
+<plugin>
+  <title>Fusions </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=45815466&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Cameron Bosworth
+@Fusions
+twitch.tv/fusions_ow
+ United Kingdom</summary>
+</plugin>
+
+<plugin>
+  <title>Axxiom </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=207889636&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207889636&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Park Min-sub (박민섭)
+– aliases: Quinas
+@AxxiomOW
+twitch.tv/axxiom_
+ South Korea</summary>
+</plugin>
+
 
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+
+<plugin>
+  <title>Colourhex </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=81190365&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Kelsey Birse
+@Colourhex217
+twitch.tv/colourhex
+ New Zealand</summary>
+</plugin>
 
 
 <item>

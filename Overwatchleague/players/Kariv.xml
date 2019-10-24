@@ -7,6 +7,7 @@
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=135122504&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135122504&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCLQ7jk8CPpWGp6Cdc365btA/ (YouTube)</sublink>
   </link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png</thumbnail>
 </plugin>
