@@ -5,21 +5,119 @@
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Void</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <summary>Kang Jun-woo (강준우)
+@Void_OW
+twitch.tv/ow_void
+ South Korea</summary>
+</plugin>
 
+<plugin>
+  <title>SPACE</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=147953635&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
+<summary>Indy Halpern
+@spaceOW
+twitch.tv/space
+ United States</summary>
+</plugin>
 
+<plugin>
+  <title>Panker</Panker>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=137529743&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137529743&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lee Byung-ho (이병호)
+– aliases: DDuJa
+@Panker_OW
+twitch.tv/pank3r
+ South Korea</summary>
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Surefour</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCUtpwWjM4FQCdwfdZWzxJrg/ (YouTube)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
+<summary>Lane Roberts
+@Surefour
+twitch.tv/surefour
+ Canada</summary>
+</plugin>
 
+
+<plugin>
+  <title>Decay</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Jang Gui-un (장귀운)
+@DecayOW
+twitch.tv/decay012
+ South Korea</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+<plugin>
+  <title>Ripa</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Riku Toivanen
+@Ripa_ow
+twitch.tv/ripatv
+ Finland</summary>
+</plugin>
 
+<plugin>
+  <title>BigGoose</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=41703896&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <thumbnail>https://owcdn.net/img/5bd4ed9228941.jpg</thumbnail>
+  <summary>Benjamin Isohanni
+– aliases: BigG00se
+@BigGooseOW
+twitch.tv/biggooseow
+ Finland
+  </summary>
+</plugin>
+
+<plugin>
+  <title>Shaz<title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>
+<summary>Jonas Suovaara
+@Shaz_ow
+twitch.tv/shaz_ow
+ Finland</summary>
+ <thumbnail>https://owcdn.net/img/5bd4edbaada32.jpg</thumbnail>
+</plugin>
 
 ###Season 2###
 ##############
