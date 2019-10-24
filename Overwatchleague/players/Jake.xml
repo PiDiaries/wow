@@ -2,7 +2,7 @@
 ###########################################################################################
 
 <plugin>
-  <title>JAKE Twitch</title>
+  <title>JAKE</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&amp;mode=channel_videos (Twitch VOD)</sublink>
