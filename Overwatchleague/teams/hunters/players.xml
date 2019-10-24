@@ -13,88 +13,17 @@
 <link>//</link>
 </item>
 
-
-
-<item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-
-
-###Season 2###
-##############
-<item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-
-<dir>
-  <title>Lateyoung</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Lateyoung.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/LIG98RYLGG8V1549581236612.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>Ameng</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Ameng.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/RKE54CO3IH311549581235981.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>Elsa</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Elsa.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVX2QEDU5YY31549581235982.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>JIQIREN</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/JIQIREN.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-
-<dir>
+<plugin>
   <title>Baconjack</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Baconjack.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/DZYZXUR6MFFO1549581235985.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>Jinmu</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Jinmu.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/52JZ1I2S8LKH1549581236337.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>YangX1aoLg</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/YangX1aoLg.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=132359699&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132359699&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Lo Tzu-heng (罗子恒)
+@Baconjack0227
+twitch.tv/baconjack0227
+ Taiwan</summary>
+</plugin>
 
 
 
@@ -104,27 +33,4 @@
 </item>
 
 
-<dir>
-  <title>Yveltal</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Yveltal.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CW7JTY2H5WAW1549581236617.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
 
-
-<dir>
-  <title>Kyo</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kyo.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/B4TFDAVMSCQ01549581236335.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>Garry</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Garry.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/BVICQDMK8WZD1549581236332.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
