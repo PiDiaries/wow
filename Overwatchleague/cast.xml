@@ -76,8 +76,8 @@
 
 <plugin>
   <title>SOE “SOE” GSCHWIND, SWITZERLAND</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26009303&mode=play (Twitch Live Link)</sublink>
+  <link>   
+  <sublink>plugin://plugin.video.twitch/?channel_id=26009303&amp;mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26009303&amp;mode=channel_videos (Twitch VODs)</sublink>
   </link>
     <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YXPYSGBLTE8B1515441074639.jpg</thumbnail>

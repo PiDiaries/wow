@@ -38,13 +38,15 @@
   </plugin>
 
 
-<dir>
-  <title>dafran</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/dafran.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/5R25PZO6Y2C61549580709410.png</thumbnail>
-  <fanart></fanart>
+<plugin>
+  <title>dafran </title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=41314239&amp;&mode=play  (Live Link)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41314239&amp;mode=channel_videos (VODs)</sublink>
+</link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dafran-profile_image-98c45a96ca6ad150-300x300.png</thumbnail>
   <summary></summary>
-</dir>
+</plugin>
 
 
 <plugin>
@@ -93,7 +95,7 @@ Make sure you follow us on twitter too! @unitlostgaming
 Business enquiries - pr[at]unitlost[dot]com</summary>
   </plugin>
 
-<dir>
+<plugin>
   <title>Fissure</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144636778&mode=play (Twitch Live Link)</sublink>
@@ -104,7 +106,7 @@ Business enquiries - pr[at]unitlost[dot]com</summary>
   <summary>
 
 </summary>
-</dir>
+</plugin>
 
 <plugin>
 <title>xQc</title>
