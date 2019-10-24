@@ -7,6 +7,94 @@
 <link>//</link>
 </item>
 
+
+
+<item>
+<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<plugin>
+  <title>Logix</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary>Andreas Berghmans
+@Logix_OW
+twitch.tv/logixow
+ Belgium</summary>
+</plugin>
+
+<plugin>
+  <title>Mangachu</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=37438044&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37438044&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Liam Campbell
+@Mangachu_
+twitch.tv/mangachu</summary>
+</plugin>
+
+<item>
+<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
+<plugin>
+  <title>Neko</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVMOLNDV13XN1549576800054.png</thumbnail>
+  <fanart></fanart>
+  <summary>Park Se-hyeon (박세현)
+@ow_neko
+twitch.tv/nek0_0w
+ South Korea</summary>
+</plugin>
+
+
+<plugin>
+  <title>KariV</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=135122504&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135122504&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCLQ7jk8CPpWGp6Cdc365btA/  (YouTube)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png</thumbnail>
+<summary>Park Young-seo (박영서)
+@KarivOW
+twitch.tv/kariv2
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>RoKy</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&use_player=True&channel_id=130179746&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130179746&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Park Joo-seong (박주성)
+– aliases: Roki
+@OW_RoKY
+twitch.tv/roky_ow</summary>
+</plugin>
+
+###Season 2###
+##############
+
+
+
+<item>
+<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+<link>//</link>
+</item>
+
 <dir>
   <title>Yakpung</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Yakpung.xml</link>
