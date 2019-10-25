@@ -13,7 +13,7 @@
 
 <plugin>
 <title>Latest Game News | Overwatch</title>
-<link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
+<link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
 </plugin>
 
 
@@ -49,7 +49,7 @@
 
 <plugin>
   <title>Developer Updates</title>
-  <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlist/PLAYFVhxsaqDtdUmvSddqTXF2_6qqIXXt-/</link>
   <fanart>http://s2.dmcdn.net/pC-0c/1280x720-U7P.jpg</fanart>
 </plugin>
 
@@ -57,7 +57,7 @@
 
 <plugin>
   <title>Animated Shorts</title>
-  <link>plugin://plugin.video.youtube/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlist/PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66/</link>
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
 
