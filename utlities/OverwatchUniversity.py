@@ -15,7 +15,8 @@ if os.path.exists("../Overwatchleague/owu.xml"):
     
 for submission in reddit.subreddit('OverwatchUniversity').search('site:youtube.com OR site:clips.twitch.tv', limit=100, sort='hot', time_filter='all'):
     print(submission.title)
-    if "youtube" in submission.url:
+    with open('../Overwatchleague/owu.xml', 'a') as file:
+        if "youtube" in submission.url:
             #file.write('<item>\n<title>{}</title>\n<link>{}</link>\n</item>\n  '.format(submission.title, submission.url))
             file.write('<item>\n<title>')
             file.write(submission.title)
