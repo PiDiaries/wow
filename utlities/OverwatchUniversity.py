@@ -16,7 +16,15 @@ if os.path.exists("../Overwatchleague/owu.xml"):
 for submission in reddit.subreddit('OverwatchUniversity').search('site:youtube.com OR site:clips.twitch.tv', limit=100, sort='hot', time_filter='all'):
     print(submission.title)
     with open('../Overwatchleague/owu.xml', 'a') as file:
-        if "youtube" in submission.url:
+        if "playlist" in submission.url:
+            file.write('<plugin>\n<title>')
+            file.write(submission.title)
+            file.write('</title>\n<link>')
+            file.write(submission.url)
+            file.write('</link>\n<thumbnail>')
+            file.write('http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png')
+            file.write('</thumbnail>\n</plugin>\n\n\n')
+        elif "youtube" in submission.url:
             #file.write('<item>\n<title>{}</title>\n<link>{}</link>\n</item>\n  '.format(submission.title, submission.url))
             file.write('<item>\n<title>')
             file.write(submission.title)
