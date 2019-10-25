@@ -34,7 +34,7 @@ for submission in reddit.subreddit('OverwatchCompetitive').search('site:youtube.
             file.write('http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png')
             file.write('</thumbnail>\n')
             file.write('<summary>Youtube Affiliate Links wont work.  SORRY</summary> \n')
-            file.write('</item\n\n\n')
+            file.write('</item>\n\n\n')
         elif "twitch" in submission.url:
             file.write('<plugin>\n<title>[B][COLORff6441a5]')
             file.write(submission.title)
