@@ -8,7 +8,11 @@
   <summary> </summary>
 </item>
 
-
+<plugin>
+<title>CynicalNerds Hero Guides of all heroes.</title>
+<link>plugin://plugin.video.youtube/channel/UCDwoCUCfLxCE7FNO8hZnvXg/playlistPLOW3wTM0_w5_CVjO9q3r5dlTpDf9udg8sss</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+</plugin>
 
 <item>
   <title>[B]Overwatch League GOD MODE Moments[/B]</title>
@@ -408,7 +412,7 @@ Adapting to his environment, he donned a mask and took to the broken highways of
 <dir>
   <title>[COLORff3e90b5][B]Sigma[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/sigma.xml</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://gamepedia.cursecdn.com/overwatch_gamepedia/3/38/Spray_Sigma_Cute.png</thumbnail>
   <fanart></fanart>
   <summary></summary>
 </dir>
