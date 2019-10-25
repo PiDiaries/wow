@@ -16,9 +16,9 @@ for submission in reddit.subreddit('OverwatchLeague').search('site:youtube.com O
     print(submission.title)
     with open('../Overwatchleague/owl.xml', 'a') as file:
         if "playlist" in submission.url:
-            file.write('<plugin>\n<title>[B]')
+            file.write('<plugin>\n<title>')
             file.write(submission.title)
-            file.write('[/B]</title>\n<link>')
+            file.write('</title>\n<link>')
             file.write(submission.url)
             file.write('</link>\n<thumbnail>')
             file.write('http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png')
