@@ -18,3 +18,55 @@
 <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owu.xml</link>
 <thumbnail></thumbnail>
 </dir>
+
+
+<dir>
+<title>[B][COLORwhite]COMING SOON!![/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owu.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+    <title>Overwatch</title>
+    <overwatch>r/Overwatch</overwatch>
+    <summary>Subreddit for all things Overwatch™, the team-based shooter from Blizzard Entertainment.</summary>
+    <thumbnail>https://styles.redditmedia.com/t5_2u5kl/styles/communityIcon_6ygax782f5201.png</thumbnail>
+</dir>
+
+<dir>
+    <title>OverwatchUniversity</title>
+    <overwatch>r/OverwatchUniversity</overwatch>
+    <summary>r/OverwatchUniversity is a community dedicated to helping players improve and learn by providing a place where they can share and discuss strategies or ideas, ask questions, post guides and more!</summary>
+    <thumbnail>https://styles.redditmedia.com/t5_3ejpe/styles/communityIcon_055i85levcv01.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Competitiveoverwatch</title>
+    <overwatch>r/Competitiveoverwatch</overwatch>
+    <summary>A place for in-depth discussions of Competitive Overwatch™ (the team-based shooter from Blizzard Entertainment). Find detailed discussion of meta, esports and events as well as guides, advice, and tips that go beyond the basics.</summary>
+    <thumbnail></thumbnail>
+</dir>
+
+<dir>
+    <title>OverwatchLeague</title>
+    <overwatch>r/OverwatchLeague</overwatch>
+    <summary>Overwatch League is a Professional esports league operated by Activision Blizzard. Join us to gather news, discuss matches, and everything else about the Overwatch League!</summary>
+    <thumbnail>https://styles.redditmedia.com/t5_34k05/styles/communityIcon_arza1htp13211.png</thumbnail>
+</dir>
+
+<dir>
+    <title>OverwatchCustomGames</title>
+    <overwatch>r/OverwatchCustomGames</overwatch>
+    <summary>Design and discover new ways to play Overwatch with the Custom Games feature. Enjoy unlimited varieties and possibilities.</summary>
+    <thumbnail>https://a.thumbs.redditmedia.com/DAlI-IHilbbc0XHydzuqgQMsMtfWWkBIipUaN6fbzn4.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>OWConsole</title>
+    <overwatch>r/OWConsole</overwatch>
+    <summary>For the discussion of all things that relate to the console version of Overwatch</summary>
+    <thumbnail>https://a.thumbs.redditmedia.com/QLH8_NIO3ELWsYazOhBlV0Ow1FWI5ZyImJstJlrKqk0.png</thumbnail>
+</dir>
