@@ -8,7 +8,10 @@ import sys
 reload(sys)
 
 
-reddit = praw.Reddit('script', user_agent='script user agent')
+reddit = reddit = praw.Reddit(client_id='nza3RQ0hwoEOZA',
+                     client_secret='v0nAe9D3PDm4F2tb4k7MriTJjgk',
+                     user_agent='Watch Overwatch b /u/My-PiDiaries',
+                     username='My-PiDiaries')
 
 if os.path.exists("../Overwatchleague/owl.xml"):
     os.remove('../Overwatchleague/owl.xml')
