@@ -4,17 +4,21 @@
 
 
 <plugin>
-  <title>World Cup Games</title>
+  <title>World Cup Games (Only Work When Stream Live</title>
   <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&amp;mode=play (Overwatch League)</sublink>
+
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Play Overwatch)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Overwatch Contenders)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466342976&mode=play (Owwc1)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466343329&mode=play (Owwc2)</sublink>
 
   </link>
-  <summary>2019 OVERWATCH WORLD CUP \n
+  <fanart>https://news-static.unikrn.com/images/article/2019-10-10/overwatch-world-cup--2019-playoffs-schedule-teams-standings-info-blizzcon-n_bc_1_r688x387.jpg</fanart>
+  <thumbnail>https://www.esportznetwork.com/wp-content/uploads/2019/10/2019_OW_World_Cup_logo.png</thumbnail>
+  <summary>2019 OVERWATCH WORLD CUP 
 
-The 2019 Overwatch World Cup is a global celebration of competition and community hosted at BlizzCon 2019. \n
+The 2019 Overwatch World Cup is a global celebration of competition and community hosted at BlizzCon 2019. 
 
 Players hailing from the Overwatch League, Overwatch Path to Pro, and Competitive Play will put aside their professional rivalries to compete for the glory of their home countries and regions!
 
