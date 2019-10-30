@@ -2,13 +2,24 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
-<dir>
-  <title>[COLORff3e90b5][B]New Hero Sigma[/B][/COLOR]</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/heroguides/sigma.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
+
+<plugin>
+  <title>World Cup Games</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Play Overwatch)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Overwatch Contenders)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466342976&mode=play (Owwc1)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466343329&mode=play (Owwc2)</sublink>
+
+  </link>
+  <summary>2019 OVERWATCH WORLD CUP \n
+
+The 2019 Overwatch World Cup is a global celebration of competition and community hosted at BlizzCon 2019. \n
+
+Players hailing from the Overwatch League, Overwatch Path to Pro, and Competitive Play will put aside their professional rivalries to compete for the glory of their home countries and regions!
+
+</summary>
+</plugin>
 
 
 <plugin>
