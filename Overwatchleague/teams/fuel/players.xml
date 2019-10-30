@@ -7,21 +7,6 @@
 </item>
 
 <plugin>
-  <title>OGE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCp0POM1KSeOKsDgaRBfbnRQ/ (YouTube)</sublink>
-  </link>
-  <summary>Son Min-seok (손민석)
-– aliases: OG
-@OGE_ow
-twitch.tv/oge_ow
- South Korea</summary>
-</plugin>
-
-
-<plugin>
   <title>NotE</title>
   <link>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=63034034&mode=play (Twitch Live Link)</sublink>
@@ -108,6 +93,18 @@ twitch.tv/zachareeee
  United States</summary>
 </plugin>
 
+
+<plugin>
+  <title>Decay</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Jang Gui-un (장귀운)
+@DecayOW
+twitch.tv/decay012
+ South Korea</summary>
+</plugin>
 
 <item>
 <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>

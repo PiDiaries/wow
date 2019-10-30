@@ -7,4 +7,9 @@
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&mode=play (Twitch Live Link)</sublink>
   <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
+  <thumbnail>https://owcdn.net/img/5bfc9b732adaa.jpg</thumbnail>
+  <summary>Simon Ekström
+@snillo_ow
+twitch.tv/snillo_ow
+ Sweden</summary>
 </plugin>

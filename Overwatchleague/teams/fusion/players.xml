@@ -20,6 +20,19 @@ twitch.tv/poko
 </plugin>
 
 
+<plugin>
+  <title>Fury </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&amp;mode=channel_videos (Twitch VOD)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
+<summary>Kim Jun-ho (김준호)
+@Furyy_d
+twitch.tv/furyy_d
+ South Korea</summary>
+</plugin>
+
 
 
 <item>
@@ -40,17 +53,19 @@ twitch.tv/carpe
  South Korea</summary>
 </plugin>
 
+
+
 <plugin>
-  <title>snillo</title>
+  <title>Eqo </title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=128376403&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&amp;mode=channel_videos (Twitch VOD)</sublink>
   </link>
-  <thumbnail>https://owcdn.net/img/5bfc9b732adaa.jpg</thumbnail>
-  <summary>Simon Ekström
-@snillo_ow
-twitch.tv/snillo_ow
- Sweden</summary>
+  <summary>Josh Corona
+@eqo
+twitch.tv/eqobot
+ Israel</summary>
+  <thumbnail>https://owcdn.net/img/5bd4ef8c88679.jpg</thumbnail>
 </plugin>
 
 
@@ -72,3 +87,28 @@ twitch.tv/boombox
  <thumbnail>https://owcdn.net/img/5bd4ef5059a6b.jpg</thumbnail>
 </plugin>
 
+
+<plugin>
+  <title>FunnyAstro </title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Daniel Hathaway
+@funny_astro
+twitch.tv/funnyastro
+ United Kingdom</summary>
+</plugin>
+
+
+<plugin>
+  <title>Alarm</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148519305&mode=play (Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
+  </link>
+  <summary>Kim Kyeong-bo (김경보)
+@Alarm721
+twitch.tv/alarmo1
+ South Korea</summary>
+</plugin>
