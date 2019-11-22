@@ -76,6 +76,13 @@
 
 
 <plugin>
+<title>[B][COLORff6441a5]Sansam saves the map![/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ExpensiveKawaiiCrocodileDoggo</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
 <title>[B][COLORff6441a5]Danteh is a man of culture I see (former competitive minecraft player)[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CulturedAgreeableChoughKappaPride?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
@@ -85,13 +92,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Surefour Gets Banned and Fined $1000[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=NimblePuzzledHorseDendiFace?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Sansam saves the map![/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ExpensiveKawaiiCrocodileDoggo</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -118,15 +118,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Striker Screaming[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TardyNaiveKoalaKippa?tt_medium=redt</link>
+<title>[B][COLORff6441a5]NYXL's support is completely in sync![/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FairTubularAnteaterGOWSkull?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]NYXL's support is completely in sync![/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FairTubularAnteaterGOWSkull?tt_medium=redt</link>
+<title>[B][COLORff6441a5]Striker Screaming[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TardyNaiveKoalaKippa?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -160,15 +160,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Fried is TUCKED[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=RespectfulSmokyAnacondaPJSugar?tt_medium=redt</link>
+<title>[B][COLORff6441a5]OWL attendee blown away by Dragons[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BlitheSteamyMangoSoBayed?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]OWL attendee blown away by Dragons[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BlitheSteamyMangoSoBayed?tt_medium=redt</link>
+<title>[B][COLORff6441a5]Fried is TUCKED[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=RespectfulSmokyAnacondaPJSugar?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -202,22 +202,8 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Fusions slams desk[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FairUninterestedNuggetsOSsloth</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
 <title>[B][COLORff6441a5]Linkzr is cheating[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BenevolentBombasticButterflyMVGame</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Huge telesnipe from Profit and Birdring[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TangentialFunnyFennelAllenHuhu</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -230,8 +216,29 @@
 
 
 <plugin>
+<title>[B][COLORff6441a5]Fusions slams desk[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FairUninterestedNuggetsOSsloth</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Huge telesnipe from Profit and Birdring[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TangentialFunnyFennelAllenHuhu</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
 <title>[B][COLORff6441a5]reins respect reins[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SassyAlluringFloofPMSTwin?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Monte and Doa discuss Mano getting robbed[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=DifferentFaintAyeaye4Head?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -246,13 +253,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Ok shax...[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SpoopyTentativePoxFunRun</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Monte and Doa discuss Mano getting robbed[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=DifferentFaintAyeaye4Head?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -286,13 +286,6 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Kariv POGU sleep. - Clip of OverwatchLeague - Twitch Clips (repost)[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=WiseTransparentPonyTebowing</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
 <title>[B][COLORff6441a5]Rascal literally aimbot - Clip of OverwatchLeague - Twitch Clips[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=LuckyClearCasetteSMOrc</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
@@ -302,6 +295,13 @@
 <plugin>
 <title>[B][COLORff6441a5]Fire Beat Drop[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=EndearingAstuteSalamanderTwitchRPG?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Kariv POGU sleep. - Clip of OverwatchLeague - Twitch Clips (repost)[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=WiseTransparentPonyTebowing</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -426,6 +426,13 @@
 
 
 <plugin>
+<title>[B][COLORff6441a5]Just play better 4head[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SplendidEncouragingSkunkBlargNaut</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
 <title>[B][COLORff6441a5]Someone at Blizz/OWL knows exactly how to use the Wilhelm scream[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=PlausibleDignifiedNuggetsKevinTurtle</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
@@ -433,8 +440,8 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Just play better 4head[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SplendidEncouragingSkunkBlargNaut</link>
+<title>[B][COLORff6441a5]Soon and Guxue exchange jerseys[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BlueInterestingHorseWTRuck</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -449,13 +456,6 @@
 <plugin>
 <title>[B][COLORff6441a5]fusions lets through a flying shatter[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=HyperPricklyBeaverDendiFace?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Soon and Guxue exchange jerseys[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BlueInterestingHorseWTRuck</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -531,15 +531,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Cool transitions in OWL from SD v London[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=KawaiiHealthyNewtWow</link>
+<title>[B][COLORff6441a5]Dafran best interview 2k19[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BraveRacyWatercressCoolStoryBob</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Dafran best interview 2k19[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BraveRacyWatercressCoolStoryBob</link>
+<title>[B][COLORff6441a5]Cool transitions in OWL from SD v London[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=KawaiiHealthyNewtWow</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -559,15 +559,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]SPOILER Player does Fortnite dance during post-game interview[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=WrongInquisitiveGooseMoreCowbell</link>
+<title>[B][COLORff6441a5]Josh Hutcherson ROASTS the Analysts[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FunnySuaveMelonOneHand?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Josh Hutcherson ROASTS the Analysts[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FunnySuaveMelonOneHand?tt_medium=redt</link>
+<title>[B][COLORff6441a5]SPOILER Player does Fortnite dance during post-game interview[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=WrongInquisitiveGooseMoreCowbell</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -601,13 +601,6 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Probably the most brutal baby Dva stagger[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=PhilanthropicAmazonianSpindleEleGiggle</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
 <title>[B][COLORff6441a5]Fits OmegaLUL[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FrailSuspiciousFungusBCouch</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
@@ -615,8 +608,8 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Haksal 360 Rally into Boston Uprising[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SmoothSpookyAnteaterRalpherZ</link>
+<title>[B][COLORff6441a5]Probably the most brutal baby Dva stagger[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=PhilanthropicAmazonianSpindleEleGiggle</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -636,6 +629,13 @@
 
 
 <plugin>
+<title>[B][COLORff6441a5]Haksal 360 Rally into Boston Uprising[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SmoothSpookyAnteaterRalpherZ</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
 <title>[B][COLORff6441a5]play Ashe you COWARDS![/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SaltyGoldenJuiceArsonNoSexy</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
@@ -643,15 +643,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Dogman as Zenyatta this match[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=IgnorantYummyRuffHoneyBadger</link>
+<title>[B][COLORff6441a5]Probably my favorite clip from today of SF Shock discussing revenge 😂[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=YawningFastOcelotCurseLit</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Probably my favorite clip from today of SF Shock discussing revenge 😂[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=YawningFastOcelotCurseLit</link>
+<title>[B][COLORff6441a5]Dogman as Zenyatta this match[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=IgnorantYummyRuffHoneyBadger</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
