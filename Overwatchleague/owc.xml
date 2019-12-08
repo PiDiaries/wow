@@ -1,16 +1,58 @@
+<plugin>
+<title>[B][COLORff6441a5]So we were staggering, but it turned into a big brain play...[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TriumphantBetterPigRedCoat</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Dallas Fuel players reacting to London spitfire's HUGE C9!![/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SlickSolidSageEleGiggle?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]HUGE GRAV TEAM WIPE TO SAVE GAME FEELSGOODMAN[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FrailAcceptableDoveNerfRedBlaster?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Streamer mouffin showing why its truly satisfying to watch a D.Va play[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SpeedyBumblingReubenOSsloth</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]iddqd "stalling" in ranked[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SaltyMushyJuiceAllenHuhu</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Harbleu rekt on stream OMEGALUL[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TangentialEntertainingNarwhalUnSane</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]MICKIE Zarya Carry.[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=blizzard/GloriousHumanRiPepperonis?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
 <item>
 <title>[B][COLORffff0000]Should these ults not have been eaten? or am I wrong(Both clips from the same comp match)[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EMXZLTOaWBA&list=PLbxGk0nAxh4wN9rBg8et3E_0Sl2Q0z1Vn&index=9&t=0s&ab_channel=K%C3%A1riFreyr</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]So we were staggering, but it turned into a big brain play...[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TriumphantBetterPigRedCoat</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
 
 
 <item>
@@ -45,24 +87,9 @@
 </item>
 
 
-<plugin>
-<title>[B][COLORff6441a5]Dallas Fuel players reacting to London spitfire's HUGE C9!![/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SlickSolidSageEleGiggle?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]Overwatch Competitive sessions[/B][/COLOR]</title>
 <link>https://www.youtube.com/attribution_link?a=Q6vFjjNEyK8&u=%2Fwatch%3Fv%3DxhaWchl8Cxg%26feature%3Dshare</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Overwatch Streamer Highlights #2 | Top Twitch Clips | xQc, Sinatraa, Wraxu[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=CTlUfYyeqhc&feature=youtu.be</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -77,23 +104,32 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch League Highlights | Inaugural Season | Stage One[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=SdAfWEb5QsI&t=54s</link>
+<title>[B][COLORffff0000]Overwatch trash talk Toxic !!!![/B][/COLOR]</title>
+<link>https://www.youtube.com/attribution_link?a=hWIoxcyOnL8&u=%2Fwatch%3Fv%3DQ1KkVJJCOBQ%26feature%3Dshare</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
-<plugin>
-<title>[B][COLORff6441a5]HUGE GRAV TEAM WIPE TO SAVE GAME FEELSGOODMAN[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=FrailAcceptableDoveNerfRedBlaster?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]Sinatraa is Marketable.[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=b-zA1h4HGtY</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Overwatch Streamer Highlights #2 | Top Twitch Clips | xQc, Sinatraa, Wraxu[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=CTlUfYyeqhc&feature=youtu.be</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Overwatch League Highlights | Inaugural Season | Stage One[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=SdAfWEb5QsI&t=54s</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -108,31 +144,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch trash talk Toxic !!!![/B][/COLOR]</title>
-<link>https://www.youtube.com/attribution_link?a=hWIoxcyOnL8&u=%2Fwatch%3Fv%3DQ1KkVJJCOBQ%26feature%3Dshare</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Overwatch Compet Grind Season 8[/B][/COLOR]</title>
 <link>https://www.youtube.com/attribution_link?a=5haqRPk43q8&u=%2Fwatch%3Fv%3Dk7g-bUxpa3U%26feature%3Dshare</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Streamer mouffin showing why its truly satisfying to watch a D.Va play[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SpeedyBumblingReubenOSsloth</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<item>
-<title>[B][COLORffff0000]Best JuNkRat NA[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=qr6RfDEwCXQ</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -147,8 +160,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Spooky Comp Play to Plat[/B][/COLOR]</title>
-<link>https://www.youtube.com/attribution_link?a=8XIaScarEpI&u=%2Fwatch%3Fv%3DMPCMTvFoFyw%26feature%3Dshare</link>
+<title>[B][COLORffff0000]Best JuNkRat NA[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=qr6RfDEwCXQ</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]This is Bastion in Competitive right now[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=q_0FLmYQz2Y&lc=z13is3m5ymvexream04ccr3ydtfkyd4wnzc0k</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -163,6 +184,30 @@
 
 
 <item>
+<title>[B][COLORffff0000]Season 6 Placement Matches - Overwatch[/B][/COLOR]</title>
+<link>https://www.youtube.com/attribution_link?a=Ms-lJTuXgrc&u=%2Fwatch%3Fv%3D3eEu8yeQ59Q%26feature%3Dshare</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Tracer sick pulse bomb stick.[/B][/COLOR]</title>
+<link>https://www.youtube.com/attribution_link?a=cuSU7O9QaL0&u=%2Fwatch%3Fv%3DRpOVqjrA2to%26feature%3Dshare</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Spooky Comp Play to Plat[/B][/COLOR]</title>
+<link>https://www.youtube.com/attribution_link?a=8XIaScarEpI&u=%2Fwatch%3Fv%3DMPCMTvFoFyw%26feature%3Dshare</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]When Reinhardt downs his hammer (Symm PotG SR 1600)[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=9SUJcIG5S34</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -170,24 +215,9 @@
 </item>
 
 
-<plugin>
-<title>[B][COLORff6441a5]iddqd "stalling" in ranked[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SaltyMushyJuiceAllenHuhu</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]SUPER CLOSE MATCH ON OASIS WITH DVA ROADHOG AND WINSTON!!![/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=rvAcHcIilbI</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Season 6 Placement Matches - Overwatch[/B][/COLOR]</title>
-<link>https://www.youtube.com/attribution_link?a=Ms-lJTuXgrc&u=%2Fwatch%3Fv%3D3eEu8yeQ59Q%26feature%3Dshare</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -218,14 +248,6 @@
 
 
 <item>
-<title>[B][COLORffff0000]Tracer sick pulse bomb stick.[/B][/COLOR]</title>
-<link>https://www.youtube.com/attribution_link?a=cuSU7O9QaL0&u=%2Fwatch%3Fv%3DRpOVqjrA2to%26feature%3Dshare</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Most INSANE Competitive Match in Overwatch | Commentary[/B][/COLOR]</title>
 <link>https://www.youtube.com/attribution_link?a=wHvcqMiYXKs&u=%2Fwatch%3Fv%3DgCQT_JtAed4%26feature%3Dshare</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -242,6 +264,14 @@
 
 
 <item>
+<title>[B][COLORffff0000]hacker in my overwatch game and we still won[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=y5CM9tFmXb4</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Dominating ConsolePs4-Overwatch DominatingCompetitiveFt.ArmyDolby Awsome...[/B][/COLOR]</title>
 <link>https://www.youtube.com/attribution_link?a=qghptcZrkpo&u=%2Fwatch%3Fv%3DyIzwwyy3eBg%26feature%3Dshare</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -249,40 +279,9 @@
 </item>
 
 
-<plugin>
-<title>[B][COLORff6441a5]Harbleu rekt on stream OMEGALUL[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TangentialEntertainingNarwhalUnSane</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]We have another game here where things didn't quite go as expected however it all worked itself out in the end... kinda atleast...[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=NZ_6vw6x4po</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]This is Bastion in Competitive right now[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=q_0FLmYQz2Y&lc=z13is3m5ymvexream04ccr3ydtfkyd4wnzc0k</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]TEAM KILL !! *OVERWATCH COMPETITIVE* ROUND 3[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=42P5bfMjH7I</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]hacker in my overwatch game and we still won[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=y5CM9tFmXb4</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -296,10 +295,11 @@
 </item>
 
 
-<plugin>
-<title>[B][COLORff6441a5]MICKIE Zarya Carry.[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=blizzard/GloriousHumanRiPepperonis?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
+<item>
+<title>[B][COLORffff0000]TEAM KILL !! *OVERWATCH COMPETITIVE* ROUND 3[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=42P5bfMjH7I</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
 
 
