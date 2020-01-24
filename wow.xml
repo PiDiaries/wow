@@ -3,28 +3,6 @@
 ################################################################################
 
 
-<plugin>
-  <title>World Cup Games (Only Work When Stream Live)</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&amp;mode=play (Overwatch League)</sublink>
-
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59980349&mode=play (Play Overwatch)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Overwatch Contenders)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466342976&mode=play (Owwc1)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=466343329&mode=play (Owwc2)</sublink>
-
-  </link>
-  <fanart>https://news-static.unikrn.com/images/article/2019-10-10/overwatch-world-cup--2019-playoffs-schedule-teams-standings-info-blizzcon-n_bc_1_r688x387.jpg</fanart>
-  <thumbnail>https://www.esportznetwork.com/wp-content/uploads/2019/10/2019_OW_World_Cup_logo.png</thumbnail>
-  <summary>2019 OVERWATCH WORLD CUP 
-
-The 2019 Overwatch World Cup is a global celebration of competition and community hosted at BlizzCon 2019. 
-
-Players hailing from the Overwatch League, Overwatch Path to Pro, and Competitive Play will put aside their professional rivalries to compete for the glory of their home countries and regions!
-
-</summary>
-</plugin>
-
 
 <plugin>
 <title>Latest Game News | Overwatch</title>
@@ -52,6 +30,13 @@ Players hailing from the Overwatch League, Overwatch Path to Pro, and Competitiv
   <summary>Live Overwatch streams on Twitch from whoever is streaming at any given time. </summary>
 </plugin>
 
+
+<plugin>
+  <title>Yoube Gaming Auto Generated channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCQledfqM6za5VY-sea8seug/</link>
+<summary>Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. Described as a "hero shooter," Overwatch assigns players into two teams of six, with each player selecting from a roster of over 30 characters, known as "heroes," each with a unique style of play that is divided into three general roles that fit their purpose. Players on a team work together to secure and defend control points on a map or escort a payload across the map in a limited amount of time. Players gain cosmetic rewards that do not affect gameplay, such as character skins and victory poses, as they play the game. The game was initially launched with only casual play, but a competitive ranked mode, various 'arcade' game modes, and a player-customizable server browser were added after release. Additionally, Blizzard has added new characters, maps, and game modes post-release, all free of char...
+This channel was generated automatically by YouTube's video discovery system.</summary> 
+</plugin>
 
 
 
