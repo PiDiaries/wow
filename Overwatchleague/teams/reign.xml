@@ -7,20 +7,12 @@
 <summary></summary>
 </dir>
 
-<plugin>
-  <title>Atlanta Reign </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxx&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/1054692919196545025/JkM1ZZs__400x400.jpg</thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
-</plugin>
+
 
 
     <plugin>
-      <title>Atlanta Reign Youtube</title>
+      <title>Atlanta Reign Youtube Channel</title>
       <link>plugin://plugin.video.youtube/channel/yyyyy/<link>
-  <thumbnail>https://pbs.twimg.com/profile_images/1054692919196545025/JkM1ZZs__400x400.jpg</thumbnail>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l7-olJKaHJ_71Z0W-XFWrpQBn23o2pGwhhREQw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
       </plugin>

@@ -7,3 +7,10 @@
   <summary>
 </summary>
 </dir>
+
+<plugin>
+  <title>Toronto Defiant Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UC_AKJqxDR0zto0FaU7rDZUA/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l7-9OMX-V-7AG4lcnkvlo4vMPQChDaVjXIlFvw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<summary>The official YouTube channel of the Toronto Defiant Overwatch League team. </summary> 
+</plugin>

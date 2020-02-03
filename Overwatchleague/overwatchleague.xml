@@ -6,61 +6,40 @@
 
 
 <plugin>
-  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Live Twitch [COLORred]ONLY WHEN LEAGUE IS LIVE[/COLOR]</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&amp;mode=play (English)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188863650&amp;mode=play (French)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=188864445&amp;mode=play (Korean)</sublink>
-  </link>
-  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6_400x400.jpg</thumbnail>
-  <fanart></fanart>
-  <summary>Live Overwatch League Stream.  Don't forget to setup the Twitch Add-On if you want your OWL Skin Credits. </summary>
+  <title>Official [COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCiAInBL9kUzz1XRxk66v-gw/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79DnqpqXCdT_SfaIbH0jjEUJEYmYmeo9p6J=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+  <summary>This is where I think the new Live games will be going. </summary>
 </plugin>
 
 
 <plugin>
   <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Twitch (Needs Twitch Add-On)</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137512364&amp;mode=channel_videos  (Twitch VODs)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&broadcast_type=archive&amp;channel_id=137512364&amp;mode=channel_video_list  (Twitch Uploads)</sublink>
-    </link>
-    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
-    <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
-    <summary>VODs of the Overwatch League</summary>
-  </plugin>
-
-
-<plugin>
-  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Youtube</title>
-  <link>plugin://plugin.video.youtube/channel/UCiAInBL9kUzz1XRxk66v-gw/</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/798278623027335168/e_aMDar6_400x400.jpg</thumbnail>
-  <fanart></fanart>
-  <summary> </summary>
+  <twitch>t/137512364</twitch>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
+  <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
+  <summary>VODs of the Overwatch League</summary>
 </plugin>
 
-  <plugin>
-    <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR]League Highlights</title>
-    <link>plugin://plugin.video.youtube/playlist/PLj-VnmM9Xut0iEceZ5JlhSdRLn3nFYa1_/</link>
-    <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
-  </plugin>
 
 
-  <dir>
-    <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Teams</title>
-    <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/teams.xml</link>
-    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
-    <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
-    <summary>For all the Team information</summary>
-  </dir>
+
+<dir>
+  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Teams</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/teams.xml</link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
+  <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
+  <summary>For all the Team information</summary>
+</dir>
 
 
 
 <plugin>
   <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR]</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
+    <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
   </link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
   <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
@@ -68,36 +47,28 @@
 </plugin>
 
 
-<dir>
-<title>2019 Overwatch world Cup</title>
-<link>https://raw.githubusercontent.com/PiDiaries/wow/2019wc.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
 
-
+<plugin>
+  <title>Major League Gaming</title>
+  <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/<link>
+    <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
+    </summary>
+  </plugin>
 
   <plugin>
-    <title>Major League Gaming</title>
-    <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/<link>
-      <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-      <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
-      </summary>
-    </plugin>
-
-    <plugin>
-      <title>Console Gaming League</title>
-      <link>plugin://plugin.video.youtube/channel/UCRmv2HT3kpflfvMbSdNBVpg/<link>
-        <thumbnail>https://yt3.ggpht.com/a-/AN66SAxOxhqDrX8QTz0UsSIFSYdmamsPiSZwVne0RQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
-        <summary>Console Gaming League is the premier platform for competitive console gaming on both Xbox and PS4. We currently feature competitive seasons with Overwatch, Fortnite and Destiny. COD, Gears, and PUBG coming soon.  https://discord.gg/bBsQg37
+    <title>Console Gaming League</title>
+    <link>plugin://plugin.video.youtube/channel/UCRmv2HT3kpflfvMbSdNBVpg/<link>
+      <thumbnail>https://yt3.ggpht.com/a-/AN66SAxOxhqDrX8QTz0UsSIFSYdmamsPiSZwVne0RQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+      <summary>Console Gaming League is the premier platform for competitive console gaming on both Xbox and PS4. We currently feature competitive seasons with Overwatch, Fortnite and Destiny. COD, Gears, and PUBG coming soon.  https://discord.gg/bBsQg37
 
 www.consolegamingleague.com</summary>
-      </plugin>
+    </plugin>
 
 
-<dir>
-<title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Subreddit</title>
-<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owl.xml</link>
-<thumbnail></thumbnail>
-</dir>
+    <dir>
+      <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Subreddit</title>
+      <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owl.xml</link>
+      <thumbnail></thumbnail>
+    </dir>
 

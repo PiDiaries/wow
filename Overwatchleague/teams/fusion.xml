@@ -16,10 +16,7 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 
 <plugin>
   <title>Philidelphia Fusion </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177317208&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=177317208&amp;mode=channel_videos (VODs)</sublink>
-</link>
+  <twitch>t/177317208</twitch>
   <thumbnail>https://pbs.twimg.com/profile_images/1012742800687824896/M2-FddRW_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M42Y9H65IJVU1509428106162.jpg</fanart>
  <summary>Philadelphia Fusion is the team representing Philadelphia, Pennsylvania, USA, in the Overwatch League.
@@ -28,20 +25,12 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 </plugin>
 
 <plugin>
-  <title>Philidelphia Fusion Youtube</title>
+  <title>Philidelphia Fusion Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCdThq5VFIm4HVZe5WnrIqvQ/</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/1012742800687824896/M2-FddRW_400x400.jpg</thumbnail>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79Ly1WHyJU4XvHFQcTcCEJqpw3uc4UOQAI8SQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M42Y9H65IJVU1509428106162.jpg</fanart>
 <summary>Philadelphia Fusion is the team representing Philadelphia, Pennsylvania, USA, in the Overwatch League.
 
 The team is owned by Comcast Spectacor, a sports and entertainment company that manages hundreds of stadiums in North America and Singapore.</summary>
 </plugin>
-
-<dir>
-  <title>FUSION UNIVERSITY</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/na/fusionuni/main.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/na/fusionuni/icon.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
 

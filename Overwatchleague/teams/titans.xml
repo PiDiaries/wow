@@ -7,13 +7,24 @@
 </dir>
 
 <plugin>
-  <title>VANCOUVER TITANS </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=278717644&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=278717644&amp;mode=channel_videos (VODs)</sublink>
-</link>
+  <title>VANCOUVER TITANS Twitch channel</title>
+  <twitch>t/278717644</twitch>>
   <thumbnail>https://pbs.twimg.com/profile_images/1069002205435437057/flblNRxq_400x400.jpg</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/uc/UCBKPQF6LB8H1543531400032.jpg</fanart>
   <summary></summary>
 </plugin>
 
+<plugin>
+  <title>Vancouver Titans Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UC6Ycem4GDsEQx2SIcTpvkUw/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l78NLDBw6RsEvuAHw3DFV4gj374uhJy87zZnzQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<summary>The official channel of Overwatch League team Vancouver Titans in association with the Vancouver Canucks and Luminosity Gaming. 
+
+Find us on Social Media:
+
+→ Facebook: https://www.facebook.com/VancouverTitans/
+→ Twitter: https://twitter.com/VancouverTitans
+→ Instagram: https://instagram.com/vancouvertitans
+→ Twitch: https://www.twitch.tv/vancouver_titans
+→ Web: https://vancouvertitans.gg </summary> 
+</plugin>

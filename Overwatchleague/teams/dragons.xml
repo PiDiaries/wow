@@ -14,3 +14,10 @@
 The team is owned by NetEase, a Chinese Internet Technology company that distributes Blizzard games in China.
 </summary>
 </dir>
+
+<plugin>
+  <title>Shanghai Dragons Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCHvqr2RMlIAmDiJe-zwvZnw/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79iloh11fVaYgUsI2F_VFYn27fbxOddWCYMIw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<summary>The official YouTube channel for the Overwatch League team representing Shanghai #Breakthrough </summary> 
+</plugin>
