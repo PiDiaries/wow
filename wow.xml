@@ -2,6 +2,12 @@
 <fanart>https://i1.wp.com/hotnewgaming.com/wp-content/uploads/2018/05/dims.png</fanart>
 ################################################################################
 
+<plugin>
+  <title>Official Overwatch League Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCiAInBL9kUzz1XRxk66v-gw/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79DnqpqXCdT_SfaIbH0jjEUJEYmYmeo9p6J=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<summary>This is where I think the new Live games will be going. </summary> 
+</plugin>
 
 
 <plugin>

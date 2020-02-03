@@ -6,3 +6,10 @@
 <thumbnail>https://pbs.twimg.com/profile_images/1064403505765474305/fZQQ_Hhs_400x400.jpg</thumbnail>
 <summary></summary>
 </dir>
+
+<plugin>
+  <title>Chengdu Hunters Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCpTnI8okLMyTHtVQeBj0rEQ/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l7_hEB4spaNngvpAnWFBc1-XrPEiFbKNH34SsA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<summary> The Official Youtube Channel of Chengdu Hunters.</summary> 
+</plugin>
