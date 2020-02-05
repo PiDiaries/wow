@@ -3,9 +3,11 @@
 
 <plugin>
   <title>JJoNak </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <twitch>140577538</twitch>
   </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3O7YIBU0Z6W61512686064910.png</thumbnail>
+<thumbnail>https://owcdn.net/img/5bd4eef0ec536.jpg</thumbnail>
+<summary>Bang Sung-hyeon (방성현)
+@JJoNakLove
+twitch.tv/jjonaklove
+ South Korea</summary>
 </plugin>

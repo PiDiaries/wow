@@ -3,12 +3,8 @@
 #################################################################################
 
 <plugin>
-  <title>Saebyeolbe </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCMoL0JkY2LpsaT9cUqTwokA/ (YouTube)<sublink>
-  </link>
+  <title>Saebyeolbe Twitch</title>
+  <twitch>t/140197662</twitch>
   <summary>Park Jong Ryeol
 @saebyeolbe
 twitch.tv/saebyeolbe
@@ -19,5 +15,5 @@ twitch.tv/saebyeolbe
 <plugin>
   <title>Saebyeolbe Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UCMoL0JkY2LpsaT9cUqTwokA/<link>
-    <thumbnail>https://yt3.ggpht.com/-xhGb1IACZfA/AAAAAAAAAAI/AAAAAAAAAAA/vSlvc4uam1s/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+    <thumbnail>hhttps://bnetcmsus-a.akamaihd.net/cms/page_media/U38D6YQ3CHOO1512686065514.png</thumbnail>
 </plugin>

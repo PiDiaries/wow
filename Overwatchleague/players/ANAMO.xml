@@ -1,9 +1,9 @@
 
 <plugin>
-  <title>ANAMO </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>ANAMO</title>
+  <twitch>t/145052671</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ef0c0f0ed.jpg</thumbnail>
+  <summary>Jeong Tae-seong (정태성)
+@Anamo_ow
+twitch.tv/anamo_ow</summary>
 </plugin>

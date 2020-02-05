@@ -6,20 +6,27 @@
 <link>//</link>
 </item>
 
-<plugin>
+<dir>
   <title>Mano </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=169109715&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=169109715&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCfPbOtDxYxPtctXii7hSE-A/ (YouTube)</link>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mano.xml</link>
   <summary>Kim Dong-gyu (김동규)
 @Mano_OWL
 twitch.tv/manoowl
  South Korea</summary>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V1YNOWR1LEWJ1512686065135.png</thumbnail>
-</plugin>
+</dir>
 
+
+<dir>
+  <title>Hotba</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
+  <fanart></fanart>
+  <summary>Choi Hong-joon
+@HOTBA_OW
+twitch.tv/hotba_ow
+ South Korea</summary>
+</dir>
 
 
 <item>
@@ -27,58 +34,46 @@ twitch.tv/manoowl
 <link>//</link>
 </item>
 
-<plugin>
-  <title>PINE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=62597620&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=62597620&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC0nhCDjyWZ-LZ9Ww0DqpAuA/ (YouTube) </ublink>
- </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BBANQ2BHFL0Y1512686065493.png</thumbnail>
-<summary>Kim Do-hyun (김도현)
-@tf2pine
-twitch.tv/tf2pine
- South Korea</summary>
-</plugin>
+
 
 <plugin>
   <title>Nenne</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138595942&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138595942&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/138595942</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Jeong Yeon-kwan
 @Nenne_chu
 twitch.tv/nenne_ow
  South Korea</summary>
 </plugin>
 
-<plugin>
+<dir>
   <title>Libero</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126936223&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC5ItNT1byUJmE1fHBt9b-wg/ (YouTube)</sublink>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Libero.xml</link>
   <summary>Kim Hye-sung (김혜성)
 @Liberot99
 twitch.tv/liberot99
  South Korea</summary>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
   <title>Saebyeolbe</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140197662&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCMoL0JkY2LpsaT9cUqTwokA/ (YouTube)<sublink>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Saebyeolbe.xml</link>
   <summary>Park Jong Ryeol
 @saebyeolbe
 twitch.tv/saebyeolbe
  South Korea</summary>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U38D6YQ3CHOO1512686065514.png</thumbnail>
+</dir>
+
+<plugin>
+  <title>Whoru</title>
+  <twitch>t/137902244</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Lee Seung-joon (이승준)
+@whoru
+twitch.tv/whoru823
+ South Korea</summary>
 </plugin>
 
 <item>
@@ -89,10 +84,8 @@ twitch.tv/saebyeolbe
 
 <plugin>
   <title>ANAMO</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=145052671&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/145052671</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ef0c0f0ed.jpg</thumbnail>
   <summary>Jeong Tae-seong (정태성)
 @Anamo_ow
 twitch.tv/anamo_ow</summary>
@@ -100,11 +93,9 @@ twitch.tv/anamo_ow</summary>
 
 <plugin>
   <title>JJoNak </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140577538&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <twitch>140577538</twitch>
   </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3O7YIBU0Z6W61512686064910.png</thumbnail>
+<thumbnail>https://owcdn.net/img/5bd4eef0ec536.jpg</thumbnail>
 <summary>Bang Sung-hyeon (방성현)
 @JJoNakLove
 twitch.tv/jjonaklove

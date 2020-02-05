@@ -1,10 +1,13 @@
 
 <plugin>
-  <title>Hotba </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Hotba Twitch</title>
+  <twitch>t/138328501</twitch>
+    <summary>Kim Dong-gyu (김동규)
+@Mano_OWL
+twitch.tv/manoowl
+ South Korea</summary>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V1YNOWR1LEWJ1512686065135.png</thumbnail>
+
 </plugin>
 
 
