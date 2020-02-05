@@ -5,11 +5,12 @@
 ###########################################################################################
 
 <plugin>
-  <title>Kruise </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=20774232&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=120774232&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <summary></summary>
+  <title>Kruise</title>
+  <twitch>t/120774232</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png</thumbnail>
+  <summary>Harrison Pond
+@KruiseOW
+twitch.tv/kruise
+ United Kingdom</summary>
 </plugin>
 

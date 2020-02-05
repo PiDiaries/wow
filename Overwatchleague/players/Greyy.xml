@@ -1,9 +1,10 @@
-
 <plugin>
-  <title>Greyy </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=39559629&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=39559629&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <summary></summary>
+  <title>Greyy</title>
+  <twitch>t/39559629</twitch>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
+
+  <summary>Luís Perestrelo
+@GreyyOW
+twitch.tv/greyyow
+ Portugal</summary>
 </plugin>

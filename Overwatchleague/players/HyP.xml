@@ -3,12 +3,11 @@
 <fanart></fanart>
 <summary></summary>
 ###########################################################################################
-
 <plugin>
-  <title>HyP </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44546356&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <summary></summary>
+  <title>HyP</title>
+  <twitch>44546356</twitch>>
+  <summary>Damien Souville
+@Eagle_HyP
+twitch.tv/hyp_tv
+ France</summary>
 </plugin>

@@ -3,14 +3,13 @@
 <fanart></fanart>
 <summary></summary>
 ###########################################################################################
-
 <plugin>
-  <title>BenBest </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=133993495&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=133993495&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <summary></summary>
+  <title>BenBest</title>
+  <twitch>t/133993495</twitch>
+  <summary>Benjamin Dieulafait
+@BenBest_Ow
+twitch.tv/benbest_ow
+ France</summary>
 </plugin>
 
 <plugin>

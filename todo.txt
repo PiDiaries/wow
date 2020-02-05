@@ -1,0 +1,6 @@
+Mod Twitch plugin to contain channel_id= etc for more capabilities
+
+<twitch>t/20774232</twitch>
+
+to 
+<twitch>channel_id=20774232</twitch>
