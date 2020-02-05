@@ -1,9 +1,9 @@
-
 <plugin>
-  <title>Marve1 </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Marve1</title>
+  <twitch>t/56841943</twitch>>
+  <summary>Hwang Min-seo (황민서)
+– aliases: MARVEL
+@ow_Marve1
+twitch.tv/marve1026
+ South Korea</summary>
 </plugin>

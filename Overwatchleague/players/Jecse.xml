@@ -1,9 +1,8 @@
 
 <plugin>
-  <title>Jecse </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=109560801&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=109560801&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Jecse</title>
+  <twitch>t/109560801</twitch>
+  <summary>Lee Seong-soo (이승수)
+@OW_Jecse
+ South Korea</summary>
 </plugin>

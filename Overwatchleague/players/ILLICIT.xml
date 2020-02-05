@@ -1,8 +1,8 @@
 <plugin>
-  <title>ILLICIT </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181485341&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=181485341&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>ILLICIT</title>
+  <twitch>t/181485341</twitch>
+  <summary>Park Jae-min (박제민)
+@OW_ILLICIT
+twitch.tv/illicit0_0
+ South Korea</summary>
 </plugin>

@@ -33,17 +33,3 @@ twitch.tv/furyy_d
 <link>//</link>
 </item>
 
-<plugin>
-  <title>Bdosin </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163860353&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/PWW0ZPOV0DSV1515621286109.png</thumbnail>
-  <fanart></fanart>
-  <summary>Choi Seung-tae (최승태)
-@BdosinOW
-twitch.tv/bdosin_ow
- South Korea</summary>
-</plugin>
-

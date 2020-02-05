@@ -1,9 +1,8 @@
-
 <plugin>
-  <title>Michelle </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140315223&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140315223&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Michelle</title>
+  <twitch>t/140315223</twitch>>
+  <summary>Choi Min-hyuk
+@M1chelle_ow
+twitch.tv/michelle_ow
+ South Korea</summary>
 </plugin>

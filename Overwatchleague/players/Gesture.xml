@@ -3,13 +3,13 @@
 ###########################################################################################
 
 <plugin>
-  <title>Gesture </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170974282&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Gesture</title>
+  <twitch>t/170974282</twitch>>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SMHDMNUINHC51512776037290.png</thumbnail>
-  <summary>Jae-hee "Gesture" Hong is a South Korean player currently playing for the London Spitfire.</summary>
+  <summary>Hong Jae-hee (홍재희)
+@GestureOW
+twitch.tv/gestureow
+ South Korea</summary>
 </plugin>
 
 

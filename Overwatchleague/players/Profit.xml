@@ -3,14 +3,14 @@
 ###########################################################################################
 
 <plugin>
-  <title>Profit </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=154784259&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Profit Twitch</title>
+  <twitch>t/154784259</twitch>
+ <summary>Park Joon-yeong (박준영)
+@PROFIT_OWL
+twitch.tv/profitow
+ South Korea</summary>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Y3G5RS25UNEN1512776037593.png</thumbnail>
 </plugin>
-
 
 <plugin>
   <title>Q&A with Profit</title>
