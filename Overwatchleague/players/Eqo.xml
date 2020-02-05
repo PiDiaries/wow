@@ -4,8 +4,10 @@
 
 <plugin>
   <title>Eqo </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/144332450</twitch>
+  <summary>Josh Corona
+@eqo
+twitch.tv/eqobot
+ Israel</summary>
+  <thumbnail>https://owcdn.net/img/5bd4ef8c88679.jpg</thumbnail>
 </plugin>

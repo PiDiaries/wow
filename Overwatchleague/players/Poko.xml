@@ -3,9 +3,10 @@
 
 <plugin>
   <title>Poko </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <<twitch>t/53265819</twitch>>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EZQ4D59G4VKH1515621286468.png</thumbnail>
+<summary>Gael Gouzerch
+@Poko_ow
+twitch.tv/poko
+ France</summary>
 </plugin>

@@ -8,10 +8,7 @@
 
 <plugin>
   <title>Poko </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53265819&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <<twitch>t/53265819</twitch>>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EZQ4D59G4VKH1515621286468.png</thumbnail>
 <summary>Gael Gouzerch
 @Poko_ow
@@ -22,10 +19,7 @@ twitch.tv/poko
 
 <plugin>
   <title>Fury </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131542111&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/131542111</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
 <summary>Kim Jun-ho (김준호)
 @Furyy_d
@@ -34,38 +28,41 @@ twitch.tv/furyy_d
 </plugin>
 
 
-
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
-<plugin>
+<dir>
   <title>Carpe</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148019820&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC1pOo4q4RBQHohNAYn3BFyg/ (YouTube)</sublink>
-  </link>
+  <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/Carpe.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4ef61100da.jpg</thumbnail>
     <summary>Lee Jae-hyeok (이재혁)
 @carpe_ow
 twitch.tv/carpe
  South Korea</summary>
-</plugin>
+</dir>
 
 
 
 <plugin>
   <title>Eqo </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144332450&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/144332450</twitch>
   <summary>Josh Corona
 @eqo
 twitch.tv/eqobot
  Israel</summary>
   <thumbnail>https://owcdn.net/img/5bd4ef8c88679.jpg</thumbnail>
+</plugin>
+
+<plugin>
+  <title>ChipSa </title>
+  <<twitch>t/135246610</twitch>>
+<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+<summary>Philip Graham
+@ChipSa_OW
+twitch.tv/chipsa
+ United Kingdom</summary>
 </plugin>
 
 
@@ -76,10 +73,7 @@ twitch.tv/eqobot
 
 <plugin>
   <title>Boombox</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/87917078</twitch>
     <summary>Isaac Charles
 @BoomboxOW
 twitch.tv/boombox
@@ -90,10 +84,7 @@ twitch.tv/boombox
 
 <plugin>
   <title>FunnyAstro </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/37926623</twitch>
   <summary>Daniel Hathaway
 @funny_astro
 twitch.tv/funnyastro
@@ -103,10 +94,7 @@ twitch.tv/funnyastro
 
 <plugin>
   <title>Alarm</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148519305&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/148519305</twitch>>
   <summary>Kim Kyeong-bo (김경보)
 @Alarm721
 twitch.tv/alarmo1

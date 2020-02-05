@@ -1,11 +1,11 @@
 ##################################################################################
 ##################################################################################
-
 <plugin>
   <title>Boombox</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=87917078&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-    <summary></summary>
+  <twitch>t/87917078</twitch>
+    <summary>Isaac Charles
+@BoomboxOW
+twitch.tv/boombox
+ United Kingdom</summary>
+ <thumbnail>https://owcdn.net/img/5bd4ef5059a6b.jpg</thumbnail>
 </plugin>
