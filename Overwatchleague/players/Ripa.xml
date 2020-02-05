@@ -1,9 +1,9 @@
 
 <plugin>
-  <title>Ripa </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Ripa</title>
+  <twitch>t/165599956</twitch>
+  <summary>Riku Toivanen
+@Ripa_ow
+twitch.tv/ripatv
+ Finland</summary>
 </plugin>

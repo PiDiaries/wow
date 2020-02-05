@@ -2,10 +2,12 @@
 ################################################################################################
 
 <plugin>
-  <title>Shaz Twitch<title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Shaz<title>
+  <twitch>t/31047413</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>
+<summary>Jonas Suovaara
+@Shaz_ow
+twitch.tv/shaz_ow
+ Finland</summary>
+ <thumbnail>https://owcdn.net/img/5bd4edbaada32.jpg</thumbnail>
 </plugin>

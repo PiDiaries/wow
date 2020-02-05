@@ -4,9 +4,11 @@
 
 <plugin>
   <title>birdring </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144548334&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144548334&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/144548334</twitch>
+  <summary>Kim Ji-hyuk (김지혁)
+@birdring_ow
+twitch.tv/birdring_ow
+ South Korea</summary>
+ <thumbnail>https://owcdn.net/img/5bd4ed3b5a486.jpg</thumbnail>
 </plugin>
+

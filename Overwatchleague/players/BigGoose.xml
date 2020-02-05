@@ -6,13 +6,14 @@
 </summary>
 ################################################################################################
 
-
 <plugin>
-  <title>BigGoose </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary>
+  <title>BigGoose</title>
+  <twitch>t/41703896</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ed9228941.jpg</thumbnail>
+  <summary>Benjamin Isohanni
+– aliases: BigG00se
+@BigGooseOW
+twitch.tv/biggooseow
+ Finland
   </summary>
 </plugin>

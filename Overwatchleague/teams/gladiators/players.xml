@@ -5,29 +5,23 @@
 <link>//</link>
 </item>
 
-<plugin>
+<dir>
   <title>OGE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=191580639&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCp0POM1KSeOKsDgaRBfbnRQ/ (YouTube)</sublink>
-  </link>
+  <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/OGE.xml</link>
   <summary>Son Min-seok (손민석)
 – aliases: OG
 @OGE_ow
 twitch.tv/oge_ow
  South Korea</summary>
-</plugin>
+ <thumbnail>https://owcdn.net/img/5bd4c53a3ef4b.jpg</thumbnail>
+</dir>
 
 
 
 
 <plugin>
   <title>SPACE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147953635&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/147953635</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
 <summary>Indy Halpern
 @spaceOW
@@ -35,22 +29,62 @@ twitch.tv/space
  United States</summary>
 </plugin>
 
-<plugin>
-  <title>Panker</Panker>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137529743&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137529743&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary>Lee Byung-ho (이병호)
-– aliases: DDuJa
-@Panker_OW
-twitch.tv/pank3r
+<dir>
+  <title>Bischu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bischu.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4ed872dc02.jpg</thumbnail>
+  <fanart>https://i.imgur.com/eHxdURP.png</fanart>
+  <summary>Aaron Kim
+@BischuGG
+twitch.tv/bischulol
  South Korea</summary>
+</dir>
+
+<plugin>
+  <title>lhcloudy</title>
+  <twitch>t/150814235</twitch>
+<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+<summary>Roni Tiihonen
+@LhCloudy
+twitch.tv/lhcloudy27
+ Finland</summary>
+</plugin>
+
 <item>
 <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
 <link>//</link>
 </item>
 
+<plugin>
+  <title>birdring </title>
+  <twitch>t/144548334</twitch>
+  <summary>Kim Ji-hyuk (김지혁)
+@birdring_ow
+twitch.tv/birdring_ow
+ South Korea</summary>
+ <thumbnail>https://owcdn.net/img/5bd4ed3b5a486.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+  <title>Jaru</title>
+  <twitch>t/104839872</twitch>
+<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+<summary>Jason White
+@JaruOW
+twitch.tv/jaru
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>MirroR</title>
+  <twitch>t/136751316</twitch>
+<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+<summary>Chris Trịnh
+@MirroR_ow
+twitch.tv/owmirror
+ Vietnam</summary>
+</plugin>
 
 
 <item>
@@ -60,10 +94,7 @@ twitch.tv/pank3r
 
 <plugin>
   <title>Ripa</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=165599956&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/165599956</twitch>
   <summary>Riku Toivanen
 @Ripa_ow
 twitch.tv/ripatv
@@ -72,10 +103,7 @@ twitch.tv/ripatv
 
 <plugin>
   <title>BigGoose</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=41703896&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/41703896</twitch>
   <thumbnail>https://owcdn.net/img/5bd4ed9228941.jpg</thumbnail>
   <summary>Benjamin Isohanni
 – aliases: BigG00se
@@ -87,14 +115,21 @@ twitch.tv/biggooseow
 
 <plugin>
   <title>Shaz<title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31047413&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/31047413</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>
 <summary>Jonas Suovaara
 @Shaz_ow
 twitch.tv/shaz_ow
  Finland</summary>
  <thumbnail>https://owcdn.net/img/5bd4edbaada32.jpg</thumbnail>
+</plugin>
+
+<plugin>
+  <title>Paintbrush</title>
+  <twitch>t/144848507</twitch>
+<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+<summary>Nolan Edwards
+@paintbrush
+twitch.tv/paintbrushie
+ United States</summary>
 </plugin>
