@@ -1,9 +1,8 @@
-
 <plugin>
-  <title>diem </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147013256&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147013256&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>diem</title>
+  <twitch>t/147013256</twitch>>
+  <summary>Bae Min-seong (배민성)
+@diem_ow
+twitch.tv/diem_ow_pop
+ South Korea</summary>
 </plugin>

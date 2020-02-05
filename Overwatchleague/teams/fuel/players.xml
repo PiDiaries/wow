@@ -32,19 +32,16 @@ twitch.tv/trill_ow
  Australia</summary>
 </plugin>
 
-<plugin>
-  <title>Mickie</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCusG1UpXusPTEbZMFILLGVg/ (YouTube)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
-  <summary>Pongphop Rattanasangchod
-@MickiePP
-twitch.tv/mickiepp
- Thailand</summary>
-</plugin>
+<dir>
+  <title>Gamsu</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gamsu.xml</link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
+<summary>Noh Yeong-jin (노영진)
+@GamsuOW
+twitch.tv/gamsuow
+ South Korea</summary>
+</dir>
+
 
 
 

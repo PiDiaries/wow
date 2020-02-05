@@ -1120,14 +1120,6 @@ twitch.tv/nek0_0w
 
 
 
-<dir>
-  <title>Void</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/void.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/LAKEA6GOSTXW1523496423868.png</thumbnail>
-  <fanart>https://i.imgur.com/uHfZGom.png</fanart>
-  <summary>Jun-woo "Void" Kang is a South Korean player currently playing for the Los Angeles Gladiators.</summary>
-</dir>
-
 
 
 
@@ -2000,3 +1992,35 @@ She gained recognition in the scene after being accused of using an aim bot to p
   <fanart></fanart>
   <summary></summary>
 </dir>
+
+<plugin>
+  <title>Mickie</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&amp;mode=channel_videos (Twitch VOD)</sublink>
+  <sublink>plugin://plugin.video.youtube/channel/UCusG1UpXusPTEbZMFILLGVg/ (YouTube)</sublink>
+  </link>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
+  <summary>Pongphop Rattanasangchod
+@MickiePP
+twitch.tv/mickiepp
+ Thailand</summary>
+</plugin>
+
+<plugin>
+  <title>envy</title>
+  <twitch>t/160050719</twitch>
+<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6FAQKR0XRZ821512776700785.png</thumbnail>
+<summary>Lee Kang-jae (이강재)
+@envyow
+twitch.tv/envy0w
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>CoMa</title>
+  <twitch>t/82536392</twitch>
+  <summary>Son Kyeong-woo (손경우)
+@CoMa_OW
+ South Korea</summary>
+</plugin>

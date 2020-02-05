@@ -20,17 +20,7 @@ twitch.tv/oge_ow
 </plugin>
 
 
-<plugin>
-  <title>Void</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary>Kang Jun-woo (강준우)
-@Void_OW
-twitch.tv/ow_void
- South Korea</summary>
-</plugin>
+
 
 <plugin>
   <title>SPACE</title>

@@ -4,12 +4,14 @@
 ###########################################################################################
 
 <plugin>
-  <title>Geguri </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=126168826&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/ (YouTube)</sublink>
-</link>
-<thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
+  <title>Geguri Twitch</title>
+  <twitch>t/126168826</twitch>>
+  <thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
 </plugin>
 
+
+<plugin>
+  <title>Geguri Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCfERzFYJKiM-Gv4jNuj-BAQ/</link>
+  <thumbnail>http://liquipedia.net/commons/images/1/1b/Geguri.jpg</thumbnail>
+</plugin>

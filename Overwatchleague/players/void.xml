@@ -3,13 +3,11 @@
 ############################################################################
 
 
-
 <plugin>
-  <title>Void </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153696106&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-</plugin>
-
-
+  <title>Void Twitch</title>
+  <twitch>t/153696106</twitch>
+  <summary>Kang Jun-woo (강준우)
+@Void_OW
+twitch.tv/ow_void
+ South Korea</summary>
+</plugin
