@@ -1,12 +1,13 @@
 ##########################################################################################
 
 ###########################################################################################
-
 <plugin>
-  <title>uNKOE </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>uNKOE</title>
+  <twitch>t/50447542</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
+<summary>Benjamin Chevasson
+@uNKOE
+twitch.tv/unkoe
+ France
+ </summary>
 </plugin>

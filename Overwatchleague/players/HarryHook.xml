@@ -3,14 +3,15 @@
 
 ################################################################################
 
+
 <plugin>
-  <title>HarryHook/title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCQV-LgAPwiea6Dpn8CBTWcQ/ (YouTube)</sublink>
-</link>
+  <title>HarryHook Twitch</title>
+  <twitch>t/30257355</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/X4JKRJUUAKYH1512685113279.png</thumbnail>
+<summary>Jonathan Tejedor
+@HarryHook
+twitch.tv/harryhook
+ Spain</summary>
 </plugin>
 
 

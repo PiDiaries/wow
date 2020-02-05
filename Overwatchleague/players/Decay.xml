@@ -1,9 +1,9 @@
-
 <plugin>
-  <title>Decay </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&amp;mode=channel_videos (VODs)</sublink>
+  <title>Decay</title>
+  <twitch>t/269480122</twitch>
   </link>
-  <summary></summary>
+  <summary>Jang Gui-un (장귀운)
+@DecayOW
+twitch.tv/decay012
+ South Korea</summary>
 </plugin>

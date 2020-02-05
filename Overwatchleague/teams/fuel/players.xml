@@ -8,10 +8,7 @@
 
 <plugin>
   <title>NotE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=63034034&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=63034034&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/63034034</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
 <summary>Lucas Meissner
 @NotEvenBleu
@@ -21,10 +18,7 @@ twitch.tv/notevenbleu
 
 <plugin>
   <title>trill</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140526051&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/140526051</twitch>>
   <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
   <summary>Ashley Powell
 @Trill_ow
@@ -50,26 +44,10 @@ twitch.tv/gamsuow
 <link>//</link>
 </item>
 
-<plugin>
-  <title>Taimou</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC8jnvzv_KW1ChKtdQYZUeAw/ (Youtube)</link>
- </link>
- <summary>Timo Kettunen
-@DF_Taimou
-twitch.tv/taimoutv
- Finland</summary>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/J3ZGE7V0A88P1512685113545.png</thumbnail>
-</plugin>
 
 <plugin>
   <title>aKm</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&amp;mode=channel_videos </sublink>
-  </link>
+  <twitch>t/31670989</twitch>
   <summary>Dylan Bignet
 @DF_aKm
 twitch.tv/akm_tv
@@ -79,10 +57,7 @@ twitch.tv/akm_tv
 
 <plugin>
   <title>ZachaREEE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/135417000</twitch>
   <thumbnail>https://owcdn.net/img/5bda786601f6b.jpg</thumbnail>
   <summary>Zachary Lombardo
 @ZackLombardo_
@@ -93,10 +68,8 @@ twitch.tv/zachareeee
 
 <plugin>
   <title>Decay</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=269480122&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/269480122</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Jang Gui-un (장귀운)
 @DecayOW
 twitch.tv/decay012
@@ -110,10 +83,7 @@ twitch.tv/decay012
 
 <plugin>
   <title>Closer</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/138973451</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
   <summary>Jung Won-sik (정원식)
 @CloserOw
@@ -123,10 +93,7 @@ twitch.tv/closerow
 
 <plugin>
   <title>uNKOE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=50447542&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/50447542</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
 <summary>Benjamin Chevasson
 @uNKOE
@@ -136,16 +103,22 @@ twitch.tv/unkoe
 </plugin>
 
 
-<plugin>
-  <title>HarryHook/title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=30257355&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCQV-LgAPwiea6Dpn8CBTWcQ/ (YouTube)</sublink>
-</link>
+<dir>
+  <title>HarryHook</title>
+  <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/HarryHook.xml</link>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/X4JKRJUUAKYH1512685113279.png</thumbnail>
 <summary>Jonathan Tejedor
 @HarryHook
 twitch.tv/harryhook
  Spain</summary>
+</dir>
+
+<plugin>
+  <title>Crimzo</title>
+  <twitch>t/131465894</twitch>
+  <thumbnail>https://owcdn.net/img/5bda509549ae1.jpg</thumbnail>
+  <summary>William Hernandez
+@Crimzo
+twitch.tv/crimzo
+ Canada</summary>
 </plugin>

@@ -4,14 +4,15 @@
 ###########################################################################################
 
 <plugin>
-  <title>Closer </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138973451&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Closer Twitch</title>
+  <twitch>t/138973451</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
-
+  <summary>Jung Won-sik (정원식)
+@CloserOw
+twitch.tv/closerow
+ South Korea</summary>
 </plugin>
+
 
 
 <plugin>

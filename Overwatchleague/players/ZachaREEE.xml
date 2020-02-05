@@ -1,9 +1,10 @@
 
 <plugin>
   <title>ZachaREEE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary>Zachary Lombardo</summary>
+  <twitch>t/135417000</twitch>
+  <thumbnail>https://owcdn.net/img/5bda786601f6b.jpg</thumbnail>
+  <summary>Zachary Lombardo
+@ZackLombardo_
+twitch.tv/zachareeee
+ United States</summary>
 </plugin>

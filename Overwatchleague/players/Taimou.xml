@@ -4,12 +4,8 @@
 ################################################################################
 
 <plugin>
-  <title>Taimou </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=54581600&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC8jnvzv_KW1ChKtdQYZUeAw/ (Youtube)</link>
- </link>
+  <title>Taimou Twitch</title>
+  <twitch>t/54581600</twitch>
  <summary>Timo Kettunen
 @DF_Taimou
 twitch.tv/taimoutv

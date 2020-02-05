@@ -5,12 +5,12 @@
 <summary></summary>
 
 ###########################################################################################
-
 <plugin>
-  <title>aKm </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=31670989&amp;mode=channel_videos </sublink>
-  </link>
-  <summary></summary>
+  <title>aKm</title>
+  <twitch>t/31670989</twitch>
+  <summary>Dylan Bignet
+@DF_aKm
+twitch.tv/akm_tv
+ France</summary>
+ <thmbnail>https://owcdn.net/img/5bda643631ae2.jpg</thumbnail>
 </plugin>
