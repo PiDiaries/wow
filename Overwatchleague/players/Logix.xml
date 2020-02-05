@@ -2,10 +2,12 @@
 ###########################################################################################
 
 <plugin>
-  <title>Logix </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26508156&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NM3N1A0TI6BS1512685744563.png</thumbnail>
+  <title>Logix</title>
+  <twitch>t/26508156</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
+  <fanart></fanart>
+  <summary>Andreas Berghmans
+@Logix_OW
+twitch.tv/logixow
+ Belgium</summary>
 </plugin>

@@ -1,9 +1,8 @@
-
 <plugin>
-  <title>RoKy </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130179746&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=130179746&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>RoKy</title>
+  <twitch>t/130179746</twitch>>
+  <summary>Park Joo-seong (박주성)
+– aliases: Roki
+@OW_RoKY
+twitch.tv/roky_ow</summary>
 </plugin>

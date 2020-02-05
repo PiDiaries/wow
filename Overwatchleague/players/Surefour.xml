@@ -2,12 +2,8 @@
 ###########################################################################################
 
 <plugin>
-  <title>Surefour</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCUtpwWjM4FQCdwfdZWzxJrg/ (YouTube)</sublink>
-  </link>
+  <title>Surefour Twitch</title>
+  <twitch>t/2982838</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
 </plugin>
 

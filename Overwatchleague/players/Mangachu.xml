@@ -1,8 +1,7 @@
 <plugin>
-  <title>Mangachu </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37438044&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37438044&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Mangachu</title>
+  <twitch>t/37438044</twitch>>
+  <summary>Liam Campbell
+@Mangachu_
+twitch.tv/mangachu</summary>
 </plugin>

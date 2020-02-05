@@ -61,19 +61,6 @@ twitch.tv/pank3r
 <link>//</link>
 </item>
 
-<plugin>
-  <title>Surefour</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=2982838&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCUtpwWjM4FQCdwfdZWzxJrg/ (YouTube)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
-<summary>Lane Roberts
-@Surefour
-twitch.tv/surefour
- Canada</summary>
-</plugin>
 
 
 <item>

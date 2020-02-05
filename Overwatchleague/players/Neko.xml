@@ -1,13 +1,13 @@
 ################################################################################
 
 ################################################################################
-
 <plugin>
-  <title>Neko </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144486954&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TZ8DWCLINMZS1512769820004.png</thumbnail>
-  <summary></summary>
+  <title>Neko</title>
+  <twitch>t/144486954</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVMOLNDV13XN1549576800054.png</thumbnail>
+  <fanart></fanart>
+  <summary>Park Se-hyeon (박세현)
+@ow_neko
+twitch.tv/nek0_0w
+ South Korea</summary>
 </plugin>

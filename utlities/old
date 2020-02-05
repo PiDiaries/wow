@@ -565,13 +565,18 @@
   <fanart>https://i.imgur.com/ir7NlUO.png</fanart>
   <summary>Matthew "super" DeLisi is an American player who currently plays for San Francisco Shock in the Overwatch League.</summary>
 </dir>
-<dir>
-  <title>Nevix</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Nevix.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/3Q03820QB64K1549652299642.png</thumbnail>
-  <fanart>https://i.imgur.com/PZYsvSw.png</fanart>
-  <summary>Andreas "Nevix" Karlsson is a Swedish player that currently plays for the San Francisco Shock in the Overwatch League.</summary>
-</dir>
+<plugin>
+  <title>Neko</title>
+  <twitch>t/144486954</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/CVMOLNDV13XN1549576800054.png</thumbnail>
+  <fanart></fanart>
+  <summary>Park Se-hyeon (박세현)
+@ow_neko
+twitch.tv/nek0_0w
+ South Korea</summary>
+</plugin>
+
+
 
 <dir>
   <title>ChoiHyoBin</title>
