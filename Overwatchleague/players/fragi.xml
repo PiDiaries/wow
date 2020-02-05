@@ -4,10 +4,12 @@
 ###################################################################################
 
 <plugin>
-  <title>Fragi </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <title>Fragi</title>
+  <twitch>t/37210499</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Q1UDN2ME09O31515702582682.png</thumbnail>
+<summary>JJoona Laine
+@fragiOW
+twitch.tv/fragiow
+ Finland</summary>
 </plugin>
+

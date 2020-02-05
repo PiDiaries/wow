@@ -1,9 +1,10 @@
 
 <plugin>
-  <title>nero </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>nero</title>
+  <twitch>t/136943639</twitch>>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
+  <summary>Charlie Zwarg
+@ow_nero
+twitch.tv/nero_overwatch
+United States</summary>
 </plugin>

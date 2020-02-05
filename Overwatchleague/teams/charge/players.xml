@@ -8,10 +8,7 @@
 
 <plugin>
   <title>Rio</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/143673261</twitch>>
   <summary>Oh Seung-pyo (오승표)
 @osp0418
 twitch.tv/osp0418
@@ -21,43 +18,32 @@ South Korea</summary>
 
 
 
-<plugin>
+<dir>
   <title>Bischu</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=35671232&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=35671232&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCSPPV0K7KFZtA7QfOEyzWYw/ (YouTube)</sublink>
-</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bischu.xml</link>
   <thumbnail>https://owcdn.net/img/5bd4ed872dc02.jpg</thumbnail>
   <fanart>https://i.imgur.com/eHxdURP.png</fanart>
   <summary>Aaron Kim
 @BischuGG
 twitch.tv/bischulol
  South Korea</summary>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
   <title>Hotba</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138328501&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://pluging.video.youtube/channel/UCLNljYSsv95Ijq0bs6bslMg/ (YouTube)</sublink>
-</link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
   <fanart></fanart>
   <summary>Choi Hong-joon
 @HOTBA_OW
 twitch.tv/hotba_ow
  South Korea</summary>
-</plugin>
+</dir>
 
 
 <plugin>
   <title>Fragi</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37210499&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/37210499</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Q1UDN2ME09O31515702582682.png</thumbnail>
 <summary>JJoona Laine
 @fragiOW
@@ -74,10 +60,7 @@ twitch.tv/fragiow
 
 <plugin>
   <title>nero</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136943639&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/136943639</twitch>>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
   <summary>Charlie Zwarg
 @ow_nero
@@ -87,10 +70,7 @@ United States</summary>
 
 <plugin>
   <title>Happy</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=421352709&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=421352709&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/421352709</twitch>
   <summary>Lee Jung-woo (이정우)
 – aliases: Vesta
 @wjddn1763
@@ -98,19 +78,16 @@ twitch.tv/owhappy2
  South Korea</summary>
 </plugin>
 
-<dir>
+<plugin>
   <title>Eileen</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=234650956&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=234650956&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <thumbnail></thumbnail>
+  <twitch>t/234650956</twitch>>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <fanart></fanart>
   <summary>Ou Yiliang (欧倚良)
 @Eileenzhi1
 twitch.tv/eileenzh
  China</summary>
-</dir>
+</plugin>
 
 
 <item>
@@ -120,11 +97,8 @@ twitch.tv/eileenzh
 
 <plugin>
   <title>Chara</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129089526&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=129089526&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <thumbnail></thumbnail>
+  <twitch>t/129089526</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <fanart></fanart>
   <summary>Kim Jung-yeon (김정연)
 @Chara_RRRing
@@ -135,10 +109,8 @@ twitch.tv/chara_ow
 <plugin>
   <title>Rise</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=406129570&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=406129570&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <thumbnail></thumbnail>
+  <twitch>t/406129570</twitch>>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Jee Won-jae
 – aliases: WonJaeLee
 twitch.tv/Rise_OW
@@ -147,148 +119,32 @@ twitch.tv/Rise_OW
 
 
 
+<dir>
+  <title>neptuNo</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/neptuNo.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4ef23cbbbd.jpgg</thumbnail>
+  <fanart>https://i.imgur.com/tkiguRU.png</fanart>
+  <summary>Alberto González
+@neptuNoOW
+twitch.tv/neptuno
+ Spain</summary>
+</dir>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###Season 2###
-##############
-<item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
-</item>
 
 
 <plugin>
-  <title>Rio</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=143673261&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Shu</title>
+  <twitch>t/172390371</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart></fanart>
+  <summary>Kim Jin-seo
+@shu_overwatch
+twitch.tv/owl_shu
+ South Korea/summary>
 </plugin>
 
-<dir>
-  <title>fragi</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/fragi.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/6GAHIOFB0O981549652290648.png</thumbnail>
-  <fanart>https://i.imgur.com/PEvZO1Q.png</fanart>
-  <summary>Joona "Fragi" Laine is a Finnish player.
-
-</dir>
 
 
 
-
-
-<dir>
-  <title>Bischu</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bischu.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/02EPNXS6PRM71512769977245.png</thumbnail>
-  <fanart>https://i.imgur.com/eHxdURP.png</fanart>
-  <summary>.</summary>
-</dir>
-
-<item>
-<title>[B][COLORffce532a]FLEX[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-
-<dir>
-  <title>HOTBA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-<dir>
-  <title>Happy</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Happy.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/YGAFQXG7U7611549664660733.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>Eileen</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Eileen.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/2QKIMC550B7R1549664660732.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>nero</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/nero.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
-<dir>
-  <title>Chara</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Chara.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HF8TQBAX9PNN1549664660731.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>Shu</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/Shu.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/J2UP9CAQCMZO1549664661741.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>OnlyWish</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/OnlyWish.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/558PQ7N453O41549664661539.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>RISE</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/WonJaeLee.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/PNNDLMW15IIO1549664661542.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
