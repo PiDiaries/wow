@@ -38,20 +38,20 @@
 </item>
 
 
-<plugin>
-<title>If you haven't already, CynicalNerds Hero Guides of all 21 heroes are great stuff, he's also started on map guides too!</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLOW3wTM0_w5_CVjO9q3r5dlTpDf9udg8s</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Seems to be an Issue with Youtube Playlists on some versions of Kodi</summary> 
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]Under map with Genji - Kings Row[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=_l02RmOInGw</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
+
+
+<plugin>
+<title>If you haven't already, CynicalNerds Hero Guides of all 21 heroes are great stuff, he's also started on map guides too!</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLOW3wTM0_w5_CVjO9q3r5dlTpDf9udg8s</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Seems to be an Issue with Youtube Playlists on some versions of Kodi</summary> 
+</plugin>
 
 
 <item>
@@ -111,16 +111,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Useful Guide "Overwatch Basics - Map Control Versus Kills" by Scannerbarkly[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=EpFpzYDdK7c</link>
+<title>[B][COLORffff0000]Quick showcase of some of the best Genji flank routes in the game[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=_bOgqm8t0IU</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Quick showcase of some of the best Genji flank routes in the game[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=_bOgqm8t0IU</link>
+<title>[B][COLORffff0000]Useful Guide "Overwatch Basics - Map Control Versus Kills" by Scannerbarkly[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=EpFpzYDdK7c</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -199,16 +199,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Salsadips Stats, Mechanics and Time to Kill guide for Mei[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=EPiwthpCeUM</link>
+<title>[B][COLORffff0000]Torbjörn Turret Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=xoL3F6UmFlc</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Torbjörn Turret Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=xoL3F6UmFlc</link>
+<title>[B][COLORffff0000]Salsadips Stats, Mechanics and Time to Kill guide for Mei[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=EPiwthpCeUM</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -223,16 +223,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Could someone give me advice/criticism on my Reinhardt?[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=BertQK0dzXw&feature=youtu.be</link>
+<title>[B][COLORffff0000]New to Reinhardt? Check this out! (Beginner's Guide)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=iR0ixxnXR0A</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]New to Reinhardt? Check this out! (Beginner's Guide)[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=iR0ixxnXR0A</link>
+<title>[B][COLORffff0000]Could someone give me advice/criticism on my Reinhardt?[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=BertQK0dzXw&feature=youtu.be</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -263,14 +263,6 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch Science! 5 Things You Didn't Know Reinhardt Could Do[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Tbh4aR4Mv6E</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Stratwatch 7 - King of the Hill in 1 Hero Limit [X-POST /r/CompetitiveOverwatch][/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=FDEDhkA6j6g</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -279,8 +271,24 @@
 
 
 <item>
+<title>[B][COLORffff0000]Overwatch Science! 5 Things You Didn't Know Reinhardt Could Do[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Tbh4aR4Mv6E</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Quick video explaining the basics of Genji's combos[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Ap6fp-64Tns</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]A short video explaining how to have two sonic arrows in effect at once as Hanzo (x-post /r/Overwatch)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=VrbkVtt5C5A</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -303,8 +311,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]A short video explaining how to have two sonic arrows in effect at once as Hanzo (x-post /r/Overwatch)[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=VrbkVtt5C5A</link>
+<title>[B][COLORffff0000]Learning Overwatch: Flanking - Temple of Anubis[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=7fQkzA_ZKwA</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -313,14 +321,6 @@
 <item>
 <title>[B][COLORffff0000]Tips, Tricks & Advice w/ Mercy[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=EjLo8m6bYFc</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Learning Overwatch: Flanking - Temple of Anubis[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=7fQkzA_ZKwA</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -367,14 +367,6 @@
 
 
 <item>
-<title>[B][COLORffff0000]Stats, Mechanics and Time to Kill - A look at the metagame for Reinhardt[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Pwk9uo9ojOw</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Stats, Mechanics and Time to Kill - A look at the metagame for Genji[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=3hCk-IpjbXo</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -385,6 +377,14 @@
 <item>
 <title>[B][COLORffff0000]Overwatch Counter Class - Defense Heroes (Unit Lost Video)[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=UcomlCkGFtI</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Stats, Mechanics and Time to Kill - A look at the metagame for Reinhardt[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Pwk9uo9ojOw</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -415,8 +415,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]How To Soldier: 76 + lore[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=SqZ6VcQER2s&ab_channel=MattsOutrageous</link>
+<title>[B][COLORffff0000]Counter To Shutdown[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=MK1AsaK2nFM</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -431,16 +431,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Counter To Shutdown[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=MK1AsaK2nFM</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Lucio's OP Ilios Well Strategy[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=kTwujINgXVE&feature=youtu.be</link>
+<title>[B][COLORffff0000]How To Soldier: 76 + lore[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=SqZ6VcQER2s&ab_channel=MattsOutrageous</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -455,16 +447,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Looking for constructive criticism on my first Overwatch guide! - Beginner's Guide to Overwatch | Hanzo (x-post /r/Overwatch)[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=wQDuOIRlPnU</link>
+<title>[B][COLORffff0000]Lucio's OP Ilios Well Strategy[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=kTwujINgXVE&feature=youtu.be</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Tracer - In-depth Abilities and Shortcuts Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Y9S0p4GZeEY</link>
+<title>[B][COLORffff0000]Looking for constructive criticism on my first Overwatch guide! - Beginner's Guide to Overwatch | Hanzo (x-post /r/Overwatch)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=wQDuOIRlPnU</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -481,6 +473,14 @@
 <item>
 <title>[B][COLORffff0000]Overwatch: How To Mercy + Lore[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=llF5VqLaglU</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Tracer - In-depth Abilities and Shortcuts Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Y9S0p4GZeEY</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -519,24 +519,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch: Offensive Role In Just Over 2 Minutes[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=cePF433Bjkg</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Overwatch: How To - Roadhog + Lore[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=G7eYfBL1NgA</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Roadhog | Eat My Scrap [Booman61] (more in the comments[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=r52jpP_Naeo</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -551,8 +535,24 @@
 
 
 <item>
+<title>[B][COLORffff0000]Roadhog | Eat My Scrap [Booman61] (more in the comments[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=r52jpP_Naeo</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Tips, Tricks & Guides w/ Lucio![/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Lmr-4lmViSc</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Overwatch: Offensive Role In Just Over 2 Minutes[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=cePF433Bjkg</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -567,8 +567,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Junkrat's Mine Like a Steel Trap Achievement/Trophy Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Hj0zZv7MnuQ</link>
+<title>[B][COLORffff0000]Examining King's Row[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=aq4s47P9YDg</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -583,8 +583,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Examining King's Row[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=aq4s47P9YDg</link>
+<title>[B][COLORffff0000]Junkrat's Mine Like a Steel Trap Achievement/Trophy Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Hj0zZv7MnuQ</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -599,16 +599,24 @@
 
 
 <item>
-<title>[B][COLORffff0000]This Video Can be A Competitive Play For Lucio[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=l9AFPXFa870</link>
+<title>[B][COLORffff0000]Overwatch In Depth: Widowmaker Guide (How To Widowmaker Tips and Tricks)...[/B][/COLOR]</title>
+<link>https://www.youtube.com/attribution_link?a=NnOGPrkpaYY&u=%2Fwatch%3Fv%3DduTy8QY1-xQ%26feature%3Dshare</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch In Depth: Widowmaker Guide (How To Widowmaker Tips and Tricks)...[/B][/COLOR]</title>
-<link>https://www.youtube.com/attribution_link?a=NnOGPrkpaYY&u=%2Fwatch%3Fv%3DduTy8QY1-xQ%26feature%3Dshare</link>
+<title>[B][COLORffff0000]10 common tips[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=71htnLF8o7I</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]This Video Can be A Competitive Play For Lucio[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=l9AFPXFa870</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -623,8 +631,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]10 common tips[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=71htnLF8o7I</link>
+<title>[B][COLORffff0000]Stratwatch Episode 2 - Goggles and Glasses[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gp466dgnNz4</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -636,13 +644,5 @@
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Seems to be an Issue with Youtube Playlists on some versions of Kodi</summary> 
 </plugin>
-
-
-<item>
-<title>[B][COLORffff0000]Stratwatch Episode 2 - Goggles and Glasses[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=gp466dgnNz4</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
 
 
