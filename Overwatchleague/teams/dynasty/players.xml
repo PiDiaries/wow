@@ -105,14 +105,7 @@ twitch.tv/sunghyuk313
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85PY053PQS2E1512770128333.png</thumbnail>
 </dir>
 
-<dir>
-  <title>ryujehong</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/ryujehong.xml</link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/MLOCP54UWOTI1512770128331.png</thumbnail>#
-<summary>Ryu Je-hong (류제홍)
-twitch.tv/wpghd321
- South Korea</summary>
-</dir>
+
 
 <plugin>
   <title>Jecse</title>

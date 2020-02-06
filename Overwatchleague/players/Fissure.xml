@@ -4,12 +4,13 @@
 
 <plugin>
   <title>Fissure </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636778&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636778&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/144636778</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/FNRQOSO9NVAD1512776037020.png</thumbnail>
 
-</summary>
-
+<summary>Baek Chan-hyung (백찬형)
+@Fissure
+twitch.tv/fissure_ow
+ South Korea</summary>
+<thumbnail>https://owcdn.net/img/5bd4eda05d0f2.jpg</thumbnail>
 </plugin>
+
