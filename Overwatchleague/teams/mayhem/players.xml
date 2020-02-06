@@ -2,15 +2,15 @@
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Fate</title>
   <twitch>t/138037386</twitch>
-<thumbnail>https://owcdn.net/img/5bd4ee23020cb.jpg</thumbnail>
-<summary>Koo Pan-seung (구판승)
+  <thumbnail>https://owcdn.net/img/5bd4ee23020cb.jpg</thumbnail>
+  <summary>Koo Pan-seung (구판승)
 @panseung2
 twitch.tv/fate_ow
  South Korea</summary>
@@ -18,8 +18,8 @@ twitch.tv/fate_ow
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
@@ -29,7 +29,7 @@ twitch.tv/fate_ow
 @minon501
 twitch.tv/hjm3935
  South Korea</summary>
- <thumbnail>https://owcdn.net/img/5bd4cc9ee44c0.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4cc9ee44c0.jpg</thumbnail>
 </plugin>
 
 <plugin>
@@ -40,12 +40,12 @@ twitch.tv/hjm3935
 @BQB_kr
 twitch.tv/lsb0798
  South Korea</summary>
- <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -57,5 +57,5 @@ twitch.tv/lsb0798
 @Meta_Kris
 twitch.tv/owkris
  South Korea</summary>
- <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

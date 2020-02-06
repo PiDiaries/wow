@@ -4,11 +4,13 @@
 <summary></summary>
 ###########################################################################################
 
+
 <plugin>
-  <title>Bani </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary></summary>
+  <title>Bani</title>
+  <twitch>t/22468499</twitch>>
+  <summary>Chris Benell
+@BaniOW
+twitch.tv/baniow
+ Canada</summary>
+  <thumbnail>https://owcdn.net/img/5bd4ec1f3937a.jpg</thumbnail>
 </plugin>

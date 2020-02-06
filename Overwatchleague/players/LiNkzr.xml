@@ -1,6 +1,15 @@
 ##########################################################################################
 
 ###########################################################################################
+<plugin>
+  <title>LiNKzr Twitch</title>
+  <twitch>t/68558124</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ecc2574d3.jpg</thumbnail>
+  <summary>Jiri Masalin
+@LinkzrOW
+twitch.tv/linkzr
+ Finland</summary>
+</plugin>
 
 <plugin>
   <title>LiNkzr Youtube</title>

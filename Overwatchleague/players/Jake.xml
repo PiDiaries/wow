@@ -3,9 +3,10 @@
 
 <plugin>
   <title>JAKE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/135360961</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D73OIHS7JU5O1512616495099.png</thumbnail>
+<summary>Jacob Lyon
+@jakeow
+twitch.tv/jake_ow
+ United States</summary>
 </plugin>

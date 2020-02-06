@@ -1,9 +1,10 @@
 
 <plugin>
-  <title>blasé </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>blasé</title>
+  <twitch>t/85410222</twitch>
+  <summary>Jeffrey Tsang
+@blaseOW
+twitch.tv/blase
+ United States</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

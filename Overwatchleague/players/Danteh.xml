@@ -6,13 +6,13 @@
 ###########################################################################################
 
 <plugin>
-  <title>Danteh</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCytLAmmJOlRDD2VRR2OBtJQ/ (YouTube) </sublink>
-  </link>
-  <summary></summary>
+  <title>Danteh Twitch</title>
+  <twitch>t/5291428</twitch>
+  <summary>Dante Cruz
+@DANTEH
+twitch.tv/danteh
+ United States</summary>
+ <thumbnail>https://owcdn.net/img/5bd4eff9d8320.jpg</thumbnail>
 </plugin>
 
 <plugin>

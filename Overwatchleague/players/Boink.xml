@@ -2,12 +2,9 @@
 ###########################################################################################
 
 <plugin>
-  <title>Boink</title>
+  <title>Boink Twitch</title>
   <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCNyyWMy3ulcc060_tYFBc2A/ (youtube)</sublink>
-  </link>
+  <twitch>t/22883056</twitch>
   <summary></summary>
 </plugin>
 

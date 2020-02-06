@@ -2,13 +2,13 @@
 ###########################################################################################
 
 <plugin>
-  <title>SPREE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&amp;mode=channel_videos (Twitch VOD)</sublink>
-   <sublink>plugin://plugin.video.youtube/channel/UCvT33BBdRckYZCbFDe-rZCA/ (YouTube)</sublink>
- </link>
+  <title>SPREE Twitch</title>
+  <twitch>t/37351711</twitch>>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NBP2HF8SW2LQ1512616495543.png</thumbnail>
+<summary>Alexandre Vanhomwegen
+@SPREEow
+twitch.tv/spree
+ Belgium</summary>
 </plugin>
 
 <plugin>

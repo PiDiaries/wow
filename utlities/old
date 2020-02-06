@@ -1410,13 +1410,6 @@ He is primarily a hitscan player known for his aggressive Widowmaker and McCree 
   <summary>Dong-gyu "Mano" Kim is a South Korean player currently playing for the New York Excelsior.</summary>
 </dir>
 
-<dir>
-  <title>Meko</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Meko.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/2SXFUVQU46CN1549652238912.png</thumbnail>
-  <fanart>https://i.imgur.com/EJSTfv5.png</fanart>
-  <summary>Tae-hong "MekO" Kim is a Korean player currently playing for The New York Excelsior.</summary>
-</dir>
 
 
 <item>
@@ -2036,3 +2029,24 @@ twitch.tv/taimoutv
 twitch.tv/pank3r
  South Korea</summary>
  </plugin>
+
+
+ <plugin>
+  <title>coolmatt</title>
+  <twitch>t/36043286</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3LZO7TZS1N9M1512616495074.png</thumbnail>
+  <summary>Matt Iorio
+@coolmatt69
+twitch.tv/coolmatt69
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>Bani</title>
+  <twitch>t/22468499</twitch>
+  <summary>Chris Benell
+@BaniOW
+twitch.tv/baniow
+ Canada</summary>
+  <thumbnail>https://owcdn.net/img/5bd4ec1f3937a.jpg</thumbnail>
+</plugin>

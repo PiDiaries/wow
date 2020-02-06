@@ -3,159 +3,124 @@
 ################################################################################
 
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
-<plugin>
-  <title>coolmatt</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=36043286&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3LZO7TZS1N9M1512616495074.png</thumbnail>
-  <summary>Matt Iorio
-@coolmatt69
-twitch.tv/coolmatt69
- United States</summary>
-</plugin>
 
-<plugin>
+
+<dir>
   <title>SPREE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37351711&amp;mode=channel_videos (Twitch VOD)</sublink>
-   <sublink>plugin://plugin.video.youtube/channel/UCvT33BBdRckYZCbFDe-rZCA/ (YouTube)</sublink>
- </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/NBP2HF8SW2LQ1512616495543.png</thumbnail>
-<summary>Alexandre Vanhomwegen
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SPREE.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4ebee35128.jpg</thumbnail>
+  <summary>Alexandre Vanhomwegen
 @SPREEow
 twitch.tv/spree
  Belgium</summary>
-</plugin>
+</dir>
 
 <plugin>
   <title>Muma</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=96447492&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=96447492&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YIFKW875KSEP1512616495363.png</thumbnail>
-<summary>Austin Wilmot
+  <twitch>t/96447492</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ec0db2398.jpg</thumbnail>
+  <summary>Austin Wilmot
 @Mumanji
 twitch.tv/muma
  United States</summary>
 </plugin>
 
+<dir>
+  <title>Meko</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Meko.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4eeffe1a99.jpg</thumbnail>
+  <fanart></fanart>
+  <summary>Kim Tae Hong
+@MekOppa
+twitch.tv/mekoppa
+ South Korea</summary>
+</dir>
+
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
-<plugin>
+<dir>
   <title>LiNkzr</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=68558124&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=68558124&amp;mode=channel_videos (VODs)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCu9-RMsiZ8-GGkP8nsIIvjw/ (YouTube)</sublink>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/LiNkzr.xml</link>
   <thumbnail>https://yt3.ggpht.com/-riPJ3WcBTcA/AAAAAAAAAAI/AAAAAAAAAAA/TRchx8vvB0w/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
   <summary>Jiri Masalin
 @LinkzrOW
 twitch.tv/linkzr
  Finland</summary>
-</plugin>
+</dir>
 
 
 <plugin>
   <title>Hydration</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53176196&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=53176196&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/CGG5VB9U5MLQ1512769977402.png</thumbnail>
-<summary>João Pedro Goes Telles
+  <twitch>t/53176196</twitch>
+  <thumbnail>https://www.over.gg/player/1070/hydration</thumbnail>
+  <summary>João Pedro Goes Telles
 @Hydration
 twitch.tv/hydration
  United States</summary>
 </plugin>
 
-<plugin>
-  <title>JAKE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=135360961&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D73OIHS7JU5O1512616495099.png</thumbnail>
-<summary>Jacob Lyon
-@jakeow
-twitch.tv/jake_ow
- United States</summary>
-</plugin>
 
 <plugin>
   <title>blasé</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85410222&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/85410222</twitch>
   <summary>Jeffrey Tsang
 @blaseOW
 twitch.tv/blase
  United States</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
-<plugin>
+<dir>
   <title>Danteh</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=52914282&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCytLAmmJOlRDD2VRR2OBtJQ/ (YouTube) </sublink>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danteh.xml</link>
   <summary>Dante Cruz
 @DANTEH
 twitch.tv/danteh
  United States</summary>
-</plugin>
+  <thumbnail>https://owcdn.net/img/5bd4eff9d8320.jpg</thumbnail>
+</dir>
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Boink</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22883056&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCNyyWMy3ulcc060_tYFBc2A/ (youtube)</sublink>
-  </link>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Boink.xml</link>
   <summary>Daniel Pence
 @Forceboink
 twitch.tv/forceboink
  United States</summary>
+ <thumbnail>https://owcdn.net/img/5bd4ec2b7467b.jpg</thumbnail>
 </plugin>
 
-<plugin>
-  <title>Bani</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=22468499&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary>Chris Benell
-@BaniOW
-twitch.tv/baniow
- Canada</summary>
- <thumbnail>https://owcdn.net/img/5bd4ec1f3937a.jpg</thumbnail>
-</plugin>
+
 
 <plugin>
   <title>Rawkus </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27855530&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCsniFhn5IfU7VaJW5XuynSg/ (YouTube)</link>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DMM5P90VN9SX1512616495367.png</thumbnail>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rawkus.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DMM5P90VN9SX1512616495367.png</thumbnail>
+  <summary>Shane Flaherty
+@Rawkus
+twitch.tv/itsrawkus
+ United States</summary>
+</plugin>
+
+<plugin>
+  <title>rapel</title>
+  <twitch>t/172518148</twitch>
+  <summary>Kim Jun-geun (김준근)
+@ow__Rapel
+twitch.tv/kingjungeun
+ South Korea</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
