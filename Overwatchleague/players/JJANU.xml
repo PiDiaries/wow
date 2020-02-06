@@ -1,10 +1,9 @@
-
 <plugin>
   <title>JJANU </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131925644&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=131925644&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary></summary>
-</plugin
+  <twitch>t/131925644</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Choi Hyeon-woo (최현우)
+@JJANU_ow
+twitch.tv/jjanu_ow
+ South Korea</summary>
+</plugin>

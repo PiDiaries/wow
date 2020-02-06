@@ -2,17 +2,15 @@
 <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>Fusions </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/45815466</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Cameron Bosworth
 @Fusions
 twitch.tv/fusions_ow
@@ -21,10 +19,8 @@ twitch.tv/fusions_ow
 
 <plugin>
   <title>Axxiom </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207889636&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=207889636&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/207889636</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Park Min-sub (박민섭)
 – aliases: Quinas
 @AxxiomOW
@@ -32,29 +28,46 @@ twitch.tv/axxiom_
  South Korea</summary>
 </plugin>
 
+<plugin>
+  <title>Mouffin</title>
+  <twitch>t/98494565</twitch>>
+  <summary>Walid Bassal
+@TheMouffinMan
+twitch.tv/mouffin
+ Canada</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+</plugin>
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>Colourhex </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/81190365</twitch>
+  <thumbnail></thumbnail>
   <summary>Kelsey Birse
 @Colourhex217
 twitch.tv/colourhex
  New Zealand</summary>
 </plugin>
 
+<plugin>
+  <title>Munchkin </title>
+  <twitch>153587615</twitch>>
+  <summary>Byeon Sang-beom (변상범)
+@MunchkinOW
+twitch.tv/munchkinow
+ South Korea</summary>
+  <thumbnail>https://owcdn.net/img/5bd502e391ffc.jpg</thumbnail>
+</plugin>
+
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 

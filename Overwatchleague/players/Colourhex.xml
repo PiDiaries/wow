@@ -1,9 +1,11 @@
 
+
 <plugin>
   <title>Colourhex </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=81190365&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/81190365</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Kelsey Birse
+@Colourhex217
+twitch.tv/colourhex
+ New Zealand</summary>
 </plugin>

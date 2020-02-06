@@ -1,9 +1,9 @@
-
 <plugin>
   <title>Fusions </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=45815466&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/45815466</twitch>
+  <thumbnail></thumbnail>
+  <summary>Cameron Bosworth
+@Fusions
+twitch.tv/fusions_ow
+ United Kingdom</summary>
 </plugin>

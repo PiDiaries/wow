@@ -1,10 +1,8 @@
-
 <plugin>
   <title>Haksal </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137923480&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137923480&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary></summary>
-</plugin
+  <twitch>t/137923480</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Kim Hyo-jong (김효종)
+twitch.tv/haksalow
+ South Korea</summary>
+</plugin>

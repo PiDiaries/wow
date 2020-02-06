@@ -1,9 +1,11 @@
 
 <plugin>
   <title>Axxiom </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/207889636</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Park Min-sub (박민섭)
+– aliases: Quinas
+@AxxiomOW
+twitch.tv/axxiom_
+ South Korea</summary>
 </plugin>

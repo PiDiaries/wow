@@ -4,9 +4,10 @@
 
 <plugin>
   <title>Munchkin </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153587615&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=153587615&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EXGQNIWZDGSD1512770128109.png</thumbnail>
+  <twitch>t/153587615</twitch>>
+  <summary>Byeon Sang-beom (변상범)
+@MunchkinOW
+twitch.tv/munchkinow
+ South Korea</summary>
+  <thumbnail>https://owcdn.net/img/5bd502e391ffc.jpg</thumbnail>
 </plugin>

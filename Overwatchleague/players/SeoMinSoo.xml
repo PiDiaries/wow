@@ -1,10 +1,10 @@
-
 <plugin>
   <title>SeoMinSoo </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=159046484&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=159046484&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary></summary>
-</plugin
+  <twitch>t/159046484</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Seo Min-Soo (서민수)
+– aliases: Loven
+@alstn5517
+twitch.tv/seominsoo_ow
+ South Korea</summary>
+</plugin>
