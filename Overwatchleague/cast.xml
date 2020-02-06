@@ -1,151 +1,100 @@
-
-
-
+<dir>
+  <title>JOSH “SIDESHOW” WILKINSON, UNITED KINGDOM</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast/Sideshow.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4G0KBB1UFB6W1515438393149.jpg</thumbnail>
+  <summary>Josh Wilkinson has been analyzing and writing about Overwatch since its release, providing live analysis at events such as TaKeOver 2 and Overwatch Contenders Season 1. He has a passion for strategic complexity and detailed team histories, and the global narratives of the Overwatch scene are his favorite bedtime stories. Follow him on Twitter at @SideshowGaming.
+  </summary>
+</dir>
 
 
 <plugin>
   <title>BRENNON “BREN” HOOK, UNITED KINGDOM</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=60955605&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=60955605&amp;mode=channel_videos (Twitch VODs)</sublink>
-</link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85DWZ1FNEDZQ1515438393150.jpg</thumbnail>
-    <summary>Brennon Hook began commentating for competitive Overwatch soon after the game's release in 2016, covering numerous tournaments including the recent Overwatch Contenders. For the Overwatch League inaugural season, Bren returns to North America, bringing his highly energetic style and expansive knowledge of the European scene to the analyst desk. Follow him on Twitter at @BrenCasts.
-    </summary>
-  </plugin>
+  <twitch>t/60955605</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/85DWZ1FNEDZQ1515438393150.jpg</thumbnail>
+  <summary>Brennon Hook began commentating for competitive Overwatch soon after the game's release in 2016, covering numerous tournaments including the recent Overwatch Contenders. For the Overwatch League inaugural season, Bren returns to North America, bringing his highly energetic style and expansive knowledge of the European scene to the analyst desk. Follow him on Twitter at @BrenCasts.
+  </summary>
+</plugin>
 
 
 <plugin>
   <title>ROBERT “HEXAGRAMS” KIRKBRIDE, UNITED STATES</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23849624&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=23849624&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/77/77ZA9SOHQ0QB1515441162666.jpg</thumbnail>
-    <summary>Robert Kirkbride has been broadcasting competitive Overwatch since the game's release. A veteran of events such as DreamHack, Carbon Series, and Overwatch Contenders, hexagrams has a long history with the Overwatch community and pros. A fan of British time-traveling heroes and meditating omnics alike, he’s excited to be a part of Overwatch's transcendence on its biggest stage yet. Follow him on Twitter at @hexagrams.
-    </summary>
-  </plugin>
+    <twitch>t/23849624</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/77/77ZA9SOHQ0QB1515441162666.jpg</thumbnail>
+  <summary>Robert Kirkbride has been broadcasting competitive Overwatch since the game's release. A veteran of events such as DreamHack, Carbon Series, and Overwatch Contenders, hexagrams has a long history with the Overwatch community and pros. A fan of British time-traveling heroes and meditating omnics alike, he’s excited to be a part of Overwatch's transcendence on its biggest stage yet. Follow him on Twitter at @hexagrams.
+  </summary>
+</plugin>
 
 
-<plugin>
+<dir>
   <title>CHRISTOPHER “MONTECRISTO” MYKLES, UNITED STATES</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=86075591&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=86075591&amp;mode=channel_videos (Twitch VODs)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCZ26xCMrmYnUWYFtZr7cWCg/ (Youtube)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/C2UTQWP38LUW1515441074639.jpg</thumbnail>
-    <summary>Christopher Mykles returns to the United States after five years with South Korean TV station OGN, where he served as a broadcaster for four distinct games. A veteran of the esports scene, Mykles will bring keen analysis and showmanship to the Overwatch League inaugural season. He can be found on Twitter at @MonteCristo.
-    </summary>
-  </plugin>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast/Montecristo.xml</link>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/C2UTQWP38LUW1515441074639.jpg</thumbnail>
+  <summary>Christopher Mykles returns to the United States after five years with South Korean TV station OGN, where he served as a broadcaster for four distinct games. A veteran of the esports scene, Mykles will bring keen analysis and showmanship to the Overwatch League inaugural season. He can be found on Twitter at @MonteCristo.
+  </summary>
+</dir>
 
 <plugin>
   <title>CHRIS “PUCKETT” PUCKETT, UNITED STATES</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59342566&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=59342566&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ab/ABTA4PRHV6C91515438727313.jpg</thumbnail>
-    <summary>After competing in professional Halo, Chris Puckett joined esports powerhouse Major League Gaming as a tournament director in 2004. By 2014 he had become VP of Programming and the broadcasting face of MLG events. Now with Activision Blizzard, Puckett is not only the hype man that fans have come to love, but also a cornerstone of the esports community, with an intrinsic understanding of the space. Find him on Twitter at @MLGPuckett.
-    </summary>
-  </plugin>
+    <twitch>t/59342566</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ab/ABTA4PRHV6C91515438727313.jpg</thumbnail>
+  <summary>After competing in professional Halo, Chris Puckett joined esports powerhouse Major League Gaming as a tournament director in 2004. By 2014 he had become VP of Programming and the broadcasting face of MLG events. Now with Activision Blizzard, Puckett is not only the hype man that fans have come to love, but also a cornerstone of the esports community, with an intrinsic understanding of the space. Find him on Twitter at @MLGPuckett.
+  </summary>
+</plugin>
 
 <plugin>
   <title>AUGUSTE “SEMMLER” MASSONNAT, UNITED STATES</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=16838569&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=16838569&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/o6/O6EFQS4U6PLS1515448523907.jpg</thumbnail>
-    <summary>Auguste Massonnat is a seasoned esports commentator, broadcaster, and analyst, with years of experience casting high-level FPS tournaments around the world, including the ELEAGUE Major Grand Finals for Counter-Strike: Global Offensive, which was nationally televised on TBS in October 2017. Catch him on Twitter at @OnFireSemmler.
-    </summary>
-  </plugin>
-
-<plugin>
-  <title>JOSH “SIDESHOW” WILKINSON, UNITED KINGDOM</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=55782451&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=55782451&amp;mode=channel_videos (Twitch VODs)</sublink>
-    <sublink>plugin://plugin.video.youtube/channel/UCyLvxt4eVsF6rwsTEbj1yeQ/ (Youtube)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/4G0KBB1UFB6W1515438393149.jpg</thumbnail>
-    <summary>Josh Wilkinson has been analyzing and writing about Overwatch since its release, providing live analysis at events such as TaKeOver 2 and Overwatch Contenders Season 1. He has a passion for strategic complexity and detailed team histories, and the global narratives of the Overwatch scene are his favorite bedtime stories. Follow him on Twitter at @SideshowGaming.
-    </summary>
-  </plugin>
+  <twitch>t/16838569</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/o6/O6EFQS4U6PLS1515448523907.jpg</thumbnail>
+  <summary>Auguste Massonnat is a seasoned esports commentator, broadcaster, and analyst, with years of experience casting high-level FPS tournaments around the world, including the ELEAGUE Major Grand Finals for Counter-Strike: Global Offensive, which was nationally televised on TBS in October 2017. Catch him on Twitter at @OnFireSemmler.
+  </summary>
+</plugin>
 
 
 <plugin>
   <title>SOE “SOE” GSCHWIND, SWITZERLAND</title>
-  <link>   
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26009303&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=26009303&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YXPYSGBLTE8B1515441074639.jpg</thumbnail>
-    <summary>Soe Gschwind is a Swiss commentator and host. Over the past 10 years, she has casted and hosted global events such as BlizzCon, WCS, gamescom, WCG, The International, and E3. After hosting a daily esports show on German television in 2016, she moved to Versailles, France, to work as an Associate Esports Manager and on-screen talent for Blizzard Entertainment. Follow her on Twitter at @Soembie.
-    </summary>
-  </plugin>
+  <twitch>t/26009303</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/YXPYSGBLTE8B1515441074639.jpg</thumbnail>
+  <summary>Soe Gschwind is a Swiss commentator and host. Over the past 10 years, she has casted and hosted global events such as BlizzCon, WCS, gamescom, WCG, The International, and E3. After hosting a daily esports show on German television in 2016, she moved to Versailles, France, to work as an Associate Esports Manager and on-screen talent for Blizzard Entertainment. Follow her on Twitter at @Soembie.
+  </summary>
+</plugin>
 
 
 <plugin>
   <title>ALEX "GOLDENBOY" MENDEZ</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=25711563&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=25711563&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-<thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/c8df77ec9919d8e0-profile_image-300x300.png</thumbnail>    
-<summary>Alex "Goldenboy" Mendez is a professional esports commentator and host in multiple games including Call of Duty, Halo and most recently, Overwatch. He was either a host or commentator for most of the big western Overwatch events pre-Overwatch League.</summary>
-  </plugin>
+  <twitch>t/25711563</twitch>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/c8df77ec9919d8e0-profile_image-300x300.png</thumbnail>
+  <summary>Alex "Goldenboy" Mendez is a professional esports commentator and host in multiple games including Call of Duty, Halo and most recently, Overwatch. He was either a host or commentator for most of the big western Overwatch events pre-Overwatch League.</summary>
+</plugin>
 
 
 <plugin>
   <title>MALIK FORTE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29838873&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=29838873&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
-    <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/ca4a7501f236152a-profile_image-300x300.png</thumbnail>
-    <summary>
-    </summary>
-  </plugin>
+    <twitch>t/29838873</twitch>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/ca4a7501f236152a-profile_image-300x300.png</thumbnail>
+  <summary>
+  </summary>
+</plugin>
 
 
 <plugin>
   <title>Mica Burton</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=56631128&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=56631128&amp;mode=channel_videos (Twitch VOD)</sublink>
-</link>
-<thumbnail></thumbnail>
-<summary>Hello! I'm Mica Burton!
+  <twitch>t/56631128</twitch>
+  <thumbnail></thumbnail>
+  <summary>Hello! I'm Mica Burton!
 You can call me Micachu if you want! ❤︎
 
 The fact that you are here means you deserve a cookie. Thanks for coming to check out my stream and such! I'm a new-ish streamer and old-school content maker from Los Angeles. You may know me from my cosplay, my acting, or maybe even my hosting!
 
 All of my streams will be uploaded on youtube for later~!
-</summary>
+  </summary>
 </plugin>
 
-<plugin>
-  <title>Casters and Castles</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=467413657&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=467413657&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCwdm90C5cHgAOwKIWgq9W4g/ (YouTube)</sublink>
-</link>
-<thumbnail>https://yt3.ggpht.com/a/AGF-l79S-Hm35GHVL7hIiYkNoq8ZwYh0YIhTsBP-BQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
-<summary>Casters & Castles is a roleplay, tabletop, and Dungeons & Dragons channel. 
-
-With a wealth of entertaining esports talent in Los Angeles, Casters & Castles is able to run live shows every week!
-
-Tune in at 7PM PT every Tuesday to catch the main show live, and make sure to look at the schedule to see what other unique shows we are running that week.
-</summary>
-</plugin>
 
 <plugin>
   <title>JAKE</title>
   <twitch>t/135360961</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D73OIHS7JU5O1512616495099.png</thumbnail>
-<summary>Jacob Lyon
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/D73OIHS7JU5O1512616495099.png</thumbnail>
+  <summary>Jacob Lyon
 @jakeow
 twitch.tv/jake_ow
  United States</summary>
@@ -155,10 +104,14 @@ twitch.tv/jake_ow
 <plugin>
   <title>Custa </title>
   <twitch>t/114865766</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
   <summary>Scott Kennedy
 @Custa
 twitch.tv/custa
  Australia</summary>
 </plugin>
 
+<dir>
+  <title>Casters and Castles Youtube</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast/castersandcastles.xml</link>
+</dir>

@@ -1,0 +1,13 @@
+<plugin>
+  <title>PlayOverwatch Twitch</title>
+  <twitch>t/59980349</twitch>
+  <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
+  </summary>
+</plugin>
+
+<plugin>
+  <title>PlayOverwatch Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/</link>
+  <summary>Overwatch™ is a highly stylized team-based shooter set in a future worth fighting for. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
+  </summary>
+</plugin>

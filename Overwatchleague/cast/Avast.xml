@@ -1,0 +1,9 @@
+<plugin>
+  <title>Avast</title>
+  <link>
+  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=32905366&mode=play (Twitch Live Link)</sublink>
+<sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=32905366&amp;channel_name=vale&amp;display_name=Vale&amp;mode=channel_video (Twitch VODs)</sublink>  </link>
+<thumbnail>https://twitter.com/Avast_o/photo</thumbnail>      
+<summary>Former Professional OWL player now turned caster. </summary>
+  </plugin>
+

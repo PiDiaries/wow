@@ -1,0 +1,16 @@
+<plugin>
+  <title>Casters and Castles Twitch</title>
+    <twitch>t/>467413657</twitch>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79S-Hm35GHVL7hIiYkNoq8ZwYh0YIhTsBP-BQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+  <summary>Casters & Castles is a roleplay, tabletop, and Dungeons & Dragons channel. 
+
+With a wealth of entertaining esports talent in Los Angeles, Casters & Castles is able to run live shows every week!
+
+Tune in at 7PM PT every Tuesday to catch the main show live, and make sure to look at the schedule to see what other unique shows we are running that week.
+  </summary>
+</plugin>
+
+<plugin>
+  <title>Casters and Castles Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UCwdm90C5cHgAOwKIWgq9W4g/ (YouTube)</link>
+  </plugin>
