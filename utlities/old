@@ -726,14 +726,6 @@ twitch.tv/nek0_0w
 </item>
 
 
-<dir>
-  <title>Kodak</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Kodak.xml</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/1QA8YKKVET2E1549580709703.png</thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
 
 <dir>
   <title>Masaa</title>
@@ -2049,4 +2041,33 @@ twitch.tv/coolmatt69
 twitch.tv/baniow
  Canada</summary>
   <thumbnail>https://owcdn.net/img/5bd4ec1f3937a.jpg</thumbnail>
+</plugin>
+
+<plugin>
+  <title>Daco</title>
+    <twitch>t/146212213</twitch>
+  <thumbnail></thumbnail>
+  <summary>Seo Dong-hyung (서동형)
+@Daco_ow
+twitch.tv/daco_ow
+ South Korea</summary>
+</plugin>
+
+<plugin>
+  <title>NLaaeR</title>
+    <twitch>t/44979242</twitch>
+  <thumbnail></thumbnail>
+  <summary>Ilya Koppalov
+@NLaaeR
+twitch.tv/nlaaer
+ Russian Federation</summary>
+</plugin>
+
+<plugin>
+  <title>FunnyAstro</title>
+  <twitch>t/37926623</twitch>
+  <summary>Daniel Hathaway
+@funny_astro
+twitch.tv/funnyastro
+ United Kingdom</summary>
 </plugin>

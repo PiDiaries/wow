@@ -2,16 +2,13 @@
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Pokpo</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=199450455&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=199450455&amp;mode=channel_videos (VODs)</sublink>
-</link>
+  <twitch>t/199450455</twitch>
   <thumbnail></thumbnail>
   <summary>Park Hyun-Jun (박현준)
 @Pokpo_ow
@@ -22,10 +19,7 @@ twitch.tv/pokpo3361
 
 <plugin>
   <title>frd</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=102167939&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/102167939</twitch>
   <summary>Nathan Goebel
 – aliases: N64, FrdWnr
 @frdwnr
@@ -35,10 +29,7 @@ twitch.tv/frdwnr
 
 <plugin>
   <title>Gator </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132166675&amp;mode=channel_videos (VODs)</sublink>
-</link>
+  <twitch>t/132166675</twitch>
   <thumbnail></thumbnail>
   <summary>Blake Scott
 @Gator_OW
@@ -46,44 +37,27 @@ twitch.tv/gator_
  United States</summary>
 </plugin>
 
-<plugin>
-  <title>Daco</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146212213&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=146212213&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary>Seo Dong-hyung (서동형)
-@Daco_ow
-twitch.tv/daco_ow
- South Korea</summary>
-</plugin>
 
+<plugin>
+  <title>Hawk</title>
+  <twitch>t/120442477</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Xander Domecq
+@Thee_Hawk
+twitch.tv/hawkshouse
+ United States</summary>
+</plugin>
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
-<plugin>
-  <title>NLaaeR</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44979242&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=44979242&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary>Ilya Koppalov
-@NLaaeR
-twitch.tv/nlaaer
- Russian Federation</summary>
-</plugin>
+
 
 <plugin>
-  <title>Erster</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140184309&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140184309&amp;mode=channel_videos (VODs)</sublink>
-</link>
+  <title>ErsTer</title>
+  <twitch>t/140184309</twitch>
   <thumbnail></thumbnail>
   <summary>Jeong Joon
 @ERSTER_ow
@@ -92,43 +66,36 @@ twitch.tv/erster_ow
 </plugin>
 
 <plugin>
-  <title>BABYBAY </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=142728478&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCwrqnFptuGTUL5u71XxfcHw/ (YouTube)</sublink>
- </link>
- <thumbnail>https://owcdn.net/img/5bd4efbe9ad1b.jpg</thumbnail>
+  <title>BABYBAY</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
+  <thumbnail>https://owcdn.net/img/5bd4efbe9ad1b.jpg</thumbnail>
   <summary>Andrej Francisty
 @KING_BABYBAY
 twitch.tv/a_babybay
  United States</summary>
 </plugin>
 
+<plugin>
+  <title>Edison</title>
+  <twitch>t/136566338</twitch>
+  <thumbnail></thumbnail>
+  <summary>JKim Tae-hoon (김태훈)
+– aliases: 우주킹왕짱태후니, Taehuni
+twitch.tv/edison1_ow
+ South Korea</summary>
+</plugin>
+
+
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
-<plugin>
-  <title>FunnyAstro</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=37926623&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary>Daniel Hathaway
-@funny_astro
-twitch.tv/funnyastro
- United Kingdom</summary>
-</plugin>
 
 <plugin>
   <title>Dogman </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27439029&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=27439029&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/27439029</twitch>
   <summary>Dusttin Bowerman
 @DogmanOW
 twitch.tv/dogman
@@ -138,12 +105,40 @@ twitch.tv/dogman
 <plugin>
   <title>Masaa </title>
   <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148273515&amp;&mode=play  (Live Link)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=148273515&amp;mode=channel_videos (VODs)</sublink>
-</link>
-  <thumbnail></thumbnail>
-  <summary>Petja Kantanen
+    <twitch>t/148273515</twitch>
+    <thumbnail></thumbnail>
+    <summary>Petja Kantanen
 @Masaa_ow
 twitch.tv/massa_ow
  Finland</summary>
-</plugin>
+  </plugin>
+
+  <plugin>
+    <title>SharP</title>
+    <twitch>t/133885064</twitch>
+    <summary>Hugo Sahlberg
+@SharPow_
+twitch.tv/sharpow
+ Sweden</summary>
+    <thumbnail>https://owcdn.net/img/5bda7632940d2.jpg</thumbnail>
+  </plugin>
+
+  <plugin>
+    <title>Kodak </title>
+    <twitch>t/141686450</twitch>
+    <thumbnail>https://owcdn.net/img/5bda699416735.jpg</thumbnail>
+    <summary>Steven Rosenberger
+@KodakOw
+twitch.tv/kodak_ow
+ Germany</summary>
+  </plugin>
+
+  <plugin>
+    <title>Fire</title>
+    <twitch>t/139106669</twitch>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <summary>Anthony King
+@Fire_OW
+twitch.tv/fire_ow
+ United States</summary>
+  </plugin>
