@@ -4,12 +4,14 @@
 
 ################################################################################
 
+
 <plugin>
   <title>Custa </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/114865766</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
-  </summary>
+  <summary>Scott Kennedy
+@Custa
+twitch.tv/custa
+ Australia</summary>
 </plugin>
+

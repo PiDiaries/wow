@@ -1,9 +1,8 @@
-
 <plugin>
   <title>KSF </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/40581472</twitch>
+  <summary>Kyle Frandanisa
+@KSF_OW
+twitch.tv/ksf_ow
+ United States</summary>
 </plugin>

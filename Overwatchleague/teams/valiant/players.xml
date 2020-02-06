@@ -1,74 +1,77 @@
 ################################################################################
-  <thumbnail>https://pbs.twimg.com/profile_images/948321320806174725/Iw8apDJl_400x400.jpg</thumbnail>
-  <fanart>https://i.imgur.com/YIfLwCE.png</fanart>
-  <summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
+<thumbnail>https://pbs.twimg.com/profile_images/948321320806174725/Iw8apDJl_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/YIfLwCE.png</fanart>
+<summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>McGravy </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136956829&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136956829&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/136956829</twitch>
+  <thumbnail></thumbnail>
   <summary>Caleb McGarvey
 @McGravyOW
 twitch.tv/mcgravy
  United States</summary>
 </plugin>
 
-<plugin>
-  <title>FCTFCTN </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary>Russell Campbell
-@FCTFCTN
-twitch.tv/factfiction
- United States</summary>
-<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
-</plugin>
+
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>KSF </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=40581472&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/40581472</twitch>
+  <thumbnail></thumbnail>
   <summary>Kyle Frandanisa
 @KSF_OW
 twitch.tv/ksf_ow
  United States</summary>
 </plugin>
 
-<item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
-</item>
-
 
 <plugin>
-  <title>Custa </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=114865766&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EAFHSM3FQA9N1512685112987.png</thumbnail>
-  <summary>Scott Kennedy
-@Custa
-twitch.tv/custa
- Australia</summary>
+  <title>ksp </title>
+  <twitch>t/140005751</twitch>
+  <summary>Kai Collins
+@yung_ksp
+twitch.tv/ksp_ow
+ United Kingdom</summary>
+  <thumbnail>https://owcdn.net/img/5bda7777ef714.jpg</thumbnail>
 </plugin>
 
 
+<plugin>
+  <title>Apply </title>
+  <twitch>t/138498363</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Damon Conti
+@Apply
+twitch.tv/apply
+ United States</summary>
+</plugin>
+
+<item>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
+</item>
+
+
+
+
+
+
+<plugin>
+  <title></title>
+  <twitch>t/</twitch>
+  <summary></summary>
+  <thumbnail></thumbnail>
+</plugin>

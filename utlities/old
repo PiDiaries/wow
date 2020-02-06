@@ -1720,7 +1720,7 @@ He is primarily a hitscan player known for his aggressive Widowmaker and McCree 
 
 <dir>
   <title>Geguri</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Geguri.xml</link>>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Geguri.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/IBX6S5M0J2CU1549652308660.png</thumbnail>
   <fanart>https://i.imgur.com/UVM9izU.png</fanart>
   <summary>Kim "Geguri" Se-yeon is a South Korean player, currently playing for the Shanghai Dragons.
@@ -1769,7 +1769,7 @@ She gained recognition in the scene after being accused of using an aim bot to p
 
 <dir>
   <title>Diya</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Diya.xml</link>>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Diya.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/V2HLT95TN4LU1549652308661.png</thumbnail>
   <fanart>https://i.imgur.com/8QRMAxG.png</fanart>
   <summary>Weida "Diya" Lu is a Chinese player currently playing for the Shanghai Dragons.</summary>
@@ -2110,4 +2110,13 @@ twitch.tv/tizi_ow
   <summary>Kim Hyo-jong (김효종)
 twitch.tv/haksalow
  South Korea</summary>
+</plugin>
+<plugin>
+  <title>FCTFCTN </title>
+  <twitch>t/107667412</twitch>
+  <summary>Russell Campbell
+@FCTFCTN
+twitch.tv/factfiction
+ United States</summary>
+<thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 </plugin>

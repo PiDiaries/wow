@@ -1,11 +1,11 @@
 ##########################################################################################
 ###########################################################################################
-
 <plugin>
   <title>FCTFCTN </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=107667412&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/107667412</twitch>
+  <summary>Russell Campbell
+@FCTFCTN
+twitch.tv/factfiction
+ United States</summary>
 <thumbnail>https://pbs.twimg.com/profile_images/960395411549597696/IW_Okxy5_400x400.jpg</thumbnail>
 </plugin>

@@ -1,9 +1,9 @@
-
 <plugin>
   <title>Apply </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138498363&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138498363&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/138498363</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Damon Conti
+@Apply
+twitch.tv/apply
+ United States</summary>
 </plugin>
