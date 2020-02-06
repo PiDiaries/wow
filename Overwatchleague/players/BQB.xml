@@ -1,9 +1,11 @@
 
 <plugin>
-  <title>BQB </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>BQB</title>
+  <twitch>t/168851279</twitch>
+  <summary>Lee Sang-bum (이상범)
+– aliases: BUMGOD
+@BQB_kr
+twitch.tv/lsb0798
+ South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

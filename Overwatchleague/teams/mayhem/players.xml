@@ -8,11 +8,8 @@
 
 <plugin>
   <title>Fate</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138037386&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138037386&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png</thumbnail>
+  <twitch>t/138037386</twitch>
+<thumbnail>https://owcdn.net/img/5bd4ee23020cb.jpg</thumbnail>
 <summary>Koo Pan-seung (구판승)
 @panseung2
 twitch.tv/fate_ow
@@ -27,10 +24,7 @@ twitch.tv/fate_ow
 
 <plugin>
   <title>Sayaplayer</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85352894&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85352894&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/85352894</twitch>
   <summary>Ha Jeong-woo (하정우)
 @minon501
 twitch.tv/hjm3935
@@ -40,15 +34,13 @@ twitch.tv/hjm3935
 
 <plugin>
   <title>BQB</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/168851279</twitch>
   <summary>Lee Sang-bum (이상범)
 – aliases: BUMGOD
 @BQB_kr
 twitch.tv/lsb0798
  South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
 <item>
@@ -60,12 +52,10 @@ twitch.tv/lsb0798
 
 <plugin>
   <title>Kris</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125319708&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125319708&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/125319708</twitch>
   <summary>Choi Jun-soo (최준수)
 @Meta_Kris
 twitch.tv/owkris
  South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

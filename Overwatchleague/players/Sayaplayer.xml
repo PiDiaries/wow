@@ -1,9 +1,10 @@
 
 <plugin>
-  <title>Sayaplayer </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85352894&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=85352894&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Sayaplayer</title>
+  <twitch>t/85352894</twitch>
+  <summary>Ha Jeong-woo (하정우)
+@minon501
+twitch.tv/hjm3935
+ South Korea</summary>
+ <thumbnail>https://owcdn.net/img/5bd4cc9ee44c0.jpg</thumbnail>
 </plugin>

@@ -1,9 +1,9 @@
-
 <plugin>
-  <title>Kris </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125319708&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=125319708&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>Kris</title>
+  <twitch>t/125319708</twitch>
+  <summary>Choi Jun-soo (최준수)
+@Meta_Kris
+twitch.tv/owkris
+ South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
