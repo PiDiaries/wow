@@ -1,9 +1,10 @@
 
 <plugin>
   <title>Architect </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=158846066&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=158846066&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/158846066</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4f055d63f6.jpg</thumbnail>
+  <summary>Park Min-ho (박민호)
+@Shock_Architect
+twitch.tv/architect_ow
+ South Korea</summary>
 </plugin>

@@ -1,9 +1,10 @@
 
 <plugin>
   <title>Smurf </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170665523&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=170665523&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/170665523</twitch>
+  <summary>Yoo Myeong-Hwan
+@smurf_ow
+twitch.tv/smurf5
+ South Korea</summary>
 </plugin>
+

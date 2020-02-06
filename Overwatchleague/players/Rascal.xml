@@ -4,9 +4,10 @@
 
 <plugin>
   <title>Rascal </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=144636878&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-
+  <twitch>t/144636878</twitch>
+  <summary>Kim Dong-jun (김동준)
+– aliases: DongJun
+@Rascal_OW
+twitch.tv/rascal0723
+ South Korea</summary>
 </plugin>

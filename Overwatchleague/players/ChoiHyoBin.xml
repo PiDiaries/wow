@@ -3,10 +3,9 @@
 
 <plugin>
   <title>ChoiHyoBin </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=140638319&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/140638319</twitch>
+  <summary>Choi Hyo-Bin (최효빈)
+@Shock_CHB
+twitch.tv/choihyobin_ow
+ South Korea</summary>
 </plugin>
-

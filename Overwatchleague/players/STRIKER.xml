@@ -4,9 +4,10 @@
 
 <plugin>
   <title>Striker </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=136116409&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/136116409</twitch>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/F930WFVYVE601512769820260.png</thumbnail>
+<summary>Kwon Nam-joo (권남주)
+@STRIKER_OW
+twitch.tv/owstriker
+ South Korea</summary>
 </plugin>
