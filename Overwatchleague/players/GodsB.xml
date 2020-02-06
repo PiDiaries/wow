@@ -1,9 +1,10 @@
 
 <plugin>
   <title>GodsB </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137959674&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=137959674&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/137959674</twitch>
+  <summary>Kim Kyeon-Bo (김경보)
+@GodsB_OW
+twitch.tv/godsb_ow
+ South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

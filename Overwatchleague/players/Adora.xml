@@ -1,9 +1,9 @@
-
 <plugin>
   <title>Adora </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163064520&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=163064520&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/163064520</twitch>
+  <summary>Kang Jae-Hwan (강재환)
+@ow_adora
+twitch.tv/ow_adora
+ South Korea</summary>
+ <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
