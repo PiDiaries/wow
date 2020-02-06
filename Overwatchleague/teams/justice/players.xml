@@ -1,15 +1,13 @@
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>LullSiSH</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/84999915</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Lukas Wiklund
 @LullSiSH
 twitch.tv/lullsish_
@@ -18,10 +16,8 @@ twitch.tv/lullsish_
 
 <plugin>
   <title>rOar</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/147233769</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Gye Chang-hoon
 @rOar_ow
 twitch.tv/roar_ow
@@ -30,10 +26,8 @@ twitch.tv/roar_ow
 
 <plugin>
   <title>ELLIVOTE</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/105416092</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Elliot Vaneryd
 @ELLIVOTE
 twitch.tv/ellivote
@@ -41,16 +35,14 @@ twitch.tv/ellivote
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Stratus</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=89131152&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=89131152&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/89131152</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Ethan Yankel
 @StratusEclipse
 twitch.tv/stratuseclipse
@@ -59,10 +51,8 @@ twitch.tv/stratuseclipse
 
 <plugin>
   <title>Corey</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132408020&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132408020&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/132408020</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Corey Nigra
 @Corey_OW
 twitch.tv/corey
@@ -71,20 +61,31 @@ twitch.tv/corey
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>ArK</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
+  <twitch>t/138868831</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
   <summary>Hong Yeon-joon
 @Arkyjun
 twitch.tv/arkyjun
  South Korea</summary>
- <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
 </plugin>
+
+<plugin>
+  <title>AimGod</title>
+  <twitch>t/139934912</twitch>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/S98M3VIS59XR1526600595504.png</thumbnail>
+  <summary>Min-seok Kwon
+– aliases: JEFF
+@aimgod_ow
+twitch.tv/aimgod99
+ South Korea</summary>
+</plugin>
+
+

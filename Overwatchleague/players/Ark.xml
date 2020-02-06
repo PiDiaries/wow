@@ -5,9 +5,11 @@
 
 <plugin>
   <title>ArK</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=138868831&amp;mode=channel_videos (Twitch VOD)</sublink>
-  </link>
-  <summary></summary>
+  <twitch>t/138868831</twitch>
+  <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
+  <summary>Hong Yeon-joon
+@Arkyjun
+twitch.tv/arkyjun
+ South Korea</summary>
+  <thumbnail>https://owcdn.net/img/5bd4ef16c3c8e.jpg</thumbnail>
 </plugin>

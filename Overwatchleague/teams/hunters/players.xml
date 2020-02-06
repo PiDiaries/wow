@@ -15,10 +15,7 @@
 
 <plugin>
   <title>Baconjack</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132359699&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=132359699&amp;mode=channel_videos (VODs)</sublink>
-  </link>
+  <twitch>t/132359699</twitch>
   <summary>Lo Tzu-heng (罗子恒)
 @Baconjack0227
 twitch.tv/baconjack0227

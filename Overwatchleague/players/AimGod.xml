@@ -6,12 +6,12 @@
 ################################################################################
 
 <plugin>
-  <title>AimGod </title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139934912&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=139934912&amp;mode=channel_videos (Twitch VODs)</sublink>
-  </link>
+  <title>AimGod</title>
+  <twitch>t/139934912</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/S98M3VIS59XR1526600595504.png</thumbnail>
-  <summary></summary>
+  <summary>Min-seok Kwon
+– aliases: JEFF
+@aimgod_ow
+twitch.tv/aimgod99
+ South Korea</summary>
 </plugin>
-

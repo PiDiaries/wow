@@ -1,8 +1,9 @@
 <plugin>
-  <title>ELLIVOTE </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=105416092&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>ELLIVOTE</title>
+  <twitch>t/105416092</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Elliot Vaneryd
+@ELLIVOTE
+twitch.tv/ellivote
+ Sweden</summary>
 </plugin>

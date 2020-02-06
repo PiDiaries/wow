@@ -1,8 +1,9 @@
 <plugin>
-  <title>LullSiSH </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=84999915&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>LullSiSH</title>
+  <twitch>t/84999915</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Lukas Wiklund
+@LullSiSH
+twitch.tv/lullsish_
+ Sweden</summary>
 </plugin>

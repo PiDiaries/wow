@@ -1,9 +1,10 @@
 
 <plugin>
-  <title>rOar </title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=147233769&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
+  <title>rOar</title>
+  <twitch>t/147233769</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <summary>Gye Chang-hoon
+@rOar_ow
+twitch.tv/roar_ow
+ South Korea</summary>
 </plugin>
