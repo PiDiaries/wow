@@ -7,7 +7,7 @@
 <dir>
   <title>[COLORffc4c4c4][B]ATLANTA REIGN[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/reign.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_ICON_LTGRAY.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary></summary>
 </dir>
@@ -16,18 +16,18 @@
 <dir>
   <title>[COLORff174b97][B]BOSTON UPRISING[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising.xml</link>
-  <thumbnail>https://github.com/PiDiaries/wow/raw/master/Logos/PNGs/OWL_BostonUprising_Icon_WHITE_BKGD.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_BostonUprising_Logo__1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
   <summary>The Boston Uprising are the team representing Boston, Massachusetts, USA, in the Overwatch League. The league spot is owned by Robert Kraft, Chairman and CEO of the Kraft Group, owners of the American Football team the New England Patriots and various other American sports teams.
   </summary>
 </dir>
 
 <dir>
-<title>[COLORfffda100][B]CHENGDU HUNTERS[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/hunters.xml</link>
-<fanart>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hunters.jpg</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/1064403505765474305/fZQQ_Hhs_400x400.jpg</thumbnail>
-<summary>GUANGZHOU—12 November, 2018—HUYA Inc. (“Huya”), a leading game livestreaming
+  <title>[COLORfffda100][B]CHENGDU HUNTERS[/B][/COLOR]</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/hunters.xml</link>
+  <fanart>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/hunters.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ChengduHunters_Logo_1C_White.png</thumbnail>
+  <summary>GUANGZHOU—12 November, 2018—HUYA Inc. (“Huya”), a leading game livestreaming
 platform in China, today announced that it will operate a brand new team which will be a part
 of the Overwatch LeagueTM (“OWL”). With Chengdu as its home venue, the team will join
 OWL for the start of the 2019 season. The new team has been named the Chengdu Hunters,
@@ -40,18 +40,18 @@ and support in the region. </summary>
 <dir>
   <title>[COLORff0b233f][B]DALLAS FUEL[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fuel.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/fuel.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_DallasFuel_ICON_1C_WHITE.png</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/zw/ZWUOOQTD8D601507148799563.JPG</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
 
 The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
-</summary>
+  </summary>
 </dir>
 
 <dir>
   <title>[COLORfffedc01][B]FLORIDA MAYHEM[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/mayhem.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/mayhem.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_FloridaMayhem_Logo_2020_WHITE_BKGD.png</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/KESOLNFAQB4X1509426964391.jpg</fanart>
   <summary>The Florida Mayhem is the team representing the state of Florida, USA, and the Cities of Miami and Orlando, in the Overwatch League. The league spot is owned by Ben Spoont, CEO and Co-Founder of Misfits.
   </summary>
@@ -61,7 +61,7 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 <dir>
   <title>[COLORff122d42][B]GUANGZHOU CHARGE [/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/charge.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/charge.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/sn/SNTRLHH5IC9C1541707032277.jpg</fanart>
   <summary>NOVEMBER 9, 2018 GUANGZHOU, CHINA - Today, the Nenking Group unveiled the name of its
 Overwatch League team – the Guangzhou Charge.
@@ -75,7 +75,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORfffa7298][B]HANGZHOU SPARK [/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/spark.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/spark.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HangzhouSpark_DIGITAL_Logo_Primary_WHITE.p</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/q5/Q5JM4HO6QW1J1542073748921.jpg</fanart>
   <summary></summary>
 </dir>
@@ -84,7 +84,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORff96ca4e][B]HOUSTON OUTLAWS[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/outlaws.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/outlawsjpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/2g/2GXFGS7BRP4H1509371064521.jpg</fanart>
   <summary>Houston Outlaws is the team representing Houston, Texas, USA, in the Overwatch League. The team is owned by Hector Rodriguez, Owner and CEO of OpTic Gaming.</summary>
 </dir>
@@ -92,7 +92,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORff59cae8][B]LONDON SPITFIRE[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/spitfire.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/spitfire.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/SBNT3DBW78ZK1509426568594.jpg</fanart>
   <summary></summary>
 </dir>
@@ -100,7 +100,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORff381360][B]LOS ANGELES GLADIATORS[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/gladiators.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/gladiators.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M5B8EFZ2GC011509475482766.jpg</fanart>
   <summary>The Los Angeles Gladiators are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The franchise is owned by Stan and Josh Kroenke, owners of several American sports franchises, and founders of KSE Esports. The team owners brought in esports organization Phoenix1, known for previously having a League of Legends team in the NA LCS to run the team.[1]</summary>
 </dir>
@@ -108,7 +108,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORf2a7230f][B]LOS ANGELES VALIANT[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/valiant.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/valiant.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/H4VV3RUOIXW31508539443842.jpg</fanart>
   <summary>The Los Angeles Valiant are one of the two teams representing Los Angeles, California, USA, in the Overwatch League. The league spot is owned by Noah Whinston, CEO of Immortals.</summary>
 </dir>
@@ -116,7 +116,7 @@ into a bright future.”</summary>
 <dir>
   <title>[COLORff181c39][B]NEW YORK EXCELSIOR[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/excelsior.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/nyxl.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/DL1SJ13R46US1509142322417.jpg</fanart>
   <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
 
@@ -127,7 +127,7 @@ The word Excelsior is a Latin word that translates to Ever Upward. The team name
 <dir>
   <title>[COLORff2f3d57][B]PARIS ETERNAL[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/eternal.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/eternal.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://pbs.twimg.com/media/DrgP4vEXcAEhcax.jpg</fanart>
   <summary>
   </summary>
@@ -136,7 +136,7 @@ The word Excelsior is a Latin word that translates to Ever Upward. The team name
 <dir>
   <title>[COLORfff89d2a][B]PHILADELPHIA FUSION[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/fusion.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/fusion.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/M42Y9H65IJVU1509428106162.jpg</fanart>
   <summary>Philadelphia Fusion is the team representing Philadelphia, Pennsylvania, USA, in the Overwatch League.
 
@@ -146,7 +146,7 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 <dir>
   <title>[COLORfffc4c01][B]SAN FRANCISCO SHOCK[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/shock.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/shock.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/o2/O2I2J6NMVY2L1507936126688.jpg</fanart>
   <summary>San Francisco Shock is the team representing San Francisco, California, USA, in the Overwatch League. The franchise is owned by Andy Miller, Chairman and Founder of NRG Esports.</summary>
 </dir>
@@ -154,28 +154,28 @@ The team is owned by Comcast Spectacor, a sports and entertainment company that 
 <dir>
   <title>[COLORff000000][B]SEOUL DYNASTY[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dynasty.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/dynasty.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/h7/H7FZ87D3QL1O1508982858443.jpg</fanart>
   <summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
 
-</summary>
+  </summary>
 </dir>
 
 <dir>
   <title>[COLORffd22730][B]SHANGHAI DRAGONS[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/dragons.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/HFPSBOQ60DZ81506636187520.jpg</fanart>
   <summary>Shanghai Dragons, (上海龙之队 in Chinese), is the team representing Shanghai, China, in the Overwatch League.
 
 The team is owned by NetEase, a Chinese Internet Technology company that distributes Blizzard games in China.
-</summary>
+  </summary>
 </dir>
 
 <dir>
   <title>[COLORff000000][B]TORONTO DEFIANT  [/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/defiant.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/defiant</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://y4j7y8s9.ssl.hwcdn.net/wp-content/uploads/2018/10/TeamAnnouncements-Toronto_OWL_MB-1.png</fanart>
   <summary></summary>
 </dir>
@@ -184,7 +184,7 @@ The team is owned by NetEase, a Chinese Internet Technology company that distrib
 <dir>
   <title>[COLORff0a226c][B]VANCOUVER TITANS  [/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/titans.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/titans.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/uc/UCBKPQF6LB8H1543531400032.jpg</fanart>
   <summary>Vancouver, B.C – The Aquilini Group is proud to present Vancouver’s new esports team: the Vancouver
 Titans of the Overwatch League. The team’s visual identity takes on a local feel, highlighting colours,
@@ -205,6 +205,7 @@ highest level in esports.”</summary>
 <dir>
   <title>[COLORff990034][B]WASHINGTON JUSTICE [/B][/COLOR](leak)</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/justice.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/justice.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/</thumbnail>
   <fanart>https://i.imgur.com/2YLEXxr.png</fanart>
   <summary>
+  </dir>
