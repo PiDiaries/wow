@@ -27,3 +27,12 @@
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_LondonSpitfire_Logo__1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_London_Backplate.png</fanart>
 </plugin>
+
+<dir>
+  <title>London Spitfire Reddit</title>
+  <overwatch>r/LondonSpitfire</overwatch>
+  <summary>Official subreddit of the Overwatch League London Franchise - London Spitfire.</summary>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_LondonSpitfire_Logo__1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_London_Backplate.png</fanart>
+</dir>
+

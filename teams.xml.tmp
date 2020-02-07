@@ -9,12 +9,8 @@
   <summary></summary>
 </dir>
 
-<plugin>
-  <title> </title>
-  <link></link>
-  <thumbnail></thumbnail>
-  <summary></summary>
-</plugin>
+
+
 
 
 <plugin>
@@ -23,3 +19,19 @@
   <thumbnail></thumbnail>
   <summary></summary>
 </plugin>
+
+<plugin>
+  <title>Twitch</title>
+  <twitch>t/</twitch>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</plugin>
+
+<dir>
+    <title> Reddit</title>
+    <overwatch>r/</overwatch>
+    <summary></summary>
+    <thumbnail></thumbnail>
+</dir>
+
