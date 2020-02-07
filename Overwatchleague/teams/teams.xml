@@ -8,7 +8,7 @@
   <title>[COLORffc4c4c4][B]ATLANTA REIGN[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/reign.xml</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_ICON_LTGRAY.png</thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/70/70QOB2WR0C3P1540267802965.jpg</fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary></summary>
 </dir>
 
@@ -16,8 +16,8 @@
 <dir>
   <title>[COLORff174b97][B]BOSTON UPRISING[/B][/COLOR]</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/uprising.xml</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/sprays/uprising</thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/vm/VMWZ5JQNR6BW1508896415184.jpg</fanart>
+  <thumbnail>https://github.com/PiDiaries/wow/raw/master/TEAM_BRANDING/Boston_Uprising/Logos/PNGs/OWL_BostonUprising_Icon_WHITE_BKGD.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
   <summary>The Boston Uprising are the team representing Boston, Massachusetts, USA, in the Overwatch League. The league spot is owned by Robert Kraft, Chairman and CEO of the Kraft Group, owners of the American Football team the New England Patriots and various other American sports teams.
   </summary>
 </dir>
