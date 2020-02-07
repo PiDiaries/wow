@@ -1,3 +1,10 @@
+################################################################################################################################
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+#################################################################################################################################
+
+
+
 <dir>
   <title>GUANGZHOU CHARGE Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/charge/players.xml</link>
@@ -12,8 +19,9 @@ into a bright future.”
   </summary>
 </dir>
 
+
 <plugin>
-  <title>GZ Charge Youtube Channel</title>
+  <title>GUANGZHOU CHARGE Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCNEIscTWvU9KvBLfW_B2AIw/</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
@@ -22,3 +30,13 @@ into a bright future.”
 We are an expansion team in OWL 2019 from Guangzhou, China. Our current roster includes Rio, shu, Chara, HOTBA, Eileen, OnlyWish, nero, Rise, Kyb, and Happy! Subscribe to us to learn more about our players and team! With the youngest roster in the league, we plan to make our mark and lead the charge for the esports movement. #FeelTheCharge </summary>
 </plugin>
 
+
+
+<plugin>
+  <title>GUANGZHOU CHARGE Twitch</title>
+  <twitch>t/278294197</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <summary></summary>
+</plugin>
+  

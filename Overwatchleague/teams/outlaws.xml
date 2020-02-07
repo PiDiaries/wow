@@ -14,6 +14,14 @@
 </dir>
 
 <plugin>
+  <title>HOUSTON OUTLAWS Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCQGNOg0hyqzAiA1TWwaXE1g/</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HoustonOutlaws_Logo__1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
+  <summary>Houston Outlaws is the team representing Houston, Texas, USA, in the Overwatch League. The team is owned by Hector Rodriguez, Owner and CEO of OpTic Gaming.</summary>
+</plugin>
+
+<plugin>
   <title>HOUSTON OUTLAWS Twitch</title>
   <twitch>t/178215326</twitch>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HoustonOutlaws_Logo__1C_WHITE.png</thumbnail>
@@ -21,11 +29,3 @@
   <summary>Houston Outlaws is the team representing Houston, Texas, USA, in the Overwatch League. The team is owned by Hector Rodriguez, Owner and CEO of OpTic Gaming.</summary>
 </plugin>
 
-
-<plugin>
-  <title>HOUSTON OUTLAWS Youtube Channel</title>
-  <link>plugin://plugin.video.youtube/channel/UCQGNOg0hyqzAiA1TWwaXE1g/</link>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HoustonOutlaws_Logo__1C_WHITE.png</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
-  <summary>Houston Outlaws is the team representing Houston, Texas, USA, in the Overwatch League. The team is owned by Hector Rodriguez, Owner and CEO of OpTic Gaming.</summary>
-</plugin>

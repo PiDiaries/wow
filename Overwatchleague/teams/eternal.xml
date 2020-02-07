@@ -15,15 +15,6 @@
   </summary>
 </dir>
 
-<plugin>
-  <title>Paris Eternal Twitch Channel</title>
-  <twitch>t/257814510</twitch>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
-  <summary>
-
-  </summary>
-</plugin>
 
 <plugin>
   <title>Paris Eternal Youtube Channel</title>
@@ -31,6 +22,16 @@
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Official YouTube Account of the Paris Overwatch League Team.
+
+  </summary>
+</plugin>
+
+<plugin>
+  <title>Paris Eternal Twitch Channel</title>
+  <twitch>t/257814510</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
+  <summary>
 
   </summary>
 </plugin>

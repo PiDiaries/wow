@@ -1,3 +1,10 @@
+################################################################################
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
+
+################################################################################
+
+
 <dir>
   <title>Atlanta Reign Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/reign/players.xml</link>
@@ -7,11 +14,29 @@
 </dir>
 
 
+<plugin>
+  <title>Atklanta Reign Twitch</title>
+  <twitch>t/264180182</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
+  <summary></summary>
+</plugin>
+
+
 
 
 <plugin>
   <title>Atlanta Reign Youtube Channel</title>
-  <link>plugin://plugin.video.youtube/channel/yyyyy/<link>
-    <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
-    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
-  </plugin>
+  <link>plugin://plugin.video.youtube/channel/UCcRYeBK7oHYcuChC4RhU6aQ/</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
+</plugin>
+
+
+<plugin>
+  <title>Atklanta Reign Twitch</title>
+  <twitch>t/264180182</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
+  <summary></summary>
+</plugin>

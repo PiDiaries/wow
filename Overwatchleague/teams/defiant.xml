@@ -8,10 +8,22 @@
 </summary>
 </dir>
 
+
+
 <plugin>
   <title>Toronto Defiant Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UC_AKJqxDR0zto0FaU7rDZUA/</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_TorontoDefiant_Icon_1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Toronto_Backplate.png</fanart>
 <summary>The official YouTube channel of the Toronto Defiant Overwatch League team. </summary> 
+</plugin>
+
+
+
+<plugin>
+  <title>Toronto Defiant Twitch</title>
+  <twitch>t/268871302</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_TorontoDefiant_Icon_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Toronto_Backplate.png</fanart>
+  <summary></summary>
 </plugin>

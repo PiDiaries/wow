@@ -7,14 +7,6 @@
 </dir>
 
 <plugin>
-  <title>VANCOUVER TITANS Twitch channel</title>
-  <twitch>t/278717644</twitch>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_VancouverTitans_Logo_1C_WHITE.png</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Vancouver_Backplate.png</fanart>
-  <summary></summary>
-</plugin>
-
-<plugin>
   <title>Vancouver Titans Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UC6Ycem4GDsEQx2SIcTpvkUw/</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_VancouverTitans_Logo_1C_WHITE.png</thumbnail>
@@ -28,4 +20,12 @@ Find us on Social Media:
 → Instagram: https://instagram.com/vancouvertitans
 → Twitch: https://www.twitch.tv/vancouver_titans
 → Web: https://vancouvertitans.gg </summary>
+</plugin>
+
+<plugin>
+  <title>VANCOUVER TITANS Twitch channel</title>
+  <twitch>t/278717644</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_VancouverTitans_Logo_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Vancouver_Backplate.png</fanart>
+  <summary></summary>
 </plugin>

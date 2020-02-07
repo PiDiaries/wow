@@ -4,14 +4,6 @@
 <summary></summary>
 ###########################################################################################
 
-<plugin>
-  <title></title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&mode=play (Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=xxxxxx&amp;mode=channel_videos (VODs)</sublink>
-  </link>
-  <summary></summary>
-</plugin>
 
 <plugin>
   <title> Youtube</title>
@@ -19,3 +11,13 @@
   <thumbnail></thumbnail>
   <summary></summary>
 </plugin>
+
+<plugin>
+  <title>Twitch</title>
+  <twitch>t/</twitch>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <summary></summary>
+</plugin>
+
+

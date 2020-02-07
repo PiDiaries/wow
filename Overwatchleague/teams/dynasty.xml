@@ -1,6 +1,6 @@
 ################################################################################
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_SeoulDynasty_Icon_BLACK_BKGD.png</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Seoul_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_SeoulDynasty_Icon_BLACK_BKGD.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Seoul_Backplate.png</fanart>
 ##################################################################################
 
 <dir>
@@ -10,23 +10,26 @@
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Seoul_Backplate.png</fanart>
   <summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
 
-</summary>
+  </summary>
 </dir>
 
-<plugin>
-  <title>Seoul Dynasty Twitch</title>
-  <twitch>t/176181168</twitch>
-<summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
-
-</summary>
-</plugin>
 
 <plugin>
   <title>Seoul Dynasty Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCNW1k2aJQewbDuwulTpYxBA/</link>
-   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_SeoulDynasty_Icon_BLACK_BKGD.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_SeoulDynasty_Icon_BLACK_BKGD.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Seoul_Backplate.png</fanart>
- <summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
+  <summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
 
-</summary>
+  </summary>
+</plugin>
+
+<plugin>
+  <title>Seoul Dynasty Twitch</title>
+  <twitch>t/176181168</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_SeoulDynasty_Icon_BLACK_BKGD.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Seoul_Backplate.png</fanart>
+  <summary>The Seoul Dynasty is the team representing Seoul, South Korea, in the Overwatch League. The team is owned by Kevin Chou, Chairman and CEO of KSV eSports.
+
+  </summary>
 </plugin>

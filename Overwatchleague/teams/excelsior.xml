@@ -14,16 +14,6 @@ The word Excelsior is a Latin word that translates to Ever Upward. The team name
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
 </dir>
 
-<plugin>
-  <title>New York Excelsior Twitch</title>
-  <twitch>t/175562420</twitch>
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_NewYorkExcelsior_Logo__1C_WHITE.png</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
-  <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
-
-The word Excelsior is a Latin word that translates to Ever Upward. The team name is often shortened to NYXL.</summary>
-</plugin>
-
 
 <plugin>
   <title>New York Excelsior Youtube Channel</title>
@@ -36,3 +26,13 @@ The word Excelsior is a Latin word that translates to Ever Upward. The team name
   </summary>
 </title>
 
+
+<plugin>
+  <title>New York Excelsior Twitch</title>
+  <twitch>t/175562420</twitch>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_NewYorkExcelsior_Logo__1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
+  <summary>The New York Excelsior are the team representing New York, New York, USA, in the Overwatch League. The league spot is owned by Jeff Wilpon, COO of the baseball team The New York Mets.
+
+The word Excelsior is a Latin word that translates to Ever Upward. The team name is often shortened to NYXL.</summary>
+</plugin>

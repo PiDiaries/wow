@@ -17,8 +17,8 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 </dir>
 
 <plugin>
-  <title>Dallas Fuel Twitch Channel</title>
-  <twitch>t/176777787</twitch>
+  <title>Dallas Fuel Youtube Youtube Channel</title>
+  <link>plugin://plugin.video.youtube/channel/UCj4XSmDqIhRT4frKzRTMyrA/</link>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_DallasFuel_ICON_1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
@@ -28,8 +28,8 @@ The team is co-owned by Team Envy and by Team Envy investor Hersh Interactive.
 </plugin>
 
 <plugin>
-  <title>Dallas Fuel Youtube Youtube Channel</title>
-  <link>plugin://plugin.video.youtube/channel/UCj4XSmDqIhRT4frKzRTMyrA/</link>
+  <title>Dallas Fuel Twitch Channel</title>
+  <twitch>t/176777787</twitch>
   <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_DallasFuel_ICON_1C_WHITE.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Dallas Fuel is the team representing Dallas, Texas, USA, in the Overwatch League.
