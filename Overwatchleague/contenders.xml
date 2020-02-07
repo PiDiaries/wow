@@ -3,35 +3,20 @@
 #################################################################################################################################################################
 
 
-<item>
-<title>[B][COLORred]W.I.P.[/COLOR][/B]</title>
-<link>//</link>
-  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WAG4FT2YDWC1518726218799.jpg</thumbnail>
-  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-
-</item>
 
 
 <plugin>
-  <title>Overwatch Contenders</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
-  </link>
+  <title>Overwatch Contenders Twitch</title>
+  <twitch>t/156567621</twitch>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
   <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-  <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
+  <summary>Live and VODof the Overwatch Contenders League</summary>
 </plugin>
 
 <plugin>
-  <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR]</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
-    <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
-  </link>
+  <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR] Youtube</title>
+  <link>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q/</link>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
   <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-  <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
+  <summary>Youtube of the Overwatch Contenders League</summary>
 </plugin>

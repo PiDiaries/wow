@@ -14,6 +14,14 @@
 
 
 <plugin>
+  <title>Official [COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Channel [COLORred]LIVE HOPEFULLY[/COLOR]</title>
+  <link>plugin://plugin.video.youtube/channel/UCiAInBL9kUzz1XRxk66v-gw/live/</link>
+  <thumbnail>https://yt3.ggpht.com/a/AGF-l79DnqpqXCdT_SfaIbH0jjEUJEYmYmeo9p6J=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+  <summary>This is where I think the new Live games will be going. </summary>
+</plugin>
+
+
+<plugin>
   <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Twitch (Needs Twitch Add-On)</title>
   <twitch>t/137512364</twitch>
   <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
@@ -23,17 +31,30 @@
 
 
 
-
 <dir>
   <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Teams</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/teams.xml</link>
-  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/bbecd8c4-141c-422b-8285-e3f8cae79dbb-profile_image-300x300.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_Logo_Primary_LightBG.png</thumbnail>
   <fanart>http://i.mineski.net/articles/featured_banners/42fc499d-b649-446b-8756-dc5892ae5b48/4947febc495bff12e6cef6a42ff2dd8f.jpg?1512827734</fanart>
   <summary>For all the Team information</summary>
 </dir>
 
+<dir>
+  <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR] Youtube</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/contenders.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
+  <thumbnail>Overwatch_Contenders.png</thumbnail>
+  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+  <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
+</dir>
 
-
+<dir>
+  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Casting Talent</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast.xml</link>
+  <thumbnail></thumbnail>
+  <fanart>https://bnetcmsus-a.akamaihd.net/cms/blog_header/rw/RWVM50TF6NB61515192028543.jpg</fanart>
+  <summary>League Analysts,  Commentators and Announcers</summary>
+</dir>
 
 
 
@@ -55,9 +76,11 @@ www.consolegamingleague.com</summary>
 </plugin>
 
 
+
+
 <dir>
   <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Subreddit</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owl.xml</link>
-  <thumbnail></thumbnail>
+  <overwatch>r/OverwatchLeague</overwatch>
+  <summary>Overwatch League is a Professional esports league operated by Activision Blizzard. Join us to gather news, discuss matches, and everything else about the Overwatch League!</summary>
+  <thumbnail>https://styles.redditmedia.com/t5_34k05/styles/communityIcon_arza1htp13211.png</thumbnail>
 </dir>
-

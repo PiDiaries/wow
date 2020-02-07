@@ -3,14 +3,6 @@
 ################################################################################
 
 
-
-<plugin>
-<title>Latest Game News | Overwatch</title>
-<link>plugin://plugin.video.youtube/channel/UClOf1XXinvZsy4wKPAkro2A/playlist/PLAYFVhxsaqDt4d3tsyvqZg4CvrHC7pPe2/</link>
-</plugin>
-
-
-
 <dir>
   <title>[COLORfffe9f2b][B]Overwatch[/B][/COLOR] eSports</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/overwatchleague.xml</link>
@@ -61,13 +53,7 @@ This channel was generated automatically by YouTube's video discovery system.</s
   <fanart>https://i.ytimg.com/vi/sQfk5HykiEk/maxresdefault.jpg</fanart>
 </plugin>
 
-<dir>
-  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Casting Talent</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/cast.xml</link>
-  <thumbnail></thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/blog_header/rw/RWVM50TF6NB61515192028543.jpg</fanart>
-  <summary>League Analysts,  Commentators and Announcers</summary>
-</dir>
+
 
 
 
