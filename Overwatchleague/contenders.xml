@@ -1,4 +1,6 @@
 #################################################################################################################################################################
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/Overwatch_Contenders.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/contenders.jpg</fanart>
 
 #################################################################################################################################################################
 
@@ -8,15 +10,15 @@
 <plugin>
   <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR] Twitch</title>
   <twitch>t/156567621</twitch>
-  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
-  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-  <summary>Live and VODof the Overwatch Contenders League</summary>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/Overwatch_Contenders.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/contenders.jpg</fanart>
+  <summary>Live and VOD of the Overwatch Contenders League</summary>
 </plugin>
 
 <plugin>
   <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR] Youtube</title>
   <link>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q/</link>
-  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
-  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/Overwatch_Contenders.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/contenders.jpg</fanart>
   <summary>Youtube of the Overwatch Contenders League</summary>
 </plugin>
