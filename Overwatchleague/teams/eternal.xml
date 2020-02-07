@@ -1,37 +1,36 @@
 #############################################################################################
-  <thumbnail>https://pbs.twimg.com/profile_images/1060918382600613893/cN-k4EoP_400x400.jpg</thumbnail>
-  <fanart>https://pbs.twimg.com/media/DrgP4vEXcAEhcax.jpg</fanart>
-<summary></summary>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
 
 ############################################################################################
 
 
 <dir>
-  <title>Roster</title>
+  <title>Paris Eternal Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/eternal/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/1060918382600613893/cN-k4EoP_400x400.jpg</thumbnail>
-  <fanart>https://pbs.twimg.com/media/DrgP4vEXcAEhcax.jpg</fanart>
-<summary>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
+  <summary>
 
-</summary>
+  </summary>
 </dir>
 
 <plugin>
   <title>Paris Eternal Twitch Channel</title>
   <twitch>t/257814510</twitch>
-  <thumbnail>https://pbs.twimg.com/profile_images/1060918382600613893/cN-k4EoP_400x400.jpg</thumbnail>
-  <fanart>https://pbs.twimg.com/media/DrgP4vEXcAEhcax.jpg</fanart>
- <summary>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
+  <summary>
 
-</summary>
+  </summary>
 </plugin>
 
 <plugin>
   <title>Paris Eternal Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCMhH_P7vszwOI5aqvDhCRAA/</link>
-  <thumbnail>https://yt3.ggpht.com/a/AGF-l79-cElnpbhlUT4ZtkObE7W1JIc6PHvFKVDFqA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
-  <fanart>https://pbs.twimg.com/media/DrgP4vEXcAEhcax.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Official YouTube Account of the Paris Overwatch League Team.
 
-</summary>
+  </summary>
 </plugin>

@@ -1,8 +1,8 @@
 <dir>
   <title>GUANGZHOU CHARGE Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/charge/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/1060732874641440768/1EnQlInr_400x400.jpg</thumbnail>
-  <fanart>https://raw.githubusercontent.com/PiDiaries/wow/master/TEAM_BRANDING/Guangzhou_Charge/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>NOVEMBER 9, 2018 GUANGZHOU, CHINA - Today, the Nenking Group unveiled the name of its
 Overwatch League team – the Guangzhou Charge.
 The Nenking Group’s Executive Chairman, Mr. Zhong Naixiong, is proud to be the first Chinese
@@ -15,7 +15,8 @@ into a bright future.”
 <plugin>
   <title>GZ Charge Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCNEIscTWvU9KvBLfW_B2AIw/</link>
-  <thumbnail>https://yt3.ggpht.com/a/AGF-l7_jWT_y8rjOagUIPhr6paDPzbVqznOLfjFhGg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_GuangzhouCharge_Logo_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Welcome to the official YouTube channel for the Guangzhou Charge Overwatch League Team!
 
 We are an expansion team in OWL 2019 from Guangzhou, China. Our current roster includes Rio, shu, Chara, HOTBA, Eileen, OnlyWish, nero, Rise, Kyb, and Happy! Subscribe to us to learn more about our players and team! With the youngest roster in the league, we plan to make our mark and lead the charge for the esports movement. #FeelTheCharge </summary>

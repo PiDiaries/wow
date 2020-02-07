@@ -1,14 +1,14 @@
 ################################################################################
-  <thumbnail>https://pbs.twimg.com/profile_images/999517393629020160/Jmp8ElfU_400x400.jpg</thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/HFPSBOQ60DZ81506636187520.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ShanghaiDragons_Logo_Horizontal_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
 
 ################################################################################
 
 <dir>
   <title>SHANGHAI DRAGONS Roster</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/dragons/players.xml</link>
-  <thumbnail>https://pbs.twimg.com/profile_images/999517393629020160/Jmp8ElfU_400x400.jpg</thumbnail>
-  <fanart>https://bnetcmsus-a.akamaihd.net/cms/gallery/HFPSBOQ60DZ81506636187520.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ShanghaiDragons_Logo_Horizontal_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Shanghai Dragons, (上海龙之队 in Chinese), is the team representing Shanghai, China, in the Overwatch League.
 
 The team is owned by NetEase, a Chinese Internet Technology company that distributes Blizzard games in China.
@@ -18,6 +18,7 @@ The team is owned by NetEase, a Chinese Internet Technology company that distrib
 <plugin>
   <title>Shanghai Dragons Youtube Channel</title>
   <link>plugin://plugin.video.youtube/channel/UCHvqr2RMlIAmDiJe-zwvZnw/</link>
-  <thumbnail>https://yt3.ggpht.com/a/AGF-l79iloh11fVaYgUsI2F_VFYn27fbxOddWCYMIw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ShanghaiDragons_Logo_Horizontal_1C_WHITE.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
 <summary>The official YouTube channel for the Overwatch League team representing Shanghai #Breakthrough </summary> 
 </plugin>
