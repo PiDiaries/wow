@@ -1,5 +1,6 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Toronto_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_TorontoDefiant_Icon_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Toronto_Backplate.png</fanart>
 
 ################################################################################
 
@@ -11,6 +12,8 @@
 <plugin>
   <title>Beast</title>
   <twitch>t/44304678</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Adam Denton
 – aliases: Beasthalo
 @Beasthalo
@@ -21,8 +24,9 @@ twitch.tv/beasthalo
 <plugin>
   <title>Nevix</title>
   <twitch>t/100336273</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png</thumbnail>
-<summary>Andreas Karlsson
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/QCO0N7H8SQFT1512777247525.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <summary>Andreas Karlsson
 @Nevix_OW
 twitch.tv/nevixow
  Sweden</summary>
@@ -37,7 +41,7 @@ twitch.tv/nevixow
   <title>Logix</title>
   <twitch>t/26508156</twitch>
   <thumbnail>https://owcdn.net/img/5bd4cc91302f8.jpg</thumbnail>
-  <fanart></fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Andreas Berghmans
 @Logix_OW
 twitch.tv/logixow
@@ -47,6 +51,8 @@ twitch.tv/logixow
 <plugin>
   <title>Mangachu</title>
   <twitch>t/37438044</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Liam Campbell
 @Mangachu_
 twitch.tv/mangachu</summary>
@@ -56,6 +62,7 @@ twitch.tv/mangachu</summary>
   <title>Agilities </title>
   <twitch>t/126162810</twitch>
   <thumbnail>https://owcdn.net/img/5bd4edff5f345.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Brady Girardi
 @agilities
 twitch.tv/agilities
@@ -65,8 +72,9 @@ twitch.tv/agilities
 <dir>
   <title>Surefour</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Surefour.xml</link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
-<summary>Lane Roberts
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/JQ2S2QRB0QCM1512769977581.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <summary>Lane Roberts
 @Surefour
 twitch.tv/surefour
  Canada</summary>
@@ -83,6 +91,7 @@ twitch.tv/surefour
   <title>KariV</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/KariV.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Park Young-seo (박영서)
 @KarivOW
 twitch.tv/kariv2
@@ -92,6 +101,8 @@ twitch.tv/kariv2
 <plugin>
   <title>RoKy</title>
   <twitch>t/130179746</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Park Joo-seong (박주성)
 – aliases: Roki
 @OW_RoKY
@@ -102,8 +113,8 @@ twitch.tv/roky_ow</summary>
   <title>Kellex</title>
   <twitch>t/76581890</twitch>
   <thumbnail>https://owcdn.net/img/5bd4c44367354.jpg</thumbnail>
-<fanart>https://i.imgur.com/16beLrm.png</fanart>
-<summary>Kristian Keller
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <summary>Kristian Keller
 @KellexOW
 twitch.tv/Kellex
  Denmark</summary>

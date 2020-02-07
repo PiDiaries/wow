@@ -1,4 +1,5 @@
 ################################################################################
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_AtlantaReign_Logo_1C_White.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
 
 ################################################################################
@@ -10,7 +11,8 @@
 <plugin>
   <title>Pokpo</title>
   <twitch>t/199450455</twitch>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Park Hyun-Jun (박현준)
 @Pokpo_ow
 twitch.tv/pokpo3361
@@ -21,6 +23,8 @@ twitch.tv/pokpo3361
 <plugin>
   <title>frd</title>
   <twitch>t/102167939</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Nathan Goebel
 – aliases: N64, FrdWnr
 @frdwnr
@@ -31,7 +35,8 @@ twitch.tv/frdwnr
 <plugin>
   <title>Gator </title>
   <twitch>t/132166675</twitch>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Blake Scott
 @Gator_OW
 twitch.tv/gator_
@@ -43,6 +48,7 @@ twitch.tv/gator_
   <title>Hawk</title>
   <twitch>t/120442477</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Xander Domecq
 @Thee_Hawk
 twitch.tv/hawkshouse
@@ -59,7 +65,8 @@ twitch.tv/hawkshouse
 <plugin>
   <title>ErsTer</title>
   <twitch>t/140184309</twitch>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Jeong Joon
 @ERSTER_ow
 twitch.tv/erster_ow
@@ -70,6 +77,7 @@ twitch.tv/erster_ow
   <title>BABYBAY</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/BABYBAY.xml</link>
   <thumbnail>https://owcdn.net/img/5bd4efbe9ad1b.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Andrej Francisty
 @KING_BABYBAY
 twitch.tv/a_babybay
@@ -79,7 +87,8 @@ twitch.tv/a_babybay
 <plugin>
   <title>Edison</title>
   <twitch>t/136566338</twitch>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>JKim Tae-hoon (김태훈)
 – aliases: 우주킹왕짱태후니, Taehuni
 twitch.tv/edison1_ow
@@ -97,6 +106,8 @@ twitch.tv/edison1_ow
 <plugin>
   <title>Dogman </title>
   <twitch>t/27439029</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
   <summary>Dusttin Bowerman
 @DogmanOW
 twitch.tv/dogman
@@ -107,7 +118,8 @@ twitch.tv/dogman
   <title>Masaa </title>
   <link>
     <twitch>t/148273515</twitch>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
     <summary>Petja Kantanen
 @Masaa_ow
 twitch.tv/massa_ow
@@ -117,10 +129,12 @@ twitch.tv/massa_ow
   <plugin>
     <title>SharP</title>
     <twitch>t/133885064</twitch>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
     <summary>Hugo Sahlberg
 @SharPow_
 twitch.tv/sharpow
  Sweden</summary>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
     <thumbnail>https://owcdn.net/img/5bda7632940d2.jpg</thumbnail>
   </plugin>
 
@@ -128,6 +142,7 @@ twitch.tv/sharpow
     <title>Kodak </title>
     <twitch>t/141686450</twitch>
     <thumbnail>https://owcdn.net/img/5bda699416735.jpg</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
     <summary>Steven Rosenberger
 @KodakOw
 twitch.tv/kodak_ow
@@ -138,6 +153,7 @@ twitch.tv/kodak_ow
     <title>Fire</title>
     <twitch>t/139106669</twitch>
     <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Atlanta_Backplate.png</fanart>
     <summary>Anthony King
 @Fire_OW
 twitch.tv/fire_ow

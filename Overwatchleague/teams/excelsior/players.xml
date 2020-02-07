@@ -1,20 +1,22 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_NewYorkExcelsior_Logo__1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <dir>
   <title>Mano </title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mano.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Kim Dong-gyu (김동규)
 @Mano_OWL
 twitch.tv/manoowl
  South Korea</summary>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V1YNOWR1LEWJ1512686065135.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V1YNOWR1LEWJ1512686065135.png</thumbnail>
 </dir>
 
 
@@ -22,7 +24,7 @@ twitch.tv/manoowl
   <title>Hotba</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/HOTBA.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/22GX8ARIM7KJ1549664661218.png</thumbnail>
-  <fanart></fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Choi Hong-joon
 @HOTBA_OW
 twitch.tv/hotba_ow
@@ -31,8 +33,8 @@ twitch.tv/hotba_ow
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -41,6 +43,7 @@ twitch.tv/hotba_ow
   <title>Nenne</title>
   <twitch>t/138595942</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Jeong Yeon-kwan
 @Nenne_chu
 twitch.tv/nenne_ow
@@ -50,27 +53,30 @@ twitch.tv/nenne_ow
 <dir>
   <title>Libero</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Libero.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Kim Hye-sung (김혜성)
 @Liberot99
 twitch.tv/liberot99
  South Korea</summary>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/SATARK69GT121512686065257.png</thumbnail>
 </dir>
 
 <dir>
   <title>Saebyeolbe</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Saebyeolbe.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Park Jong Ryeol
 @saebyeolbe
 twitch.tv/saebyeolbe
  South Korea</summary>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U38D6YQ3CHOO1512686065514.png</thumbnail>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/U38D6YQ3CHOO1512686065514.png</thumbnail>
 </dir>
 
 <plugin>
   <title>Whoru</title>
   <twitch>t/137902244</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Lee Seung-joon (이승준)
 @whoru
 twitch.tv/whoru823
@@ -78,8 +84,8 @@ twitch.tv/whoru823
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -87,6 +93,7 @@ twitch.tv/whoru823
   <title>ANAMO</title>
   <twitch>t/145052671</twitch>
   <thumbnail>https://owcdn.net/img/5bd4ef0c0f0ed.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
   <summary>Jeong Tae-seong (정태성)
 @Anamo_ow
 twitch.tv/anamo_ow</summary>
@@ -95,9 +102,9 @@ twitch.tv/anamo_ow</summary>
 <plugin>
   <title>JJoNak </title>
   <twitch>140577538</twitch>
-  </link>
-<thumbnail>https://owcdn.net/img/5bd4eef0ec536.jpg</thumbnail>
-<summary>Bang Sung-hyeon (방성현)
+  <thumbnail>https://owcdn.net/img/5bd4eef0ec536.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_NewYork_Backplate.png</fanart>
+  <summary>Bang Sung-hyeon (방성현)
 @JJoNakLove
 twitch.tv/jjonaklove
  South Korea</summary>

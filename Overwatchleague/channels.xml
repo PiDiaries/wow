@@ -92,6 +92,18 @@ I'm 6'2 120 lbs
     <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/xqcow-profile_image-9298dca608632101-300x300.jpeg</thumbnail>
   </dir>
 
+  <plugin>
+    <title>Fragi</title>
+    <twitch>t/37210499</twitch>
+    <thumbnail>https://owcdn.net/img/5bd4ef7ee7234.jpg</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+    <summary>JJoona Laine
+@fragiOW
+twitch.tv/fragiow
+ Finland</summary>
+  </plugin>
+
+
 
   <plugin>
     <title>sweet_anita</title>
@@ -124,6 +136,20 @@ I'm 6'2 120 lbs
     <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/a_seagull-profile_image-4d2d235688c7dc66-300x300.png</thumbnail>
     <summary></summary>
   </dir>
+
+
+  <dir>
+    <title>Mickie</title>
+    <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Mickie.xml</link>
+    <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
+    <summary>Pongphop Rattanasangchod
+@MickiePP
+twitch.tv/mickiepp
+ Thailand</summary>
+  </dir>
+
+
+
 
   <plugin>
     <title>kafeeeeee_ow</title>

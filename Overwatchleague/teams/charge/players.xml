@@ -1,19 +1,23 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HangzhouSpark_Logo_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Hangzhou_Backplate.png</fanart>
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Rio</title>
   <twitch>t/143673261</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Oh Seung-pyo (오승표)
 @osp0418
 twitch.tv/osp0418
 South Korea</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
 
@@ -21,22 +25,11 @@ South Korea</summary>
 
 
 
-
-
-<plugin>
-  <title>Fragi</title>
-  <twitch>t/37210499</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/Q1UDN2ME09O31515702582682.png</thumbnail>
-<summary>JJoona Laine
-@fragiOW
-twitch.tv/fragiow
- Finland</summary>
-</plugin>
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -44,6 +37,7 @@ twitch.tv/fragiow
   <title>nero</title>
   <twitch>t/136943639</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Charlie Zwarg
 @ow_nero
 twitch.tv/nero_overwatch
@@ -53,6 +47,8 @@ United States</summary>
 <plugin>
   <title>Happy</title>
   <twitch>t/421352709</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Lee Jung-woo (이정우)
 – aliases: Vesta
 @wjddn1763
@@ -64,7 +60,7 @@ twitch.tv/owhappy2
   <title>Eileen</title>
   <twitch>t/234650956</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-  <fanart></fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Ou Yiliang (欧倚良)
 @Eileenzhi1
 twitch.tv/eileenzh
@@ -73,15 +69,15 @@ twitch.tv/eileenzh
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Chara</title>
   <twitch>t/129089526</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-  <fanart></fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
   <summary>Kim Jung-yeon (김정연)
 @Chara_RRRing
 twitch.tv/chara_ow
@@ -91,41 +87,42 @@ twitch.tv/chara_ow
 <plugin>
   <title>Rise</title>
   <link>
-  <twitch>t/406129570</twitch>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-  <summary>Jee Won-jae
+    <twitch>t/406129570</twitch>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+    <summary>Jee Won-jae
 – aliases: WonJaeLee
 twitch.tv/Rise_OW
  South Korea</summary>
-</plugin>
+  </plugin>
 
 
 
-<dir>
-  <title>neptuNo</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/neptuNo.xml</link>
-  <thumbnail>https://owcdn.net/img/5bd4ef23cbbbd.jpgg</thumbnail>
-  <fanart>https://i.imgur.com/tkiguRU.png</fanart>
-  <summary>Alberto González
+  <dir>
+    <title>neptuNo</title>
+    <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/neptuNo.xml</link>
+    <thumbnail>https://owcdn.net/img/5bd4ef23cbbbd.jpgg</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+    <summary>Alberto González
 @neptuNoOW
 twitch.tv/neptuno
  Spain</summary>
-</dir>
+  </dir>
 
 
 
 
 
-<plugin>
-  <title>Shu</title>
-  <twitch>t/172390371</twitch>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-  <fanart></fanart>
-  <summary>Kim Jin-seo
+  <plugin>
+    <title>Shu</title>
+    <twitch>t/172390371</twitch>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Guangzhou_Backplate.png</fanart>
+    <summary>Kim Jin-seo
 @shu_overwatch
 twitch.tv/owl_shu
  South Korea/summary>
-</plugin>
+    </plugin>
 
 
 

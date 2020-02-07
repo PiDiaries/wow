@@ -1,5 +1,6 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ShanghaiDragons_Logo_Horizontal_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
 
 ################################################################################
 <item>
@@ -15,6 +16,7 @@
   <title>Geguri</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Geguri.xml</link>
   <thumbnail>https://owcdn.net/img/5bd5096ae0f8c.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Kim Se-yeon (김세연)
 @Geguri2
 twitch.tv/frog135
@@ -25,6 +27,8 @@ twitch.tv/frog135
 <plugin>
   <title>FEARLESS</title>
   <twitch>t/173255274</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Lee Eui-seok (이의석)
 twitch.tv/dksktl12345
  South Korea</summary>
@@ -33,6 +37,8 @@ twitch.tv/dksktl12345
 <plugin>
   <title>Stand1</title>
   <twitch>t/156533553</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Seo Ji-Won (서지원)
 @Stand1_ow
 twitch.tv/stand1_ow</summary>
@@ -41,6 +47,8 @@ twitch.tv/stand1_ow</summary>
 <plugin>
   <title>Void</title>
   <twitch>t/153696106</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Kang Jun-woo (강준우)
 @Void_OW
 twitch.tv/ow_void
@@ -55,6 +63,8 @@ twitch.tv/ow_void
 <plugin>
   <title>diem</title>
   <twitch>t/147013256</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Bae Min-seong (배민성)
 @diem_ow
 twitch.tv/diem_ow_pop
@@ -65,7 +75,7 @@ twitch.tv/diem_ow_pop
   <title>FLETA</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/FLETA.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/HPP74HXRYLTX1549652303569.png</thumbnail>
-  <fanart>https://i.imgur.com/1Epw17S.png</fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Kim Byung-sun (김병선)
 @ow_fleta
 twitch.tv/fleta92
@@ -82,6 +92,7 @@ twitch.tv/fleta92
   <title>Luffy</title>
   <twitch>t/144636818</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Yang Seong-hyeon (양성현)
 twitch.tv/luffy3439
  South Korea</summary>
@@ -92,6 +103,7 @@ twitch.tv/luffy3439
   <title>Izayaki</title>
   <twitch>t/181397017</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Kim Min-chul (김민철)
 – aliases: Need
 @Izayaki_ow
@@ -103,6 +115,7 @@ twitch.tv/izayaki_ow
   <title>LeeJaeGon</title>
   <twitch>t/144752121</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Shanghai_Backplate.png</fanart>
   <summary>Lee Jae-gon (이재곤)
 – aliases: 빡겜유저이재곤
 twitch.tv/leejaegon

@@ -1,5 +1,8 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_BostonUprising_Logo__1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
+
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
 ################################################################################
 <item>
   <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
@@ -11,6 +14,7 @@
   <title>Fusions </title>
   <twitch>t/45815466</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
   <summary>Cameron Bosworth
 @Fusions
 twitch.tv/fusions_ow
@@ -21,6 +25,7 @@ twitch.tv/fusions_ow
   <title>Axxiom </title>
   <twitch>t/207889636</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
   <summary>Park Min-sub (박민섭)
 – aliases: Quinas
 @AxxiomOW
@@ -31,11 +36,12 @@ twitch.tv/axxiom_
 <plugin>
   <title>Mouffin</title>
   <twitch>t/98494565</twitch>
-  <summary>Walid Bassal
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
+<summary>Walid Bassal
 @TheMouffinMan
 twitch.tv/mouffin
  Canada</summary>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
 <item>
@@ -47,7 +53,8 @@ twitch.tv/mouffin
 <plugin>
   <title>Colourhex </title>
   <twitch>t/81190365</twitch>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
   <summary>Kelsey Birse
 @Colourhex217
 twitch.tv/colourhex
@@ -57,11 +64,11 @@ twitch.tv/colourhex
 <plugin>
   <title>Munchkin </title>
   <twitch>153587615</twitch>
-  <summary>Byeon Sang-beom (변상범)
 @MunchkinOW
 twitch.tv/munchkinow
  South Korea</summary>
   <thumbnail>https://owcdn.net/img/5bd502e391ffc.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
 </plugin>
 
 

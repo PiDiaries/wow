@@ -1,20 +1,22 @@
 ################################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_LAGladiators_Logo_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
 ###############################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <dir>
   <title>OGE</title>
   <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/OGE.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
   <summary>Son Min-seok (손민석)
 – aliases: OG
 @OGE_ow
 twitch.tv/oge_ow
  South Korea</summary>
- <thumbnail>https://owcdn.net/img/5bd4c53a3ef4b.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4c53a3ef4b.jpg</thumbnail>
 </dir>
 
 
@@ -23,8 +25,9 @@ twitch.tv/oge_ow
 <plugin>
   <title>SPACE</title>
   <twitch>t/147953635</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
-<summary>Indy Halpern
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+  <summary>Indy Halpern
 @spaceOW
 twitch.tv/space
  United States</summary>
@@ -34,7 +37,7 @@ twitch.tv/space
   <title>Bischu</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Bischu.xml</link>
   <thumbnail>https://owcdn.net/img/5bd4ed872dc02.jpg</thumbnail>
-  <fanart>https://i.imgur.com/eHxdURP.png</fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
   <summary>Aaron Kim
 @BischuGG
 twitch.tv/bischulol
@@ -44,34 +47,37 @@ twitch.tv/bischulol
 <plugin>
   <title>lhcloudy</title>
   <twitch>t/150814235</twitch>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Roni Tiihonen
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+  <summary>Roni Tiihonen
 @LhCloudy
 twitch.tv/lhcloudy27
  Finland</summary>
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>birdring </title>
   <twitch>t/144548334</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
   <summary>Kim Ji-hyuk (김지혁)
 @birdring_ow
 twitch.tv/birdring_ow
  South Korea</summary>
- <thumbnail>https://owcdn.net/img/5bd4ed3b5a486.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4ed3b5a486.jpg</thumbnail>
 </plugin>
 
 
 <plugin>
   <title>Jaru</title>
   <twitch>t/104839872</twitch>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Jason White
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+  <summary>Jason White
 @JaruOW
 twitch.tv/jaru
  United States</summary>
@@ -80,8 +86,9 @@ twitch.tv/jaru
 <plugin>
   <title>MirroR</title>
   <twitch>t/136751316</twitch>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Chris Trịnh
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+  <summary>Chris Trịnh
 @MirroR_ow
 twitch.tv/owmirror
  Vietnam</summary>
@@ -89,13 +96,15 @@ twitch.tv/owmirror
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Ripa</title>
   <twitch>t/165599956</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
   <summary>Riku Toivanen
 @Ripa_ow
 twitch.tv/ripatv
@@ -106,6 +115,7 @@ twitch.tv/ripatv
   <title>BigGoose</title>
   <twitch>t/41703896</twitch>
   <thumbnail>https://owcdn.net/img/5bd4ed9228941.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
   <summary>Benjamin Isohanni
 – aliases: BigG00se
 @BigGooseOW
@@ -116,21 +126,22 @@ twitch.tv/biggooseow
 
 <plugin>
   <title>Shaz<title>
-  <twitch>t/31047413</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/V4HSZKOHJGN21512769977468.png</thumbnail>
-<summary>Jonas Suovaara
+    <twitch>t/31047413</twitch>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+    <summary>Jonas Suovaara
 @Shaz_ow
 twitch.tv/shaz_ow
  Finland</summary>
- <thumbnail>https://owcdn.net/img/5bd4edbaada32.jpg</thumbnail>
-</plugin>
+    <thumbnail>https://owcdn.net/img/5bd4edbaada32.jpg</thumbnail>
+  </plugin>
 
-<plugin>
-  <title>Paintbrush</title>
-  <twitch>t/144848507</twitch>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Nolan Edwards
+  <plugin>
+    <title>Paintbrush</title>
+    <twitch>t/144848507</twitch>
+    <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+    <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_LosAngelesG_Backplate.png</fanart>
+    <summary>Nolan Edwards
 @paintbrush
 twitch.tv/paintbrushie
  United States</summary>
-</plugin>
+  </plugin>

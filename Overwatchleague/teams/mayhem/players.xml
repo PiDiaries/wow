@@ -1,6 +1,6 @@
 ################################################################################
-  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_FloridaMayhem_Logo_2020_WHITE_BKGD.ai.png</thumbnail>
-  <fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_FloridaMayhem_Logo_2020_WHITE_BKGD.ai.png</thumbnail>
+<fanart></fanart>
 
 ################################################################################
 <item>
@@ -37,12 +37,12 @@ twitch.tv/hjm3935
 <plugin>
   <title>BQB</title>
   <twitch>t/168851279</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Lee Sang-bum (이상범)
 – aliases: BUMGOD
 @BQB_kr
 twitch.tv/lsb0798
  South Korea</summary>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>
 
 <item>
@@ -55,9 +55,9 @@ twitch.tv/lsb0798
 <plugin>
   <title>Kris</title>
   <twitch>t/125319708</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Choi Jun-soo (최준수)
 @Meta_Kris
 twitch.tv/owkris
  South Korea</summary>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
 </plugin>

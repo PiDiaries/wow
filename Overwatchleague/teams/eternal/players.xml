@@ -1,10 +1,11 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ParisEternal_Logo_1C_White.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -12,6 +13,7 @@
   <title>BenBest</title>
   <twitch>t/133993495</twitch>
   <thumbnail>https://owcdn.net/img/5bda64404ad4d.jpg</thimbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Benjamin Dieulafait
 @BenBest_Ow
 twitch.tv/benbest_ow
@@ -22,6 +24,7 @@ twitch.tv/benbest_ow
   <title>Smex</title>
   <twitch>t/134369261</twitch>
   <thumbnail>https://owcdn.net/img/5bda78425f026.jpg</thimbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Eoghan O'Neill
 @smexy
 twitch.tv/smex
@@ -29,25 +32,27 @@ twitch.tv/smex
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
- <dir>
+<dir>
   <title>SoOn</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SoOn.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Terence Tarlier
 @SoOn99
 twitch.tv/soonsm
  France</summary>
-<thumbnail>https://owcdn.net/img/5bd4ee4d98d12.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4ee4d98d12.jpg</thumbnail>
 </dir>
 
 <plugin>
   <title>NiCOgdh</title>
-  <twitch>t/17401940<twitch>
+  <twitch>t/17401940</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Nicolas Moret
 @Eagle_NiCOgdh
 twitch.tv/nicogdh
@@ -58,19 +63,20 @@ twitch.tv/nicogdh
 <plugin>
   <title>SP9RK1E</title>
   <twitch>t/144475748</twitch>
-</link>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Kim Young-han (김영한)
+
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
+  <summary>Kim Young-han (김영한)
 twitch.tv/sp9rk1e
  South Korea
-</summary>
+  </summary>
 </plugin>
 
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
@@ -78,6 +84,7 @@ twitch.tv/sp9rk1e
   <title>HyP</title>
   <twitch>t/44546356</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Damien Souville
 @Eagle_HyP
 twitch.tv/hyp_tv
@@ -87,8 +94,8 @@ twitch.tv/hyp_tv
 <plugin>
   <title>Greyy</title>
   <twitch>t/39559629</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
-
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Luís Perestrelo
 @GreyyOW
 twitch.tv/greyyow
@@ -99,6 +106,7 @@ twitch.tv/greyyow
   <title>Kruise</title>
   <twitch>t/120774232</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Paris_Backplate.png</fanart>
   <summary>Harrison Pond
 @KruiseOW
 twitch.tv/kruise

@@ -1,17 +1,19 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_DallasFuel_ICON_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
 
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>NotE</title>
   <twitch>t/63034034</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
-<summary>Lucas Meissner
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/ZAVAW7C7SJIL1512769819984.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
+  <summary>Lucas Meissner
 @NotEvenBleu
 twitch.tv/notevenbleu
  Canada</summary>
@@ -21,6 +23,7 @@ twitch.tv/notevenbleu
   <title>trill</title>
   <twitch>t/140526051</twitch>
   <thumbnail>https://owcdn.net/img/5bda47565007d.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Ashley Powell
 @Trill_ow
 twitch.tv/trill_ow
@@ -30,8 +33,9 @@ twitch.tv/trill_ow
 <dir>
   <title>Gamsu</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Gamsu.xml</link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
-<summary>Noh Yeong-jin (노영진)
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HSZTNWL85J5J1512769819629.png</thumbnail>
+  <summary>Noh Yeong-jin (노영진)
 @GamsuOW
 twitch.tv/gamsuow
  South Korea</summary>
@@ -41,25 +45,28 @@ twitch.tv/gamsuow
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 <plugin>
   <title>aKm</title>
   <twitch>t/31670989</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Dylan Bignet
 @DF_aKm
 twitch.tv/akm_tv
  France</summary>
- <thmbnail>https://owcdn.net/img/5bda643631ae2.jpg</thumbnail>
+  <thmbnail>https://owcdn.net/img/5bda643631ae2.jpg</thumbnail>
 </plugin>
 
 <plugin>
   <title>ZachaREEE</title>
   <twitch>t/135417000</twitch>
   <thumbnail>https://owcdn.net/img/5bda786601f6b.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Zachary Lombardo
 @ZackLombardo_
 twitch.tv/zachareeee
@@ -71,6 +78,7 @@ twitch.tv/zachareeee
   <title>Decay</title>
   <twitch>t/269480122</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Jang Gui-un (장귀운)
 @DecayOW
 twitch.tv/decay012
@@ -78,14 +86,15 @@ twitch.tv/decay012
 </plugin>
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Closer</title>
   <twitch>t/138973451</twitch>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/HP35EVGGR6P91512776037007.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>Jung Won-sik (정원식)
 @CloserOw
 twitch.tv/closerow
@@ -95,20 +104,22 @@ twitch.tv/closerow
 <plugin>
   <title>uNKOE</title>
   <twitch>t/50447542</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
-<summary>Benjamin Chevasson
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/AAKTVQLMQ0IZ1512776701428.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
+  <summary>Benjamin Chevasson
 @uNKOE
 twitch.tv/unkoe
  France
- </summary>
+  </summary>
 </plugin>
 
 
 <dir>
   <title>HarryHook</title>
   <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/HarryHook.xml</link>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/X4JKRJUUAKYH1512685113279.png</thumbnail>
-<summary>Jonathan Tejedor
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/X4JKRJUUAKYH1512685113279.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
+  <summary>Jonathan Tejedor
 @HarryHook
 twitch.tv/harryhook
  Spain</summary>
@@ -118,6 +129,7 @@ twitch.tv/harryhook
   <title>Crimzo</title>
   <twitch>t/131465894</twitch>
   <thumbnail>https://owcdn.net/img/5bda509549ae1.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Dallas_Backplate.png</fanart>
   <summary>William Hernandez
 @Crimzo
 twitch.tv/crimzo

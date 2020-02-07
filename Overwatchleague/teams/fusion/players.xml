@@ -1,17 +1,19 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_PhiladelphiaFusion_Logo_Horizontal_1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
 ################################################################################
 
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Poko </title>
-  <<twitch>t/53265819</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EZQ4D59G4VKH1515621286468.png</thumbnail>
-<summary>Gael Gouzerch
+  <twitch>t/53265819</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/EZQ4D59G4VKH1515621286468.png</thumbnail>
+  <summary>Gael Gouzerch
 @Poko_ow
 twitch.tv/poko
  France</summary>
@@ -21,8 +23,9 @@ twitch.tv/poko
 <plugin>
   <title>Fury </title>
   <twitch>t/131542111</twitch>
-<thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
-<summary>Kim Jun-ho (김준호)
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
+  <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/1XUP30CPRL2O1512776037295.png</thumbnail>
+  <summary>Kim Jun-ho (김준호)
 @Furyy_d
 twitch.tv/furyy_d
  South Korea</summary>
@@ -30,15 +33,16 @@ twitch.tv/furyy_d
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <dir>
   <title>Carpe</title>
   <link>https://github.com/PiDiaries/wow/raw/master/Overwatchleague/players/Carpe.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
   <thumbnail>https://owcdn.net/img/5bd4ef61100da.jpg</thumbnail>
-    <summary>Lee Jae-hyeok (이재혁)
+  <summary>Lee Jae-hyeok (이재혁)
 @carpe_ow
 twitch.tv/carpe
  South Korea</summary>
@@ -49,6 +53,7 @@ twitch.tv/carpe
 <plugin>
   <title>Eqo </title>
   <twitch>t/144332450</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
   <summary>Josh Corona
 @eqo
 twitch.tv/eqobot
@@ -58,9 +63,10 @@ twitch.tv/eqobot
 
 <plugin>
   <title>ChipSa </title>
-  <<twitch>t/135246610</twitch>
-<thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
-<summary>Philip Graham
+  <twitch>t/135246610</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
+  <summary>Philip Graham
 @ChipSa_OW
 twitch.tv/chipsa
  United Kingdom</summary>
@@ -68,24 +74,27 @@ twitch.tv/chipsa
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Boombox</title>
   <twitch>t/87917078</twitch>
-    <summary>Isaac Charles
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
+  <summary>Isaac Charles
 @BoomboxOW
 twitch.tv/boombox
  United Kingdom</summary>
- <thumbnail>https://owcdn.net/img/5bd4ef5059a6b.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4ef5059a6b.jpg</thumbnail>
 </plugin>
 
 
 <plugin>
   <title>FunnyAstro </title>
   <twitch>t/37926623</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
   <summary>Daniel Hathaway
 @funny_astro
 twitch.tv/funnyastro
@@ -96,6 +105,8 @@ twitch.tv/funnyastro
 <plugin>
   <title>Alarm</title>
   <twitch>t/148519305</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Philadelphia_Backplate.png</fanart>
   <summary>Kim Kyeong-bo (김경보)
 @Alarm721
 twitch.tv/alarmo1

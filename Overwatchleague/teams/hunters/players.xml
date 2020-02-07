@@ -1,22 +1,24 @@
 ################################################################################
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Chengdu_Backplate.png</fanart>
-
+  <thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_ChengduHunters_Logo_1C_White.png</thumbnail>
 ################################################################################
 <item>
-<title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]TANKS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 
 
 <item>
-<title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]DPS[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 <plugin>
   <title>Baconjack</title>
   <twitch>t/132359699</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Chengdu_Backplate.png</fanart>
   <summary>Lo Tzu-heng (罗子恒)
 @Baconjack0227
 twitch.tv/baconjack0227
@@ -26,8 +28,8 @@ twitch.tv/baconjack0227
 
 
 <item>
-<title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
-<link>//</link>
+  <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
+  <link>//</link>
 </item>
 
 

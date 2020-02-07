@@ -4,11 +4,7 @@
 
 <plugin>
   <title>Mickie</title>
-  <link>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&mode=play (Twitch Live Link)</sublink>
-  <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=141713412&amp;mode=channel_videos (Twitch VOD)</sublink>
-  <sublink>plugin://plugin.video.youtube/channel/UCusG1UpXusPTEbZMFILLGVg/ (YouTube)</sublink>
-  </link>
+  <twitch>t/141713412</twitch>>
 <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/TMOFUY1T8UKJ1512685113280.png</thumbnail>
   </summary>
 </plugin>

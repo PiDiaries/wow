@@ -1,5 +1,6 @@
 ################################################################################
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_HoustonOutlaws_Logo__1C_WHITE.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
 ################################################################################
 
 <item>
@@ -13,6 +14,7 @@
   <title>SPREE</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/SPREE.xml</link>
   <thumbnail>https://owcdn.net/img/5bd4ebee35128.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Alexandre Vanhomwegen
 @SPREEow
 twitch.tv/spree
@@ -23,6 +25,7 @@ twitch.tv/spree
   <title>Muma</title>
   <twitch>t/96447492</twitch>
   <thumbnail>https://owcdn.net/img/5bd4ec0db2398.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Austin Wilmot
 @Mumanji
 twitch.tv/muma
@@ -33,7 +36,7 @@ twitch.tv/muma
   <title>Meko</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Meko.xml</link>
   <thumbnail>https://owcdn.net/img/5bd4eeffe1a99.jpg</thumbnail>
-  <fanart></fanart>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Kim Tae Hong
 @MekOppa
 twitch.tv/mekoppa
@@ -50,6 +53,7 @@ twitch.tv/mekoppa
   <title>LiNkzr</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/LiNkzr.xml</link>
   <thumbnail>https://yt3.ggpht.com/-riPJ3WcBTcA/AAAAAAAAAAI/AAAAAAAAAAA/TRchx8vvB0w/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Jiri Masalin
 @LinkzrOW
 twitch.tv/linkzr
@@ -61,6 +65,7 @@ twitch.tv/linkzr
   <title>Hydration</title>
   <twitch>t/53176196</twitch>
   <thumbnail>https://www.over.gg/player/1070/hydration</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>João Pedro Goes Telles
 @Hydration
 twitch.tv/hydration
@@ -71,21 +76,23 @@ twitch.tv/hydration
 <plugin>
   <title>blasé</title>
   <twitch>t/85410222</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Jeffrey Tsang
 @blaseOW
 twitch.tv/blase
  United States</summary>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
 </plugin>
 
 <dir>
   <title>Danteh</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Danteh.xml</link>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Dante Cruz
 @DANTEH
 twitch.tv/danteh
  United States</summary>
-  <thumbnail>https://owcdn.net/img/5bd4eff9d8320.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
 </dir>
 
 <item>
@@ -96,11 +103,12 @@ twitch.tv/danteh
 <plugin>
   <title>Boink</title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Boink.xml</link>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Daniel Pence
 @Forceboink
 twitch.tv/forceboink
  United States</summary>
- <thumbnail>https://owcdn.net/img/5bd4ec2b7467b.jpg</thumbnail>
+  <thumbnail>https://owcdn.net/img/5bd4ec2b7467b.jpg</thumbnail>
 </plugin>
 
 
@@ -109,6 +117,7 @@ twitch.tv/forceboink
   <title>Rawkus </title>
   <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/players/Rawkus.xml</link>
   <thumbnail>https://bnetcmsus-a.akamaihd.net/cms/page_media/DMM5P90VN9SX1512616495367.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
   <summary>Shane Flaherty
 @Rawkus
 twitch.tv/itsrawkus
@@ -118,9 +127,10 @@ twitch.tv/itsrawkus
 <plugin>
   <title>rapel</title>
   <twitch>t/172518148</twitch>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Kim Jun-geun (김준근)
 @ow__Rapel
 twitch.tv/kingjungeun
  South Korea</summary>
-  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Houston_Backplate.png</fanart>
 </plugin>

@@ -1,4 +1,6 @@
 ################################################################################
+<thumbnail>https://raw.githubusercontent.com/PiDiaries/wow/master/Logos/PNGs/OWL_LAValiant_Logo_2020_WHITE_BKGD.png</thumbnail>
+<fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/</fanart>
 
 ################################################################################
 <item>
@@ -9,7 +11,8 @@
 <plugin>
   <title>McGravy </title>
   <twitch>t/136956829</twitch>
-  <thumbnail></thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Caleb McGarvey
 @McGravyOW
 twitch.tv/mcgravy
@@ -27,7 +30,8 @@ twitch.tv/mcgravy
 <plugin>
   <title>KSF </title>
   <twitch>t/40581472</twitch>
-  <thumbnail></thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/</fanart>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Kyle Frandanisa
 @KSF_OW
 twitch.tv/ksf_ow
@@ -38,6 +42,7 @@ twitch.tv/ksf_ow
 <plugin>
   <title>ksp </title>
   <twitch>t/140005751</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/</fanart>
   <summary>Kai Collins
 @yung_ksp
 twitch.tv/ksp_ow
@@ -49,6 +54,7 @@ twitch.tv/ksp_ow
 <plugin>
   <title>Apply </title>
   <twitch>t/138498363</twitch>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/</fanart>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <summary>Damon Conti
 @Apply
@@ -63,12 +69,3 @@ twitch.tv/apply
 
 
 
-
-
-
-<plugin>
-  <title></title>
-  <twitch>t/</twitch>
-  <summary></summary>
-  <thumbnail></thumbnail>
-</plugin>
