@@ -34,41 +34,30 @@
 
 
 
-<plugin>
-  <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR]</title>
-  <link>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
-    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
-    <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
-  </link>
-  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
-  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
-  <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
-</plugin>
 
 
 
 <plugin>
   <title>Major League Gaming</title>
-  <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/<link>
-    <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
-    <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
-    </summary>
-  </plugin>
+  <link>plugin://plugin.video.youtube/channel/UCzSItlUKaVNWbd7ybbfnFhg/</link>
+  <thumbnail>https://yt3.ggpht.com/-V_5Fn0zZ1A4/AAAAAAAAAAI/AAAAAAAAAAA/ZsKUjyL2_zo/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+  <summary>MLG (Major League Gaming), a division of Activision Blizzard, is a worldwide leader in esports and serves as the operational foundation, partnership hub, and media production network for the Overwatch League and Call of Duty World League.
+  </summary>
+</plugin>
 
-  <plugin>
-    <title>Console Gaming League</title>
-    <link>plugin://plugin.video.youtube/channel/UCRmv2HT3kpflfvMbSdNBVpg/<link>
-      <thumbnail>https://yt3.ggpht.com/a-/AN66SAxOxhqDrX8QTz0UsSIFSYdmamsPiSZwVne0RQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
-      <summary>Console Gaming League is the premier platform for competitive console gaming on both Xbox and PS4. We currently feature competitive seasons with Overwatch, Fortnite and Destiny. COD, Gears, and PUBG coming soon.  https://discord.gg/bBsQg37
+<plugin>
+  <title>Console Gaming League</title>
+  <link>plugin://plugin.video.youtube/channel/UCRmv2HT3kpflfvMbSdNBVpg/</link>
+  <thumbnail>https://yt3.ggpht.com/a-/AN66SAxOxhqDrX8QTz0UsSIFSYdmamsPiSZwVne0RQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+  <summary>Console Gaming League is the premier platform for competitive console gaming on both Xbox and PS4. We currently feature competitive seasons with Overwatch, Fortnite and Destiny. COD, Gears, and PUBG coming soon.  https://discord.gg/bBsQg37
 
 www.consolegamingleague.com</summary>
-    </plugin>
+</plugin>
 
 
-    <dir>
-      <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Subreddit</title>
-      <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owl.xml</link>
-      <thumbnail></thumbnail>
-    </dir>
+<dir>
+  <title>[COLORfffe9f2b][B]Overwatch League[/B][/COLOR] Subreddit</title>
+  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/owl.xml</link>
+  <thumbnail></thumbnail>
+</dir>
 

@@ -24,62 +24,14 @@
   <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
 </plugin>
 
-
-<dir>
-  <title>AUSTRALIA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/australia/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>CHINA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/china/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>EUROPE</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/europe/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>KOREA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/korea/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>NORTH AMERICA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/na/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>PACIFIC</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/pacific/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
-
-<dir>
-  <title>SOUTH AMERICA</title>
-  <link>https://raw.githubusercontent.com/PiDiaries/wow/master/Overwatchleague/teams/contenders/sa/teams.xml</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-  <summary></summary>
-</dir>
+<plugin>
+  <title>[COLORff8bb911][B]Overwatch Contenders[/B][/COLOR]</title>
+  <link>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&mode=play (Live)</sublink>
+    <sublink>plugin://plugin.video.twitch/?use_player=True&channel_id=156567621&amp;mode=play (VOD)</sublink>
+    <sublink>plugin://plugin.video.youtube/channel/UC0DomVwX-rNlogUVPqCHL_Q (Youtube)</sublink>
+  </link>
+  <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/dc4738a6-5d23-44c9-922c-0542f48a5643-profile_image-300x300.png</thumbnail>
+  <fanart>http://queuetimes.com/wp-content/uploads/2018/02/ijphjnpjnm.png</fanart>
+  <summary>Live, VOD and Youtube of the Overwatch Contenders League</summary>
+</plugin>
