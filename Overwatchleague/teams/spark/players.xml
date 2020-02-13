@@ -63,6 +63,19 @@ twitch.tv/bazziow
  South Korea</summary>
 </plugin>
 
+
+<plugin>
+  <title>Ado</title>
+  <twitch>t/154674662</twitch>
+  <thumbnail>https://owcdn.net/img/5bd5083d519f4.jpg</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Hangzhou_Backplate.png</fanart>
+  <summary>Cheon Ki-Hyeon (천기현)
+@SHD_Ado
+twitch.tv/ado_ow
+ South Korea</summary>
+</plugin>
+
+
 <item>
   <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
   <link>//</link>
