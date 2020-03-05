@@ -38,20 +38,20 @@
 </item>
 
 
-<plugin>
-<title>If you haven't already, CynicalNerds Hero Guides of all 21 heroes are great stuff, he's also started on map guides too!</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLOW3wTM0_w5_CVjO9q3r5dlTpDf9udg8s</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Seems to be an Issue with Youtube Playlists on some versions of Kodi</summary> 
-</plugin>
-
-
 <item>
 <title>[B][COLORffff0000]Under map with Genji - Kings Row[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=_l02RmOInGw</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
+
+
+<plugin>
+<title>If you haven't already, CynicalNerds Hero Guides of all 21 heroes are great stuff, he's also started on map guides too!</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLOW3wTM0_w5_CVjO9q3r5dlTpDf9udg8s</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Seems to be an Issue with Youtube Playlists on some versions of Kodi</summary> 
+</plugin>
 
 
 <item>
@@ -327,16 +327,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch Counter Class - Offense Heroes[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=PaEXzgyD6nk</link>
+<title>[B][COLORffff0000]Stratwatch 6 - Shutting out the Offense (Breaking down Gale Force Esports Defense against Team Liquid)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=jvvsoSqaXHs</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Stratwatch 6 - Shutting out the Offense (Breaking down Gale Force Esports Defense against Team Liquid)[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=jvvsoSqaXHs</link>
+<title>[B][COLORffff0000]Overwatch Counter Class - Offense Heroes[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=PaEXzgyD6nk</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -375,16 +375,16 @@
 
 
 <item>
-<title>[B][COLORffff0000]Stats, Mechanics and Time to Kill - A look at the metagame for Reinhardt[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Pwk9uo9ojOw</link>
+<title>[B][COLORffff0000]Overwatch Counter Class - Defense Heroes (Unit Lost Video)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=UcomlCkGFtI</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch Counter Class - Defense Heroes (Unit Lost Video)[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=UcomlCkGFtI</link>
+<title>[B][COLORffff0000]Stats, Mechanics and Time to Kill - A look at the metagame for Reinhardt[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Pwk9uo9ojOw</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -407,6 +407,14 @@
 
 
 <item>
+<title>[B][COLORffff0000]Overwatch DVa guide for beginners with game play examples[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=wv6lL4MRb6M</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]A short video on an optimized Pharah bombing technique[/B][/COLOR]</title>
 <link>https://youtube.com/watch?v=gAvmja7EXzI</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -417,14 +425,6 @@
 <item>
 <title>[B][COLORffff0000]How To Soldier: 76 + lore[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=SqZ6VcQER2s&ab_channel=MattsOutrageous</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]Overwatch DVa guide for beginners with game play examples[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=wv6lL4MRb6M</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -463,14 +463,6 @@
 
 
 <item>
-<title>[B][COLORffff0000]Tracer - In-depth Abilities and Shortcuts Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Y9S0p4GZeEY</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]6 Tips for Positioning[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=dcmjh_L2UBE</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -481,6 +473,14 @@
 <item>
 <title>[B][COLORffff0000]Overwatch: How To Mercy + Lore[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=llF5VqLaglU</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Tracer - In-depth Abilities and Shortcuts Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Y9S0p4GZeEY</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -567,24 +567,8 @@
 
 
 <item>
-<title>[B][COLORffff0000]Junkrat's Mine Like a Steel Trap Achievement/Trophy Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=Hj0zZv7MnuQ</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
 <title>[B][COLORffff0000]Solo Queuing? Is your team garbage? Cant seem to kill anybody? Just use op McCree![/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=Dnsu8KhpehM</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]This Video Can be A Competitive Play For Lucio[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=l9AFPXFa870</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -607,16 +591,24 @@
 
 
 <item>
-<title>[B][COLORffff0000]Overwatch Hero Breakdown and Strategy: Roadhog[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=rdy1hDHMsJ4</link>
+<title>[B][COLORffff0000]Undying Achievement/Trophy Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4Qm3F2ny-Hc</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
 
 
 <item>
-<title>[B][COLORffff0000]Undying Achievement/Trophy Guide[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=4Qm3F2ny-Hc</link>
+<title>[B][COLORffff0000]Junkrat's Mine Like a Steel Trap Achievement/Trophy Guide[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Hj0zZv7MnuQ</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]This Video Can be A Competitive Play For Lucio[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=l9AFPXFa870</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
@@ -633,6 +625,14 @@
 <item>
 <title>[B][COLORffff0000]Stratwatch Episode 2 - Goggles and Glasses[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=gp466dgnNz4</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary> 
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Overwatch Hero Breakdown and Strategy: Roadhog[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=rdy1hDHMsJ4</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary> 
 </item>
