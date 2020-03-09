@@ -38,7 +38,7 @@ twitch.tv/axxiom_
   <twitch>t/98494565</twitch>
   <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
   <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
-<summary>Walid Bassal
+  <summary>Walid Bassal
 @TheMouffinMan
 twitch.tv/mouffin
  Canada</summary>
@@ -61,21 +61,24 @@ twitch.tv/colourhex
  New Zealand</summary>
 </plugin>
 
-<plugin>
-  <title>Munchkin </title>
-  <twitch>153587615</twitch>
-@MunchkinOW
-twitch.tv/munchkinow
- South Korea</summary>
-  <thumbnail>https://owcdn.net/img/5bd502e391ffc.jpg</thumbnail>
-  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
-</plugin>
 
 
 <item>
   <title>[B][COLORffce532a]SUPPORT[/COLOR][/B]</title>
   <link>//</link>
 </item>
+
+<plugin>
+  <title>Halo</title>
+  <twitch>t/65277668</twitch>
+  <summary>Kobe Hamand
+– aliases: HelloImHalo
+@HelloImHalo
+twitch.tv/helloimhalo
+ United States</summary>
+  <thumbnail>https://www.over.gg/img/base/ph/sil.png</thumbnail>
+  <fanart>https://github.com/PiDiaries/wow/raw/master/Backgrounds/OWL_Boston_Backplate.png</fanart>
+</plugin>
 
 
 
