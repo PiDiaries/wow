@@ -165,6 +165,14 @@
 
 
 <item>
+<title>[B][COLORffff0000]Exclusive Team USA Press Conference OWWC 2019[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=f6f2XwhfqLs&feature=youtu.be</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Can Blizzard Rebuild the Path to Pro? (Akshon)[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=ag1rQBRuyYY&t=3s</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -629,15 +637,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]How we all feel right now[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CrackyAgileBarracudaCharlieBitMe?tt_medium=redt</link>
+<title>[B][COLORff6441a5]Mr X Needs a little help during an interview[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TsundereMoralFriseePanicVis</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Mr X Needs a little help during an interview[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TsundereMoralFriseePanicVis</link>
+<title>[B][COLORff6441a5]How we all feel right now[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CrackyAgileBarracudaCharlieBitMe?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -730,13 +738,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Linkzr is cheating[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BenevolentBombasticButterflyMVGame</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Doa spanish is so good[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=DirtyAntediluvianSashimiKAPOW?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
