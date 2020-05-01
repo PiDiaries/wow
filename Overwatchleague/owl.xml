@@ -94,14 +94,6 @@
 </item>
 
 
-<item>
-<title>[B][COLORffff0000]Sideshow's Tilt Therapy | Ep. 3[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=S36fZX2vlFI</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary>
-</item>
-
-
 <plugin>
 <title>[B][COLORff6441a5]LA Valiant Gig blocks Dva bomb and follows it up with a big shatter[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TentativeAntsyClipsdadUnSane</link>
@@ -434,15 +426,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]JJonak and Anamo with the drinking coordination[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=AcceptableSpinelessMouseKappaPride</link>
+<title>[B][COLORff6441a5]Clip of Philadelphia Fusion vs Toronto Defiance Did anyone else find this comment a bit inappropriate?[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=JoyousPricklyClipsdadCoolStoryBob</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Clip of Philadelphia Fusion vs Toronto Defiance Did anyone else find this comment a bit inappropriate?[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=JoyousPricklyClipsdadCoolStoryBob</link>
+<title>[B][COLORff6441a5]JJonak and Anamo with the drinking coordination[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=AcceptableSpinelessMouseKappaPride</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -640,15 +632,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]Surefour Gets Banned and Fined $1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=NimblePuzzledHorseDendiFace?tt_medium=redt</link>
+<title>[B][COLORff6441a5]Comments hinting at the leaks from Fissure during Watchpoint[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TenaciousPunchyRaccoonNerfBlueBlaster</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Comments hinting at the leaks from Fissure during Watchpoint[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TenaciousPunchyRaccoonNerfBlueBlaster</link>
+<title>[B][COLORff6441a5]Surefour Gets Banned and Fined $1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=NimblePuzzledHorseDendiFace?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -661,15 +653,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]How we all feel right now[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CrackyAgileBarracudaCharlieBitMe?tt_medium=redt</link>
+<title>[B][COLORff6441a5]Mr X Needs a little help during an interview[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TsundereMoralFriseePanicVis</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Mr X Needs a little help during an interview[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TsundereMoralFriseePanicVis</link>
+<title>[B][COLORff6441a5]How we all feel right now[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CrackyAgileBarracudaCharlieBitMe?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -740,6 +732,13 @@
 <plugin>
 <title>[B][COLORff6441a5]GODS gets a winny win :3[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=HomelyKawaiiPeanutTinyFace</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Avast's Chat Sends Him a Tweet[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SilkyTemperedWoodcockRitzMitz</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
