@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]Dallas Fuel vs San Francisco Shock | May Melee NA | Day 2[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=241RT7YpQVM</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]New service available to watch OWL on, American Dad.[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=jURlLGglBJY</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -736,13 +744,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Gods is a unique man[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CrunchyPlacidPorcupineSoBayed</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]fusions lets through a flying shatter[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=HyperPricklyBeaverDendiFace?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
