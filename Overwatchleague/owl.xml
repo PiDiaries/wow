@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORffff0000]My Overwatch League May Melee frag movie contest entry[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=8n4UF2DmKFg</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]My May Melee Entry[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=BkQZ4o5iQxM&feature=youtu.be</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Songs of Valor | Overwatch Inspire Radio | Simala Sanctuary de Cebu[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=nA6W_j3bf44</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -731,20 +747,6 @@
 <plugin>
 <title>[B][COLORff6441a5]SUPER_MAD[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ProtectiveAmusedPanAliens?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Fissure confirmed 2-2-2 role lock for Stage 4.[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ThankfulSlipperySushiAMPEnergy?tt_medium=clips_api&tt_content=url</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Kariv POGU sleep. - Clip of OverwatchLeague - Twitch Clips (repost)[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=WiseTransparentPonyTebowing</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
