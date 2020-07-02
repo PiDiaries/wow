@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORffff0000]My montage for last week's Pog OWL games: Return of the Cyborg :)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=fL4r6JIVzUs&feature=youtu.be</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]Retrospective Interview With OWL Pros One Year Ago Before 2-2-2 Role Queue[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=gbtL2WOOrRQ</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]DANTEH TRACER POV Houston Outlaws vs Los Angeles Gladiators[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=DjqNFuvFsUA&feature=youtu.be</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -739,20 +755,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Perfectly synced DVA bombs in Philadelphia Fusion vs Boston Uprising[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BenevolentFurryButterGrammarKing</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Comments hinting at the leaks from Fissure during Watchpoint[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TenaciousPunchyRaccoonNerfBlueBlaster</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Surefour Gets Banned and Fined $1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=NimblePuzzledHorseDendiFace?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
