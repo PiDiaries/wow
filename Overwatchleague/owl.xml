@@ -1,3 +1,18 @@
+<plugin>
+<title>[B][COLORff6441a5]Viol2t calling dps R word[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ModernObservantTurnipJebaited</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<item>
+<title>[B][COLORffff0000]I made a montage of the Summer Showdown: Dystopia[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=Ic_EpUE6w0E</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
 <item>
 <title>[B][COLORffff0000]Retrospective Interview With OWL Pros One Year Ago Before 2-2-2 Role Queue[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=gbtL2WOOrRQ</link>
@@ -743,19 +758,5 @@
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary>
 </item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Thank Mr Logix[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=MiniatureThoughtfulFloofBlargNaut</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Perfectly synced DVA bombs in Philadelphia Fusion vs Boston Uprising[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BenevolentFurryButterGrammarKing</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
 
 
