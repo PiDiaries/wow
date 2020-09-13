@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]FEARLESS - BEST WINSTON MONTAGE[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=STViLXEK8H0</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Since you guys liked my last frag movie, here's my short teaser trailer for the PLAYOFFS![/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=ORjg-HOWBFk</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -753,12 +761,5 @@
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary>
 </item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]OWL attendee blown away by Dragons[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=BlitheSteamyMangoSoBayed?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
 
 
