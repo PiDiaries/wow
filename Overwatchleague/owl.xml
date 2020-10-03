@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]Danteh hit 4700 playing echo..[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=eqmsZio0K1U&ab_channel=DantehOverwatch</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Linkzr Made a Youtube![/B][/COLOR]</title>
 <link>https://www.youtube.com/c/LiNkzr</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -755,13 +763,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Sansam saves the map![/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ExpensiveKawaiiCrocodileDoggo</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Logix isn't having any of Stratus' sh*t![/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=DeterminedGentleMageVoHiYo</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
