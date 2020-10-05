@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]2020 OWL ROOKIE OF THE YEAR "ALARM" MONTAGE[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=lVYqCr6Ibdo</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Danteh hit 4700 playing echo..[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=eqmsZio0K1U&ab_channel=DantehOverwatch</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -758,12 +766,5 @@
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary>
 </item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Sansam saves the map![/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=ExpensiveKawaiiCrocodileDoggo</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
 
 
