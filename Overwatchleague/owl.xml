@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]2020 OWL FLETA MVP[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=4s-HUs0DZIE&t</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]BigGoose and Shaz left Gladiators :([/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=cUABHyXMzIA</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -757,13 +765,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Ok shax...[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SpoopyTentativePoxFunRun</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Huge telesnipe from Profit and Birdring[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TangentialFunnyFennelAllenHuhu</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
