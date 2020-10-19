@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]2020 OWL GRAND CHAMPION MVP "STRIKER" MONATGE[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=bQ1UiOoS4gI</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]2020 OWL FLETA MVP[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4s-HUs0DZIE&t</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -714,15 +722,15 @@
 
 
 <plugin>
-<title>[B][COLORff6441a5]JJonak and Anamo with the drinking coordination[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=AcceptableSpinelessMouseKappaPride</link>
+<title>[B][COLORff6441a5]Clip of Philadelphia Fusion vs Toronto Defiance Did anyone else find this comment a bit inappropriate?[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=JoyousPricklyClipsdadCoolStoryBob</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>[B][COLORff6441a5]Clip of Philadelphia Fusion vs Toronto Defiance Did anyone else find this comment a bit inappropriate?[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=JoyousPricklyClipsdadCoolStoryBob</link>
+<title>[B][COLORff6441a5]JJonak and Anamo with the drinking coordination[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=AcceptableSpinelessMouseKappaPride</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
@@ -758,13 +766,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Profit destroys Shu in the first 5 seconds of the game[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=UninterestedSpikyCobraThunBeast?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Ok shax...[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SpoopyTentativePoxFunRun</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
