@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORffff0000]2021 Season Update Video[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=5oIs0C-UUYo</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
+<title>[B][COLORffff0000]I made my first montage![/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=mB7hpmLwfJo</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]GOD OF HITSCAN - DIEM MONTAGE[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=gZ5h0bkNdEs</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -754,20 +770,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Danteh is a man of culture I see (former competitive minecraft player)[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CulturedAgreeableChoughKappaPride?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]This just happened on the live Twitch stream[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SparklingObservantCockroachSquadGoals</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]Leaked Comms During Outlaws vs Fusion Match?[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=MagnificentZanyBoarShazBotstix</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
