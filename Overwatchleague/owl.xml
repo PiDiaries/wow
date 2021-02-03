@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]In need of a catchup or a new team to follow? Check out this episode with @Volamel and stick around for the last 50 min about Overwatch 2[/B][/COLOR]</title>
+<link>https://youtube.com/watch?v=nVddSb9Xlh0&feature=share</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Washington Justice in 2021[/B][/COLOR]</title>
 <link>https://youtube.com/watch?v=zMK8taYH_rA&feature=share</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -767,13 +775,6 @@
 <plugin>
 <title>[B][COLORff6441a5]London walkout LOL[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=LongSpineyAsparagusGrammarKing?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]POKO DOES IT AGAIN (s1 vs outlaws)[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=PopularSlipperyOstrichStrawBeary</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
