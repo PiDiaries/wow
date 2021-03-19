@@ -772,17 +772,16 @@
 </plugin>
 
 
-<item>
-<title>[B][COLORffff0000]Never forget the dumpster fire that was DJ Khaled last year....[/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=4eaBC3eZM-o</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary>
-</item>
-
-
 <plugin>
 <title>[B][COLORff6441a5]Avast gets his wish[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=CourteousAbstemiousRhinocerosM4xHeh?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>[B][COLORff6441a5]Striker Screaming[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=TardyNaiveKoalaKippa?tt_medium=redt</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
