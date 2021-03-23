@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]Overwatch 2021: LA Valiant Review (video by ATP Overwatch)[/B][/COLOR]</title>
+<link>https://www.youtube.com/watch?v=VZ_MV4FQZh0</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]Guangzhou Charge 2021 Roster Review[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=r0_4ecyWyvc</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -778,13 +786,6 @@
 <plugin>
 <title>[B][COLORff6441a5]Match losing C9[/B][/COLOR]</title>
 <link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=SparklingLongBottleAsianGlow</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>[B][COLORff6441a5]DOA suggests potential buffs for Zenyatta.[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=RoundPatientJackalBuddhaBar</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
 </plugin>
 
