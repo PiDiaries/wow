@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLORffff0000]POWER RANKINGS - Post Summer Showdown[/B][/COLOR]</title>
+<link>https://youtube.com/watch?v=EC2eKPl5Xpc</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
+<summary>Youtube Affiliate Links wont work.  SORRY</summary>
+</item>
+
+
+<item>
 <title>[B][COLORffff0000]What did you learn from the summer showdown (something about a player/team/anything)? I think we saw how important it will be to be versatile, multiple comps being very viable on most maps is a scary prospect for teams that can't make switches.[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=XE3YM4JvmHs&t=10s</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
@@ -278,19 +286,19 @@
 </item>
 
 
+<plugin>
+<title>[B][COLORff6441a5]kill the what? where is Dogman these days?[/B][/COLOR]</title>
+<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=RefinedCrowdedMouseOptimizePrime-K-OWYAPe5Qc3_fMG?tt_medium=redt</link>
+<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
+</plugin>
+
+
 <item>
 <title>[B][COLORffff0000]Vancouver has a tough June Joust schedule...[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=4J0KarVOsmI</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary>
 </item>
-
-
-<plugin>
-<title>[B][COLORff6441a5]kill the what? where is Dogman these days?[/B][/COLOR]</title>
-<link>plugin://plugin.video.twitch/?use_player=True&mode=play&amp;slug=RefinedCrowdedMouseOptimizePrime-K-OWYAPe5Qc3_fMG?tt_medium=redt</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.twitch/icon.png</thumbnail>
-</plugin>
 
 
 <item>
@@ -783,14 +791,6 @@
 <item>
 <title>[B][COLORffff0000]2021 Season Update Video[/B][/COLOR]</title>
 <link>https://www.youtube.com/watch?v=5oIs0C-UUYo</link>
-<thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
-<summary>Youtube Affiliate Links wont work.  SORRY</summary>
-</item>
-
-
-<item>
-<title>[B][COLORffff0000]I made my first montage![/B][/COLOR]</title>
-<link>https://www.youtube.com/watch?v=mB7hpmLwfJo</link>
 <thumbnail>http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/icon.png</thumbnail>
 <summary>Youtube Affiliate Links wont work.  SORRY</summary>
 </item>
